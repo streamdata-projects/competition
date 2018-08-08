@@ -34,15 +34,27 @@ layout: default
          <a href="{{ competition.url }}"><img src="{{ competition.image }}" alt="{{ competition.name }} lLgo" /></a>
          <div class="partnersPanel__itemName"><a href="{{ competition.url }}">{{ competition.name }}</a></div>
          <div class="partnersPanel__itemQuote">{{ competition.description }}</div>
-         {% assign number_of_competition_latest = competition.latest | size %}
-         {% if number_of_competition_latest > 0 %}
-         <p><strong>The Latest:</strong></p>
+
+         {% assign number_of_competition_blog = competition.blog | size %}
+         {% if number_of_competition_blog > 0 %}
+         <p><strong>The Latest From Blog:</strong></p>
            <ul style="list-style-type: circle; padding-top: 10px;">
-             {% for latest in competition.latest %}
-                <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ latest.url }}">{{ latest.title }}</a></li>
+             {% for blog in competition.blog %}
+                <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ blog.url }}">{{ blog.title }}</a></li>
              {% endfor %}
            </ul>
          {% endif %}
+
+         {% assign number_of_competition_twitter = competition.twitter | size %}
+         {% if number_of_competition_twitter > 0 %}
+         <p><strong>The Latest Twitter:</strong></p>
+           <ul style="list-style-type: circle; padding-top: 10px;">
+             {% for twitter in competition.twitter %}
+                <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ twitter.url }}">{{ twitter.title }}</a></li>
+             {% endfor %}
+           </ul>
+         {% endif %}
+
       </div>
       {% endfor %}
 
