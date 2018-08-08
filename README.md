@@ -1,2 +1,4 @@
-# competition
-This is the competition project.
+# Competition Project
+This is the Streamdata.io competition project.
+
+url: http://competition.streamdata.io

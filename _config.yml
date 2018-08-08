@@ -1,0 +1,47 @@
+# Main Stuff
+title: Competition
+url: competition.streamdata.io
+
+# Competitions
+philosophy: This is our project area for keeping track of the competitive landscape. We enjoy understanding the space we are operating in, and understanding what the competition looks like. We don't see a problem with being open and transparent about our work to map out the competitive landscape. We feel it should be open, and demonstrate that we have a handle on what is happening across the real time, streaming, webhook, and event-driven world. We track on all of the challenges we face when trying to reach and differentiate ourselves in a crowded market.
+
+competitions:
+  - name: PubNub
+    ranking: 1
+    description: Focus on innovation and launch fast with our realtime APIs and global messaging infrastructure.
+    url: https://www.pubnub.com/
+    image: http://competition.streamdata.io/images/pubnub.png
+    blog:
+      - title: Build a Smart Parking Lot with Realtime Space Monitoring
+        url: https://www.pubnub.com/blog/smart-parking-iot-simulation-with-realtime-space-monitoring/
+      - title: Graphing Ultrasonic Sensor Realtime Data Using a Raspberry Pi and Soracom
+        url: https://www.pubnub.com/blog-graphing-ultrasonic-sensor-realtime-data-raspberry-pi-soracom-pubnub/
+    twitter:
+      - title: Learn how to build a smart irrigation system with remote realtime monitoring, using @Raspberry_Pi and PubNub
+        url: https://twitter.com/PubNub/status/1026577172243378176
+      - title: We are honored at the recognition!
+        url: https://twitter.com/PubNub/status/1023957318201794560
+  - name: Pusher
+    ranking: 2
+    description: Hosted APIs to Build Realtime Apps With Less Code
+    url: https://pusher.com/
+    image: http://competition.streamdata.io/images/pusher.jpeg
+    blog:
+      - title: Debugging common React Native issues on iOS
+        url: https://blog.pusher.com/debugging-react-native-ios/
+      - title: Serving multiple apps with one Laravel codebase using subdomain routing
+        url: https://blog.pusher.com/laravel-subdomain-routing/
+    twitter:
+      - title: We are at CloudNativeLon with @JoelASpeed who shares our journey to setting up Kubernetes SSO.
+        url: https://twitter.com/pusher/status/1026902292644220931
+      - title: Every year we get better and better for the CityRace! Our team was ace
+        url: https://twitter.com/pusher/status/1019506533036589057
+
+
+# Other Settings
+markdown: kramdown
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
+
+github_user: streamdata-projects
+github_repo: competitions
+github_branch: master
