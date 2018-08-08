@@ -38,7 +38,7 @@ layout: default
          {% assign number_of_competition_blog = competition.blog | size %}
          {% if number_of_competition_blog > 0 %}
          <p><strong>The Latest From Blog:</strong></p>
-           <ul style="list-style-type: circle; padding-top: 10px;">
+           <ul style="list-style-type: circle; padding-top: 15px;">
              {% for blog in competition.blog %}
                 <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ blog.url }}">{{ blog.title }}</a></li>
              {% endfor %}
@@ -48,7 +48,7 @@ layout: default
          {% assign number_of_competition_twitter = competition.twitter | size %}
          {% if number_of_competition_twitter > 0 %}
          <p><strong>The Latest Twitter:</strong></p>
-           <ul style="list-style-type: circle; padding-top: 10px;">
+           <ul style="list-style-type: circle; padding-top: 15px;">
              {% for twitter in competition.twitter %}
                 <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ twitter.url }}">{{ twitter.title }}</a></li>
              {% endfor %}
