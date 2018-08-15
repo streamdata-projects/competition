@@ -1365,6 +1365,7 @@ competition:
   details: Lightstreamer is a top-performing real-time messaging server optimized
     for the Internet. Blending WebSockets, HTTP, and push notifications, it streams
     data to/from mobile, tablet, browser-based, desktop, and IoT applications.
+  url: https://lightstreamer.com
   email: ~
   blog_url: https://blog.lightstreamer.com/
   blog_rss_url: https://blog.lightstreamer.com/feeds/posts/default?alt=rss
@@ -1653,6 +1654,7 @@ competition:
     world. Leading brands like 888 Holdings, DAB Bank, IBM, and William Hill leverage
     our technology to power applications critical to revenue growth, customer engagement,
     and business.
+  url: https://www.pushtechnology.com
   email: ~
   blog_url: https://www.pushtechnology.com/blog/
   blog_rss_url: ~
