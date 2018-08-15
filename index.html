@@ -35,21 +35,21 @@ layout: default
          <div class="partnersPanel__itemName"><a href="{{ competition.url }}">{{ competition.name }}</a></div>
          <div class="partnersPanel__itemQuote">{{ competition.description }}</div>
 
-         {% assign number_of_competition_blog = competition.blog | size %}
+         {% assign number_of_competition_blog = competition.latest_blog | size %}
          {% if number_of_competition_blog > 0 %}
          <p><strong>The Latest From Blog:</strong></p>
            <ul style="list-style-type: circle; padding-top: 15px;">
-             {% for blog in competition.blog %}
+             {% for blog in competition.latest_blog %}
                 <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ blog.url }}">{{ blog.title }}</a></li>
              {% endfor %}
            </ul>
          {% endif %}
 
-         {% assign number_of_competition_twitter = competition.twitter | size %}
+         {% assign number_of_competition_twitter = competition.latest_tweets | size %}
          {% if number_of_competition_twitter > 0 %}
          <p><strong>The Latest Twitter:</strong></p>
            <ul style="list-style-type: circle; padding-top: 15px;">
-             {% for twitter in competition.twitter %}
+             {% for twitter in competition.latest_tweets %}
                 <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ twitter.url }}">{{ twitter.title }}</a></li>
              {% endfor %}
            </ul>
