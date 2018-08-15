@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Main Stuff
 title: Competition
 url: competition.streamdata.io
@@ -24,3 +25,5 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 github_user: streamdata-projects
 github_repo: partners
 github_branch: master
+=======
+>>>>>>> 2fef17d6af13109751543af657ad070b27f7c0a3
