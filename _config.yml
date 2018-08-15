@@ -1364,8 +1364,7 @@ competition:
   name: Lightstreamer
   details: Lightstreamer is a top-performing real-time messaging server optimized
     for the Internet. Blending WebSockets, HTTP, and push notifications, it streams
-    data to/from mobile, tablet, browser-based, desktop, and IoT applications. Chosen
-    by organizations ra  url: https://lightstreamer.com
+    data to/from mobile, tablet, browser-based, desktop, and IoT applications.
   email: ~
   blog_url: https://blog.lightstreamer.com/
   blog_rss_url: https://blog.lightstreamer.com/feeds/posts/default?alt=rss
