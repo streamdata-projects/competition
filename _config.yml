@@ -174,11 +174,7 @@ competition:
   description: AWS AppSync automatically updates the data in web and mobile applications
     in real time, and updates data for offline users as soon as they reconnect. AWS
     AppSync makes it easy to build collaborative mobile and web applications that
-    deliver responsive, collaborative user experiences. You can use AWS AppSync to
-    build native mobile and web apps with iOS, Android, JavaScript and React Native.
-    Get started by going to the AWS AppSync console, specify the data for your app
-    with simple code statements, and AWS AppSync will manage everything needed to
-    store, process, and retrieve the data for your application.
+    deliver responsive, collaborative user experiences.
   url: https://aws.amazon.com/appsync/
   email: ""
   blog_url: ""
@@ -189,8 +185,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  image: ""
-  image_width: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-appsync-logo.png
+  image_width: "150"
   latest_blog:
   - title: Building a distributed rate limiter that scales horizontally
     url: https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4
