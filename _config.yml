@@ -13,13 +13,13 @@ competition:
   details: Ably is a realtime data stream network that makes it easy for developers
     to add realtime messaging, notifications and streaming data to their applications.
   url: https://www.ably.io
-  email: ''
+  email: ""
   blog_url: https://blog.ably.io/
   blog_rss_url: https://blog.ably.io/feed
   twitter_url: https://twitter.com/ablyrealtime
   github_url: https://github.com/ably
   tag_url: ""
-  tag_description: ''
+  tag_description: ""
   base_url: ""
   portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28199-ably-realtime.jpg
@@ -75,11 +75,11 @@ competition:
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
     time_stamp: "2018-08-07 21:29:20"
   - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
     time_stamp: "2018-08-07 09:34:35"
   - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
       to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     time_stamp: "2018-08-01 09:21:44"
   - id: "1024656483286319104"
@@ -180,17 +180,17 @@ competition:
     with simple code statements, and AWS AppSync will manage everything needed to
     store, process, and retrieve the data for your application.
   url: https://aws.amazon.com/appsync/
-  email: ''
-  blog_url: ''
-  blog_rss_url: ''
-  twitter_url: ''
-  github_url: ''
+  email: ""
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
   tag_url: ""
-  tag_description: ''
-  base_url: ''
-  portal_url: ''
-  photo: ''
-  photo_width: ''
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  photo: ""
+  photo_width: ""
   latest_blog:
   - title: Building a distributed rate limiter that scales horizontally
     url: https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4
@@ -242,11 +242,11 @@ competition:
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
     time_stamp: "2018-08-07 21:29:20"
   - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
     time_stamp: "2018-08-07 09:34:35"
   - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
       to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     time_stamp: "2018-08-01 09:21:44"
   - id: "1024656483286319104"
@@ -335,13 +335,13 @@ competition:
     You can easily create a Firehose delivery stream from the&nbsp;AWS Management Console, configure it with a few clicks, and start sending data to the stream from hundreds of thousands of data sources to be loaded continuously to AWS &ndash; all in just a few minutes.
     With Amazon Kinesis Firehose, you only pay for the amount of data you transmit through the service. There is no minimum fee or setup cost.
   url: https://aws.amazon.com/kinesis/
-  email: ''
+  email: ""
   blog_url: ""
   blog_rss_url: ""
   twitter_url: ""
   github_url: ""
   tag_url: ""
-  tag_description: ''
+  tag_description: ""
   base_url: ""
   portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
@@ -397,11 +397,11 @@ competition:
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
     time_stamp: "2018-08-07 21:29:20"
   - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
     time_stamp: "2018-08-07 09:34:35"
   - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
       to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     time_stamp: "2018-08-01 09:21:44"
   - id: "1024656483286319104"
@@ -501,13 +501,13 @@ competition:
     ingress massive amounts of telemetry into the cloud and read the data from multiple
     applications using publish-subscribe semantics.
   url: https://azure.microsoft.com/en-us/services/event-hubs/
-  email: ''
+  email: ""
   blog_url: ""
   blog_rss_url: ""
   twitter_url: ""
   github_url: ""
   tag_url: ""
-  tag_description: ''
+  tag_description: ""
   base_url: ""
   portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-event-hubs-stream.png
@@ -563,11 +563,11 @@ competition:
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
     time_stamp: "2018-08-07 21:29:20"
   - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
     time_stamp: "2018-08-07 09:34:35"
   - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
       to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     time_stamp: "2018-08-01 09:21:44"
   - id: "1024656483286319104"
@@ -665,17 +665,17 @@ competition:
     clients. As a result, clients are updated without the need to poll the server,
     or submit new HTTP requests for updates.
   url: https://docs.microsoft.com/en-us/azure/azure-signalr/
-  email: ''
-  blog_url: ''
-  blog_rss_url: ''
-  twitter_url: ''
-  github_url: ''
+  email: ""
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
   tag_url: ""
-  tag_description: ''
-  base_url: ''
-  portal_url: ''
-  photo: ''
-  photo_width: ''
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  photo: ""
+  photo_width: ""
   latest_blog:
   - title: Building a distributed rate limiter that scales horizontally
     url: https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4
@@ -727,11 +727,11 @@ competition:
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
     time_stamp: "2018-08-07 21:29:20"
   - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
     time_stamp: "2018-08-07 09:34:35"
   - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate \U0001F951 @lakatos88
+    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
       to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     time_stamp: "2018-08-01 09:21:44"
   - id: "1024656483286319104"
@@ -825,89 +825,89 @@ competition:
   twitter_url: https://twitter.com/firebase
   github_url: https://github.com/firebase
   tag_url: ""
-  tag_description: ''
+  tag_description: ""
   base_url: ""
   portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
   photo_width: "150"
   latest_blog:
   - title: ' New runtime configuration options with Cloud Functions for Firebase'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/siypAazVN-o/cloud-functions-for-firebase-config-node-8-timeout-memory-region.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/siypAazVN-o/cloud-functions-for-firebase-config-node-8-timeout-memory-region.html
     time_stamp: "2018-08-15 10:55:55"
   - title: Using Android Architecture Components with Firebase Realtime Database (Part
       3)
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/aW0YPq2sbGY/using-android-architecture-components_22.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/aW0YPq2sbGY/using-android-architecture-components_22.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Realtime Database Monitoring with Stackdriver
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/_Z4uNHYxeeI/realtime-database-monitoring-with.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/_Z4uNHYxeeI/realtime-database-monitoring-with.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Using Android Architecture Components with Firebase Realtime Database (Part
       2)
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/BzqVp15P7A4/using-android-architecture-components_20.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/BzqVp15P7A4/using-android-architecture-components_20.html
     time_stamp: "1969-12-31 16:00:00"
   - title: " Firebase featured in MightySignal's report on fastest growing SDKs"
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/7_3vh9jWBJ8/firebase-featured-in-mightysignals.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/7_3vh9jWBJ8/firebase-featured-in-mightysignals.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Using Android Architecture Components with Firebase Realtime Database (Part
       1)
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/kS2ampC2lwU/using-android-architecture-components.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/kS2ampC2lwU/using-android-architecture-components.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' We built an iOS game with Firebase!'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/3b6AtzrftAA/we-built-ios-game-with-firebase.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/3b6AtzrftAA/we-built-ios-game-with-firebase.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Firebase Test Lab December 2017 Update'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/SpzcY-k-gNg/firebase-test-lab-december-2017-update.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/SpzcY-k-gNg/firebase-test-lab-december-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Improve productivity with TypeScript and lifecycle hooks for Cloud Functions'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/EzmeBuorv90/improve-productivity-with-typescript.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/EzmeBuorv90/improve-productivity-with-typescript.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Read and write your Realtime Database with the Firebase CLI'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/vkWKyyp8qVE/read-and-write-your-realtime-database.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/vkWKyyp8qVE/read-and-write-your-realtime-database.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Easier scaling with multi-database support!
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/h1VqNosVXCc/easier-scaling-with-multi-database.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/h1VqNosVXCc/easier-scaling-with-multi-database.html
     time_stamp: "1969-12-31 16:00:00"
   - title: What's new with FCM? Customizing messages across platforms!
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/M-w4Bg0JUTQ/whats-new-with-fcm-customizing-messages.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/M-w4Bg0JUTQ/whats-new-with-fcm-customizing-messages.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Updates to the Firebase console'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/05NveQ-DVnc/updates-to-firebase-console.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/05NveQ-DVnc/updates-to-firebase-console.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Announcing Firebase Crashlytics Beta'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/yj2Xrl7lRiI/announcing-firebase-crashlytics-beta.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/yj2Xrl7lRiI/announcing-firebase-crashlytics-beta.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Announcing Better A/B Testing with Firebase
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/U0p17Rf2cZg/announcing-better-ab-testing-with.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/U0p17Rf2cZg/announcing-better-ab-testing-with.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Announcing Firebase Predictions Beta
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/H4WE1Zg-7y4/announcing-firebase-predictions-beta.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/H4WE1Zg-7y4/announcing-firebase-predictions-beta.html
     time_stamp: "1969-12-31 16:00:00"
   - title: "What's new at Firebase Dev Summit 2017"
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
     time_stamp: "1969-12-31 16:00:00"
   - title: " 5 talks you can't miss at Firebase Dev Summit"
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/uvWCWTlPYt8/5-talks-you-cant-miss-at-firebase-dev.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/uvWCWTlPYt8/5-talks-you-cant-miss-at-firebase-dev.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Firebase Test Lab October 2017 Update
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Cloud Firestore for Realtime Database Developers
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/SJ0VTPfOkBA/cloud-firestore-for-rtdb-developers.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/SJ0VTPfOkBA/cloud-firestore-for-rtdb-developers.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Introducing Cloud Firestore: Our New Document Database for Apps'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/KDFLvexNBkE/introducing-cloud-firestore.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/KDFLvexNBkE/introducing-cloud-firestore.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Testing Functions Locally with the Cloud Functions Shell
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/Aknbb4w2GHE/testing-functions-locally-with-cloud.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/Aknbb4w2GHE/testing-functions-locally-with-cloud.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Sprynt launches eco-friendly, free ridesharing with Firebase
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/vXPshtMIS0Y/sprynt-launches-eco-friendly-free.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/vXPshtMIS0Y/sprynt-launches-eco-friendly-free.html
     time_stamp: "1969-12-31 16:00:00"
   - title: 7 tips for getting the most out of Crashlytics
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/dKZb6YZznhw/7-tips-for-getting-most-out-of.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/dKZb6YZznhw/7-tips-for-getting-most-out-of.html
     time_stamp: "1969-12-31 16:00:00"
   - title: A Cross-platform Firebase Sample App Featuring Best Practices
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/Cx0gOUUHx88/a-cross-platform-firebase-sample-app.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/Cx0gOUUHx88/a-cross-platform-firebase-sample-app.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
   - id: "1029442532139102208"
@@ -932,7 +932,7 @@ competition:
     time_stamp: "2018-08-09 14:53:29"
   - id: "1027661258273828865"
     text: "We just made it a heck of a lot easier to use arrays in Cloud Firestore!
-      \n\nSee all the details here \u2193 https://t.co/5wp0owPxRh"
+      \n\nSee all the details here  https://t.co/5wp0owPxRh"
     time_stamp: "2018-08-09 14:01:51"
   - id: "1027246280500813824"
     text: "At #GoogleNext18 we announced a number of new features for you to play
@@ -947,7 +947,7 @@ competition:
       Database triggers with Cloud Functions is available here: https:/..."
     time_stamp: "2018-08-06 13:30:00"
   - id: "1025144030953238528"
-    text: "Request your invite here \u2193 https://t.co/Gibnhd88Gs"
+    text: "Request your invite here  https://t.co/Gibnhd88Gs"
     time_stamp: "2018-08-02 15:19:17"
   - id: "1025130404800487425"
     text: "The #FirebaseSummit is coming up! Watch as Firebase leads @puf and @MKrilanovich
@@ -1025,95 +1025,95 @@ competition:
     and continuous computation. Cloud Dataflow frees you from operational tasks like
     resource management and performance optimization.
   url: https://cloud.google.com/dataflow/
-  email: ''
+  email: ""
   blog_url: ""
   blog_rss_url: ""
   twitter_url: ""
   github_url: ""
   tag_url: ""
-  tag_description: ''
+  tag_description: ""
   base_url: ""
   portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-dataflow.jpeg
   photo_width: "150"
   latest_blog:
   - title: ' New runtime configuration options with Cloud Functions for Firebase'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/siypAazVN-o/cloud-functions-for-firebase-config-node-8-timeout-memory-region.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/siypAazVN-o/cloud-functions-for-firebase-config-node-8-timeout-memory-region.html
     time_stamp: "2018-08-15 10:55:55"
   - title: Using Android Architecture Components with Firebase Realtime Database (Part
       3)
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/aW0YPq2sbGY/using-android-architecture-components_22.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/aW0YPq2sbGY/using-android-architecture-components_22.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Realtime Database Monitoring with Stackdriver
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/_Z4uNHYxeeI/realtime-database-monitoring-with.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/_Z4uNHYxeeI/realtime-database-monitoring-with.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Using Android Architecture Components with Firebase Realtime Database (Part
       2)
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/BzqVp15P7A4/using-android-architecture-components_20.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/BzqVp15P7A4/using-android-architecture-components_20.html
     time_stamp: "1969-12-31 16:00:00"
   - title: " Firebase featured in MightySignal's report on fastest growing SDKs"
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/7_3vh9jWBJ8/firebase-featured-in-mightysignals.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/7_3vh9jWBJ8/firebase-featured-in-mightysignals.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Using Android Architecture Components with Firebase Realtime Database (Part
       1)
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/kS2ampC2lwU/using-android-architecture-components.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/kS2ampC2lwU/using-android-architecture-components.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' We built an iOS game with Firebase!'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/3b6AtzrftAA/we-built-ios-game-with-firebase.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/3b6AtzrftAA/we-built-ios-game-with-firebase.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Firebase Test Lab December 2017 Update'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/SpzcY-k-gNg/firebase-test-lab-december-2017-update.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/SpzcY-k-gNg/firebase-test-lab-december-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Improve productivity with TypeScript and lifecycle hooks for Cloud Functions'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/EzmeBuorv90/improve-productivity-with-typescript.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/EzmeBuorv90/improve-productivity-with-typescript.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Read and write your Realtime Database with the Firebase CLI'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/vkWKyyp8qVE/read-and-write-your-realtime-database.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/vkWKyyp8qVE/read-and-write-your-realtime-database.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Easier scaling with multi-database support!
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/h1VqNosVXCc/easier-scaling-with-multi-database.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/h1VqNosVXCc/easier-scaling-with-multi-database.html
     time_stamp: "1969-12-31 16:00:00"
   - title: What's new with FCM? Customizing messages across platforms!
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/M-w4Bg0JUTQ/whats-new-with-fcm-customizing-messages.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/M-w4Bg0JUTQ/whats-new-with-fcm-customizing-messages.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Updates to the Firebase console'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/05NveQ-DVnc/updates-to-firebase-console.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/05NveQ-DVnc/updates-to-firebase-console.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Announcing Firebase Crashlytics Beta'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/yj2Xrl7lRiI/announcing-firebase-crashlytics-beta.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/yj2Xrl7lRiI/announcing-firebase-crashlytics-beta.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Announcing Better A/B Testing with Firebase
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/U0p17Rf2cZg/announcing-better-ab-testing-with.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/U0p17Rf2cZg/announcing-better-ab-testing-with.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Announcing Firebase Predictions Beta
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/H4WE1Zg-7y4/announcing-firebase-predictions-beta.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/H4WE1Zg-7y4/announcing-firebase-predictions-beta.html
     time_stamp: "1969-12-31 16:00:00"
   - title: "What's new at Firebase Dev Summit 2017"
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
     time_stamp: "1969-12-31 16:00:00"
   - title: " 5 talks you can't miss at Firebase Dev Summit"
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/uvWCWTlPYt8/5-talks-you-cant-miss-at-firebase-dev.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/uvWCWTlPYt8/5-talks-you-cant-miss-at-firebase-dev.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Firebase Test Lab October 2017 Update
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Cloud Firestore for Realtime Database Developers
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/SJ0VTPfOkBA/cloud-firestore-for-rtdb-developers.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/SJ0VTPfOkBA/cloud-firestore-for-rtdb-developers.html
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Introducing Cloud Firestore: Our New Document Database for Apps'
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/KDFLvexNBkE/introducing-cloud-firestore.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/KDFLvexNBkE/introducing-cloud-firestore.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Testing Functions Locally with the Cloud Functions Shell
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/Aknbb4w2GHE/testing-functions-locally-with-cloud.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/Aknbb4w2GHE/testing-functions-locally-with-cloud.html
     time_stamp: "1969-12-31 16:00:00"
   - title: Sprynt launches eco-friendly, free ridesharing with Firebase
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/vXPshtMIS0Y/sprynt-launches-eco-friendly-free.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/vXPshtMIS0Y/sprynt-launches-eco-friendly-free.html
     time_stamp: "1969-12-31 16:00:00"
   - title: 7 tips for getting the most out of Crashlytics
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/dKZb6YZznhw/7-tips-for-getting-most-out-of.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/dKZb6YZznhw/7-tips-for-getting-most-out-of.html
     time_stamp: "1969-12-31 16:00:00"
   - title: A Cross-platform Firebase Sample App Featuring Best Practices
-    url: http://feedproxy.google.com/''r/FirebaseBlog/''3/Cx0gOUUHx88/a-cross-platform-firebase-sample-app.html
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/Cx0gOUUHx88/a-cross-platform-firebase-sample-app.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
   - id: "1029442532139102208"
@@ -1138,7 +1138,7 @@ competition:
     time_stamp: "2018-08-09 14:53:29"
   - id: "1027661258273828865"
     text: "We just made it a heck of a lot easier to use arrays in Cloud Firestore!
-      \n\nSee all the details here \u2193 https://t.co/5wp0owPxRh"
+      \n\nSee all the details here  https://t.co/5wp0owPxRh"
     time_stamp: "2018-08-09 14:01:51"
   - id: "1027246280500813824"
     text: "At #GoogleNext18 we announced a number of new features for you to play
@@ -1153,7 +1153,7 @@ competition:
       Database triggers with Cloud Functions is available here: https:/..."
     time_stamp: "2018-08-06 13:30:00"
   - id: "1025144030953238528"
-    text: "Request your invite here \u2193 https://t.co/Gibnhd88Gs"
+    text: "Request your invite here  https://t.co/Gibnhd88Gs"
     time_stamp: "2018-08-02 15:19:17"
   - id: "1025130404800487425"
     text: "The #FirebaseSummit is coming up! Watch as Firebase leads @puf and @MKrilanovich
@@ -1233,17 +1233,17 @@ competition:
     real-time capabilities, to seamlessly enable next generation private and hybrid
     cloud deployments for financial, logistics and retail applications.
   url: https://kaazing.com/
-  email: ''
+  email: ""
   blog_url: https://kaazing.com/blog/
   blog_rss_url: view-source:https://kaazing.com/feed/
   twitter_url: https://twitter.com/kaazing
   github_url: https://github.com/kaazing
   tag_url: ""
-  tag_description: ''
-  base_url: ''
-  portal_url: ''
-  photo: ''
-  photo_width: ''
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  photo: ""
+  photo_width: ""
   latest_blog:
   - title: "Kaazing prepares and protects worldwide assets and employees of major
       cloud company with DisasterAWARE Enterprise\u2122"
@@ -1366,17 +1366,17 @@ competition:
     for the Internet. Blending WebSockets, HTTP, and push notifications, it streams
     data to/from mobile, tablet, browser-based, desktop, and IoT applications.
   url: https://lightstreamer.com
-  email: ''
+  email: ""
   blog_url: https://blog.lightstreamer.com/
   blog_rss_url: https://blog.lightstreamer.com/feeds/posts/default?alt=rss
   twitter_url: https://twitter.com/Lightstreamer
   github_url: https://github.com/Lightstreamer
   tag_url: ""
-  tag_description: ''
-  base_url: ''
-  portal_url: ''
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28721-lightstreamer-com.jpg
-  photo_width: ''
+  photo_width: ""
   latest_blog: []
   latest_tweets:
   - id: "1024335319548743681"
@@ -1494,7 +1494,7 @@ competition:
   twitter_url: https://twitter.com/pubnub
   github_url: https://github.com/pubnub
   tag_url: ""
-  tag_description: ''
+  tag_description: ""
   base_url: ""
   portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/98-pubnub.jpg
@@ -1655,17 +1655,17 @@ competition:
     our technology to power applications critical to revenue growth, customer engagement,
     and business.
   url: https://www.pushtechnology.com
-  email: ''
+  email: ""
   blog_url: https://www.pushtechnology.com/blog/
-  blog_rss_url: ''
+  blog_rss_url: ""
   twitter_url: https://twitter.com/push_technology
   github_url: https://github.com/pushtechnology
   tag_url: ""
-  tag_description: ''
-  base_url: ''
-  portal_url: ''
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28733-www-pushtechnology-com.jpg
-  photo_width: ''
+  photo_width: ""
   latest_blog:
   - title: 'The Cognitive Era: Big Data, Realtime, and the Edge (Computing)'
     url: https://www.pubnub.com/blog/cognitive-era-big-data-realtime-edge-computing/
@@ -1720,87 +1720,87 @@ competition:
   twitter_url: https://twitter.com/pusher
   github_url: https://github.com/pusher
   tag_url: ""
-  tag_description: ''
+  tag_description: ""
   base_url: ""
   portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/44-pusher.jpg
   photo_width: "150"
   latest_blog:
   - title: "React Context API: What's it all about?"
-    url: http://feedproxy.google.com/''r/pusherb/''3/CcGG1BfTflA/
+    url: http://feedproxy.google.com/""r/pusherb/""3/CcGG1BfTflA/
     time_stamp: "2018-08-09 14:48:38"
   - title: Using Quick and Nimble for testing in iOS
-    url: http://feedproxy.google.com/''r/pusherb/''3/Vdw2T3XZzZM/
+    url: http://feedproxy.google.com/""r/pusherb/""3/Vdw2T3XZzZM/
     time_stamp: "2018-08-09 14:33:28"
   - title: Use Cases and Considerations When Building a Realtime Application
-    url: http://feedproxy.google.com/''r/pusherb/''3/qklqTaaOURo/
+    url: http://feedproxy.google.com/""r/pusherb/""3/qklqTaaOURo/
     time_stamp: "2018-08-08 08:17:28"
   - title: Debugging common React Native issues on iOS
-    url: http://feedproxy.google.com/''r/pusherb/''3/v2k3drf5Jf0/
+    url: http://feedproxy.google.com/""r/pusherb/""3/v2k3drf5Jf0/
     time_stamp: "2018-08-02 14:43:17"
   - title: Serving multiple apps with one Laravel codebase using subdomain routing
-    url: http://feedproxy.google.com/''r/pusherb/''3/sz2y07use4M/
+    url: http://feedproxy.google.com/""r/pusherb/""3/sz2y07use4M/
     time_stamp: "2018-08-02 11:41:32"
   - title: The benefits of Main Thread Checker in iOS
-    url: http://feedproxy.google.com/''r/pusherb/''3/ZBx6SRD0bgI/
+    url: http://feedproxy.google.com/""r/pusherb/""3/ZBx6SRD0bgI/
     time_stamp: "2018-08-02 11:33:39"
   - title: Build a scoreboard with running commentary using React VR
-    url: http://feedproxy.google.com/''r/pusherb/''3/Pv9tG2yW0CE/
+    url: http://feedproxy.google.com/""r/pusherb/""3/Pv9tG2yW0CE/
     time_stamp: "2018-07-12 15:56:52"
   - title: "Adding animations to your React Native app \u2013 Part 1: Basic animations"
-    url: http://feedproxy.google.com/''r/pusherb/''3/b3wLZCcOM8U/
+    url: http://feedproxy.google.com/""r/pusherb/""3/b3wLZCcOM8U/
     time_stamp: "2018-07-10 12:09:13"
   - title: "Adding animations to your React Native app \u2013 Part 2: Transition animations"
-    url: http://feedproxy.google.com/''r/pusherb/''3/EH9xQSRZTzs/
+    url: http://feedproxy.google.com/""r/pusherb/""3/EH9xQSRZTzs/
     time_stamp: "2018-07-10 11:56:50"
   - title: Releasing State of Kotlin 2018
-    url: http://feedproxy.google.com/''r/pusherb/''3/PPGGs3B4u3Q/
+    url: http://feedproxy.google.com/""r/pusherb/""3/PPGGs3B4u3Q/
     time_stamp: "2018-07-05 05:55:11"
   - title: Laravel and JWT
-    url: http://feedproxy.google.com/''r/pusherb/''3/OdZxwDP2fHs/
+    url: http://feedproxy.google.com/""r/pusherb/""3/OdZxwDP2fHs/
     time_stamp: "2018-06-25 02:00:46"
   - title: Using log channels and stacks in Laravel
-    url: http://feedproxy.google.com/''r/pusherb/''3/2GXYx5Q0lq0/
+    url: http://feedproxy.google.com/""r/pusherb/""3/2GXYx5Q0lq0/
     time_stamp: "2018-06-22 02:00:49"
   - title: Using React in a Laravel application
-    url: http://feedproxy.google.com/''r/pusherb/''3/npgi9VYQs04/
+    url: http://feedproxy.google.com/""r/pusherb/""3/npgi9VYQs04/
     time_stamp: "2018-06-21 02:00:58"
   - title: Using interface builder within teams
-    url: http://feedproxy.google.com/''r/pusherb/''3/KYuC79jKsfg/
+    url: http://feedproxy.google.com/""r/pusherb/""3/KYuC79jKsfg/
     time_stamp: "2018-06-19 02:00:58"
   - title: How to write tests for Laravel applications
-    url: http://feedproxy.google.com/''r/pusherb/''3/1Oivz3fiC3U/
+    url: http://feedproxy.google.com/""r/pusherb/""3/1Oivz3fiC3U/
     time_stamp: "2018-06-18 02:00:12"
   - title: Swift 4 decoding JSON using Codable
-    url: http://feedproxy.google.com/''r/pusherb/''3/M0Go8WTs0SI/
+    url: http://feedproxy.google.com/""r/pusherb/""3/M0Go8WTs0SI/
     time_stamp: "2018-06-15 02:00:19"
   - title: Optimizing the performance of a Laravel application
-    url: http://feedproxy.google.com/''r/pusherb/''3/qwFQR7bw8nM/
+    url: http://feedproxy.google.com/""r/pusherb/""3/qwFQR7bw8nM/
     time_stamp: "2018-06-14 02:00:46"
   - title: Debugging common React Native issues on Android
-    url: http://feedproxy.google.com/''r/pusherb/''3/odme0dnsbH8/
+    url: http://feedproxy.google.com/""r/pusherb/""3/odme0dnsbH8/
     time_stamp: "2018-06-13 02:00:36"
   - title: "Time slice and Suspense API \u2013 What's coming in React 17?"
-    url: http://feedproxy.google.com/''r/pusherb/''3/RMI8PfXX2Ys/
+    url: http://feedproxy.google.com/""r/pusherb/""3/RMI8PfXX2Ys/
     time_stamp: "2018-06-12 02:00:01"
   - title: Advanced Laravel Eloquent usage
-    url: http://feedproxy.google.com/''r/pusherb/''3/yKC9HK78s-Q/
+    url: http://feedproxy.google.com/""r/pusherb/""3/yKC9HK78s-Q/
     time_stamp: "2018-06-11 02:00:45"
   - title: Getting started with GraphQL in Laravel
-    url: http://feedproxy.google.com/''r/pusherb/''3/UtRctK6NWAM/
+    url: http://feedproxy.google.com/""r/pusherb/""3/UtRctK6NWAM/
     time_stamp: "2018-06-08 02:00:30"
   - title: How to troubleshoot React errors
-    url: http://feedproxy.google.com/''r/pusherb/''3/0aOUT4b9jwM/
+    url: http://feedproxy.google.com/""r/pusherb/""3/0aOUT4b9jwM/
     time_stamp: "2018-06-07 02:00:34"
   - title: "Getting started with React Native \u2013 Part 3: Using native device functionality"
-    url: http://feedproxy.google.com/''r/pusherb/''3/DHQf1yjPVIk/
+    url: http://feedproxy.google.com/""r/pusherb/""3/DHQf1yjPVIk/
     time_stamp: "2018-06-06 02:00:54"
   - title: "Build an e-commerce application using Laravel and Vue \u2013 Part 3: Create
       the frontend to consume APIs"
-    url: http://feedproxy.google.com/''r/pusherb/''3/fTEhmaUpxsU/
+    url: http://feedproxy.google.com/""r/pusherb/""3/fTEhmaUpxsU/
     time_stamp: "2018-06-05 02:00:49"
   - title: "Getting started with React Native \u2013 Part 2: Adding functionality"
-    url: http://feedproxy.google.com/''r/pusherb/''3/J22ZjcpaPK4/
+    url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
   - id: "1028607782100992002"
@@ -1921,17 +1921,17 @@ competition:
     Network supported by #Ethereum. #IoT \U0001F4F6  #blockchain \U0001F4AA $DATA
     #cryptocurrencies"
   url: https://www.streamr.com
-  email: ''
+  email: ""
   blog_url: https://medium.com/streamrblog
   blog_rss_url: https://medium.com/feed/streamrblog
   twitter_url: https://twitter.com/streamrinc
   github_url: https://github.com/streamr-dev
   tag_url: ""
-  tag_description: ''
-  base_url: ''
-  portal_url: ''
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg
-  photo_width: ''
+  photo_width: ""
   latest_blog:
   - title: "Building the missing protocol of today's internet stack: a decentralized
       pub/sub network for..."
@@ -2078,13 +2078,13 @@ competition:
   details: Striim (pronounced stream) provides an end-to-end, real-time data integration
     + streaming analytics platform. Leverage change data capture (CDC) to access data.
   url: https://www.striim.com
-  email: ''
+  email: ""
   blog_url: https://www.striim.com/blog/
   blog_rss_url: https://www.striim.com/feed/
   twitter_url: https://twitter.com/striimteam
   github_url: https://github.com/striim
   tag_url: ""
-  tag_description: ''
+  tag_description: ""
   base_url: ""
   portal_url: ""
   photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
