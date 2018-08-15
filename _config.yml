@@ -10,7 +10,7 @@ philosophy: This is our project area for keeping track of the competitive landsc
 competition:
 - organization_id: 6kemzS6eSXC0d1cWuuAp116EagNHu9QwrX4QwZCHLZfDM117
   name: Ably Realtime
-  details: Ably is a realtime data stream network that makes it easy for developers
+  description: Ably is a realtime data stream network that makes it easy for developers
     to add realtime messaging, notifications and streaming data to their applications.
   url: https://www.ably.io
   email: ""
@@ -22,8 +22,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28199-ably-realtime.jpg
-  photo_width: "150"
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28199-ably-realtime.jpg
+  image_width: "150"
   latest_blog:
   - title: Building a distributed rate limiter that scales horizontally
     url: https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4
@@ -58,106 +58,106 @@ competition:
     url: https://blog.ably.io/this-android-vm-bug-causes-interned-strings-to-be-handled-incorrectly-1e206283bbb4?source=rss----63d285882655---4
     time_stamp: "2018-05-31 03:06:22"
   latest_tweets:
-  - id: "1028942463795425281"
-    text: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
+  - title: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
       release:\nhttps://t.co/XoxnDk0y2E\nImportant c... https://t.co/NGHIKfXpw0"
+    url: https://twitter.com/ablyrealtime/status/1028942463795425281
     time_stamp: "2018-08-13 02:52:54"
-  - id: "1027151435606241280"
-    text: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
+  - title: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
       with @angular and @ablyrealtime f... https://t.co/KdQbiVblTJ"
+    url: https://twitter.com/ablyrealtime/status/1027151435606241280
     time_stamp: "2018-08-08 04:16:00"
-  - id: "1027128141767159808"
-    text: "Rate-limiting your APIs ensures that your users don't abuse your service
+  - title: "Rate-limiting your APIs ensures that your users don't abuse your service
       and also let's you keep a tab based on the... https://t.co/FYFZvq9Gnf"
+    url: https://twitter.com/ablyrealtime/status/1027128141767159808
     time_stamp: "2018-08-08 02:43:26"
-  - id: "1027049094110490624"
-    text: "Now you can check out tutorials of all kinds as well as example applications
+  - title: "Now you can check out tutorials of all kinds as well as example applications
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
+    url: https://twitter.com/ablyrealtime/status/1027049094110490624
     time_stamp: "2018-08-07 21:29:20"
-  - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
+  - title: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
+    url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
-      to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+      @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+    url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
-  - id: "1024656483286319104"
-    text: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
+  - title: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
       tag. Our StackOverflow champions will be... https://t.co/4Wa8NIQpZP"
+    url: https://twitter.com/ablyrealtime/status/1024656483286319104
     time_stamp: "2018-08-01 07:01:57"
-  - id: "1024642572914974721"
-    text: "RT @mattheworiordan: Dev advocates and relations friends - do read the
+  - title: "RT @mattheworiordan: Dev advocates and relations friends - do read the
       fresher's guide to DevRel by @Srushtika. https://t.co/eIrEEPgAuC"
+    url: https://twitter.com/ablyrealtime/status/1024642572914974721
     time_stamp: "2018-08-01 06:06:40"
-  - id: "1023855872311812096"
-    text: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
+  - title: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
       library release:\nhttps://t.co/Awsj1OR69O\nCh... https://t.co/9AsPoSvHel"
+    url: https://twitter.com/ablyrealtime/status/1023855872311812096
     time_stamp: "2018-07-30 02:00:36"
-  - id: "1022457791234158597"
-    text: "Check out the first interview of our 'Deep Dive Series' where we explore
+  - title: "Check out the first interview of our 'Deep Dive Series' where we explore
       the hidden scaling issues of distributed s... https://t.co/6cCycCNX8F"
+    url: https://twitter.com/ablyrealtime/status/1022457791234158597
     time_stamp: "2018-07-26 05:25:08"
-  - id: "1022171399627177984"
-    text: "We just launched our 'Distributed Deep Dive' interview series where we
+  - title: "We just launched our 'Distributed Deep Dive' interview series where we
       talk to Distributed System Engineers that ha... https://t.co/Fl1sx7QPPX"
+    url: https://twitter.com/ablyrealtime/status/1022171399627177984
     time_stamp: "2018-07-25 10:27:07"
-  - id: "1021664152509603840"
-    text: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
+  - title: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
       library release:\nhttps://t.co/be2qQO8oXV... https://t.co/WcSzwIanRp"
+    url: https://twitter.com/ablyrealtime/status/1021664152509603840
     time_stamp: "2018-07-24 00:51:30"
-  - id: "1021323875211272192"
-    text: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
+  - title: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
       use a wide array of technologies in their realtime stack including E..."
+    url: https://twitter.com/ablyrealtime/status/1021323875211272192
     time_stamp: "2018-07-23 02:19:21"
-  - id: "1021301648331862016"
-    text: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
+  - title: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
       in real time @stgogm !'
+    url: https://twitter.com/ablyrealtime/status/1021301648331862016
     time_stamp: "2018-07-23 00:51:02"
-  - id: "1020953742395494401"
-    text: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
+  - title: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
       with @vuejs and are looking for some examples of how you mi..."
+    url: https://twitter.com/ablyrealtime/status/1020953742395494401
     time_stamp: "2018-07-22 01:48:35"
-  - id: "1020953621519888385"
-    text: "RT @vuejsdevelopers: Ably provides developers with everything they need
+  - title: "RT @vuejsdevelopers: Ably provides developers with everything they need
       to create, deliver and manage complex real-time apps.  This tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1020953621519888385
     time_stamp: "2018-07-22 01:48:06"
-  - id: "1020223245528727552"
-    text: "Listen to the latest podcast by @VueNewsletter and hear more about all
+  - title: "Listen to the latest podcast by @VueNewsletter and hear more about all
       @vuejs related news incl. @ablyrealtime and... https://t.co/AwhRc6JWRp"
+    url: https://twitter.com/ablyrealtime/status/1020223245528727552
     time_stamp: "2018-07-20 01:25:51"
-  - id: "1019232880982155266"
-    text: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
+  - title: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
       by @ablyrealtime https://t.co/5Hfs3gH04F #vuejs #javascript #tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1019232880982155266
     time_stamp: "2018-07-17 07:50:29"
-  - id: "1017674524207337472"
-    text: |-
+  - title: |-
       RT @jsLibHunt: Awesome #JavaScript Weekly #112 is out https://t.co/fSfyjri71l
       Featuring @zalun @ablyrealtime @maxim_koretskyi @ded
+    url: https://twitter.com/ablyrealtime/status/1017674524207337472
     time_stamp: "2018-07-13 00:38:08"
-  - id: "1017021950705700869"
-    text: "Read our latest blog post on Why IoT matters in Healthcare and what you
+  - title: "Read our latest blog post on Why IoT matters in Healthcare and what you
       should know about it by @atanasovdejan... https://t.co/ZyYL7TdoEL"
+    url: https://twitter.com/ablyrealtime/status/1017021950705700869
     time_stamp: "2018-07-11 05:25:03"
-  - id: "1016952326815444992"
-    text: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
+  - title: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
       https://t.co/5Fh0biGWQi by @ablyrealtime'
+    url: https://twitter.com/ablyrealtime/status/1016952326815444992
     time_stamp: "2018-07-11 00:48:23"
-  - id: "1016951824799191040"
-    text: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
+  - title: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
       with #vuejs and are looking for some examples of how you can..."
+    url: https://twitter.com/ablyrealtime/status/1016951824799191040
     time_stamp: "2018-07-11 00:46:23"
-  - id: "1016616997042388992"
-    text: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
+  - title: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
       game using @vuejs &amp; Ably by @NathanRidley.... https://t.co/mPQ6iIeUiO"
+    url: https://twitter.com/ablyrealtime/status/1016616997042388992
     time_stamp: "2018-07-10 02:35:54"
-  - id: "1014427251100848128"
-    text: "Learn how you can build yourself a wiki for free by hacking Github, and
+  - title: "Learn how you can build yourself a wiki for free by hacking Github, and
       using @heroku and @auth0  from our Engineer... https://t.co/QEyFmvBxDE"
+    url: https://twitter.com/ablyrealtime/status/1014427251100848128
     time_stamp: "2018-07-04 01:34:38"
-  - id: "1014104989411790848"
-    text: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
+  - title: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
+    url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
   tags:
   - Technology
@@ -171,7 +171,7 @@ competition:
   - API Provider
 - organization_id: eORBAz1xmH4nxOXaxOFfBJQNY1n3L5gLhItwhA5GlRw117
   name: AWS AppSync
-  details: AWS AppSync automatically updates the data in web and mobile applications
+  description: AWS AppSync automatically updates the data in web and mobile applications
     in real time, and updates data for offline users as soon as they reconnect. AWS
     AppSync makes it easy to build collaborative mobile and web applications that
     deliver responsive, collaborative user experiences. You can use AWS AppSync to
@@ -189,8 +189,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: ""
-  photo_width: ""
+  image: ""
+  image_width: ""
   latest_blog:
   - title: Building a distributed rate limiter that scales horizontally
     url: https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4
@@ -225,112 +225,112 @@ competition:
     url: https://blog.ably.io/this-android-vm-bug-causes-interned-strings-to-be-handled-incorrectly-1e206283bbb4?source=rss----63d285882655---4
     time_stamp: "2018-05-31 03:06:22"
   latest_tweets:
-  - id: "1028942463795425281"
-    text: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
+  - title: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
       release:\nhttps://t.co/XoxnDk0y2E\nImportant c... https://t.co/NGHIKfXpw0"
+    url: https://twitter.com/ablyrealtime/status/1028942463795425281
     time_stamp: "2018-08-13 02:52:54"
-  - id: "1027151435606241280"
-    text: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
+  - title: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
       with @angular and @ablyrealtime f... https://t.co/KdQbiVblTJ"
+    url: https://twitter.com/ablyrealtime/status/1027151435606241280
     time_stamp: "2018-08-08 04:16:00"
-  - id: "1027128141767159808"
-    text: "Rate-limiting your APIs ensures that your users don't abuse your service
+  - title: "Rate-limiting your APIs ensures that your users don't abuse your service
       and also let's you keep a tab based on the... https://t.co/FYFZvq9Gnf"
+    url: https://twitter.com/ablyrealtime/status/1027128141767159808
     time_stamp: "2018-08-08 02:43:26"
-  - id: "1027049094110490624"
-    text: "Now you can check out tutorials of all kinds as well as example applications
+  - title: "Now you can check out tutorials of all kinds as well as example applications
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
+    url: https://twitter.com/ablyrealtime/status/1027049094110490624
     time_stamp: "2018-08-07 21:29:20"
-  - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
+  - title: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
+    url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
-      to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+      @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+    url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
-  - id: "1024656483286319104"
-    text: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
+  - title: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
       tag. Our StackOverflow champions will be... https://t.co/4Wa8NIQpZP"
+    url: https://twitter.com/ablyrealtime/status/1024656483286319104
     time_stamp: "2018-08-01 07:01:57"
-  - id: "1024642572914974721"
-    text: "RT @mattheworiordan: Dev advocates and relations friends - do read the
+  - title: "RT @mattheworiordan: Dev advocates and relations friends - do read the
       fresher's guide to DevRel by @Srushtika. https://t.co/eIrEEPgAuC"
+    url: https://twitter.com/ablyrealtime/status/1024642572914974721
     time_stamp: "2018-08-01 06:06:40"
-  - id: "1023855872311812096"
-    text: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
+  - title: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
       library release:\nhttps://t.co/Awsj1OR69O\nCh... https://t.co/9AsPoSvHel"
+    url: https://twitter.com/ablyrealtime/status/1023855872311812096
     time_stamp: "2018-07-30 02:00:36"
-  - id: "1022457791234158597"
-    text: "Check out the first interview of our 'Deep Dive Series' where we explore
+  - title: "Check out the first interview of our 'Deep Dive Series' where we explore
       the hidden scaling issues of distributed s... https://t.co/6cCycCNX8F"
+    url: https://twitter.com/ablyrealtime/status/1022457791234158597
     time_stamp: "2018-07-26 05:25:08"
-  - id: "1022171399627177984"
-    text: "We just launched our 'Distributed Deep Dive' interview series where we
+  - title: "We just launched our 'Distributed Deep Dive' interview series where we
       talk to Distributed System Engineers that ha... https://t.co/Fl1sx7QPPX"
+    url: https://twitter.com/ablyrealtime/status/1022171399627177984
     time_stamp: "2018-07-25 10:27:07"
-  - id: "1021664152509603840"
-    text: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
+  - title: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
       library release:\nhttps://t.co/be2qQO8oXV... https://t.co/WcSzwIanRp"
+    url: https://twitter.com/ablyrealtime/status/1021664152509603840
     time_stamp: "2018-07-24 00:51:30"
-  - id: "1021323875211272192"
-    text: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
+  - title: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
       use a wide array of technologies in their realtime stack including E..."
+    url: https://twitter.com/ablyrealtime/status/1021323875211272192
     time_stamp: "2018-07-23 02:19:21"
-  - id: "1021301648331862016"
-    text: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
+  - title: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
       in real time @stgogm !'
+    url: https://twitter.com/ablyrealtime/status/1021301648331862016
     time_stamp: "2018-07-23 00:51:02"
-  - id: "1020953742395494401"
-    text: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
+  - title: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
       with @vuejs and are looking for some examples of how you mi..."
+    url: https://twitter.com/ablyrealtime/status/1020953742395494401
     time_stamp: "2018-07-22 01:48:35"
-  - id: "1020953621519888385"
-    text: "RT @vuejsdevelopers: Ably provides developers with everything they need
+  - title: "RT @vuejsdevelopers: Ably provides developers with everything they need
       to create, deliver and manage complex real-time apps.  This tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1020953621519888385
     time_stamp: "2018-07-22 01:48:06"
-  - id: "1020223245528727552"
-    text: "Listen to the latest podcast by @VueNewsletter and hear more about all
+  - title: "Listen to the latest podcast by @VueNewsletter and hear more about all
       @vuejs related news incl. @ablyrealtime and... https://t.co/AwhRc6JWRp"
+    url: https://twitter.com/ablyrealtime/status/1020223245528727552
     time_stamp: "2018-07-20 01:25:51"
-  - id: "1019232880982155266"
-    text: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
+  - title: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
       by @ablyrealtime https://t.co/5Hfs3gH04F #vuejs #javascript #tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1019232880982155266
     time_stamp: "2018-07-17 07:50:29"
-  - id: "1017674524207337472"
-    text: |-
+  - title: |-
       RT @jsLibHunt: Awesome #JavaScript Weekly #112 is out https://t.co/fSfyjri71l
       Featuring @zalun @ablyrealtime @maxim_koretskyi @ded
+    url: https://twitter.com/ablyrealtime/status/1017674524207337472
     time_stamp: "2018-07-13 00:38:08"
-  - id: "1017021950705700869"
-    text: "Read our latest blog post on Why IoT matters in Healthcare and what you
+  - title: "Read our latest blog post on Why IoT matters in Healthcare and what you
       should know about it by @atanasovdejan... https://t.co/ZyYL7TdoEL"
+    url: https://twitter.com/ablyrealtime/status/1017021950705700869
     time_stamp: "2018-07-11 05:25:03"
-  - id: "1016952326815444992"
-    text: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
+  - title: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
       https://t.co/5Fh0biGWQi by @ablyrealtime'
+    url: https://twitter.com/ablyrealtime/status/1016952326815444992
     time_stamp: "2018-07-11 00:48:23"
-  - id: "1016951824799191040"
-    text: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
+  - title: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
       with #vuejs and are looking for some examples of how you can..."
+    url: https://twitter.com/ablyrealtime/status/1016951824799191040
     time_stamp: "2018-07-11 00:46:23"
-  - id: "1016616997042388992"
-    text: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
+  - title: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
       game using @vuejs &amp; Ably by @NathanRidley.... https://t.co/mPQ6iIeUiO"
+    url: https://twitter.com/ablyrealtime/status/1016616997042388992
     time_stamp: "2018-07-10 02:35:54"
-  - id: "1014427251100848128"
-    text: "Learn how you can build yourself a wiki for free by hacking Github, and
+  - title: "Learn how you can build yourself a wiki for free by hacking Github, and
       using @heroku and @auth0  from our Engineer... https://t.co/QEyFmvBxDE"
+    url: https://twitter.com/ablyrealtime/status/1014427251100848128
     time_stamp: "2018-07-04 01:34:38"
-  - id: "1014104989411790848"
-    text: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
+  - title: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
+    url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
   tags:
   - SDIO Competition
 - organization_id: hrZqjFDZL3s2St123uCbR123pkq123QyrH116zijQ116TKeEKDfuc117
   name: AWS Kinesis
-  details: |-
+  description: |-
     Amazon Kinesis Firehose is the easiest way to load&nbsp;streaming data&nbsp;into AWS. It can capture, transform,&nbsp;and load streaming data into&nbsp;Amazon Kinesis Analytics,&nbsp;Amazon S3,&nbsp;Amazon Redshift, and&nbsp;Amazon Elasticsearch Service, enabling near real-time analytics with existing business intelligence tools and dashboards you&rsquo;re already using today. It is a fully managed service that automatically scales to match the throughput of your data and requires no ongoing administration. It can also batch, compress, and encrypt the data before loading it, minimizing the amount of storage used at the destination and increasing security.
     You can easily create a Firehose delivery stream from the&nbsp;AWS Management Console, configure it with a few clicks, and start sending data to the stream from hundreds of thousands of data sources to be loaded continuously to AWS &ndash; all in just a few minutes.
     With Amazon Kinesis Firehose, you only pay for the amount of data you transmit through the service. There is no minimum fee or setup cost.
@@ -344,8 +344,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
-  photo_width: "150"
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  image_width: "150"
   latest_blog:
   - title: Building a distributed rate limiter that scales horizontally
     url: https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4
@@ -380,106 +380,106 @@ competition:
     url: https://blog.ably.io/this-android-vm-bug-causes-interned-strings-to-be-handled-incorrectly-1e206283bbb4?source=rss----63d285882655---4
     time_stamp: "2018-05-31 03:06:22"
   latest_tweets:
-  - id: "1028942463795425281"
-    text: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
+  - title: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
       release:\nhttps://t.co/XoxnDk0y2E\nImportant c... https://t.co/NGHIKfXpw0"
+    url: https://twitter.com/ablyrealtime/status/1028942463795425281
     time_stamp: "2018-08-13 02:52:54"
-  - id: "1027151435606241280"
-    text: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
+  - title: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
       with @angular and @ablyrealtime f... https://t.co/KdQbiVblTJ"
+    url: https://twitter.com/ablyrealtime/status/1027151435606241280
     time_stamp: "2018-08-08 04:16:00"
-  - id: "1027128141767159808"
-    text: "Rate-limiting your APIs ensures that your users don't abuse your service
+  - title: "Rate-limiting your APIs ensures that your users don't abuse your service
       and also let's you keep a tab based on the... https://t.co/FYFZvq9Gnf"
+    url: https://twitter.com/ablyrealtime/status/1027128141767159808
     time_stamp: "2018-08-08 02:43:26"
-  - id: "1027049094110490624"
-    text: "Now you can check out tutorials of all kinds as well as example applications
+  - title: "Now you can check out tutorials of all kinds as well as example applications
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
+    url: https://twitter.com/ablyrealtime/status/1027049094110490624
     time_stamp: "2018-08-07 21:29:20"
-  - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
+  - title: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
+    url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
-      to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+      @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+    url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
-  - id: "1024656483286319104"
-    text: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
+  - title: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
       tag. Our StackOverflow champions will be... https://t.co/4Wa8NIQpZP"
+    url: https://twitter.com/ablyrealtime/status/1024656483286319104
     time_stamp: "2018-08-01 07:01:57"
-  - id: "1024642572914974721"
-    text: "RT @mattheworiordan: Dev advocates and relations friends - do read the
+  - title: "RT @mattheworiordan: Dev advocates and relations friends - do read the
       fresher's guide to DevRel by @Srushtika. https://t.co/eIrEEPgAuC"
+    url: https://twitter.com/ablyrealtime/status/1024642572914974721
     time_stamp: "2018-08-01 06:06:40"
-  - id: "1023855872311812096"
-    text: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
+  - title: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
       library release:\nhttps://t.co/Awsj1OR69O\nCh... https://t.co/9AsPoSvHel"
+    url: https://twitter.com/ablyrealtime/status/1023855872311812096
     time_stamp: "2018-07-30 02:00:36"
-  - id: "1022457791234158597"
-    text: "Check out the first interview of our 'Deep Dive Series' where we explore
+  - title: "Check out the first interview of our 'Deep Dive Series' where we explore
       the hidden scaling issues of distributed s... https://t.co/6cCycCNX8F"
+    url: https://twitter.com/ablyrealtime/status/1022457791234158597
     time_stamp: "2018-07-26 05:25:08"
-  - id: "1022171399627177984"
-    text: "We just launched our 'Distributed Deep Dive' interview series where we
+  - title: "We just launched our 'Distributed Deep Dive' interview series where we
       talk to Distributed System Engineers that ha... https://t.co/Fl1sx7QPPX"
+    url: https://twitter.com/ablyrealtime/status/1022171399627177984
     time_stamp: "2018-07-25 10:27:07"
-  - id: "1021664152509603840"
-    text: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
+  - title: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
       library release:\nhttps://t.co/be2qQO8oXV... https://t.co/WcSzwIanRp"
+    url: https://twitter.com/ablyrealtime/status/1021664152509603840
     time_stamp: "2018-07-24 00:51:30"
-  - id: "1021323875211272192"
-    text: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
+  - title: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
       use a wide array of technologies in their realtime stack including E..."
+    url: https://twitter.com/ablyrealtime/status/1021323875211272192
     time_stamp: "2018-07-23 02:19:21"
-  - id: "1021301648331862016"
-    text: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
+  - title: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
       in real time @stgogm !'
+    url: https://twitter.com/ablyrealtime/status/1021301648331862016
     time_stamp: "2018-07-23 00:51:02"
-  - id: "1020953742395494401"
-    text: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
+  - title: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
       with @vuejs and are looking for some examples of how you mi..."
+    url: https://twitter.com/ablyrealtime/status/1020953742395494401
     time_stamp: "2018-07-22 01:48:35"
-  - id: "1020953621519888385"
-    text: "RT @vuejsdevelopers: Ably provides developers with everything they need
+  - title: "RT @vuejsdevelopers: Ably provides developers with everything they need
       to create, deliver and manage complex real-time apps.  This tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1020953621519888385
     time_stamp: "2018-07-22 01:48:06"
-  - id: "1020223245528727552"
-    text: "Listen to the latest podcast by @VueNewsletter and hear more about all
+  - title: "Listen to the latest podcast by @VueNewsletter and hear more about all
       @vuejs related news incl. @ablyrealtime and... https://t.co/AwhRc6JWRp"
+    url: https://twitter.com/ablyrealtime/status/1020223245528727552
     time_stamp: "2018-07-20 01:25:51"
-  - id: "1019232880982155266"
-    text: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
+  - title: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
       by @ablyrealtime https://t.co/5Hfs3gH04F #vuejs #javascript #tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1019232880982155266
     time_stamp: "2018-07-17 07:50:29"
-  - id: "1017674524207337472"
-    text: |-
+  - title: |-
       RT @jsLibHunt: Awesome #JavaScript Weekly #112 is out https://t.co/fSfyjri71l
       Featuring @zalun @ablyrealtime @maxim_koretskyi @ded
+    url: https://twitter.com/ablyrealtime/status/1017674524207337472
     time_stamp: "2018-07-13 00:38:08"
-  - id: "1017021950705700869"
-    text: "Read our latest blog post on Why IoT matters in Healthcare and what you
+  - title: "Read our latest blog post on Why IoT matters in Healthcare and what you
       should know about it by @atanasovdejan... https://t.co/ZyYL7TdoEL"
+    url: https://twitter.com/ablyrealtime/status/1017021950705700869
     time_stamp: "2018-07-11 05:25:03"
-  - id: "1016952326815444992"
-    text: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
+  - title: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
       https://t.co/5Fh0biGWQi by @ablyrealtime'
+    url: https://twitter.com/ablyrealtime/status/1016952326815444992
     time_stamp: "2018-07-11 00:48:23"
-  - id: "1016951824799191040"
-    text: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
+  - title: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
       with #vuejs and are looking for some examples of how you can..."
+    url: https://twitter.com/ablyrealtime/status/1016951824799191040
     time_stamp: "2018-07-11 00:46:23"
-  - id: "1016616997042388992"
-    text: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
+  - title: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
       game using @vuejs &amp; Ably by @NathanRidley.... https://t.co/mPQ6iIeUiO"
+    url: https://twitter.com/ablyrealtime/status/1016616997042388992
     time_stamp: "2018-07-10 02:35:54"
-  - id: "1014427251100848128"
-    text: "Learn how you can build yourself a wiki for free by hacking Github, and
+  - title: "Learn how you can build yourself a wiki for free by hacking Github, and
       using @heroku and @auth0  from our Engineer... https://t.co/QEyFmvBxDE"
+    url: https://twitter.com/ablyrealtime/status/1014427251100848128
     time_stamp: "2018-07-04 01:34:38"
-  - id: "1014104989411790848"
-    text: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
+  - title: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
+    url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
   tags:
   - Streaming
@@ -495,11 +495,11 @@ competition:
   - Amazon Web Services
 - organization_id: r116zb2SaM406e5XUQBSFLmys8GUV8q5jRJfRxuEnkTxU117
   name: Azure Event Hubs
-  details: Azure Event Hubs is a hyper-scale telemetry ingestion service that collects,
-    transforms, and stores millions of events. As a distributed streaming platform,
-    it gives you low latency and configurable time retention, which enables you to
-    ingress massive amounts of telemetry into the cloud and read the data from multiple
-    applications using publish-subscribe semantics.
+  description: Azure Event Hubs is a hyper-scale telemetry ingestion service that
+    collects, transforms, and stores millions of events. As a distributed streaming
+    platform, it gives you low latency and configurable time retention, which enables
+    you to ingress massive amounts of telemetry into the cloud and read the data from
+    multiple applications using publish-subscribe semantics.
   url: https://azure.microsoft.com/en-us/services/event-hubs/
   email: ""
   blog_url: ""
@@ -510,8 +510,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-event-hubs-stream.png
-  photo_width: "150"
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-event-hubs-stream.png
+  image_width: "150"
   latest_blog:
   - title: Building a distributed rate limiter that scales horizontally
     url: https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4
@@ -546,106 +546,106 @@ competition:
     url: https://blog.ably.io/this-android-vm-bug-causes-interned-strings-to-be-handled-incorrectly-1e206283bbb4?source=rss----63d285882655---4
     time_stamp: "2018-05-31 03:06:22"
   latest_tweets:
-  - id: "1028942463795425281"
-    text: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
+  - title: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
       release:\nhttps://t.co/XoxnDk0y2E\nImportant c... https://t.co/NGHIKfXpw0"
+    url: https://twitter.com/ablyrealtime/status/1028942463795425281
     time_stamp: "2018-08-13 02:52:54"
-  - id: "1027151435606241280"
-    text: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
+  - title: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
       with @angular and @ablyrealtime f... https://t.co/KdQbiVblTJ"
+    url: https://twitter.com/ablyrealtime/status/1027151435606241280
     time_stamp: "2018-08-08 04:16:00"
-  - id: "1027128141767159808"
-    text: "Rate-limiting your APIs ensures that your users don't abuse your service
+  - title: "Rate-limiting your APIs ensures that your users don't abuse your service
       and also let's you keep a tab based on the... https://t.co/FYFZvq9Gnf"
+    url: https://twitter.com/ablyrealtime/status/1027128141767159808
     time_stamp: "2018-08-08 02:43:26"
-  - id: "1027049094110490624"
-    text: "Now you can check out tutorials of all kinds as well as example applications
+  - title: "Now you can check out tutorials of all kinds as well as example applications
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
+    url: https://twitter.com/ablyrealtime/status/1027049094110490624
     time_stamp: "2018-08-07 21:29:20"
-  - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
+  - title: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
+    url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
-      to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+      @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+    url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
-  - id: "1024656483286319104"
-    text: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
+  - title: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
       tag. Our StackOverflow champions will be... https://t.co/4Wa8NIQpZP"
+    url: https://twitter.com/ablyrealtime/status/1024656483286319104
     time_stamp: "2018-08-01 07:01:57"
-  - id: "1024642572914974721"
-    text: "RT @mattheworiordan: Dev advocates and relations friends - do read the
+  - title: "RT @mattheworiordan: Dev advocates and relations friends - do read the
       fresher's guide to DevRel by @Srushtika. https://t.co/eIrEEPgAuC"
+    url: https://twitter.com/ablyrealtime/status/1024642572914974721
     time_stamp: "2018-08-01 06:06:40"
-  - id: "1023855872311812096"
-    text: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
+  - title: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
       library release:\nhttps://t.co/Awsj1OR69O\nCh... https://t.co/9AsPoSvHel"
+    url: https://twitter.com/ablyrealtime/status/1023855872311812096
     time_stamp: "2018-07-30 02:00:36"
-  - id: "1022457791234158597"
-    text: "Check out the first interview of our 'Deep Dive Series' where we explore
+  - title: "Check out the first interview of our 'Deep Dive Series' where we explore
       the hidden scaling issues of distributed s... https://t.co/6cCycCNX8F"
+    url: https://twitter.com/ablyrealtime/status/1022457791234158597
     time_stamp: "2018-07-26 05:25:08"
-  - id: "1022171399627177984"
-    text: "We just launched our 'Distributed Deep Dive' interview series where we
+  - title: "We just launched our 'Distributed Deep Dive' interview series where we
       talk to Distributed System Engineers that ha... https://t.co/Fl1sx7QPPX"
+    url: https://twitter.com/ablyrealtime/status/1022171399627177984
     time_stamp: "2018-07-25 10:27:07"
-  - id: "1021664152509603840"
-    text: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
+  - title: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
       library release:\nhttps://t.co/be2qQO8oXV... https://t.co/WcSzwIanRp"
+    url: https://twitter.com/ablyrealtime/status/1021664152509603840
     time_stamp: "2018-07-24 00:51:30"
-  - id: "1021323875211272192"
-    text: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
+  - title: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
       use a wide array of technologies in their realtime stack including E..."
+    url: https://twitter.com/ablyrealtime/status/1021323875211272192
     time_stamp: "2018-07-23 02:19:21"
-  - id: "1021301648331862016"
-    text: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
+  - title: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
       in real time @stgogm !'
+    url: https://twitter.com/ablyrealtime/status/1021301648331862016
     time_stamp: "2018-07-23 00:51:02"
-  - id: "1020953742395494401"
-    text: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
+  - title: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
       with @vuejs and are looking for some examples of how you mi..."
+    url: https://twitter.com/ablyrealtime/status/1020953742395494401
     time_stamp: "2018-07-22 01:48:35"
-  - id: "1020953621519888385"
-    text: "RT @vuejsdevelopers: Ably provides developers with everything they need
+  - title: "RT @vuejsdevelopers: Ably provides developers with everything they need
       to create, deliver and manage complex real-time apps.  This tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1020953621519888385
     time_stamp: "2018-07-22 01:48:06"
-  - id: "1020223245528727552"
-    text: "Listen to the latest podcast by @VueNewsletter and hear more about all
+  - title: "Listen to the latest podcast by @VueNewsletter and hear more about all
       @vuejs related news incl. @ablyrealtime and... https://t.co/AwhRc6JWRp"
+    url: https://twitter.com/ablyrealtime/status/1020223245528727552
     time_stamp: "2018-07-20 01:25:51"
-  - id: "1019232880982155266"
-    text: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
+  - title: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
       by @ablyrealtime https://t.co/5Hfs3gH04F #vuejs #javascript #tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1019232880982155266
     time_stamp: "2018-07-17 07:50:29"
-  - id: "1017674524207337472"
-    text: |-
+  - title: |-
       RT @jsLibHunt: Awesome #JavaScript Weekly #112 is out https://t.co/fSfyjri71l
       Featuring @zalun @ablyrealtime @maxim_koretskyi @ded
+    url: https://twitter.com/ablyrealtime/status/1017674524207337472
     time_stamp: "2018-07-13 00:38:08"
-  - id: "1017021950705700869"
-    text: "Read our latest blog post on Why IoT matters in Healthcare and what you
+  - title: "Read our latest blog post on Why IoT matters in Healthcare and what you
       should know about it by @atanasovdejan... https://t.co/ZyYL7TdoEL"
+    url: https://twitter.com/ablyrealtime/status/1017021950705700869
     time_stamp: "2018-07-11 05:25:03"
-  - id: "1016952326815444992"
-    text: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
+  - title: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
       https://t.co/5Fh0biGWQi by @ablyrealtime'
+    url: https://twitter.com/ablyrealtime/status/1016952326815444992
     time_stamp: "2018-07-11 00:48:23"
-  - id: "1016951824799191040"
-    text: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
+  - title: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
       with #vuejs and are looking for some examples of how you can..."
+    url: https://twitter.com/ablyrealtime/status/1016951824799191040
     time_stamp: "2018-07-11 00:46:23"
-  - id: "1016616997042388992"
-    text: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
+  - title: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
       game using @vuejs &amp; Ably by @NathanRidley.... https://t.co/mPQ6iIeUiO"
+    url: https://twitter.com/ablyrealtime/status/1016616997042388992
     time_stamp: "2018-07-10 02:35:54"
-  - id: "1014427251100848128"
-    text: "Learn how you can build yourself a wiki for free by hacking Github, and
+  - title: "Learn how you can build yourself a wiki for free by hacking Github, and
       using @heroku and @auth0  from our Engineer... https://t.co/QEyFmvBxDE"
+    url: https://twitter.com/ablyrealtime/status/1014427251100848128
     time_stamp: "2018-07-04 01:34:38"
-  - id: "1014104989411790848"
-    text: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
+  - title: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
+    url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
   tags:
   - Stack Network
@@ -658,8 +658,8 @@ competition:
   - API Provider
 - organization_id: BvczQo6zbTOfoOrRlwLLiSSayfAPmeB7ZrzYD9WnTRo117
   name: Azure SignalR
-  details: The Azure SignalR Service is an Azure service based on&nbsp;ASP.NET Core
-    SignalR. ASP.NET Core SignalR is an&nbsp;open source library&nbsp;that simplifies
+  description: The Azure SignalR Service is an Azure service based on&nbsp;ASP.NET
+    Core SignalR. ASP.NET Core SignalR is an&nbsp;open source library&nbsp;that simplifies
     the process of adding real-time web functionality to applications over HTTP. This
     real-time functionality allows the web server to push content updates to connected
     clients. As a result, clients are updated without the need to poll the server,
@@ -674,8 +674,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: ""
-  photo_width: ""
+  image: ""
+  image_width: ""
   latest_blog:
   - title: Building a distributed rate limiter that scales horizontally
     url: https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4
@@ -710,113 +710,113 @@ competition:
     url: https://blog.ably.io/this-android-vm-bug-causes-interned-strings-to-be-handled-incorrectly-1e206283bbb4?source=rss----63d285882655---4
     time_stamp: "2018-05-31 03:06:22"
   latest_tweets:
-  - id: "1028942463795425281"
-    text: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
+  - title: "#changelog Ably iOS Objective-C &amp; Swift release 1.1.0.\n\nClient library
       release:\nhttps://t.co/XoxnDk0y2E\nImportant c... https://t.co/NGHIKfXpw0"
+    url: https://twitter.com/ablyrealtime/status/1028942463795425281
     time_stamp: "2018-08-13 02:52:54"
-  - id: "1027151435606241280"
-    text: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
+  - title: "Our friends at @nexmo have just published a tutorial to surface SMS notifications
       with @angular and @ablyrealtime f... https://t.co/KdQbiVblTJ"
+    url: https://twitter.com/ablyrealtime/status/1027151435606241280
     time_stamp: "2018-08-08 04:16:00"
-  - id: "1027128141767159808"
-    text: "Rate-limiting your APIs ensures that your users don't abuse your service
+  - title: "Rate-limiting your APIs ensures that your users don't abuse your service
       and also let's you keep a tab based on the... https://t.co/FYFZvq9Gnf"
+    url: https://twitter.com/ablyrealtime/status/1027128141767159808
     time_stamp: "2018-08-08 02:43:26"
-  - id: "1027049094110490624"
-    text: "Now you can check out tutorials of all kinds as well as example applications
+  - title: "Now you can check out tutorials of all kinds as well as example applications
       built using Ably very easily on our ne... https://t.co/hI53nowTBu"
+    url: https://twitter.com/ablyrealtime/status/1027049094110490624
     time_stamp: "2018-08-07 21:29:20"
-  - id: "1026869222683697153"
-    text: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
+  - title: "RT @Nexmo: In this #TutorialTuesday, @NexmoDev Advocate  @lakatos88
       will show us how to surface SMS notifications in an @angular applicati..."
+    url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - id: "1024691661715202048"
-    text: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate  @lakatos88
-      to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+      @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
+    url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
-  - id: "1024656483286319104"
-    text: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
+  - title: "Ask all your realtime queries on @StackOverflow using the `ably-realtime`
       tag. Our StackOverflow champions will be... https://t.co/4Wa8NIQpZP"
+    url: https://twitter.com/ablyrealtime/status/1024656483286319104
     time_stamp: "2018-08-01 07:01:57"
-  - id: "1024642572914974721"
-    text: "RT @mattheworiordan: Dev advocates and relations friends - do read the
+  - title: "RT @mattheworiordan: Dev advocates and relations friends - do read the
       fresher's guide to DevRel by @Srushtika. https://t.co/eIrEEPgAuC"
+    url: https://twitter.com/ablyrealtime/status/1024642572914974721
     time_stamp: "2018-08-01 06:06:40"
-  - id: "1023855872311812096"
-    text: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
+  - title: "#changelog Ably Java &amp; Android Realtime and REST release 1.0.6.\n\nClient
       library release:\nhttps://t.co/Awsj1OR69O\nCh... https://t.co/9AsPoSvHel"
+    url: https://twitter.com/ablyrealtime/status/1023855872311812096
     time_stamp: "2018-07-30 02:00:36"
-  - id: "1022457791234158597"
-    text: "Check out the first interview of our 'Deep Dive Series' where we explore
+  - title: "Check out the first interview of our 'Deep Dive Series' where we explore
       the hidden scaling issues of distributed s... https://t.co/6cCycCNX8F"
+    url: https://twitter.com/ablyrealtime/status/1022457791234158597
     time_stamp: "2018-07-26 05:25:08"
-  - id: "1022171399627177984"
-    text: "We just launched our 'Distributed Deep Dive' interview series where we
+  - title: "We just launched our 'Distributed Deep Dive' interview series where we
       talk to Distributed System Engineers that ha... https://t.co/Fl1sx7QPPX"
+    url: https://twitter.com/ablyrealtime/status/1022171399627177984
     time_stamp: "2018-07-25 10:27:07"
-  - id: "1021664152509603840"
-    text: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
+  - title: "#changelog Ably Java &amp; Android - Realtime and REST release 1.0.5.\n\nClient
       library release:\nhttps://t.co/be2qQO8oXV... https://t.co/WcSzwIanRp"
+    url: https://twitter.com/ablyrealtime/status/1021664152509603840
     time_stamp: "2018-07-24 00:51:30"
-  - id: "1021323875211272192"
-    text: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
+  - title: "RT @nearForm: Ably Realtime, a distributed pub/sub messaging platform,
       use a wide array of technologies in their realtime stack including E..."
+    url: https://twitter.com/ablyrealtime/status/1021323875211272192
     time_stamp: "2018-07-23 02:19:21"
-  - id: "1021301648331862016"
-    text: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
+  - title: '@stgogm @vuejsdevelopers glad you enjoyed building a fun Tic Tac Toe game
       in real time @stgogm !'
+    url: https://twitter.com/ablyrealtime/status/1021301648331862016
     time_stamp: "2018-07-23 00:51:02"
-  - id: "1020953742395494401"
-    text: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
+  - title: "RT @VueMastery: This tutorial is for those of you who have a little familiarity
       with @vuejs and are looking for some examples of how you mi..."
+    url: https://twitter.com/ablyrealtime/status/1020953742395494401
     time_stamp: "2018-07-22 01:48:35"
-  - id: "1020953621519888385"
-    text: "RT @vuejsdevelopers: Ably provides developers with everything they need
+  - title: "RT @vuejsdevelopers: Ably provides developers with everything they need
       to create, deliver and manage complex real-time apps.  This tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1020953621519888385
     time_stamp: "2018-07-22 01:48:06"
-  - id: "1020223245528727552"
-    text: "Listen to the latest podcast by @VueNewsletter and hear more about all
+  - title: "Listen to the latest podcast by @VueNewsletter and hear more about all
       @vuejs related news incl. @ablyrealtime and... https://t.co/AwhRc6JWRp"
+    url: https://twitter.com/ablyrealtime/status/1020223245528727552
     time_stamp: "2018-07-20 01:25:51"
-  - id: "1019232880982155266"
-    text: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
+  - title: "RT @JavaScriptKicks: Build a Multiplayer Tic Tac Toe Game using Vue.js
       by @ablyrealtime https://t.co/5Hfs3gH04F #vuejs #javascript #tutoria..."
+    url: https://twitter.com/ablyrealtime/status/1019232880982155266
     time_stamp: "2018-07-17 07:50:29"
-  - id: "1017674524207337472"
-    text: |-
+  - title: |-
       RT @jsLibHunt: Awesome #JavaScript Weekly #112 is out https://t.co/fSfyjri71l
       Featuring @zalun @ablyrealtime @maxim_koretskyi @ded
+    url: https://twitter.com/ablyrealtime/status/1017674524207337472
     time_stamp: "2018-07-13 00:38:08"
-  - id: "1017021950705700869"
-    text: "Read our latest blog post on Why IoT matters in Healthcare and what you
+  - title: "Read our latest blog post on Why IoT matters in Healthcare and what you
       should know about it by @atanasovdejan... https://t.co/ZyYL7TdoEL"
+    url: https://twitter.com/ablyrealtime/status/1017021950705700869
     time_stamp: "2018-07-11 05:25:03"
-  - id: "1016952326815444992"
-    text: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
+  - title: 'RT @jsLibHunt: Build a multiplayer Tic Tac Toe Game using Vue.JS - Tutorial
       https://t.co/5Fh0biGWQi by @ablyrealtime'
+    url: https://twitter.com/ablyrealtime/status/1016952326815444992
     time_stamp: "2018-07-11 00:48:23"
-  - id: "1016951824799191040"
-    text: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
+  - title: "RT @vuejsfeed: This tutorial is for those of you who have a little familiarity
       with #vuejs and are looking for some examples of how you can..."
+    url: https://twitter.com/ablyrealtime/status/1016951824799191040
     time_stamp: "2018-07-11 00:46:23"
-  - id: "1016616997042388992"
-    text: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
+  - title: "Check out our latest tutorial on how to build a multiplayer Tic Tac Toe
       game using @vuejs &amp; Ably by @NathanRidley.... https://t.co/mPQ6iIeUiO"
+    url: https://twitter.com/ablyrealtime/status/1016616997042388992
     time_stamp: "2018-07-10 02:35:54"
-  - id: "1014427251100848128"
-    text: "Learn how you can build yourself a wiki for free by hacking Github, and
+  - title: "Learn how you can build yourself a wiki for free by hacking Github, and
       using @heroku and @auth0  from our Engineer... https://t.co/QEyFmvBxDE"
+    url: https://twitter.com/ablyrealtime/status/1014427251100848128
     time_stamp: "2018-07-04 01:34:38"
-  - id: "1014104989411790848"
-    text: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
+  - title: 'Read ''Hacking GitHub to build your own wiki'' by @tomcamp333 on our Engineering
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
+    url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
   tags:
   - SDIO Competition
   - Real Time
 - organization_id: UJu116WMjDUtOzqb8l1N23fMV7iROqgd7POnOWpH116AO9Q117
   name: Firebase
-  details: Firebase is a mobile platform that gives developers the tools and infrastructure
+  description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
   url: https://firebase.google.com/
   email: info@firebase.com
@@ -828,8 +828,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
-  photo_width: "150"
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
+  image_width: "150"
   latest_blog:
   - title: ' New runtime configuration options with Cloud Functions for Firebase'
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/siypAazVN-o/cloud-functions-for-firebase-config-node-8-timeout-memory-region.html
@@ -910,105 +910,105 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/Cx0gOUUHx88/a-cross-platform-firebase-sample-app.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
-  - id: "1029442532139102208"
-    text: "As the industry becomes more diverse, there's more opportunity for everyone.
+  - title: "As the industry becomes more diverse, there's more opportunity for everyone.
       These changes inspire dev... https://t.co/endoP5BCFi"
+    url: https://twitter.com/Firebase/status/1029442532139102208
     time_stamp: "2018-08-14 12:00:00"
-  - id: "1029085388294389760"
-    text: "Educating &amp; inspiring developers is central to @WomenTechmakers and
+  - title: "Educating &amp; inspiring developers is central to @WomenTechmakers and
       @Firebase's mission. Startup founder Daria shar... https://t.co/8VvQL2dIfT"
+    url: https://twitter.com/Firebase/status/1029085388294389760
     time_stamp: "2018-08-13 12:20:50"
-  - id: "1029054685297233920"
-    text: "There are new runtime configuration options for Cloud Functions for Firebase,
+  - title: "There are new runtime configuration options for Cloud Functions for Firebase,
       including Node.js 8, memory, timeout,... https://t.co/PqK0tjSNWO"
+    url: https://twitter.com/Firebase/status/1029054685297233920
     time_stamp: "2018-08-13 10:18:50"
-  - id: "1028080547875225600"
-    text: "In the first episode of the #FirebaseProSeries, engineer Tyler Rockwood
+  - title: "In the first episode of the #FirebaseProSeries, engineer Tyler Rockwood
       dives deep into the Real Time Database Prof... https://t.co/aJpMUubEzZ"
+    url: https://twitter.com/Firebase/status/1028080547875225600
     time_stamp: "2018-08-10 17:47:58"
-  - id: "1027674251984289793"
-    text: "RT @ActionsOnGoogle: Learn how to update and customize queries for Actions
+  - title: "RT @ActionsOnGoogle: Learn how to update and customize queries for Actions
       on Google using the @GCPcloud #Firestore. In the 2nd part of her..."
+    url: https://twitter.com/Firebase/status/1027674251984289793
     time_stamp: "2018-08-09 14:53:29"
-  - id: "1027661258273828865"
-    text: "We just made it a heck of a lot easier to use arrays in Cloud Firestore!
+  - title: "We just made it a heck of a lot easier to use arrays in Cloud Firestore!
       \n\nSee all the details here  https://t.co/5wp0owPxRh"
+    url: https://twitter.com/Firebase/status/1027661258273828865
     time_stamp: "2018-08-09 14:01:51"
-  - id: "1027246280500813824"
-    text: "At #GoogleNext18 we announced a number of new features for you to play
+  - title: "At #GoogleNext18 we announced a number of new features for you to play
       with in Cloud Firestore:\n\n- Single field ind... https://t.co/MxYJLDfg4o"
+    url: https://twitter.com/Firebase/status/1027246280500813824
     time_stamp: "2018-08-08 10:32:53"
-  - id: "1026617466984656898"
-    text: "We're excited to announce the #FirebaseProSeries, our new show for advanced
+  - title: "We're excited to announce the #FirebaseProSeries, our new show for advanced
       Firebase content! We'll be diving deep... https://t.co/1xo1ksQzBZ"
+    url: https://twitter.com/Firebase/status/1026617466984656898
     time_stamp: "2018-08-06 16:54:12"
-  - id: "1026566078183419911"
-    text: "RT @CodingDoug: The source code for my video series on @Firebase Realtime
+  - title: "RT @CodingDoug: The source code for my video series on @Firebase Realtime
       Database triggers with Cloud Functions is available here: https:/..."
+    url: https://twitter.com/Firebase/status/1026566078183419911
     time_stamp: "2018-08-06 13:30:00"
-  - id: "1025144030953238528"
-    text: "Request your invite here  https://t.co/Gibnhd88Gs"
+  - title: "Request your invite here  https://t.co/Gibnhd88Gs"
+    url: https://twitter.com/Firebase/status/1025144030953238528
     time_stamp: "2018-08-02 15:19:17"
-  - id: "1025130404800487425"
-    text: "The #FirebaseSummit is coming up! Watch as Firebase leads @puf and @MKrilanovich
+  - title: "The #FirebaseSummit is coming up! Watch as Firebase leads @puf and @MKrilanovich
       give a sneak peak of the venue, th... https://t.co/ceEHFCOntH"
+    url: https://twitter.com/Firebase/status/1025130404800487425
     time_stamp: "2018-08-02 14:25:09"
-  - id: "1024748473768280064"
-    text: "When you're part of a movement, anything is possible. @nataliaenvy, head
+  - title: "When you're part of a movement, anything is possible. @nataliaenvy, head
       of Global Programs for @WomenTechmakers, h... https://t.co/gnC0EZLVHM"
+    url: https://twitter.com/Firebase/status/1024748473768280064
     time_stamp: "2018-08-01 13:07:29"
-  - id: "1024721783545577473"
-    text: "Next up in our series on Database Triggers in Cloud Functions, @CodingDoug
+  - title: "Next up in our series on Database Triggers in Cloud Functions, @CodingDoug
       covers the OnDelete trigger, for when yo... https://t.co/MI4jJDdFvq"
+    url: https://twitter.com/Firebase/status/1024721783545577473
     time_stamp: "2018-08-01 11:21:26"
-  - id: "1024346458491953152"
-    text: "The Firebase team is out in force at ServerlessConf SF. Come find them
+  - title: "The Firebase team is out in force at ServerlessConf SF. Come find them
       and discover that there's more to serverless... https://t.co/9XBSS5HXIu"
+    url: https://twitter.com/Firebase/status/1024346458491953152
     time_stamp: "2018-07-31 10:30:01"
-  - id: "1023976522741428224"
-    text: "Tomorrow is the start of the first ServerlessConf in San Francisco. Of
+  - title: "Tomorrow is the start of the first ServerlessConf in San Francisco. Of
       course the Firebase team will be there. Come... https://t.co/mbH3Rbmpd9"
+    url: https://twitter.com/Firebase/status/1023976522741428224
     time_stamp: "2018-07-30 10:00:02"
-  - id: "1022945893362819072"
-    text: "Developers from all over the world are coming together for the #FirebaseSummit
+  - title: "Developers from all over the world are coming together for the #FirebaseSummit
       to learn and inspire each other.... https://t.co/bNmvxDG43U"
+    url: https://twitter.com/Firebase/status/1022945893362819072
     time_stamp: "2018-07-27 13:44:41"
-  - id: "1022614408848130050"
-    text: "This week on #AskFirebase, we're talking Firebase Remote Config, the service
+  - title: "This week on #AskFirebase, we're talking Firebase Remote Config, the service
       that lets you change your app at runti... https://t.co/f0LF55WNHv"
+    url: https://twitter.com/Firebase/status/1022614408848130050
     time_stamp: "2018-07-26 15:47:28"
-  - id: "1022519773282877440"
-    text: "#Firebase developers at #GoogleNext18 \u2013 don't miss the opportunity
+  - title: "#Firebase developers at #GoogleNext18 \u2013 don't miss the opportunity
       to give us feedback! Find us in Firebase yellow... https://t.co/rYERZhw0fv"
+    url: https://twitter.com/Firebase/status/1022519773282877440
     time_stamp: "2018-07-26 09:31:26"
-  - id: "1021885739116707847"
-    text: "RT @CodingDoug: Big news from #GoogleNext18 for Cloud Functions for @Firebase
+  - title: "RT @CodingDoug: Big news from #GoogleNext18 for Cloud Functions for @Firebase
       users!\n\n'\uFE0F CF is fully released\n'\uFE0F Node.js 8 is now an
       option..."
+    url: https://twitter.com/Firebase/status/1021885739116707847
     time_stamp: "2018-07-24 15:32:00"
-  - id: "1021847486732935169"
-    text: "RT @ThatJenPerson: \u201CFirebase: Create custom tokens without service
+  - title: "RT @ThatJenPerson: \u201CFirebase: Create custom tokens without service
       account credentials\u201D by Hiranya Jayathilaka https://t.co/OgLF6Zg4q4"
+    url: https://twitter.com/Firebase/status/1021847486732935169
     time_stamp: "2018-07-24 13:00:00"
-  - id: "1021489226871918595"
-    text: "RT @googlecloud: We're talking @Firebase, Cloud Spanner, #Kubernetes, serverless
-      compute on @GCPcloud, and more at #GoogleNext18. Don't mis..."
+  - title: "RT @googlecloud: We're talking @Firebase, Cloud Spanner, #Kubernetes,
+      serverless compute on @GCPcloud, and more at #GoogleNext18. Don't mis..."
+    url: https://twitter.com/Firebase/status/1021489226871918595
     time_stamp: "2018-07-23 13:16:24"
-  - id: "1020386327861350401"
-    text: "In the latest #Firecasts, @CodingDoug covers the OnUpdate trigger! Stay
+  - title: "In the latest #Firecasts, @CodingDoug covers the OnUpdate trigger! Stay
       tuned for the next episode, where we'll wri... https://t.co/R2HGPqgWiB"
+    url: https://twitter.com/Firebase/status/1020386327861350401
     time_stamp: "2018-07-20 12:13:53"
-  - id: "1020367736902332416"
-    text: "See @WomenTechmakers lead @aygul share what she loves about working in
+  - title: "See @WomenTechmakers lead @aygul share what she loves about working in
       tech and what she's looking forward to at th... https://t.co/ZWDjshRnVH"
+    url: https://twitter.com/Firebase/status/1020367736902332416
     time_stamp: "2018-07-20 11:00:00"
-  - id: "1020067206871371781"
-    text: "RT @CodingDoug: Having fun at @360andev giving away hot sauce and shirts!
+  - title: "RT @CodingDoug: Having fun at @360andev giving away hot sauce and shirts!
       Here's the slides from my talk about @Firebase and @Android Jetpa..."
+    url: https://twitter.com/Firebase/status/1020067206871371781
     time_stamp: "2018-07-19 15:05:48"
-  - id: "1020035546788265984"
-    text: "Excellent news: Women Techmakers just announced a travel grant for the
+  - title: "Excellent news: Women Techmakers just announced a travel grant for the
       Firebase Summit in Prague. We can't wait to... https://t.co/NXVGdhpfCJ"
+    url: https://twitter.com/Firebase/status/1020035546788265984
     time_stamp: "2018-07-19 13:00:00"
   tags:
   - SDIO Competition
@@ -1020,7 +1020,7 @@ competition:
   - API Provider
 - organization_id: EnIzpeZ0o6aFY8xqT1uPY2nBBx11664v9RmruyojxgQMY117
   name: Google Dataflow
-  details: Dataflow is a unified programming model and a managed service for developing
+  description: Dataflow is a unified programming model and a managed service for developing
     and executing a wide range of data processing patterns including ETL, batch computation,
     and continuous computation. Cloud Dataflow frees you from operational tasks like
     resource management and performance optimization.
@@ -1034,8 +1034,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-dataflow.jpeg
-  photo_width: "150"
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-dataflow.jpeg
+  image_width: "150"
   latest_blog:
   - title: ' New runtime configuration options with Cloud Functions for Firebase'
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/siypAazVN-o/cloud-functions-for-firebase-config-node-8-timeout-memory-region.html
@@ -1116,105 +1116,105 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/Cx0gOUUHx88/a-cross-platform-firebase-sample-app.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
-  - id: "1029442532139102208"
-    text: "As the industry becomes more diverse, there's more opportunity for everyone.
+  - title: "As the industry becomes more diverse, there's more opportunity for everyone.
       These changes inspire dev... https://t.co/endoP5BCFi"
+    url: https://twitter.com/Firebase/status/1029442532139102208
     time_stamp: "2018-08-14 12:00:00"
-  - id: "1029085388294389760"
-    text: "Educating &amp; inspiring developers is central to @WomenTechmakers and
+  - title: "Educating &amp; inspiring developers is central to @WomenTechmakers and
       @Firebase's mission. Startup founder Daria shar... https://t.co/8VvQL2dIfT"
+    url: https://twitter.com/Firebase/status/1029085388294389760
     time_stamp: "2018-08-13 12:20:50"
-  - id: "1029054685297233920"
-    text: "There are new runtime configuration options for Cloud Functions for Firebase,
+  - title: "There are new runtime configuration options for Cloud Functions for Firebase,
       including Node.js 8, memory, timeout,... https://t.co/PqK0tjSNWO"
+    url: https://twitter.com/Firebase/status/1029054685297233920
     time_stamp: "2018-08-13 10:18:50"
-  - id: "1028080547875225600"
-    text: "In the first episode of the #FirebaseProSeries, engineer Tyler Rockwood
+  - title: "In the first episode of the #FirebaseProSeries, engineer Tyler Rockwood
       dives deep into the Real Time Database Prof... https://t.co/aJpMUubEzZ"
+    url: https://twitter.com/Firebase/status/1028080547875225600
     time_stamp: "2018-08-10 17:47:58"
-  - id: "1027674251984289793"
-    text: "RT @ActionsOnGoogle: Learn how to update and customize queries for Actions
+  - title: "RT @ActionsOnGoogle: Learn how to update and customize queries for Actions
       on Google using the @GCPcloud #Firestore. In the 2nd part of her..."
+    url: https://twitter.com/Firebase/status/1027674251984289793
     time_stamp: "2018-08-09 14:53:29"
-  - id: "1027661258273828865"
-    text: "We just made it a heck of a lot easier to use arrays in Cloud Firestore!
+  - title: "We just made it a heck of a lot easier to use arrays in Cloud Firestore!
       \n\nSee all the details here  https://t.co/5wp0owPxRh"
+    url: https://twitter.com/Firebase/status/1027661258273828865
     time_stamp: "2018-08-09 14:01:51"
-  - id: "1027246280500813824"
-    text: "At #GoogleNext18 we announced a number of new features for you to play
+  - title: "At #GoogleNext18 we announced a number of new features for you to play
       with in Cloud Firestore:\n\n- Single field ind... https://t.co/MxYJLDfg4o"
+    url: https://twitter.com/Firebase/status/1027246280500813824
     time_stamp: "2018-08-08 10:32:53"
-  - id: "1026617466984656898"
-    text: "We're excited to announce the #FirebaseProSeries, our new show for advanced
+  - title: "We're excited to announce the #FirebaseProSeries, our new show for advanced
       Firebase content! We'll be diving deep... https://t.co/1xo1ksQzBZ"
+    url: https://twitter.com/Firebase/status/1026617466984656898
     time_stamp: "2018-08-06 16:54:12"
-  - id: "1026566078183419911"
-    text: "RT @CodingDoug: The source code for my video series on @Firebase Realtime
+  - title: "RT @CodingDoug: The source code for my video series on @Firebase Realtime
       Database triggers with Cloud Functions is available here: https:/..."
+    url: https://twitter.com/Firebase/status/1026566078183419911
     time_stamp: "2018-08-06 13:30:00"
-  - id: "1025144030953238528"
-    text: "Request your invite here  https://t.co/Gibnhd88Gs"
+  - title: "Request your invite here  https://t.co/Gibnhd88Gs"
+    url: https://twitter.com/Firebase/status/1025144030953238528
     time_stamp: "2018-08-02 15:19:17"
-  - id: "1025130404800487425"
-    text: "The #FirebaseSummit is coming up! Watch as Firebase leads @puf and @MKrilanovich
+  - title: "The #FirebaseSummit is coming up! Watch as Firebase leads @puf and @MKrilanovich
       give a sneak peak of the venue, th... https://t.co/ceEHFCOntH"
+    url: https://twitter.com/Firebase/status/1025130404800487425
     time_stamp: "2018-08-02 14:25:09"
-  - id: "1024748473768280064"
-    text: "When you're part of a movement, anything is possible. @nataliaenvy, head
+  - title: "When you're part of a movement, anything is possible. @nataliaenvy, head
       of Global Programs for @WomenTechmakers, h... https://t.co/gnC0EZLVHM"
+    url: https://twitter.com/Firebase/status/1024748473768280064
     time_stamp: "2018-08-01 13:07:29"
-  - id: "1024721783545577473"
-    text: "Next up in our series on Database Triggers in Cloud Functions, @CodingDoug
+  - title: "Next up in our series on Database Triggers in Cloud Functions, @CodingDoug
       covers the OnDelete trigger, for when yo... https://t.co/MI4jJDdFvq"
+    url: https://twitter.com/Firebase/status/1024721783545577473
     time_stamp: "2018-08-01 11:21:26"
-  - id: "1024346458491953152"
-    text: "The Firebase team is out in force at ServerlessConf SF. Come find them
+  - title: "The Firebase team is out in force at ServerlessConf SF. Come find them
       and discover that there's more to serverless... https://t.co/9XBSS5HXIu"
+    url: https://twitter.com/Firebase/status/1024346458491953152
     time_stamp: "2018-07-31 10:30:01"
-  - id: "1023976522741428224"
-    text: "Tomorrow is the start of the first ServerlessConf in San Francisco. Of
+  - title: "Tomorrow is the start of the first ServerlessConf in San Francisco. Of
       course the Firebase team will be there. Come... https://t.co/mbH3Rbmpd9"
+    url: https://twitter.com/Firebase/status/1023976522741428224
     time_stamp: "2018-07-30 10:00:02"
-  - id: "1022945893362819072"
-    text: "Developers from all over the world are coming together for the #FirebaseSummit
+  - title: "Developers from all over the world are coming together for the #FirebaseSummit
       to learn and inspire each other.... https://t.co/bNmvxDG43U"
+    url: https://twitter.com/Firebase/status/1022945893362819072
     time_stamp: "2018-07-27 13:44:41"
-  - id: "1022614408848130050"
-    text: "This week on #AskFirebase, we're talking Firebase Remote Config, the service
+  - title: "This week on #AskFirebase, we're talking Firebase Remote Config, the service
       that lets you change your app at runti... https://t.co/f0LF55WNHv"
+    url: https://twitter.com/Firebase/status/1022614408848130050
     time_stamp: "2018-07-26 15:47:28"
-  - id: "1022519773282877440"
-    text: "#Firebase developers at #GoogleNext18 \u2013 don't miss the opportunity
+  - title: "#Firebase developers at #GoogleNext18 \u2013 don't miss the opportunity
       to give us feedback! Find us in Firebase yellow... https://t.co/rYERZhw0fv"
+    url: https://twitter.com/Firebase/status/1022519773282877440
     time_stamp: "2018-07-26 09:31:26"
-  - id: "1021885739116707847"
-    text: "RT @CodingDoug: Big news from #GoogleNext18 for Cloud Functions for @Firebase
+  - title: "RT @CodingDoug: Big news from #GoogleNext18 for Cloud Functions for @Firebase
       users!\n\n'\uFE0F CF is fully released\n'\uFE0F Node.js 8 is now an
       option..."
+    url: https://twitter.com/Firebase/status/1021885739116707847
     time_stamp: "2018-07-24 15:32:00"
-  - id: "1021847486732935169"
-    text: "RT @ThatJenPerson: \u201CFirebase: Create custom tokens without service
+  - title: "RT @ThatJenPerson: \u201CFirebase: Create custom tokens without service
       account credentials\u201D by Hiranya Jayathilaka https://t.co/OgLF6Zg4q4"
+    url: https://twitter.com/Firebase/status/1021847486732935169
     time_stamp: "2018-07-24 13:00:00"
-  - id: "1021489226871918595"
-    text: "RT @googlecloud: We're talking @Firebase, Cloud Spanner, #Kubernetes, serverless
-      compute on @GCPcloud, and more at #GoogleNext18. Don't mis..."
+  - title: "RT @googlecloud: We're talking @Firebase, Cloud Spanner, #Kubernetes,
+      serverless compute on @GCPcloud, and more at #GoogleNext18. Don't mis..."
+    url: https://twitter.com/Firebase/status/1021489226871918595
     time_stamp: "2018-07-23 13:16:24"
-  - id: "1020386327861350401"
-    text: "In the latest #Firecasts, @CodingDoug covers the OnUpdate trigger! Stay
+  - title: "In the latest #Firecasts, @CodingDoug covers the OnUpdate trigger! Stay
       tuned for the next episode, where we'll wri... https://t.co/R2HGPqgWiB"
+    url: https://twitter.com/Firebase/status/1020386327861350401
     time_stamp: "2018-07-20 12:13:53"
-  - id: "1020367736902332416"
-    text: "See @WomenTechmakers lead @aygul share what she loves about working in
+  - title: "See @WomenTechmakers lead @aygul share what she loves about working in
       tech and what she's looking forward to at th... https://t.co/ZWDjshRnVH"
+    url: https://twitter.com/Firebase/status/1020367736902332416
     time_stamp: "2018-07-20 11:00:00"
-  - id: "1020067206871371781"
-    text: "RT @CodingDoug: Having fun at @360andev giving away hot sauce and shirts!
+  - title: "RT @CodingDoug: Having fun at @360andev giving away hot sauce and shirts!
       Here's the slides from my talk about @Firebase and @Android Jetpa..."
+    url: https://twitter.com/Firebase/status/1020067206871371781
     time_stamp: "2018-07-19 15:05:48"
-  - id: "1020035546788265984"
-    text: "Excellent news: Women Techmakers just announced a travel grant for the
+  - title: "Excellent news: Women Techmakers just announced a travel grant for the
       Firebase Summit in Prague. We can't wait to... https://t.co/NXVGdhpfCJ"
+    url: https://twitter.com/Firebase/status/1020035546788265984
     time_stamp: "2018-07-19 13:00:00"
   tags:
   - Stack Network
@@ -1228,9 +1228,9 @@ competition:
   - API Provider
 - organization_id: NtWvMIO744pMDTm5OmXlSOwzQVqnUYGLdSNC6116DbP123I117
   name: Kaazing
-  details: Kaazing, creator of the widely-adopted WebSocket standard, offers a range
-    of enterprise infrastructure products with unmatched security, performance and
-    real-time capabilities, to seamlessly enable next generation private and hybrid
+  description: Kaazing, creator of the widely-adopted WebSocket standard, offers a
+    range of enterprise infrastructure products with unmatched security, performance
+    and real-time capabilities, to seamlessly enable next generation private and hybrid
     cloud deployments for financial, logistics and retail applications.
   url: https://kaazing.com/
   email: ""
@@ -1242,8 +1242,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: ""
-  photo_width: ""
+  image: ""
+  image_width: ""
   latest_blog:
   - title: "Kaazing prepares and protects worldwide assets and employees of major
       cloud company with DisasterAWARE Enterprise\u2122"
@@ -1258,111 +1258,111 @@ competition:
     url: https://kaazing.com/kaazing-unveils-disasteraware-enterprise-real-time-risk-management-platform-businesses-worldwide/
     time_stamp: "2018-03-21 15:40:44"
   latest_tweets:
-  - id: "1003720908337500160"
-    text: "Citrix chooses Kaazing's DisasterAWARE Enterprise to prepare and protect
+  - title: "Citrix chooses Kaazing's DisasterAWARE Enterprise to prepare and protect
       business &amp; people assets from natural disa... https://t.co/dLHiQ7gBjI"
+    url: https://twitter.com/kaazing/status/1003720908337500160
     time_stamp: "2018-06-04 12:31:27"
-  - id: "996852234901180417"
-    text: https://t.co/lInhHDaSe4
+  - title: https://t.co/lInhHDaSe4
+    url: https://twitter.com/kaazing/status/996852234901180417
     time_stamp: "2018-05-16 13:37:48"
-  - id: "996852233873522690"
-    text: "Compass Intelligence awards @Kaazing 's DisasterAWARE  Enterprise
+  - title: "Compass Intelligence awards @Kaazing 's DisasterAWARE  Enterprise
       \u201CEnterprise Preparedness Product of the Year 2018... https://t.co/D9Xlj5F7Wp"
+    url: https://twitter.com/kaazing/status/996852233873522690
     time_stamp: "2018-05-16 13:37:47"
-  - id: "993538177007783941"
-    text: "As businesses continue to face damages and lost revenue from record-setting
+  - title: "As businesses continue to face damages and lost revenue from record-setting
       natural disaster losses in 2017, we wan... https://t.co/mNBxb0zXMO"
+    url: https://twitter.com/kaazing/status/993538177007783941
     time_stamp: "2018-05-07 10:08:55"
-  - id: "992794539818717185"
-    text: "RT @weatherchannel: Major 6.9 magnitude earthquake shakes all of Hawaii
+  - title: "RT @weatherchannel: Major 6.9 magnitude earthquake shakes all of Hawaii
       as fissures from the Kilauea Volcano erupt for a fourth time. USGS..."
+    url: https://twitter.com/kaazing/status/992794539818717185
     time_stamp: "2018-05-05 08:53:58"
-  - id: "992794473989013504"
-    text: 'RT @PDC_Global: Modeled economic and building impacts of the M6.9 earthquake
+  - title: 'RT @PDC_Global: Modeled economic and building impacts of the M6.9 earthquake
       on the Island of @Hawaii_EMA @fema https://t.co/CYvFkVrc89'
+    url: https://twitter.com/kaazing/status/992794473989013504
     time_stamp: "2018-05-05 08:53:42"
-  - id: "992794455156690944"
-    text: "RT @PDC_Global: PDC's analysis of the recent M6.9 earthquake, its shaking
+  - title: "RT @PDC_Global: PDC's analysis of the recent M6.9 earthquake, its shaking
       intensity, as well as plotted detail on all earthquake activities..."
+    url: https://twitter.com/kaazing/status/992794455156690944
     time_stamp: "2018-05-05 08:53:37"
-  - id: "992794406729089024"
-    text: "RT @PDC_Global: PDC continues to support Hawaii Emergency Management in
+  - title: "RT @PDC_Global: PDC continues to support Hawaii Emergency Management in
       response to the ongoing volcanic eruption of Kiluea and the recent..."
+    url: https://twitter.com/kaazing/status/992794406729089024
     time_stamp: "2018-05-05 08:53:26"
-  - id: "984859265797107713"
-    text: "DisasterAWARE Enterprise, the most in depth risk intelligence platform
+  - title: "DisasterAWARE Enterprise, the most in depth risk intelligence platform
       to prepare and protect business and people a... https://t.co/N8qjTQqogZ"
+    url: https://twitter.com/kaazing/status/984859265797107713
     time_stamp: "2018-04-13 11:22:01"
-  - id: "976806007262400513"
-    text: "Just launched DisasterAWARE Enterprise, the most powerful and accurate
+  - title: "Just launched DisasterAWARE Enterprise, the most powerful and accurate
       global Risk Intelligence platform for predic... https://t.co/FK3ysNgMNq"
+    url: https://twitter.com/kaazing/status/976806007262400513
     time_stamp: "2018-03-22 06:01:14"
-  - id: "973356591973007360"
-    text: "Kaazing and Pacific Disaster Center form a strategic partnership to provide
+  - title: "Kaazing and Pacific Disaster Center form a strategic partnership to provide
       businesses with the most advanced enter... https://t.co/WZrHuFy2ZW"
+    url: https://twitter.com/kaazing/status/973356591973007360
     time_stamp: "2018-03-12 17:34:30"
-  - id: "937882964175806471"
-    text: "Thanks to @CGTNOfficial for stopping by a couple of weeks ago and checking
+  - title: "Thanks to @CGTNOfficial for stopping by a couple of weeks ago and checking
       out how our technology is bringing to li... https://t.co/M995TvbXIs"
+    url: https://twitter.com/kaazing/status/937882964175806471
     time_stamp: "2017-12-04 19:14:58"
-  - id: "930116838746476544"
-    text: 'Check out how Kaazing technology is helping protect the citizens of Indonesia:
+  - title: 'Check out how Kaazing technology is helping protect the citizens of Indonesia:
       https://t.co/jZaub3kPrc'
+    url: https://twitter.com/kaazing/status/930116838746476544
     time_stamp: "2017-11-13 08:55:09"
-  - id: "892812762841219073"
-    text: "Watch CEO Bob Miller talk through the Kaazing product suite and how it
+  - title: "Watch CEO Bob Miller talk through the Kaazing product suite and how it
       enables real-time digital business:... https://t.co/aOz3pos86g"
+    url: https://twitter.com/kaazing/status/892812762841219073
     time_stamp: "2017-08-02 11:22:04"
-  - id: "888120754792939524"
-    text: "RT @Intellyx: Kaazing: Helping Organizations Transform for a Real Time
+  - title: "RT @Intellyx: Kaazing: Helping Organizations Transform for a Real Time
       World https://t.co/vXJPnLdo0C @kaazing #websockets #realtime #Digita..."
+    url: https://twitter.com/kaazing/status/888120754792939524
     time_stamp: "2017-07-20 12:37:43"
-  - id: "888120708789706753"
-    text: "RT @TheEbizWizard: Kaazing: Helping Organizations Transform for a Real
+  - title: "RT @TheEbizWizard: Kaazing: Helping Organizations Transform for a Real
       Time World https://t.co/1CIruZW7Vd @kaazing #websockets #realtime #D..."
+    url: https://twitter.com/kaazing/status/888120708789706753
     time_stamp: "2017-07-20 12:37:32"
-  - id: "888120642477760512"
-    text: "RT @charlesaraujo: Kaazing: Helping Organizations Transform for a Real
+  - title: "RT @charlesaraujo: Kaazing: Helping Organizations Transform for a Real
       Time World https://t.co/7VBGr0RsFC @kaazing #REST #RealTime #Digital..."
+    url: https://twitter.com/kaazing/status/888120642477760512
     time_stamp: "2017-07-20 12:37:16"
-  - id: "888112022885289986"
-    text: . @TheEbizWizard and @charlesaraujo at @Intellyx have written how we're
+  - title: . @TheEbizWizard and @charlesaraujo at @Intellyx have written how we're
       making Digital Transformation faster/simpler https://t.co/Kx5wAMxJEC
+    url: https://twitter.com/kaazing/status/888112022885289986
     time_stamp: "2017-07-20 12:03:01"
-  - id: "887402117954244608"
-    text: "We've just announced that Richard Marshall @rmmarshall is Kaazing's new
+  - title: "We've just announced that Richard Marshall @rmmarshall is Kaazing's new
       Chief Marketing Officer...welcome Richard!... https://t.co/t0dhDvEl0V"
+    url: https://twitter.com/kaazing/status/887402117954244608
     time_stamp: "2017-07-18 13:02:06"
-  - id: "883467671190286336"
-    text: ".@teena_maddox on why engaging &amp; responsive #apps are a key part of
+  - title: ".@teena_maddox on why engaging &amp; responsive #apps are a key part of
       enterprises' #DigitalTransformation strategies:... https://t.co/38POAITonf"
+    url: https://twitter.com/kaazing/status/883467671190286336
     time_stamp: "2017-07-07 16:28:01"
-  - id: "883390666864119808"
-    text: ".@babcockcw on @PwC_LLP's #CDO survey - by end of 2017, 60% of the
+  - title: ".@babcockcw on @PwC_LLP's #CDO survey - by end of 2017, 60% of the
       world's large companies will have CDOs:... https://t.co/pd6sYdFOJU"
+    url: https://twitter.com/kaazing/status/883390666864119808
     time_stamp: "2017-07-07 11:22:02"
-  - id: "883105295039385600"
-    text: '.@Adam_Grant on how and why brands should go #MobileFirst to reach college
+  - title: '.@Adam_Grant on how and why brands should go #MobileFirst to reach college
       students: https://t.co/9fGSi1n7fS'
+    url: https://twitter.com/kaazing/status/883105295039385600
     time_stamp: "2017-07-06 16:28:04"
-  - id: "883028280877744128"
-    text: ".@baskiyer says enterprises should embrace creativity, context &amp; the
+  - title: ".@baskiyer says enterprises should embrace creativity, context &amp; the
       use of #AI for their #MobileFirst initiatives:... https://t.co/z4c6sp1sZ0"
+    url: https://twitter.com/kaazing/status/883028280877744128
     time_stamp: "2017-07-06 11:22:02"
-  - id: "882742894662230016"
-    text: 'How can enterprises build a bridge between their IT #infrastructure and
+  - title: 'How can enterprises build a bridge between their IT #infrastructure and
       a platform for delivering next-gen #apps? https://t.co/ewZYcv0pDy'
+    url: https://twitter.com/kaazing/status/882742894662230016
     time_stamp: "2017-07-05 16:28:01"
-  - id: "882665929280245760"
-    text: ".@jjoseph100 on why #integration is the key to unlocking the value of your
-      organization's #data:... https://t.co/y3tjFZFxlh"
+  - title: ".@jjoseph100 on why #integration is the key to unlocking the value of
+      your organization's #data:... https://t.co/y3tjFZFxlh"
+    url: https://twitter.com/kaazing/status/882665929280245760
     time_stamp: "2017-07-05 11:22:11"
   tags:
   - SDIO Competition
   - Real Time
 - organization_id: HBAKls3j4GGDRe9BPbnrWnBzGBTmwcvN1116kHGLKsO1238117
   name: Lightstreamer
-  details: Lightstreamer is a top-performing real-time messaging server optimized
+  description: Lightstreamer is a top-performing real-time messaging server optimized
     for the Internet. Blending WebSockets, HTTP, and push notifications, it streams
     data to/from mobile, tablet, browser-based, desktop, and IoT applications.
   url: https://lightstreamer.com
@@ -1375,106 +1375,106 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28721-lightstreamer-com.jpg
-  photo_width: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28721-lightstreamer-com.jpg
+  image_width: ""
   latest_blog: []
   latest_tweets:
-  - id: "1024335319548743681"
-    text: "BRADESCO, one of the biggest banking and financial services companies in
-      \ Brazil, chose LIGHTSTREAMER for real-time... https://t.co/cxHDlEkXMQ"
+  - title: "BRADESCO, one of the biggest banking and financial services companies
+      in  Brazil, chose LIGHTSTREAMER for real-time... https://t.co/cxHDlEkXMQ"
+    url: https://twitter.com/Lightstreamer/status/1024335319548743681
     time_stamp: "2018-07-31 09:45:46"
-  - id: "1007543668088233984"
-    text: Lightstreamer 7.0.1 build 20180614 is out! Download it right now https://t.co/o0gjwpEyUy
+  - title: Lightstreamer 7.0.1 build 20180614 is out! Download it right now https://t.co/o0gjwpEyUy
+    url: https://twitter.com/Lightstreamer/status/1007543668088233984
     time_stamp: "2018-06-15 01:41:44"
-  - id: "998904652509974528"
-    text: "@DScolars That's correct. The free community edition allows either Android
+  - title: "@DScolars That's correct. The free community edition allows either Android
       or iOS, but not both. Consider that prev... https://t.co/K8PwF9CjXz"
+    url: https://twitter.com/Lightstreamer/status/998904652509974528
     time_stamp: "2018-05-22 05:33:22"
-  - id: "997166012322721792"
-    text: "\"Lightstreamer is very fast. Our ActivTrader platform in combination with
-      the Lightstreamer server can process clie... https://t.co/HoyDvYzi1X"
+  - title: "\"Lightstreamer is very fast. Our ActivTrader platform in combination
+      with the Lightstreamer server can process clie... https://t.co/HoyDvYzi1X"
+    url: https://twitter.com/Lightstreamer/status/997166012322721792
     time_stamp: "2018-05-17 10:24:38"
-  - id: "987346287749197824"
-    text: "@chanlitohem You are right. We have kept focusing on the quality of our
+  - title: "@chanlitohem You are right. We have kept focusing on the quality of our
       product and our website was left behind...... https://t.co/RpPyB2xz4i"
+    url: https://twitter.com/Lightstreamer/status/987346287749197824
     time_stamp: "2018-04-20 08:04:33"
-  - id: "982191068144812033"
-    text: "Data Streaming vs. Push Notifications https://t.co/QBt724B3UB #FCM #APNS
+  - title: "Data Streaming vs. Push Notifications https://t.co/QBt724B3UB #FCM #APNS
       #WebSockets #PushNotifications... https://t.co/Cq4UPyOrq3"
+    url: https://twitter.com/Lightstreamer/status/982191068144812033
     time_stamp: "2018-04-06 02:39:33"
-  - id: "979659611853807618"
-    text: '@batzeee Sure, check it out!'
+  - title: '@batzeee Sure, check it out!'
+    url: https://twitter.com/Lightstreamer/status/979659611853807618
     time_stamp: "2018-03-30 03:00:27"
-  - id: "978989826329333761"
-    text: Kiwi, Inc. chooses Lightstreamer for real-time data push. Welcome! https://t.co/PlnB2ndXz2
+  - title: Kiwi, Inc. chooses Lightstreamer for real-time data push. Welcome! https://t.co/PlnB2ndXz2
       https://t.co/5CwPpajnuF
+    url: https://twitter.com/Lightstreamer/status/978989826329333761
     time_stamp: "2018-03-28 06:38:58"
-  - id: "973150659192217602"
-    text: "ThreeTrader, a Hong Kong-based #fintech #startup, which launched a new
+  - title: "ThreeTrader, a Hong Kong-based #fintech #startup, which launched a new
       smart online trading platform, chose Lightst... https://t.co/BdeA1stva6"
+    url: https://twitter.com/Lightstreamer/status/973150659192217602
     time_stamp: "2018-03-12 03:56:12"
-  - id: "971745072952807424"
-    text: "Lightstreamer's demo on a TAG Heuer Connected! Pushing real-time data to
-      a smartwatch #androidwear @TAGHeuer... https://t.co/rzNETpG9Jy"
+  - title: "Lightstreamer's demo on a TAG Heuer Connected! Pushing real-time data
+      to a smartwatch #androidwear @TAGHeuer... https://t.co/rzNETpG9Jy"
+    url: https://twitter.com/Lightstreamer/status/971745072952807424
     time_stamp: "2018-03-08 05:50:54"
-  - id: "969581704766738435"
-    text: 'Read what''s new with Lightstreamer 7! https://t.co/wCTSDzyryP #WebSockets
+  - title: 'Read what''s new with Lightstreamer 7! https://t.co/wCTSDzyryP #WebSockets
       #PushNotifications #RealtimeData https://t.co/n9VC3vj4RW'
+    url: https://twitter.com/Lightstreamer/status/969581704766738435
     time_stamp: "2018-03-02 06:34:27"
-  - id: "969267253073104902"
-    text: Lightstreamer 7 is publicly available! https://t.co/E3QbtO4Ge2 https://t.co/Mm9HVe2j7z
+  - title: Lightstreamer 7 is publicly available! https://t.co/E3QbtO4Ge2 https://t.co/Mm9HVe2j7z
+    url: https://twitter.com/Lightstreamer/status/969267253073104902
     time_stamp: "2018-03-01 09:44:55"
-  - id: "964557081452994560"
-    text: "A new tutorial on how to develop a real-time app for Apple Watch with watchOS
-      SDK for Lightstreamer... https://t.co/s0VSlKxQ30"
+  - title: "A new tutorial on how to develop a real-time app for Apple Watch with
+      watchOS SDK for Lightstreamer... https://t.co/s0VSlKxQ30"
+    url: https://twitter.com/Lightstreamer/status/964557081452994560
     time_stamp: "2018-02-16 09:48:23"
-  - id: "963044358244192257"
-    text: "Discover the Cloud License Manager, now available for Lightstreamer 7.
+  - title: "Discover the Cloud License Manager, now available for Lightstreamer 7.
       Say goodbye to old fashioned license keys bo... https://t.co/5qn2Ygv9aL"
+    url: https://twitter.com/Lightstreamer/status/963044358244192257
     time_stamp: "2018-02-12 05:37:22"
-  - id: "962006521046429696"
-    text: "Lightstreamer 7 is coming... Check out how the new Community Edition and
+  - title: "Lightstreamer 7 is coming... Check out how the new Community Edition and
       Enterprise Edition map to the previous edi... https://t.co/ZVNibZspjo"
+    url: https://twitter.com/Lightstreamer/status/962006521046429696
     time_stamp: "2018-02-09 08:53:22"
-  - id: "961168443268575232"
-    text: ACBS, one of the leading securities companies in Vietnam, goes Lightstreamer
+  - title: ACBS, one of the leading securities companies in Vietnam, goes Lightstreamer
       for their real-time data push needs https://t.co/KdVvrJ5eqk
+    url: https://twitter.com/Lightstreamer/status/961168443268575232
     time_stamp: "2018-02-07 01:23:09"
-  - id: "959372864603525120"
-    text: "A sneak peek into our upcoming SDK for watchOS.. #WatchOS #WebSockets #PushNotifications
-      #RealtimeData... https://t.co/ciURrH5jfW"
+  - title: "A sneak peek into our upcoming SDK for watchOS.. #WatchOS #WebSockets
+      #PushNotifications #RealtimeData... https://t.co/ciURrH5jfW"
+    url: https://twitter.com/Lightstreamer/status/959372864603525120
     time_stamp: "2018-02-02 02:28:09"
-  - id: "951832398722985984"
-    text: "Brand new tutorial on Push Notifications with Lightstreamer 7.0! https://t.co/9a5kq7aZQf
+  - title: "Brand new tutorial on Push Notifications with Lightstreamer 7.0! https://t.co/9a5kq7aZQf
       #PushNotifications... https://t.co/Shihd8ciD0"
+    url: https://twitter.com/Lightstreamer/status/951832398722985984
     time_stamp: "2018-01-12 07:05:02"
-  - id: "951829974910201856"
-    text: "RT @gfinocchiaro: Learn how to set up encrypted connections from https://t.co/rcGUOwGDQU
+  - title: "RT @gfinocchiaro: Learn how to set up encrypted connections from https://t.co/rcGUOwGDQU
       to MQTT brokers. #MQTT #Cool #IoT\nhttps://t.co/fkw..."
+    url: https://twitter.com/Lightstreamer/status/951829974910201856
     time_stamp: "2018-01-12 06:55:24"
-  - id: "951829955557642240"
-    text: "RT @gfinocchiaro: Just released new https://t.co/rcGUOwGDQU version with
+  - title: "RT @gfinocchiaro: Just released new https://t.co/rcGUOwGDQU version with
       added TLS/SSL support to make secure connections with any MQTT bro..."
+    url: https://twitter.com/Lightstreamer/status/951829955557642240
     time_stamp: "2018-01-12 06:55:20"
-  - id: "948963665168003072"
-    text: 'Lightstreamer client library streaming data on iPhone X #WebSockets #PushNotifications
+  - title: 'Lightstreamer client library streaming data on iPhone X #WebSockets #PushNotifications
       #RealtimeData #iPhoneX https://t.co/Z7cQjVtPHw'
+    url: https://twitter.com/Lightstreamer/status/948963665168003072
     time_stamp: "2018-01-04 09:05:43"
-  - id: "943450844216938496"
-    text: Lightstreamer 7.0 beta 2 has been released. Check it out! https://t.co/cQDpAN5XRi
+  - title: Lightstreamer 7.0 beta 2 has been released. Check it out! https://t.co/cQDpAN5XRi
       https://t.co/dgtLt18hce
+    url: https://twitter.com/Lightstreamer/status/943450844216938496
     time_stamp: "2017-12-20 03:59:44"
-  - id: "941688217526468608"
-    text: eToro, which uses Lightstreamer for real-time data push, announces partnership
+  - title: eToro, which uses Lightstreamer for real-time data push, announces partnership
       with CoinDash https://t.co/teHRFc4frJ
+    url: https://twitter.com/Lightstreamer/status/941688217526468608
     time_stamp: "2017-12-15 07:15:41"
-  - id: "914787330929684480"
-    text: 'Lightstreamer launches a new product: https://t.co/Rp3LOSHwWP - The IoT
+  - title: 'Lightstreamer launches a new product: https://t.co/Rp3LOSHwWP - The IoT
       Extender https://t.co/alQ9PCCZyi #MQTT #IoT https://t.co/yySbVr3nZY'
+    url: https://twitter.com/Lightstreamer/status/914787330929684480
     time_stamp: "2017-10-02 02:41:10"
-  - id: "911244396665982986"
-    text: "Multi-Bank Securities, Inc. (MBS), a Detroit-based fixed-income securities
+  - title: "Multi-Bank Securities, Inc. (MBS), a Detroit-based fixed-income securities
       broker-dealer for institutional investor... https://t.co/eT3mFsA4Yl"
+    url: https://twitter.com/Lightstreamer/status/911244396665982986
     time_stamp: "2017-09-22 08:02:48"
   tags:
   - Technology
@@ -1485,8 +1485,8 @@ competition:
   - Enterprise
 - organization_id: 1234AI787zTW5123BBuy7VS32GHE4Ruq8MIHY39aWVKHB9o117
   name: PubNub
-  details: Focus on innovation and launch fast with our realtime APIs and global messaging
-    infrastructure for web, mobile, and Internet of Things.
+  description: Focus on innovation and launch fast with our realtime APIs and global
+    messaging infrastructure for web, mobile, and Internet of Things.
   url: http://pubnub.com
   email: stephen@pubnub.com
   blog_url: http://blog.pubnub.com
@@ -1497,8 +1497,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/98-pubnub.jpg
-  photo_width: "150"
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/98-pubnub.jpg
+  image_width: "150"
   latest_blog:
   - title: 'The Cognitive Era: Big Data, Realtime, and the Edge (Computing)'
     url: https://www.pubnub.com/blog/cognitive-era-big-data-realtime-edge-computing/
@@ -1533,108 +1533,108 @@ competition:
     url: https://www.pubnub.com/blog/every-millisecond-counts-why-time-is-everything-for-businesses/
     time_stamp: "2018-07-31 09:43:23"
   latest_tweets:
-  - id: "1025100221347291137"
-    text: "RT @RajRKane: It was super exciting to dabble in #InternetOfThings firsthand
+  - title: "RT @RajRKane: It was super exciting to dabble in #InternetOfThings firsthand
       for the first time. Also my first time using a #RaspberryPi. T..."
+    url: https://twitter.com/PubNub/status/1025100221347291137
     time_stamp: "2018-08-02 12:25:12"
-  - id: "1024715097241878528"
-    text: "RT @SoracomIoT: Hypnotic! Multi-sensor real-time #IoT data. @SoracomIoT
+  - title: "RT @SoracomIoT: Hypnotic! Multi-sensor real-time #IoT data. @SoracomIoT
       @PubNub wonder twin powers: activated \n\nnice work @Blakecares @ninj..."
+    url: https://twitter.com/PubNub/status/1024715097241878528
     time_stamp: "2018-08-01 10:54:52"
-  - id: "1024715049812688896"
-    text: "RT @SoracomIoT: IoT really is a team sport - successful implementation
+  - title: "RT @SoracomIoT: IoT really is a team sport - successful implementation
       depends on great partnerships at every level. And that includes toni..."
+    url: https://twitter.com/PubNub/status/1024715049812688896
     time_stamp: "2018-08-01 10:54:40"
-  - id: "1024348967092379648"
-    text: "\u2B50\uFE0F\U0001F4D5 Why Time is Everything for Businesses \U0001F4D5\u2B50\uFE0F\n\nData
+  - title: "\u2B50\uFE0F\U0001F4D5 Why Time is Everything for Businesses \U0001F4D5\u2B50\uFE0F\n\nData
       loses value as more time passes. It's called information decay,... https://t.co/kf1fUxhYSh"
+    url: https://twitter.com/PubNub/status/1024348967092379648
     time_stamp: "2018-07-31 10:39:59"
-  - id: "1024041699079647233"
-    text: "RT @erinmoe3: In San Fran Aug 2 then check out this @Meetup :  @TIBCO /
-      @PubNub  with @LeonStigter  @FlynnFlogo   https://t.co/WAgVvRxB8i ......"
+  - title: "RT @erinmoe3: In San Fran Aug 2 then check out this @Meetup :  @TIBCO
+      / @PubNub  with @LeonStigter  @FlynnFlogo   https://t.co/WAgVvRxB8i ......"
+    url: https://twitter.com/PubNub/status/1024041699079647233
     time_stamp: "2018-07-30 14:19:01"
-  - id: "1023959150173151232"
-    text: "RT @cloudinary: Using a #chatbot to quickly solve your #ImageManipulation
+  - title: "RT @cloudinary: Using a #chatbot to quickly solve your #ImageManipulation
       needs! via @unicodeveloper @PubNub &amp; #Cloudinary https://t.co/R4v..."
+    url: https://twitter.com/PubNub/status/1023959150173151232
     time_stamp: "2018-07-30 08:51:00"
-  - id: "1023957748059267073"
-    text: '@jeremypollock Congrats on both fronts! Keep us posted on how things are
+  - title: '@jeremypollock Congrats on both fronts! Keep us posted on how things are
       going with the integration.'
+    url: https://twitter.com/PubNub/status/1023957748059267073
     time_stamp: "2018-07-30 08:45:26"
-  - id: "1023957318201794560"
-    text: We are honored at the recognition! https://t.co/wrWHwCtlGV
+  - title: We are honored at the recognition! https://t.co/wrWHwCtlGV
+    url: https://twitter.com/PubNub/status/1023957318201794560
     time_stamp: "2018-07-30 08:43:43"
-  - id: "1022666763295543298"
-    text: 'Creating portals in AR using Apple AR Kit! Fun meetup by AR Today #PubNub
+  - title: 'Creating portals in AR using Apple AR Kit! Fun meetup by AR Today #PubNub
       #ARKit https://t.co/5AmqOrG41E'
+    url: https://twitter.com/PubNub/status/1022666763295543298
     time_stamp: "2018-07-26 19:15:31"
-  - id: "1022568956979101696"
-    text: "The world around us is transforming and cognitive services are playing
+  - title: "The world around us is transforming and cognitive services are playing
       a massive role in that change. \n\nOur new eBo... https://t.co/k9j0hM4iaF"
+    url: https://twitter.com/PubNub/status/1022568956979101696
     time_stamp: "2018-07-26 12:46:52"
-  - id: "1022548068443377665"
-    text: "RT @WebRTCVentures: How to build an online #realtime auction system in
+  - title: "RT @WebRTCVentures: How to build an online #realtime auction system in
       React using #PubNub Realtime Messaging and React-Bootstrap @RealTime..."
+    url: https://twitter.com/PubNub/status/1022548068443377665
     time_stamp: "2018-07-26 11:23:52"
-  - id: "1022211614399819776"
-    text: 'RT @monkeylearn: Announcing the MonkeyLearn Block for PubNub https://t.co/X9lURaFpuN
+  - title: 'RT @monkeylearn: Announcing the MonkeyLearn Block for PubNub https://t.co/X9lURaFpuN
       @pubnub'
+    url: https://twitter.com/PubNub/status/1022211614399819776
     time_stamp: "2018-07-25 13:06:55"
-  - id: "1022176565000454144"
-    text: 'Irish start-ups @wiaio and Calt Dynamics chosen for top accelerators (via
+  - title: 'Irish start-ups @wiaio and Calt Dynamics chosen for top accelerators (via
       @IrishTimesBiz): https://t.co/xFoExOVvAA'
+    url: https://twitter.com/PubNub/status/1022176565000454144
     time_stamp: "2018-07-25 10:47:38"
-  - id: "1021877701051801600"
-    text: "RT @TwitchDev: Did you know that we'll be at @PubNub this evening? It's
+  - title: "RT @TwitchDev: Did you know that we'll be at @PubNub this evening? It's
       true! @Amorelandra is presenting an interactive @Minecraft demo to..."
+    url: https://twitter.com/PubNub/status/1021877701051801600
     time_stamp: "2018-07-24 15:00:04"
-  - id: "1021867969935073280"
-    text: "#mobiledev shouldn't be daunting. We wrote a new comprehensive guide to
+  - title: "#mobiledev shouldn't be daunting. We wrote a new comprehensive guide to
       building #iOS chat apps with ChatEngine and... https://t.co/qWhu8qsuls"
+    url: https://twitter.com/PubNub/status/1021867969935073280
     time_stamp: "2018-07-24 14:21:24"
-  - id: "1021823150533697537"
-    text: "RT @JonnySmillie: A new blog post on visualising the crypto market in realtime
-      with @PubNub's EON #crypto #realtime #eon\n\nhttps://t.co/yiEL..."
+  - title: "RT @JonnySmillie: A new blog post on visualising the crypto market in
+      realtime with @PubNub's EON #crypto #realtime #eon\n\nhttps://t.co/yiEL..."
+    url: https://twitter.com/PubNub/status/1021823150533697537
     time_stamp: "2018-07-24 11:23:18"
-  - id: "1021821548309622784"
-    text: '@linkibol @pusher @Firebase Smart move! Let us know if you need any help
+  - title: '@linkibol @pusher @Firebase Smart move! Let us know if you need any help
       :)'
+    url: https://twitter.com/PubNub/status/1021821548309622784
     time_stamp: "2018-07-24 11:16:56"
-  - id: "1021437116067168256"
-    text: |-
+  - title: |-
       Big fan of #HQtrivia? How about you build one yourself? Here's how to do it for #Android:
 
       https://t.co/hztUVHiixR https://t.co/IrtVKxSRUs
+    url: https://twitter.com/PubNub/status/1021437116067168256
     time_stamp: "2018-07-23 09:49:20"
-  - id: "1020422422502170624"
-    text: "Want to learn how to build a chat app that can translate any language to
-      English in realtime? Well, we've got the r... https://t.co/ROpfje2vwZ"
+  - title: "Want to learn how to build a chat app that can translate any language
+      to English in realtime? Well, we've got the r... https://t.co/ROpfje2vwZ"
+    url: https://twitter.com/PubNub/status/1020422422502170624
     time_stamp: "2018-07-20 14:37:18"
-  - id: "1020036655871213568"
-    text: "RT @buglabs: Dashboard of the Day:\n\nhttps://t.co/QqvW6vEnat\n\nThis freeboard
-      is another take on a weather dashboard, using @PubNub datasourc..."
+  - title: "RT @buglabs: Dashboard of the Day:\n\nhttps://t.co/QqvW6vEnat\n\nThis
+      freeboard is another take on a weather dashboard, using @PubNub datasourc..."
+    url: https://twitter.com/PubNub/status/1020036655871213568
     time_stamp: "2018-07-19 13:04:24"
-  - id: "1019999310451130368"
-    text: "We have an awesome meetup on Tues, July 24th feat. a talk by @Twitch about
+  - title: "We have an awesome meetup on Tues, July 24th feat. a talk by @Twitch about
       building In-Game Chat in Minecraft with... https://t.co/P4RXd2QUal"
+    url: https://twitter.com/PubNub/status/1019999310451130368
     time_stamp: "2018-07-19 10:36:00"
-  - id: "1019983395483353088"
-    text: "RT @vamprapp: Check out this interview between our CEO @josh_simons_ and
+  - title: "RT @vamprapp: Check out this interview between our CEO @josh_simons_ and
       @PubNub right here: https://t.co/Eooik9z0Gu \U0001F60E"
+    url: https://twitter.com/PubNub/status/1019983395483353088
     time_stamp: "2018-07-19 09:32:46"
-  - id: "1019619225395027968"
-    text: |-
+  - title: |-
       When it comes to engineering team culture, the question is: Stability vs flexibility?
 
       https://t.co/W0c9yQJNOI https://t.co/LGi8IQ6a0R
+    url: https://twitter.com/PubNub/status/1019619225395027968
     time_stamp: "2018-07-18 09:25:41"
-  - id: "1019331736000294912"
-    text: "There really is no limit what you can do with PubNub! Learn How to Build
+  - title: "There really is no limit what you can do with PubNub! Learn How to Build
       an Online Realtime Bidding/Auction System... https://t.co/j5ZgCKduVm"
+    url: https://twitter.com/PubNub/status/1019331736000294912
     time_stamp: "2018-07-17 14:23:18"
-  - id: "1019302616143093761"
-    text: "Be sure to join PubNub and @mstranslator for the webinar \"Serverless Language
-      Translation On-the-Fly with Microsoft... https://t.co/OZR4xp8hbG"
+  - title: "Be sure to join PubNub and @mstranslator for the webinar \"Serverless
+      Language Translation On-the-Fly with Microsoft... https://t.co/OZR4xp8hbG"
+    url: https://twitter.com/PubNub/status/1019302616143093761
     time_stamp: "2018-07-17 12:27:36"
   tags:
   - Technology
@@ -1650,7 +1650,7 @@ competition:
   - API LIfeycle
 - organization_id: 9WZQ0R123p4GE116pFEuSCcv8Jez11F0Yh123FktGTYiy5uj0117
   name: Push Technology
-  details: We make the Internet work for our mobile-obsessed, everything-connected
+  description: We make the Internet work for our mobile-obsessed, everything-connected
     world. Leading brands like 888 Holdings, DAB Bank, IBM, and William Hill leverage
     our technology to power applications critical to revenue growth, customer engagement,
     and business.
@@ -1664,8 +1664,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28733-www-pushtechnology-com.jpg
-  photo_width: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28733-www-pushtechnology-com.jpg
+  image_width: ""
   latest_blog:
   - title: 'The Cognitive Era: Big Data, Realtime, and the Edge (Computing)'
     url: https://www.pubnub.com/blog/cognitive-era-big-data-realtime-edge-computing/
@@ -1711,7 +1711,7 @@ competition:
   - Data
 - organization_id: Drj85m123123KGsStm71163P09mvYncvxJqC116Pp2BPFbmZ5GA117
   name: Pusher
-  details: Pusher empowers developer with API to create collaboration & communication
+  description: Pusher empowers developer with API to create collaboration & communication
     features in their web and mobile apps.
   url: http://pusher.com/
   email: info@pusher.com
@@ -1723,8 +1723,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/44-pusher.jpg
-  photo_width: "150"
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/44-pusher.jpg
+  image_width: "150"
   latest_blog:
   - title: "React Context API: What's it all about?"
     url: http://feedproxy.google.com/""r/pusherb/""3/CcGG1BfTflA/
@@ -1803,105 +1803,106 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
-  - id: "1028607782100992002"
-    text: 'Join us in #London as a Senior Platform Engineer and get to solve difficult
+  - title: 'Join us in #London as a Senior Platform Engineer and get to solve difficult
       problems for engineers! https://t.co/tHc8DPV3hE'
+    url: https://twitter.com/pusher/status/1028607782100992002
     time_stamp: "2018-08-12 04:43:00"
-  - id: "1028244638468120577"
-    text: "We are \U0001F440 for a Senior Backend Engineer in #London Apply here:
+  - title: "We are \U0001F440 for a Senior Backend Engineer in #London Apply here:
       https://t.co/T61fUTLyKI"
+    url: https://twitter.com/pusher/status/1028244638468120577
     time_stamp: "2018-08-11 04:40:00"
-  - id: "1027926794245218304"
-    text: "Join us as a Senior Cloud Infrastructure Engineer in #London UK and help
+  - title: "Join us as a Senior Cloud Infrastructure Engineer in #London UK and help
       shape the direction of software!... https://t.co/f16lyhEPsd"
+    url: https://twitter.com/pusher/status/1027926794245218304
     time_stamp: "2018-08-10 07:37:00"
-  - id: "1026902292644220931"
-    text: 'We are at #CloudNativeLon with @JoelASpeed who shares our journey to setting
+  - title: 'We are at #CloudNativeLon with @JoelASpeed who shares our journey to setting
       up #Kubernetes SSO. https://t.co/ksUzsQvluo'
+    url: https://twitter.com/pusher/status/1026902292644220931
     time_stamp: "2018-08-07 11:46:00"
-  - id: "1024927000002265089"
-    text: "RT @JoelASpeed: The @pusher team are at #gopherconuk today and tomorrow,
+  - title: "RT @JoelASpeed: The @pusher team are at #gopherconuk today and tomorrow,
       come see us at our stand, have a chat and grab some swag \U0001F455\U0001F389
       https:..."
+    url: https://twitter.com/pusher/status/1024927000002265089
     time_stamp: "2018-08-02 00:56:53"
-  - id: "1022533776650461185"
-    text: "RT @missismada: At @Oracle @ljcjug today with @zmarkan  who is telling
+  - title: "RT @missismada: At @Oracle @ljcjug today with @zmarkan  who is telling
       us about #StateOfKotlin - what's hot \U0001F525\U0001F3D6 and what's
       not! @pusher http..."
+    url: https://twitter.com/pusher/status/1022533776650461185
     time_stamp: "2018-07-26 10:27:04"
-  - id: "1019506533036589057"
-    text: "Every year we get better and better for the #CityRace! Our team was ace
+  - title: "Every year we get better and better for the #CityRace! Our team was ace
       \U0001F603! https://t.co/wlPO024Xee"
+    url: https://twitter.com/pusher/status/1019506533036589057
     time_stamp: "2018-07-18 01:57:53"
-  - id: "1019138164001329152"
-    text: "We surveyed a lot of developers this year to find out how they feel about
+  - title: "We surveyed a lot of developers this year to find out how they feel about
       #Kotlin @zmarkan shares what he found out... https://t.co/3Qe2DDMs22"
+    url: https://twitter.com/pusher/status/1019138164001329152
     time_stamp: "2018-07-17 01:34:07"
-  - id: "1014856249228308480"
-    text: "Today is the day! We are releasing the first ever State of #Kotlin report!\nRead
+  - title: "Today is the day! We are releasing the first ever State of #Kotlin report!\nRead
       what 2,744 fellow Kotliners think a... https://t.co/wNf7yjzjYN"
+    url: https://twitter.com/pusher/status/1014856249228308480
     time_stamp: "2018-07-05 05:59:19"
-  - id: "1012370983431307264"
-    text: "Whoop! @ludushq is a tool that finally enables the words \"exciting\" and
-      \"Presentations\" to be used in the same sent... https://t.co/lLFwKT9TDD"
+  - title: "Whoop! @ludushq is a tool that finally enables the words \"exciting\"
+      and \"Presentations\" to be used in the same sent... https://t.co/lLFwKT9TDD"
+    url: https://twitter.com/pusher/status/1012370983431307264
     time_stamp: "2018-06-28 09:23:46"
-  - id: "1011645737380339712"
-    text: 'RT @Real_CSS_Tricks: Add realtime comments to a Gatsby blog @pusher https://t.co/U7Uidt8OTG'
+  - title: 'RT @Real_CSS_Tricks: Add realtime comments to a Gatsby blog @pusher https://t.co/U7Uidt8OTG'
+    url: https://twitter.com/pusher/status/1011645737380339712
     time_stamp: "2018-06-26 09:21:53"
-  - id: "1011632512433557505"
-    text: "RT @perborgen: I just launched a free course which teaches you React.js
+  - title: "RT @perborgen: I just launched a free course which teaches you React.js
       through building a chat app! \U0001F680\n\nIt contains 19 interactive screenca..."
+    url: https://twitter.com/pusher/status/1011632512433557505
     time_stamp: "2018-06-26 08:29:20"
-  - id: "1011571554520649734"
-    text: "RT @ABridgwater: COMPUTER WEEKLY\n\nPusher: treat developers 'as customers'
-      https://t.co/AmOVDLwxDa via @computerweekly https://t.co/01vH5NDZ..."
+  - title: "RT @ABridgwater: COMPUTER WEEKLY\n\nPusher: treat developers 'as
+      customers' https://t.co/AmOVDLwxDa via @computerweekly https://t.co/01vH5NDZ..."
+    url: https://twitter.com/pusher/status/1011571554520649734
     time_stamp: "2018-06-26 04:27:07"
-  - id: "1011203139146518529"
-    text: "RT @aniamorgiel: @zmarkan presenting @pusher's approach to DLS with the
+  - title: "RT @aniamorgiel: @zmarkan presenting @pusher's approach to DLS with the
       goal of improving readability and saving time on repetitive tasks\n#..."
+    url: https://twitter.com/pusher/status/1011203139146518529
     time_stamp: "2018-06-25 04:03:10"
-  - id: "1010483103280689152"
-    text: "Only a week left to redeem the Pusher Dev Pack. Get loads of free dev software
-      including @algolia credit and access... https://t.co/jFNZJu0mf9"
+  - title: "Only a week left to redeem the Pusher Dev Pack. Get loads of free dev
+      software including @algolia credit and access... https://t.co/jFNZJu0mf9"
+    url: https://twitter.com/pusher/status/1010483103280689152
     time_stamp: "2018-06-23 04:22:00"
-  - id: "1010130280772857856"
-    text: "Get $10,000 worth of awesome #developer software, including @digitalocean
+  - title: "Get $10,000 worth of awesome #developer software, including @digitalocean
       &amp; @Nexmo credits, with the Pusher Dev Pac... https://t.co/0TzLpE4SQM"
+    url: https://twitter.com/pusher/status/1010130280772857856
     time_stamp: "2018-06-22 05:00:00"
-  - id: "1009814897566380032"
-    text: "Today our engineering team celebrated a milestone we reached last week:
+  - title: "Today our engineering team celebrated a milestone we reached last week:
       10 trillion messages delivered via Pusher C... https://t.co/jEpXuX8PTR"
+    url: https://twitter.com/pusher/status/1009814897566380032
     time_stamp: "2018-06-21 08:06:47"
-  - id: "1009790070956707841"
-    text: "RT @BrandonMorelli: Really cool article out today: Create A Live Comment
+  - title: "RT @BrandonMorelli: Really cool article out today: Create A Live Comment
       Feed with @Pusher and Gatsby (React + GraphQL + Node.js)\u201D https://..."
+    url: https://twitter.com/pusher/status/1009790070956707841
     time_stamp: "2018-06-21 06:28:08"
-  - id: "1009111043291795456"
-    text: "RT @perborgen: I've written a quick tutorial on how to create a chat app
+  - title: "RT @perborgen: I've written a quick tutorial on how to create a chat app
       using @reactjs. The full course on the same subject is coming out..."
+    url: https://twitter.com/pusher/status/1009111043291795456
     time_stamp: "2018-06-19 09:29:55"
-  - id: "1009027509470552064"
-    text: "RT @zmarkan: You know what's cool? 10 Trillion messages sent over @Pusher
+  - title: "RT @zmarkan: You know what's cool? 10 Trillion messages sent over @Pusher
       Channels! 13 zeroes. My buddy @MrJamesFisher explains what went i..."
+    url: https://twitter.com/pusher/status/1009027509470552064
     time_stamp: "2018-06-19 03:57:59"
-  - id: "1008978222837616640"
-    text: "RT @Code_LikeAGirl: \u201CHow I learnt I was born to be a Software Engineer\u201D
+  - title: "RT @Code_LikeAGirl: \u201CHow I learnt I was born to be a Software Engineer\u201D
       by Anya Zenkina from @pusher https://t.co/GWKZa8E7By\n\nWhen did you..."
+    url: https://twitter.com/pusher/status/1008978222837616640
     time_stamp: "2018-06-19 00:42:08"
-  - id: "1007204619141906432"
-    text: "RT @KotlinCommConf: There's @zmarkan in the Elvis Room, and then there
+  - title: "RT @KotlinCommConf: There's @zmarkan in the Elvis Room, and then there
       are #kotlin, #DSL, and a lot of people paying attention! @pusher #kc..."
+    url: https://twitter.com/pusher/status/1007204619141906432
     time_stamp: "2018-06-14 03:14:28"
-  - id: "1006847638543785984"
-    text: 'RT @pawel_ledwon: How we approach error design @pusher: https://t.co/AZftpwKPJK'
+  - title: 'RT @pawel_ledwon: How we approach error design @pusher: https://t.co/AZftpwKPJK'
+    url: https://twitter.com/pusher/status/1006847638543785984
     time_stamp: "2018-06-13 03:35:58"
-  - id: "1006527125464248320"
-    text: "RT @codeburstio: \u201CBuild A Chat App With Sentiment Analysis Using Next.js\u201D
-      and @pusher https://t.co/m5qS5BHSOC\n\n#reactjs #nextjs #webdev #no..."
+  - title: "RT @codeburstio: \u201CBuild A Chat App With Sentiment Analysis Using
+      Next.js\u201D and @pusher https://t.co/m5qS5BHSOC\n\n#reactjs #nextjs #webdev
+      #no..."
+    url: https://twitter.com/pusher/status/1006527125464248320
     time_stamp: "2018-06-12 06:22:21"
-  - id: "1006517976164544512"
-    text: "Join our awesome #Marketing team in London and San Francisco! We are hiring
+  - title: "Join our awesome #Marketing team in London and San Francisco! We are hiring
       a Senior Product Marketing Manager, Sen... https://t.co/JpFR7FO6OF"
+    url: https://twitter.com/pusher/status/1006517976164544512
     time_stamp: "2018-06-12 05:46:00"
   tags:
   - WebSockets
@@ -1917,7 +1918,7 @@ competition:
   - API LIfeycle
 - organization_id: sMCK2o5duVEs5whdTuymMCx3t7zws8P51m4EEPXJDxE117
   name: Streamr
-  details: "Data done differently with our realtime #data Marketplace & p2p decentralised
+  description: "Data done differently with our realtime #data Marketplace & p2p decentralised
     Network supported by #Ethereum. #IoT \U0001F4F6  #blockchain \U0001F4AA $DATA
     #cryptocurrencies"
   url: https://www.streamr.com
@@ -1930,8 +1931,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg
-  photo_width: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg
+  image_width: ""
   latest_blog:
   - title: "Building the missing protocol of today's internet stack: a decentralized
       pub/sub network for..."
@@ -1966,104 +1967,104 @@ competition:
     url: https://medium.com/streamrblog/anti-theft-sticker-protects-your-valuables-without-revealing-their-location-f19d75b6b3?source=rss----40973205350c---4
     time_stamp: "2018-06-01 02:47:35"
   latest_tweets:
-  - id: "1029744925166972929"
-    text: "This September #Streamr will be joining @FluenceAI  @nucypher and @oceanprotocol
+  - title: "This September #Streamr will be joining @FluenceAI  @nucypher and @oceanprotocol
       at @_TheFamily for some exciting d... https://t.co/BFN1rSi1uf"
+    url: https://twitter.com/streamrinc/status/1029744925166972929
     time_stamp: "2018-08-15 08:01:36"
-  - id: "1029700038946185216"
-    text: "Congrats to our Community Hero of the month Lootcoin for helping us spread
+  - title: "Congrats to our Community Hero of the month Lootcoin for helping us spread
       the word about #Streamr on Reddit, and e... https://t.co/ufA02yVkfQ"
+    url: https://twitter.com/streamrinc/status/1029700038946185216
     time_stamp: "2018-08-15 05:03:14"
-  - id: "1029680670614978561"
-    text: "RT @FluenceAI: Happy to announce the next meetup, a part of the Berlin
+  - title: "RT @FluenceAI: Happy to announce the next meetup, a part of the Berlin
       Blockchain Week @BerBlockWeek \U0001F1E9\U0001F1EA \nJoin @streamrinc @nucypher
       @oceanp..."
+    url: https://twitter.com/streamrinc/status/1029680670614978561
     time_stamp: "2018-08-15 03:46:17"
-  - id: "1029657158206541825"
-    text: '#Streamr''s COO @welho63 shares his views on privacy and personal data
+  - title: '#Streamr''s COO @welho63 shares his views on privacy and personal data
       in #AI in this @Entrepreneur piece: https://t.co/u5nlLfOFWl'
+    url: https://twitter.com/streamrinc/status/1029657158206541825
     time_stamp: "2018-08-15 02:12:51"
-  - id: "1029481912132362247"
-    text: "RT @j_larrieux: @lrettig @MessariCrypto @_beckerb @lightning @CasaHODL
+  - title: "RT @j_larrieux: @lrettig @MessariCrypto @_beckerb @lightning @CasaHODL
       @Balance_io @graphprotocol @SetProtocol I am a fan of teams that #sh..."
+    url: https://twitter.com/streamrinc/status/1029481912132362247
     time_stamp: "2018-08-14 14:36:29"
-  - id: "1029367913659211776"
-    text: 'Network, Strategy, Marketplace and more insights on #Streamr''s plans in
-      our latest video #AMA with CEO Henri Pihkala https://t.co/dCFCSyASmZ'
+  - title: 'Network, Strategy, Marketplace and more insights on #Streamr''s plans
+      in our latest video #AMA with CEO Henri Pihkala https://t.co/dCFCSyASmZ'
+    url: https://twitter.com/streamrinc/status/1029367913659211776
     time_stamp: "2018-08-14 07:03:30"
-  - id: "1029338374111485952"
-    text: 'What''s @zapier, and how can you use it to send #DataStreams to #Streamr?
+  - title: 'What''s @zapier, and how can you use it to send #DataStreams to #Streamr?
       Follow our tutorial and find out https://t.co/3UVe1BO1lE'
+    url: https://twitter.com/streamrinc/status/1029338374111485952
     time_stamp: "2018-08-14 05:06:07"
-  - id: "1029294048769654785"
-    text: '@PatriceAha @Matt_Innes Thanks @PatriceAha!'
+  - title: '@PatriceAha @Matt_Innes Thanks @PatriceAha!'
+    url: https://twitter.com/streamrinc/status/1029294048769654785
     time_stamp: "2018-08-14 02:09:59"
-  - id: "1029291946571964417"
-    text: "\"Branding isn't a magic sauce you sprinkle over the top of something      it's everything the company does.\" #Streamr... https://t.co/RIasGl76l5"
+  - title: "\"Branding isn't a magic sauce you sprinkle over the top of something      it's everything the company does.\" #Streamr... https://t.co/RIasGl76l5"
+    url: https://twitter.com/streamrinc/status/1029291946571964417
     time_stamp: "2018-08-14 02:01:38"
-  - id: "1029005256087224320"
-    text: "RT @tweetreinoud: [Friday read] Me, Myself and #AI: Is That My #Privacy
+  - title: "RT @tweetreinoud: [Friday read] Me, Myself and #AI: Is That My #Privacy
       in the Rearview Mirror? | Mountains of #data are what make #Machine..."
+    url: https://twitter.com/streamrinc/status/1029005256087224320
     time_stamp: "2018-08-13 07:02:25"
-  - id: "1028990271671943169"
-    text: "Is real-time #data essential for mainstream adoption? @kontulai explains
+  - title: "Is real-time #data essential for mainstream adoption? @kontulai explains
       why it is the missing component to unlock... https://t.co/9C08EGjn6U"
+    url: https://twitter.com/streamrinc/status/1028990271671943169
     time_stamp: "2018-08-13 06:02:53"
-  - id: "1028956223578796032"
-    text: "RT @MikhaelSantos: Using @streamrinc #marketplace to sell premium content
+  - title: "RT @MikhaelSantos: Using @streamrinc #marketplace to sell premium content
       for anyone interested in #blockchain #Crypto #Decentralization an..."
+    url: https://twitter.com/streamrinc/status/1028956223578796032
     time_stamp: "2018-08-13 03:47:35"
-  - id: "1028938307613470722"
-    text: "\"The Streamr #DATAcoin is the native currency of the ecosystem that we're
+  - title: "\"The Streamr #DATAcoin is the native currency of the ecosystem that we're
       building.\" Founder @henripihkala explains... https://t.co/VSeiaYcUgh"
+    url: https://twitter.com/streamrinc/status/1028938307613470722
     time_stamp: "2018-08-13 02:36:23"
-  - id: "1028937677893259264"
-    text: "@c4rt0gr4ph3r @henripihkala As you can imagine, we can't cover all the
+  - title: "@c4rt0gr4ph3r @henripihkala As you can imagine, we can't cover all the
       questions in an hour but we are always happy... https://t.co/0TDSKVtlZL"
+    url: https://twitter.com/streamrinc/status/1028937677893259264
     time_stamp: "2018-08-13 02:33:53"
-  - id: "1028936068807241728"
-    text: "@c4rt0gr4ph3r @henripihkala Hi Adam, FYI the questions asked came from
+  - title: "@c4rt0gr4ph3r @henripihkala Hi Adam, FYI the questions asked came from
       the community. We created a Reddit thread a... https://t.co/QS5TbYzk7t"
+    url: https://twitter.com/streamrinc/status/1028936068807241728
     time_stamp: "2018-08-13 02:27:30"
-  - id: "1028906863973294080"
-    text: '@c4rt0gr4ph3r @henripihkala You''ll find that almost all the questions
+  - title: '@c4rt0gr4ph3r @henripihkala You''ll find that almost all the questions
       answered were up on the Reddit thread beforehand.'
+    url: https://twitter.com/streamrinc/status/1028906863973294080
     time_stamp: "2018-08-13 00:31:27"
-  - id: "1028657418539081728"
-    text: "RT @SpirosMargaris: Good read\n\nMe, Myself and #AI: Is That My #Privacy
+  - title: "RT @SpirosMargaris: Good read\n\nMe, Myself and #AI: Is That My #Privacy
       in the Rearview Mirror? \n\nhttps://t.co/pWVQy3jG8d #fintech #insurtec..."
+    url: https://twitter.com/streamrinc/status/1028657418539081728
     time_stamp: "2018-08-12 08:00:14"
-  - id: "1028642339064086528"
-    text: "\"Not only does #Ethereum have around 17,000 nodes running the network
+  - title: "\"Not only does #Ethereum have around 17,000 nodes running the network
       across six continents, its developer communit... https://t.co/MWxJ2I6K2g"
+    url: https://twitter.com/streamrinc/status/1028642339064086528
     time_stamp: "2018-08-12 07:00:19"
-  - id: "1028612068893712384"
-    text: "RT @NeilCHughes: Crypto Interview: @henripihkala CEO and founder of @streamrinc
+  - title: "RT @NeilCHughes: Crypto Interview: @henripihkala CEO and founder of @streamrinc
       reveals why they are aiming to be the eBay of data streams..."
+    url: https://twitter.com/streamrinc/status/1028612068893712384
     time_stamp: "2018-08-12 05:00:02"
-  - id: "1028279957720584192"
-    text: "RT @streamrinc: \"We are honoured to have won this award on our pursuit
+  - title: "RT @streamrinc: \"We are honoured to have won this award on our pursuit
       of innovative and effective real-time data utilisation\" @henripihkal..."
+    url: https://twitter.com/streamrinc/status/1028279957720584192
     time_stamp: "2018-08-11 07:00:21"
-  - id: "1028249926940192768"
-    text: "RT @streamrinc: What's next for #Streamr? All your questions answered by
-      @henripihkala in our latest live video #AMA: https://t.co/dCFCSyAS..."
+  - title: "RT @streamrinc: What's next for #Streamr? All your questions answered
+      by @henripihkala in our latest live video #AMA: https://t.co/dCFCSyAS..."
+    url: https://twitter.com/streamrinc/status/1028249926940192768
     time_stamp: "2018-08-11 05:01:01"
-  - id: "1027902399288147969"
-    text: "\"DApps: Why the real-time #data backbone is the missing component\" by
+  - title: "\"DApps: Why the real-time #data backbone is the missing component\" by
       @kontulai, head of #Streamr marketplace opera... https://t.co/CSUNnjaXWq"
+    url: https://twitter.com/streamrinc/status/1027902399288147969
     time_stamp: "2018-08-10 06:00:04"
-  - id: "1027887847985086464"
-    text: "RT @web3foundation: \u201CThe two purposes of #Web3 are 1) to make the
+  - title: "RT @web3foundation: \u201CThe two purposes of #Web3 are 1) to make the
       cost of infringement on users data very expensive, and to 2) reduce neces..."
+    url: https://twitter.com/streamrinc/status/1027887847985086464
     time_stamp: "2018-08-10 05:02:14"
-  - id: "1027887432686071808"
-    text: "\u201COur ultimate vision was that everyone could use our platform and
+  - title: "\u201COur ultimate vision was that everyone could use our platform and
       tools to connect real-time data sources.\u201D Discove... https://t.co/iGn5nfQAJV"
+    url: https://twitter.com/streamrinc/status/1027887432686071808
     time_stamp: "2018-08-10 05:00:35"
-  - id: "1027862230648410112"
-    text: "New #Streamr video review by #cryptoacademy: https://t.co/K8Orsny6mK\nVery
+  - title: "New #Streamr video review by #cryptoacademy: https://t.co/K8Orsny6mK\nVery
       nice and documented overview of the project\U0001F44D!"
+    url: https://twitter.com/streamrinc/status/1027862230648410112
     time_stamp: "2018-08-10 03:20:27"
   tags:
   - Technology
@@ -2075,7 +2076,7 @@ competition:
   - Blockchain
 - organization_id: kyFc1PI22cwHBh8123oILFQ4MGRBEJHPFrHUzhum6x9wE117
   name: Striim
-  details: Striim (pronounced stream) provides an end-to-end, real-time data integration
+  description: Striim (pronounced stream) provides an end-to-end, real-time data integration
     + streaming analytics platform. Leverage change data capture (CDC) to access data.
   url: https://www.striim.com
   email: ""
@@ -2087,8 +2088,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  photo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
-  photo_width: "150"
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
+  image_width: "150"
   latest_blog:
   - title: "Striim's Latest Releases Boost Cloud Integration Capabilities, Ease
       of Use, and Extensibility \u2013 Part 2"
