@@ -69,7 +69,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -425,7 +425,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -776,7 +776,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -1198,7 +1198,8 @@ competition:
     creation_date: "2018-03-12"
     view_count: "27"
   - question_id: "49052152"
-    title: Where does Amazon Kinesis Agent serach for the filePattern log file?
+    title: Where does Amazon Kinesis Agent serach for the &quot;filePattern&quot;
+      log file?
     url: https://stackoverflow.com/questions/49052152/where-does-amazon-kinesis-agent-serach-for-the-filepattern-log-file
     owner_display_name: CS101
     owner_reputation: "21"
@@ -1421,7 +1422,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -2017,7 +2018,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -4367,7 +4368,8 @@ competition:
     creation_date: "2017-11-01"
     view_count: "59"
   - question_id: "46909298"
-    title: Bad request is shown when try to startup Kaazing Simple Chat App
+    title: '&quot;Bad request&quot; is shown when try to startup &quot;Kaazing Simple
+      Chat App&quot;'
     url: https://stackoverflow.com/questions/46909298/bad-request-is-shown-when-try-to-startup-kaazing-simple-chat-app
     owner_display_name: Sara
     owner_reputation: "6"
@@ -4712,7 +4714,9 @@ competition:
     created_date: "2018-07-19"
     score: "702"
   - reddit_id: "8"
-    title: 'Came back because of double BP, had 5 matches with 3 ebony mories with dying light, 2 tombstone myers, one perma tier 3 and all camped... although   we always had 2 or more party streamers'
+    title: Came back because of double BP, had 5 matches with 3 ebony mories with
+      dying light, 2 tombstone myers, one perma tier 3 and all camped... although
+      we always had 2 or more party streamers    url: https://www.reddit.com/r/deadbydaylight/comments/8wt1op/came_back_because_of_double_bp_had_5_matches_with/
     author: DeadByDaylight_Zoe
     created_date: "2018-07-07"
     score: "9"
@@ -4881,7 +4885,7 @@ competition:
     creation_date: "2016-10-05"
     view_count: "235"
   - question_id: "33687624"
-    title: Lightstreamer bug Connection stalled for too long
+    title: Lightstreamer bug &quot;Connection stalled for too long&quot;
     url: https://stackoverflow.com/questions/33687624/lightstreamer-bug-connection-stalled-for-too-long
     owner_display_name: Sam Shaikh
     owner_reputation: "868"
