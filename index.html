@@ -129,7 +129,7 @@ layout: default
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for search in competition.latest_stack_exchange_searches %}
-                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}">{{ search.title }}</a> ({{ search.author }})</li>
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}">{{ search.title }}</a> ({{ search.owner_display_name }})</li>
               {% endfor %}
              </ul>
            </div>
