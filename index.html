@@ -38,16 +38,16 @@ layout: default
            <ul style="list-style-type: circle; padding-top: 15px;">
              <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ competition.url }}" style="color: #000;">Website</a></li>
              {% if blog_url != '' %}
-                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.blog_url }}" style="color: #000; text-decoration: underline;">Blog</a></li>
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.blog_url }}" style="color: #000; text-decoration: underline;" target="_blank">Blog</a></li>
              {% endif %}
              {% if blog_rss_url != '' %}
-                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.blog_rss_url }}" style="color: #000; text-decoration: underline;">Blog RSS</a></li>
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.blog_rss_url }}" style="color: #000; text-decoration: underline;" target="_blank">Blog RSS</a></li>
              {% endif %}
              {% if twitter_url != '' %}
-                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.twitter_url }}" style="color: #000; text-decoration: underline;">Twitter</a></li>
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.twitter_url }}" style="color: #000; text-decoration: underline;" target="_blank">Twitter</a></li>
              {% endif %}
              {% if github_url != '' %}
-                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.github_url }}" style="color: #000; text-decoration: underline;">GitHub</a></li>
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.github_url }}" style="color: #000; text-decoration: underline;" target="_blank">GitHub</a></li>
              {% endif %}
            </ul>
          </div>
@@ -59,7 +59,7 @@ layout: default
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for blog in competition.latest_blog %}
-                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ blog.url }}">{{ blog.title }}</a></li>
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ blog.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ blog.title }}</a></li>
                {% endfor %}
              </ul>
            </div>
@@ -73,7 +73,7 @@ layout: default
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for twitter in competition.latest_tweets %}
-                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ twitter.url }}">{{ twitter.title }}</a></li>
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ twitter.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ twitter.title }}</a></li>
                {% endfor %}
              </ul>
            </div>
@@ -87,7 +87,7 @@ layout: default
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px; color: #000;">
                {% for activity in competition.latest_github_activity %}
-                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ activity.url }}">{{ activity.title }}</a></li>
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ activity.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ activity.title }}</a></li>
               {% endfor %}
              </ul>
            </div>
@@ -101,7 +101,7 @@ layout: default
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for search in competition.latest_reddit_searches %}
-                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}">{{ search.title }}</a> ({{ search.author }})</li>
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.author }})</li>
               {% endfor %}
              </ul>
            </div>
@@ -115,7 +115,7 @@ layout: default
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for search in competition.latest_hacker_news_searches %}
-                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}">{{ search.title }}</a> ({{ search.author }})</li>
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.author }})</li>
               {% endfor %}
              </ul>
            </div>
@@ -129,7 +129,7 @@ layout: default
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for search in competition.latest_stack_exchange_searches %}
-                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}">{{ search.title }}</a> ({{ search.owner_display_name }})</li>
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.owner_display_name }})</li>
               {% endfor %}
              </ul>
            </div>
