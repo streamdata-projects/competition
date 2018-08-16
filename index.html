@@ -51,6 +51,7 @@ layout: default
              {% endif %}
            </ul>
          </div>
+
          {% assign number_of_competition_blog = competition.latest_blog | size %}
          {% if number_of_competition_blog > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
@@ -74,6 +75,24 @@ layout: default
                {% for twitter in competition.latest_tweets %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ twitter.url }}">{{ twitter.title }}</a></li>
                {% endfor %}
+             </ul>
+           </div>
+         </div>
+         {% endif %}
+
+         {% assign number_of_competition_github_activity = competition.latest_github_activity | size %}
+         {% if number_of_competition_github_activity > 0 %}
+         <div style="padding-top: 7px; padding-bottom: 7px;">
+           <p><strong>The Latest Github Activity:</strong></p>
+           <div style="height: 200px; overflow: scroll;">
+             <ul style="list-style-type: circle; padding-top: 15px;">
+               {% for activity in competition.latest_github_activity %}
+                {% if activity.type == 'IssueCommentEvent' %}
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ activity.url }}">{{ user_name.user }} commented on issue - {{ activity.title }}</a></li>
+               {% endfor %}
+               {% if activity.type == 'IssueCommentEvent' %}
+                 <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ activity.url }}">{{ user_name.user }} commented on issue - {{ activity.title }}</a></li>
+              {% endfor %}
              </ul>
            </div>
          </div>
