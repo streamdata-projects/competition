@@ -1,12 +1,3 @@
-title: Competition
-url: competition.streamdata.io
-philosophy: This is our project area for keeping track of the competitive landscape.
-  We enjoy understanding the space we are operating in, and understanding what the
-  competition looks like. We don't see a problem with being open and transparent about
-  our work to map out the competitive landscape. We feel it should be open, and demonstrate
-  that we have a handle on what is happening across the real time, streaming, webhook,
-  and event-driven world. We track on all of the challenges we face when trying to
-  reach and differentiate ourselves in a crowded market.
 competition:
 - organization_id: 6kemzS6eSXC0d1cWuuAp116EagNHu9QwrX4QwZCHLZfDM117
   name: Ably Realtime
@@ -7768,14 +7759,3 @@ competition:
   - Data
   - Analytics
   - Analysis
-markdown: kramdown
-exclude:
-- .rvmrc
-- .rbenv-version
-- README.md
-- Rakefile
-- changelog.md
-- .DS_Store
-github_user: streamdata-projects
-github_repo: competition
-github_branch: master
