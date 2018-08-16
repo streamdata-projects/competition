@@ -157,48 +157,18 @@ competition:
     type: IssueCommentEvent
     user_name: paddybyers
     repo: ably/ably-dotnet
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
   - title: paddybyers commented on an issue for ably/ably-dotnet
     url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413246512
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
     user_name: paddybyers
     repo: ably/ably-dotnet
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
   - title: tomczoink submitted an issue on ably/docs
     url: https://api.github.com/repos/ably/docs/issues/487
     time_stamp: "2018-08-15"
     type: IssuesEvent
     user_name: tomczoink
     repo: ably/docs
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
   - title: tomczoink commented on an issue for ably/docs
     url: https://api.github.com/repos/ably/docs/issues/comments/413154508
     time_stamp: "2018-08-15"
@@ -211,36 +181,6 @@ competition:
     type: IssuesEvent
     user_name: tomczoink
     repo: ably/docs
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
   - title: axefrog commented on an issue for ably/docs
     url: https://api.github.com/repos/ably/docs/issues/comments/413084449
     time_stamp: "2018-08-14"
@@ -3409,42 +3349,6 @@ competition:
     url: https://twitter.com/kaazing/status/882665929280245760
     time_stamp: "2017-07-05 11:22:11"
   latest_github_activity:
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CommitCommentEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
   - title: hthetiot pushed to kaazing/http2-cache.js
     url: ""
     time_stamp: "2018-08-07"
@@ -5329,78 +5233,12 @@ competition:
   latest_blog: []
   latest_tweets: []
   latest_github_activity:
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: ReleaseEvent
-    user_name: ""
-    repo: ""
   - title: martin-cowie pushed to pushtechnology/docker-diffusion
     url: ""
     time_stamp: "2018-08-15"
     type: PushEvent
     user_name: martin-cowie
     repo: pushtechnology/docker-diffusion
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: ReleaseEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: ReleaseEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
   - title: tommclaughlan pushed to pushtechnology/racing-demo
     url: ""
     time_stamp: "2018-08-13"
@@ -6503,12 +6341,6 @@ competition:
     type: PushEvent
     user_name: YizhouCodes
     repo: streamr-dev/Unity_Datagathering_Demo
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
   - title: mikhaelsantos pushed to streamr-dev/engine-and-editor
     url: ""
     time_stamp: "2018-08-15"
@@ -6527,12 +6359,6 @@ competition:
     type: PullRequestEvent
     user_name: mikhaelsantos
     repo: streamr-dev/engine-and-editor
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
   - title: mondoreale commented on an issue for streamr-dev/engine-and-editor
     url: https://api.github.com/repos/streamr-dev/engine-and-editor/issues/comments/413161004
     time_stamp: "2018-08-15"
@@ -6557,30 +6383,12 @@ competition:
     type: PushEvent
     user_name: mondoreale
     repo: streamr-dev/engine-and-editor
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
   - title: mondoreale pushed to streamr-dev/engine-and-editor
     url: ""
     time_stamp: "2018-08-15"
     type: PushEvent
     user_name: mondoreale
     repo: streamr-dev/engine-and-editor
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
   - title: mikhaelsantos pushed to streamr-dev/engine-and-editor
     url: ""
     time_stamp: "2018-08-15"
@@ -6593,60 +6401,12 @@ competition:
     type: PullRequestEvent
     user_name: mikhaelsantos
     repo: streamr-dev/engine-and-editor
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: DeleteEvent
-    user_name: ""
-    repo: ""
   - title: mikhaelsantos made a pull request on streamr-dev/engine-and-editor
     url: https://github.com/streamr-dev/engine-and-editor/pull/492
     time_stamp: "2018-08-15"
     type: PullRequestEvent
     user_name: mikhaelsantos
     repo: streamr-dev/engine-and-editor
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PullRequestReviewCommentEvent
-    user_name: ""
-    repo: ""
   latest_reddit_searches:
   - reddit_id: "97"
     title: Congrats to our Community Hero of the month u/Lootcoin for helping us spread
@@ -7124,24 +6884,6 @@ competition:
     time_stamp: "2018-05-02 08:00:30"
   latest_tweets: []
   latest_github_activity:
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
-  - title: ""
-    url: ""
-    time_stamp: "2018-08-15"
-    type: CreateEvent
-    user_name: ""
-    repo: ""
   - title: deepakstriim pushed to striim/azure-solution-template
     url: ""
     time_stamp: "2018-08-06"
