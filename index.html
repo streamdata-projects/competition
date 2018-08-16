@@ -85,7 +85,7 @@ layout: default
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest Github Activity:</strong></p>
            <div style="height: 200px; overflow: scroll;">
-             <ul style="list-style-type: circle; padding-top: 15px;">
+             <ul style="list-style-type: circle; padding-top: 15px; color: #000;">
                {% for activity in competition.latest_github_activity %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ activity.url }}">{{ activity.title }}</a></li>
               {% endfor %}
