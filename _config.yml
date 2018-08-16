@@ -2643,7 +2643,7 @@ competition:
     url: https://twitter.com/Firebase/status/1020035546788265984
     time_stamp: "2018-07-19 13:00:00"
   latest_github_activity:
-  - title: Now I have no json value sent.
+  - title: JamesZa007 commented on an issue for firebase/firebase-arduino
     url: https://api.github.com/repos/firebase/firebase-arduino/issues/comments/413419157
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -2679,50 +2679,19 @@ competition:
     type: WatchEvent
     user_name: lesslie
     repo: firebase/firebase-jobdispatcher-android
-  - title: Good to know, I'll try your work around for pro-guard. Other than that,
-      I haven't had any issues that I can tell with using Android X and Firebase UI.
+  - title: krwilson8 commented on an issue for firebase/FirebaseUI-Android
     url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/413408468
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
     user_name: krwilson8
     repo: firebase/FirebaseUI-Android
-  - title: 'Oh hey, yup. I reported it and the bug will be fixed in rc02: https://issuetracker.google.com/issues/112230489'
+  - title: SUPERCILEX commented on an issue for firebase/FirebaseUI-Android
     url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/413407538
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
     user_name: SUPERCILEX
     repo: firebase/FirebaseUI-Android
-  - title: "Doesn't seem to be a trend in device type or OS version. I've seen it
-      on 5, 6, 7, and 8.\r\n\r\nHere's a stack trace from crashlytics.  \r\n\r\nFatal
-      Exception: java.lang.RuntimeException\r\nUnable to start activity ComponentInfo{/com.firebase.ui.auth.KickoffActivity}:
-      java.lang.RuntimeException: Cannot create an instance of class com.firebase.ui.auth.data.b.g\r\nandroid.app.ActivityThread.performLaunchActivity
-      (ActivityThread.java:2793)\r\nandroid.app.ActivityThread.handleLaunchActivity
-      (ActivityThread.java:2864)\r\nandroid.app.ActivityThread.-wrap12 (ActivityThread.java)\r\nandroid.app.ActivityThread$H.handleMessage
-      (ActivityThread.java:1567)\r\nandroid.os.Handler.dispatchMessage (Handler.java:105)\r\nandroid.os.Looper.loop
-      (Looper.java:156)\r\nandroid.app.ActivityThread.main (ActivityThread.java:6523)\r\njava.lang.reflect.Method.invoke
-      (Method.java)\r\ncom.android.internal.os.ZygoteInit$MethodAndArgsCaller.run
-      (ZygoteInit.java:942)\r\ncom.android.internal.os.ZygoteInit.main (ZygoteInit.java:832)\r\nCaused
-      by java.lang.RuntimeException\r\nCannot create an instance of class com.firebase.ui.auth.data.b.g\r\nandroidx.lifecycle.u$a.a
-      (ViewModelProvider.java:202)\r\nandroidx.lifecycle.u.a (ViewModelProvider.java:1135)\r\ncom.firebase.ui.auth.KickoffActivity.onCreate
-      (KickoffActivity.java:33)\r\nandroid.app.Activity.performCreate (Activity.java:6915)\r\nandroid.app.Instrumentation.callActivityOnCreate
-      (Instrumentation.java:1123)\r\nandroid.app.ActivityThread.performLaunchActivity
-      (ActivityThread.java:2746)\r\nandroid.app.ActivityThread.handleLaunchActivity
-      (ActivityThread.java:2864)\r\nandroid.app.ActivityThread.-wrap12 (ActivityThread.java)\r\nandroid.app.ActivityThread$H.handleMessage
-      (ActivityThread.java:1567)\r\nandroid.os.Handler.dispatchMessage (Handler.java:105)\r\nandroid.os.Looper.loop
-      (Looper.java:156)\r\nandroid.app.ActivityThread.main (ActivityThread.java:6523)\r\njava.lang.reflect.Method.invoke
-      (Method.java)\r\ncom.android.internal.os.ZygoteInit$MethodAndArgsCaller.run
-      (ZygoteInit.java:942)\r\ncom.android.internal.os.ZygoteInit.main (ZygoteInit.java:832)\r\nCaused
-      by java.lang.NoSuchMethodException\r\n [class android.app.Application]\r\njava.lang.Class.getConstructor0
-      (Class.java:2204)\r\njava.lang.Class.getConstructor (Class.java:1683)\r\nandroidx.lifecycle.u$a.a
-      (ViewModelProvider.java:200)\r\nandroidx.lifecycle.u.a (ViewModelProvider.java:1135)\r\ncom.firebase.ui.auth.KickoffActivity.onCreate
-      (KickoffActivity.java:33)\r\nandroid.app.Activity.performCreate (Activity.java:6915)\r\nandroid.app.Instrumentation.callActivityOnCreate
-      (Instrumentation.java:1123)\r\nandroid.app.ActivityThread.performLaunchActivity
-      (ActivityThread.java:2746)\r\nandroid.app.ActivityThread.handleLaunchActivity
-      (ActivityThread.java:2864)\r\nandroid.app.ActivityThread.-wrap12 (ActivityThread.java)\r\nandroid.app.ActivityThread$H.handleMessage
-      (ActivityThread.java:1567)\r\nandroid.os.Handler.dispatchMessage (Handler.java:105)\r\nandroid.os.Looper.loop
-      (Looper.java:156)\r\nandroid.app.ActivityThread.main (ActivityThread.java:6523)\r\njava.lang.reflect.Method.invoke
-      (Method.java)\r\ncom.android.internal.os.ZygoteInit$MethodAndArgsCaller.run
-      (ZygoteInit.java:942)\r\ncom.android.internal.os.ZygoteInit.main (ZygoteInit.java:832)"
+  - title: krwilson8 commented on an issue for firebase/FirebaseUI-Android
     url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/413403702
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -2734,95 +2703,19 @@ competition:
     type: WatchEvent
     user_name: dougieh
     repo: firebase/firebase-functions
-  - title: "### Step 2:\r\n  * Android device: Pixel 2 XL\r\n  * Android OS version:
-      API 28 and API 27(Oreo)\r\n  * Google Play Services version: 4.0.0\r\n  * Firebase/Play
-      Services SDK version: 16.0.1\r\n  * FirebaseUI version: 4.1.0\r\n  \r\n### Step
-      3: Describe the problem:\r\nGmail and Phone buttons work. But, when the Email
-      Signup button is clicked on the following error occurs for API 27(Oreo):\r\n_com.firebase.ui.auth.FirebaseUiException:
-      Code: 13, message: 13:_ \r\n\r\nand for API 28:\r\n_android.view.InflateException:
-      Binary XML file line #24: Binary XML file line #24: Error inflating class android.support.design.widget.TextInputLayout\r\n
-      \   Caused by: android.view.InflateException: Binary XML file line #24: Error
-      inflating class android.support.design.widget.TextInputLayout\r\n    Caused
-      by: java.lang.reflect.InvocationTargetException_\r\n\r\n#### Steps to reproduce:\r\n\r\n
-      \ 1. Basic AuthUI.getInstance\r\n \r\n  \r\n#### Observed Results:\r\n\r\nError
-      with app crash occurs.\r\n  \r\n#### Expected Results:\r\n\r\n  Email sign in
-      activity is presented.\r\n  \r\n#### Relevant Code:\r\n\r\n  ```\r\n  FirebaseAuth
-      auth = FirebaseAuth.getInstance();\r\n        if (auth.getCurrentUser() != null)
-      {\r\n            // already signed in\r\n        } else {\r\n            //
-      not signed in\r\n            startActivityForResult(\r\n                    //
-      Get an instance of AuthUI based on the default app\r\n                    AuthUI.getInstance()\r\n
-      \                           .createSignInIntentBuilder()\r\n                    .setAvailableProviders(Arrays.asList(\r\n
-      \                   new AuthUI.IdpConfig.GoogleBuilder().build(),\r\n                    new
-      AuthUI.IdpConfig.EmailBuilder().build(),\r\n                    new AuthUI.IdpConfig.PhoneBuilder().build()))\r\n
-      \                   .build(),\r\n                    RC_SIGN_IN);\r\n        }\r\n
-      \ ```\r\n#### ERROR API 28\r\n```\r\nandroid.view.InflateException: Binary XML
-      file line #24: Binary XML file line #24: Error inflating class android.support.design.widget.TextInputLayout\r\n
-      \   Caused by: android.view.InflateException: Binary XML file line #24: Error
-      inflating class android.support.design.widget.TextInputLayout\r\n    Caused
-      by: java.lang.reflect.InvocationTargetException\r\n        at java.lang.reflect.Constructor.newInstance0(Native
-      Method)\r\n        at java.lang.reflect.Constructor.newInstance(Constructor.java:343)\r\n
-      \       at android.view.LayoutInflater.createView(LayoutInflater.java:647)\r\n
-      \       at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:790)\r\n
-      \       at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:730)\r\n
-      \       at android.view.LayoutInflater.rInflate(LayoutInflater.java:863)\r\n
-      \       at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:824)\r\n
-      \       at android.view.LayoutInflater.rInflate(LayoutInflater.java:866)\r\n
-      \       at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:824)\r\n
-      \       at android.view.LayoutInflater.rInflate(LayoutInflater.java:866)\r\n
-      \       at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:824)\r\n
-      \       at android.view.LayoutInflater.inflate(LayoutInflater.java:515)\r\n
-      \       at android.view.LayoutInflater.inflate(LayoutInflater.java:423)\r\n
-      \       at com.firebase.ui.auth.ui.email.CheckEmailFragment.onCreateView(CheckEmailFragment.java:89)\r\n
-      \       at android.support.v4.app.Fragment.performCreateView(Fragment.java:2442)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1460)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.moveFragmentToExpectedState(FragmentManager.java:1784)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1852)\r\n
-      \       at android.support.v4.app.BackStackRecord.executeOps(BackStackRecord.java:802)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.executeOps(FragmentManager.java:2625)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.executeOpsTogether(FragmentManager.java:2411)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.removeRedundantOperationsAndExecute(FragmentManager.java:2366)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:2273)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.dispatchStateChange(FragmentManager.java:3273)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.dispatchActivityCreated(FragmentManager.java:3229)\r\n
-      \       at android.support.v4.app.FragmentController.dispatchActivityCreated(FragmentController.java:201)\r\n
-      \       at android.support.v4.app.FragmentActivity.onStart(FragmentActivity.java:620)\r\n
-      \       at android.support.v7.app.AppCompatActivity.onStart(AppCompatActivity.java:178)\r\n
-      \       at android.app.Instrumentation.callActivityOnStart(Instrumentation.java:1391)\r\n
-      \       at android.app.Activity.performStart(Activity.java:7157)\r\n        at
-      android.app.ActivityThread.handleStartActivity(ActivityThread.java:2937)\r\n
-      \       at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:180)\r\n
-      \       at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:165)\r\n
-      \       at android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:142)\r\n
-      \       at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:70)\r\n
-      \       at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1808)\r\n
-      \       at android.os.Handler.dispatchMessage(Handler.java:106)\r\n        at
-      android.os.Looper.loop(Looper.java:193)\r\n        at android.app.ActivityThread.main(ActivityThread.java:6669)\r\n
-      \       at java.lang.reflect.Method.invoke(Native Method)\r\n        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)\r\n
-      \       at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:858)\r\n
-      \   Caused by: java.lang.NoSuchFieldError: No static field error_color_material
-      of type I in class Landroid/support/v7/appcompat/R$color; or its superclasses
-      (declaration of 'android.support.v7.appcompat.R$color' appears in /data/app/com.example.traviswhitten.whatspoppin-tsoJTg75SeXYhS_YN1iu8A==/split_lib_slice_4_apk.apk)\r\n
-      \       at android.support.design.widget.TextInputLayout.setErrorEnabled(TextInputLayout.java:654)\r\n
-      \       at android.support.design.widget.TextInputLayout.(TextInputLayout.java:257)\r\n
-      \       at android.support.design.widget.TextInputLayout.(TextInputLayout.java:187)\r\n
-      \       \t... 42 more\r\n```\r\n"
+  - title: whittenator submitted an issue on firebase/FirebaseUI-Android
     url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/1413
     time_stamp: "2018-08-15"
     type: IssuesEvent
     user_name: whittenator
     repo: firebase/FirebaseUI-Android
-  - title: "@adamrabbani I do not understand why my copila is not what is being the
-      mistake?\r\nhere in mine\r\n  of the board error"
+  - title: Wagnerviana commented on an issue for firebase/firebase-arduino
     url: https://api.github.com/repos/firebase/firebase-arduino/issues/comments/413397855
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
     user_name: Wagnerviana
     repo: firebase/firebase-arduino
-  - title: "  * Xcode version: 9.4.1\r\n  * Firebase SDK version: 5.6.0 (updated from
-      5.4.0)\r\n  * Firebase Component: Messaging\r\n  * Component version: \r\n\r\nMissing
-      `FirebaseNanoPB` and `GoogleToolboxForMac`, and I'm unable to build the project
-      without those. Everything worked great before updating to `5.6.0`\r\n\r\n####
-      Steps to reproduce:\r\n\r\nSimply update dependencies using Carthage.\r\n"
+  - title: josemssilva submitted an issue on firebase/firebase-ios-sdk
     url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/1701
     time_stamp: "2018-08-15"
     type: IssuesEvent
@@ -2834,8 +2727,7 @@ competition:
     type: WatchEvent
     user_name: jdblischak
     repo: firebase/firepad
-  - title: Anyone had troubles updating from 5.4 to 5.6? Missing `FirebaseNanoPB`
-      and `GoogleToolboxForMac`, and I'm unable to build the project without those.
+  - title: josemssilva commented on an issue for firebase/firebase-ios-sdk
     url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/413397217
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -3546,7 +3438,7 @@ competition:
     url: https://twitter.com/Firebase/status/1020035546788265984
     time_stamp: "2018-07-19 13:00:00"
   latest_github_activity:
-  - title: Now I have no json value sent.
+  - title: JamesZa007 commented on an issue for firebase/firebase-arduino
     url: https://api.github.com/repos/firebase/firebase-arduino/issues/comments/413419157
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -3582,50 +3474,19 @@ competition:
     type: WatchEvent
     user_name: lesslie
     repo: firebase/firebase-jobdispatcher-android
-  - title: Good to know, I'll try your work around for pro-guard. Other than that,
-      I haven't had any issues that I can tell with using Android X and Firebase UI.
+  - title: krwilson8 commented on an issue for firebase/FirebaseUI-Android
     url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/413408468
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
     user_name: krwilson8
     repo: firebase/FirebaseUI-Android
-  - title: 'Oh hey, yup. I reported it and the bug will be fixed in rc02: https://issuetracker.google.com/issues/112230489'
+  - title: SUPERCILEX commented on an issue for firebase/FirebaseUI-Android
     url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/413407538
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
     user_name: SUPERCILEX
     repo: firebase/FirebaseUI-Android
-  - title: "Doesn't seem to be a trend in device type or OS version. I've seen it
-      on 5, 6, 7, and 8.\r\n\r\nHere's a stack trace from crashlytics.  \r\n\r\nFatal
-      Exception: java.lang.RuntimeException\r\nUnable to start activity ComponentInfo{/com.firebase.ui.auth.KickoffActivity}:
-      java.lang.RuntimeException: Cannot create an instance of class com.firebase.ui.auth.data.b.g\r\nandroid.app.ActivityThread.performLaunchActivity
-      (ActivityThread.java:2793)\r\nandroid.app.ActivityThread.handleLaunchActivity
-      (ActivityThread.java:2864)\r\nandroid.app.ActivityThread.-wrap12 (ActivityThread.java)\r\nandroid.app.ActivityThread$H.handleMessage
-      (ActivityThread.java:1567)\r\nandroid.os.Handler.dispatchMessage (Handler.java:105)\r\nandroid.os.Looper.loop
-      (Looper.java:156)\r\nandroid.app.ActivityThread.main (ActivityThread.java:6523)\r\njava.lang.reflect.Method.invoke
-      (Method.java)\r\ncom.android.internal.os.ZygoteInit$MethodAndArgsCaller.run
-      (ZygoteInit.java:942)\r\ncom.android.internal.os.ZygoteInit.main (ZygoteInit.java:832)\r\nCaused
-      by java.lang.RuntimeException\r\nCannot create an instance of class com.firebase.ui.auth.data.b.g\r\nandroidx.lifecycle.u$a.a
-      (ViewModelProvider.java:202)\r\nandroidx.lifecycle.u.a (ViewModelProvider.java:1135)\r\ncom.firebase.ui.auth.KickoffActivity.onCreate
-      (KickoffActivity.java:33)\r\nandroid.app.Activity.performCreate (Activity.java:6915)\r\nandroid.app.Instrumentation.callActivityOnCreate
-      (Instrumentation.java:1123)\r\nandroid.app.ActivityThread.performLaunchActivity
-      (ActivityThread.java:2746)\r\nandroid.app.ActivityThread.handleLaunchActivity
-      (ActivityThread.java:2864)\r\nandroid.app.ActivityThread.-wrap12 (ActivityThread.java)\r\nandroid.app.ActivityThread$H.handleMessage
-      (ActivityThread.java:1567)\r\nandroid.os.Handler.dispatchMessage (Handler.java:105)\r\nandroid.os.Looper.loop
-      (Looper.java:156)\r\nandroid.app.ActivityThread.main (ActivityThread.java:6523)\r\njava.lang.reflect.Method.invoke
-      (Method.java)\r\ncom.android.internal.os.ZygoteInit$MethodAndArgsCaller.run
-      (ZygoteInit.java:942)\r\ncom.android.internal.os.ZygoteInit.main (ZygoteInit.java:832)\r\nCaused
-      by java.lang.NoSuchMethodException\r\n [class android.app.Application]\r\njava.lang.Class.getConstructor0
-      (Class.java:2204)\r\njava.lang.Class.getConstructor (Class.java:1683)\r\nandroidx.lifecycle.u$a.a
-      (ViewModelProvider.java:200)\r\nandroidx.lifecycle.u.a (ViewModelProvider.java:1135)\r\ncom.firebase.ui.auth.KickoffActivity.onCreate
-      (KickoffActivity.java:33)\r\nandroid.app.Activity.performCreate (Activity.java:6915)\r\nandroid.app.Instrumentation.callActivityOnCreate
-      (Instrumentation.java:1123)\r\nandroid.app.ActivityThread.performLaunchActivity
-      (ActivityThread.java:2746)\r\nandroid.app.ActivityThread.handleLaunchActivity
-      (ActivityThread.java:2864)\r\nandroid.app.ActivityThread.-wrap12 (ActivityThread.java)\r\nandroid.app.ActivityThread$H.handleMessage
-      (ActivityThread.java:1567)\r\nandroid.os.Handler.dispatchMessage (Handler.java:105)\r\nandroid.os.Looper.loop
-      (Looper.java:156)\r\nandroid.app.ActivityThread.main (ActivityThread.java:6523)\r\njava.lang.reflect.Method.invoke
-      (Method.java)\r\ncom.android.internal.os.ZygoteInit$MethodAndArgsCaller.run
-      (ZygoteInit.java:942)\r\ncom.android.internal.os.ZygoteInit.main (ZygoteInit.java:832)"
+  - title: krwilson8 commented on an issue for firebase/FirebaseUI-Android
     url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/413403702
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -3637,95 +3498,19 @@ competition:
     type: WatchEvent
     user_name: dougieh
     repo: firebase/firebase-functions
-  - title: "### Step 2:\r\n  * Android device: Pixel 2 XL\r\n  * Android OS version:
-      API 28 and API 27(Oreo)\r\n  * Google Play Services version: 4.0.0\r\n  * Firebase/Play
-      Services SDK version: 16.0.1\r\n  * FirebaseUI version: 4.1.0\r\n  \r\n### Step
-      3: Describe the problem:\r\nGmail and Phone buttons work. But, when the Email
-      Signup button is clicked on the following error occurs for API 27(Oreo):\r\n_com.firebase.ui.auth.FirebaseUiException:
-      Code: 13, message: 13:_ \r\n\r\nand for API 28:\r\n_android.view.InflateException:
-      Binary XML file line #24: Binary XML file line #24: Error inflating class android.support.design.widget.TextInputLayout\r\n
-      \   Caused by: android.view.InflateException: Binary XML file line #24: Error
-      inflating class android.support.design.widget.TextInputLayout\r\n    Caused
-      by: java.lang.reflect.InvocationTargetException_\r\n\r\n#### Steps to reproduce:\r\n\r\n
-      \ 1. Basic AuthUI.getInstance\r\n \r\n  \r\n#### Observed Results:\r\n\r\nError
-      with app crash occurs.\r\n  \r\n#### Expected Results:\r\n\r\n  Email sign in
-      activity is presented.\r\n  \r\n#### Relevant Code:\r\n\r\n  ```\r\n  FirebaseAuth
-      auth = FirebaseAuth.getInstance();\r\n        if (auth.getCurrentUser() != null)
-      {\r\n            // already signed in\r\n        } else {\r\n            //
-      not signed in\r\n            startActivityForResult(\r\n                    //
-      Get an instance of AuthUI based on the default app\r\n                    AuthUI.getInstance()\r\n
-      \                           .createSignInIntentBuilder()\r\n                    .setAvailableProviders(Arrays.asList(\r\n
-      \                   new AuthUI.IdpConfig.GoogleBuilder().build(),\r\n                    new
-      AuthUI.IdpConfig.EmailBuilder().build(),\r\n                    new AuthUI.IdpConfig.PhoneBuilder().build()))\r\n
-      \                   .build(),\r\n                    RC_SIGN_IN);\r\n        }\r\n
-      \ ```\r\n#### ERROR API 28\r\n```\r\nandroid.view.InflateException: Binary XML
-      file line #24: Binary XML file line #24: Error inflating class android.support.design.widget.TextInputLayout\r\n
-      \   Caused by: android.view.InflateException: Binary XML file line #24: Error
-      inflating class android.support.design.widget.TextInputLayout\r\n    Caused
-      by: java.lang.reflect.InvocationTargetException\r\n        at java.lang.reflect.Constructor.newInstance0(Native
-      Method)\r\n        at java.lang.reflect.Constructor.newInstance(Constructor.java:343)\r\n
-      \       at android.view.LayoutInflater.createView(LayoutInflater.java:647)\r\n
-      \       at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:790)\r\n
-      \       at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:730)\r\n
-      \       at android.view.LayoutInflater.rInflate(LayoutInflater.java:863)\r\n
-      \       at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:824)\r\n
-      \       at android.view.LayoutInflater.rInflate(LayoutInflater.java:866)\r\n
-      \       at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:824)\r\n
-      \       at android.view.LayoutInflater.rInflate(LayoutInflater.java:866)\r\n
-      \       at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:824)\r\n
-      \       at android.view.LayoutInflater.inflate(LayoutInflater.java:515)\r\n
-      \       at android.view.LayoutInflater.inflate(LayoutInflater.java:423)\r\n
-      \       at com.firebase.ui.auth.ui.email.CheckEmailFragment.onCreateView(CheckEmailFragment.java:89)\r\n
-      \       at android.support.v4.app.Fragment.performCreateView(Fragment.java:2442)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1460)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.moveFragmentToExpectedState(FragmentManager.java:1784)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1852)\r\n
-      \       at android.support.v4.app.BackStackRecord.executeOps(BackStackRecord.java:802)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.executeOps(FragmentManager.java:2625)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.executeOpsTogether(FragmentManager.java:2411)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.removeRedundantOperationsAndExecute(FragmentManager.java:2366)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:2273)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.dispatchStateChange(FragmentManager.java:3273)\r\n
-      \       at android.support.v4.app.FragmentManagerImpl.dispatchActivityCreated(FragmentManager.java:3229)\r\n
-      \       at android.support.v4.app.FragmentController.dispatchActivityCreated(FragmentController.java:201)\r\n
-      \       at android.support.v4.app.FragmentActivity.onStart(FragmentActivity.java:620)\r\n
-      \       at android.support.v7.app.AppCompatActivity.onStart(AppCompatActivity.java:178)\r\n
-      \       at android.app.Instrumentation.callActivityOnStart(Instrumentation.java:1391)\r\n
-      \       at android.app.Activity.performStart(Activity.java:7157)\r\n        at
-      android.app.ActivityThread.handleStartActivity(ActivityThread.java:2937)\r\n
-      \       at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:180)\r\n
-      \       at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:165)\r\n
-      \       at android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:142)\r\n
-      \       at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:70)\r\n
-      \       at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1808)\r\n
-      \       at android.os.Handler.dispatchMessage(Handler.java:106)\r\n        at
-      android.os.Looper.loop(Looper.java:193)\r\n        at android.app.ActivityThread.main(ActivityThread.java:6669)\r\n
-      \       at java.lang.reflect.Method.invoke(Native Method)\r\n        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)\r\n
-      \       at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:858)\r\n
-      \   Caused by: java.lang.NoSuchFieldError: No static field error_color_material
-      of type I in class Landroid/support/v7/appcompat/R$color; or its superclasses
-      (declaration of 'android.support.v7.appcompat.R$color' appears in /data/app/com.example.traviswhitten.whatspoppin-tsoJTg75SeXYhS_YN1iu8A==/split_lib_slice_4_apk.apk)\r\n
-      \       at android.support.design.widget.TextInputLayout.setErrorEnabled(TextInputLayout.java:654)\r\n
-      \       at android.support.design.widget.TextInputLayout.(TextInputLayout.java:257)\r\n
-      \       at android.support.design.widget.TextInputLayout.(TextInputLayout.java:187)\r\n
-      \       \t... 42 more\r\n```\r\n"
+  - title: whittenator submitted an issue on firebase/FirebaseUI-Android
     url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/1413
     time_stamp: "2018-08-15"
     type: IssuesEvent
     user_name: whittenator
     repo: firebase/FirebaseUI-Android
-  - title: "@adamrabbani I do not understand why my copila is not what is being the
-      mistake?\r\nhere in mine\r\n  of the board error"
+  - title: Wagnerviana commented on an issue for firebase/firebase-arduino
     url: https://api.github.com/repos/firebase/firebase-arduino/issues/comments/413397855
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
     user_name: Wagnerviana
     repo: firebase/firebase-arduino
-  - title: "  * Xcode version: 9.4.1\r\n  * Firebase SDK version: 5.6.0 (updated from
-      5.4.0)\r\n  * Firebase Component: Messaging\r\n  * Component version: \r\n\r\nMissing
-      `FirebaseNanoPB` and `GoogleToolboxForMac`, and I'm unable to build the project
-      without those. Everything worked great before updating to `5.6.0`\r\n\r\n####
-      Steps to reproduce:\r\n\r\nSimply update dependencies using Carthage.\r\n"
+  - title: josemssilva submitted an issue on firebase/firebase-ios-sdk
     url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/1701
     time_stamp: "2018-08-15"
     type: IssuesEvent
@@ -3737,8 +3522,7 @@ competition:
     type: WatchEvent
     user_name: jdblischak
     repo: firebase/firepad
-  - title: Anyone had troubles updating from 5.4 to 5.6? Missing `FirebaseNanoPB`
-      and `GoogleToolboxForMac`, and I'm unable to build the project without those.
+  - title: josemssilva commented on an issue for firebase/firebase-ios-sdk
     url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/413397217
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -5380,14 +5164,7 @@ competition:
     type: WatchEvent
     user_name: vnnet24
     repo: pubnub/chat-engine-tutorial
-  - title: "Hi @lumenlunae \r\n\r\nIn #17 I've [explained](https://github.com/pubnub/chat-engine-apple/issues/17#issuecomment-404809699),
-      what _biggest_ Swift feature is it's disadvantage. And user end up with pretty
-      wise solution so far: create wrapper around ChatEngine client, where handlers
-      has fixed signature (Swift doesn't like when GCD block specified as `id` and
-      does something awful assumption for optimization).\r\n\r\nAs of now, I don't
-      have other solutions to issues with Swift compiler (it just doing some unknown
-      optimization turning closure in `SwiftValue` which can't be used by native Objective-C
-      code). "
+  - title: parfeon commented on an issue for pubnub/chat-engine-apple
     url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/413136187
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -5399,13 +5176,7 @@ competition:
     type: ForkEvent
     user_name: java
     repo: pubnub/java
-  - title: "This post was closed: https://github.com/pubnub/chat-engine-apple/issues/17
-      \r\n\r\nBut I believe it's still an open issue if there still isn't support
-      for Swift.\r\n\r\nThe closest I've been able to get is\r\n``\r\nlet readyBlock:
-      (_ payload: Any) -> Void = { payload in\r\n            print(Chat Engine Ready:
-      \\(payload))\r\n}\r\nself.readyBlockAny = readyBlock as Any\r\n_ = self.chatEngine.once($.ready,
-      self.readyBlockAny)\r\n``\r\n\r\nBut then I had an EXC_BAD_ACCESS from CENEventEmitter.m:377\r\n``\r\n((void(^)(id))handler)(parameters[0]);\r\n``\r\n\r\n--
-      any help on how to move on from this would be appreciated. Thank you!"
+  - title: lumenlunae submitted an issue on pubnub/chat-engine-apple
     url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/18
     time_stamp: "2018-08-15"
     type: IssuesEvent
@@ -5435,14 +5206,7 @@ competition:
     type: WatchEvent
     user_name: vnnet24
     repo: pubnub/chat-engine-tutorial
-  - title: "Hi @lumenlunae \r\n\r\nIn #17 I've [explained](https://github.com/pubnub/chat-engine-apple/issues/17#issuecomment-404809699),
-      what _biggest_ Swift feature is it's disadvantage. And user end up with pretty
-      wise solution so far: create wrapper around ChatEngine client, where handlers
-      has fixed signature (Swift doesn't like when GCD block specified as `id` and
-      does something awful assumption for optimization).\r\n\r\nAs of now, I don't
-      have other solutions to issues with Swift compiler (it just doing some unknown
-      optimization turning closure in `SwiftValue` which can't be used by native Objective-C
-      code). "
+  - title: parfeon commented on an issue for pubnub/chat-engine-apple
     url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/413136187
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -5454,13 +5218,7 @@ competition:
     type: ForkEvent
     user_name: java
     repo: pubnub/java
-  - title: "This post was closed: https://github.com/pubnub/chat-engine-apple/issues/17
-      \r\n\r\nBut I believe it's still an open issue if there still isn't support
-      for Swift.\r\n\r\nThe closest I've been able to get is\r\n``\r\nlet readyBlock:
-      (_ payload: Any) -> Void = { payload in\r\n            print(Chat Engine Ready:
-      \\(payload))\r\n}\r\nself.readyBlockAny = readyBlock as Any\r\n_ = self.chatEngine.once($.ready,
-      self.readyBlockAny)\r\n``\r\n\r\nBut then I had an EXC_BAD_ACCESS from CENEventEmitter.m:377\r\n``\r\n((void(^)(id))handler)(parameters[0]);\r\n``\r\n\r\n--
-      any help on how to move on from this would be appreciated. Thank you!"
+  - title: lumenlunae submitted an issue on pubnub/chat-engine-apple
     url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/18
     time_stamp: "2018-08-15"
     type: IssuesEvent
@@ -5490,14 +5248,7 @@ competition:
     type: WatchEvent
     user_name: vnnet24
     repo: pubnub/chat-engine-tutorial
-  - title: "Hi @lumenlunae \r\n\r\nIn #17 I've [explained](https://github.com/pubnub/chat-engine-apple/issues/17#issuecomment-404809699),
-      what _biggest_ Swift feature is it's disadvantage. And user end up with pretty
-      wise solution so far: create wrapper around ChatEngine client, where handlers
-      has fixed signature (Swift doesn't like when GCD block specified as `id` and
-      does something awful assumption for optimization).\r\n\r\nAs of now, I don't
-      have other solutions to issues with Swift compiler (it just doing some unknown
-      optimization turning closure in `SwiftValue` which can't be used by native Objective-C
-      code). "
+  - title: parfeon commented on an issue for pubnub/chat-engine-apple
     url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/413136187
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -5509,13 +5260,7 @@ competition:
     type: ForkEvent
     user_name: java
     repo: pubnub/java
-  - title: "This post was closed: https://github.com/pubnub/chat-engine-apple/issues/17
-      \r\n\r\nBut I believe it's still an open issue if there still isn't support
-      for Swift.\r\n\r\nThe closest I've been able to get is\r\n``\r\nlet readyBlock:
-      (_ payload: Any) -> Void = { payload in\r\n            print(Chat Engine Ready:
-      \\(payload))\r\n}\r\nself.readyBlockAny = readyBlock as Any\r\n_ = self.chatEngine.once($.ready,
-      self.readyBlockAny)\r\n``\r\n\r\nBut then I had an EXC_BAD_ACCESS from CENEventEmitter.m:377\r\n``\r\n((void(^)(id))handler)(parameters[0]);\r\n``\r\n\r\n--
-      any help on how to move on from this would be appreciated. Thank you!"
+  - title: lumenlunae submitted an issue on pubnub/chat-engine-apple
     url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/18
     time_stamp: "2018-08-15"
     type: IssuesEvent
@@ -6309,26 +6054,19 @@ competition:
     type: WatchEvent
     user_name: HPWebdeveloper
     repo: pusher/chatkit-android
-  - title: "### What?\r\n\r\nIf I close the app (putting it on background, not shutting
-      it down completely) after it has connected to Chatkit, and then re-open the
-      app, the app _always_ crashes at exactly this location:\r\n\r\n\r\n\r\nI only
-      call the _connect_ function once after the app starts (in _viewDidLoad_ of the
-      first VC) and I don't call _disconnect_ when the app enters the background.\r\n\r\n\r\n\r\n###
-      Environment\r\n\r\n* **PusherChatkit version:**\r\n* **Xcode version:**\r\n*
-      **Swift version:**\r\n* **Platform(s) running PusherChatkit:**\r\n\r\n### Demo
-      Project (if you have one; it helps a lot!)\r\n\r\n\r\n\r\n----\r\n\r\nCC @hamchapman\r\n"
+  - title: renshaw1 submitted an issue on pusher/chatkit-swift
     url: https://api.github.com/repos/pusher/chatkit-swift/issues/101
     time_stamp: "2018-08-15"
     type: IssuesEvent
     user_name: renshaw1
     repo: pusher/chatkit-swift
-  - title: +1 for this, really waiting for it!
+  - title: senky commented on an issue for pusher/chatkit-client-js
     url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/413262003
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
     user_name: senky
     repo: pusher/chatkit-client-js
-  - title: "+1"
+  - title: senky commented on an issue for pusher/chatkit-client-js
     url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/413261563
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -6340,9 +6078,7 @@ competition:
     type: PushEvent
     user_name: lukabratos
     repo: pusher/push-notifications-server-swift
-  - title: Tests will no pass because switching to v2 means subscribing to memberships
-      to populate the `user.rooms` property, instead of depending on the `initial_state`
-      event from the user subscription.
+  - title: vivangkumar commented on an issue for pusher/chatkit-android
     url: https://api.github.com/repos/pusher/chatkit-android/issues/comments/413236965
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -6354,8 +6090,7 @@ competition:
     type: WatchEvent
     user_name: alexanderdpv
     repo: pusher/electron-desktop-starter-template
-  - title: '@raphaeladrien @JoWilfrid @ricardoffp perfect, thanks! Sorry for the slow
-      response here.'
+  - title: jameshfisher commented on an issue for pusher/pusher-http-ruby
     url: https://api.github.com/repos/pusher/pusher-http-ruby/issues/comments/413230607
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -6391,7 +6126,7 @@ competition:
     type: PushEvent
     user_name: lukabratos
     repo: pusher/push-notifications-server-swift
-  - title: https://github.com/pusher/push-notifications-server-swift/issues/3
+  - title: lukabratos commented on an issue for pusher/push-notifications-server-swift
     url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/comments/413216249
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -6404,19 +6139,19 @@ competition:
     type: ForkEvent
     user_name: build-a-slack-clone-with-react-and-pusher-chatkit
     repo: pusher/build-a-slack-clone-with-react-and-pusher-c
-  - title: Host the docs on GitHub pages
+  - title: lukabratos submitted an issue on pusher/push-notifications-server-swift
     url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/10
     time_stamp: "2018-08-15"
     type: IssuesEvent
     user_name: lukabratos
     repo: pusher/push-notifications-server-swift
-  - title: '- [x] Setup SwiftLint'
+  - title: lukabratos submitted an issue on pusher/push-notifications-server-swift
     url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/8
     time_stamp: "2018-08-15"
     type: IssuesEvent
     user_name: lukabratos
     repo: pusher/push-notifications-server-swift
-  - title: Done https://github.com/pusher/push-notifications-server-swift/commit/abaf9e9f0ae468b5ebdd465dd01355d3a63cfbef
+  - title: lukabratos commented on an issue for pusher/push-notifications-server-swift
     url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/comments/413214208
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
@@ -6434,11 +6169,7 @@ competition:
     type: WatchEvent
     user_name: gbrlsnchs
     repo: pusher/websockets-from-scratch-tutorial
-  - title: Would it be possible to organize this package so that the E2E-encryption
-      implementation isn't bundled by tree-shaking capable bundlers if it's not used?
-      My projects are not using end-to-end encrypted channels and upgrading from 4.2.2
-      to 4.3.0 resulted in my JS bundles increasing by 60KB post-minification (UglifyJS).
-      It is significant enough that I will pin my projects to 4.2.2 for now.
+  - title: marksamman submitted an issue on pusher/pusher-js
     url: https://api.github.com/repos/pusher/pusher-js/issues/298
     time_stamp: "2018-08-15"
     type: IssuesEvent
@@ -6450,13 +6181,13 @@ competition:
     type: PushEvent
     user_name: lukabratos
     repo: pusher/push-notifications-server-swift
-  - title: ""
+  - title: lukabratos submitted an issue on pusher/push-notifications-server-swift
     url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/1
     time_stamp: "2018-08-15"
     type: IssuesEvent
     user_name: lukabratos
     repo: pusher/push-notifications-server-swift
-  - title: Done https://github.com/pusher/push-notifications-server-swift/commit/4dfd98edc9b4840fd5090b275e90e0bf454f755d
+  - title: lukabratos commented on an issue for pusher/push-notifications-server-swift
     url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/comments/413156574
     time_stamp: "2018-08-15"
     type: IssueCommentEvent
