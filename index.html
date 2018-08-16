@@ -30,9 +30,9 @@ layout: default
       {% assign competitions = site.competition | sort: 'ranking' %}
       {% assign number_of_competitions = competitions | size %}
       {% for competition in competitions %}
-      <div class="partnersPanel__item enterAnimation" data-enter-animation>
-         <div class="partnersPanel__itemName"><a href="{{ competition.url }}">{{ competition.name }}</a></div>
-         <div class="partnersPanel__itemQuote">{{ competition.description }}<br /></div>
+      <div>
+         <div><a href="{{ competition.url }}">{{ competition.name }}</a></div>
+         <div>{{ competition.description }}<br /></div>
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>Key Links:</strong></p>
            <ul style="list-style-type: circle; padding-top: 15px;">
