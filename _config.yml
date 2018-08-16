@@ -78,7 +78,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -174,7 +174,11 @@ competition:
   description: AWS AppSync automatically updates the data in web and mobile applications
     in real time, and updates data for offline users as soon as they reconnect. AWS
     AppSync makes it easy to build collaborative mobile and web applications that
-    deliver responsive, collaborative user experiences.
+    deliver responsive, collaborative user experiences. You can use AWS AppSync to
+    build native mobile and web apps with iOS, Android, JavaScript and React Native.
+    Get started by going to the AWS AppSync console, specify the data for your app
+    with simple code statements, and AWS AppSync will manage everything needed to
+    store, process, and retrieve the data for your application.
   url: https://aws.amazon.com/appsync/
   email: ""
   blog_url: ""
@@ -185,8 +189,8 @@ competition:
   tag_description: ""
   base_url: ""
   portal_url: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-appsync-logo.png
-  image_width: "150"
+  image: ""
+  image_width: ""
   latest_blog:
   - title: Building a distributed rate limiter that scales horizontally
     url: https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?source=rss----63d285882655---4
@@ -241,7 +245,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -396,7 +400,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -562,7 +566,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -726,7 +730,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -2142,5 +2146,5 @@ exclude:
 - changelog.md
 - .DS_Store
 github_user: streamdata-projects
-github_repo: competitions
+github_repo: competition
 github_branch: master
