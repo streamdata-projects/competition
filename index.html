@@ -89,9 +89,10 @@ layout: default
                {% for activity in competition.latest_github_activity %}
                 {% if activity.type == 'IssueCommentEvent' %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ activity.url }}">{{ user_name.user }} commented on issue - {{ activity.title }}</a></li>
-               {% endfor %}
+               {% endif %}
                {% if activity.type == 'IssueCommentEvent' %}
                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ activity.url }}">{{ user_name.user }} commented on issue - {{ activity.title }}</a></li>
+                 {% endif %}   
               {% endfor %}
              </ul>
            </div>
