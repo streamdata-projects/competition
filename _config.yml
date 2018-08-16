@@ -69,7 +69,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -150,7 +150,157 @@ competition:
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
     url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413250726
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413246512
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413154508
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: axefrog commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413084449
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: axefrog
+    repo: ably/docs
+  - title: mattheworiordan commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413049874
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: mattheworiordan
+    repo: ably/docs
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/483
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: jdavid commented on an issue for ably/ably-python
+    url: https://api.github.com/repos/ably/ably-python/issues/comments/412808533
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: DaTester submitted an issue on ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/247
+    time_stamp: "2018-08-14"
+    type: IssuesEvent
+    user_name: DaTester
+    repo: ably/ably-dotnet
+  - title: Srushtika commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/412806989
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: Srushtika
+    repo: ably/docs
+  - title: jdavid pushed to ably/ably-python
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/490
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
   latest_reddit_searches:
   - reddit_id: "8"
     title: "\u201CPaul Rudd Was My Bat Mitzvah DJ.\u201D Before he was Ant Man, Paul
@@ -161,7 +311,7 @@ competition:
     created_date: "2018-07-10"
     score: "3"
   - reddit_id: "8"
-    title: Blinded by darkness How evangelicals put Donald Trump ahead of Jesus
+    title: 'Blinded by darkness: How evangelicals put Donald Trump ahead of Jesus'
     url: https://www.reddit.com/r/autotldr/comments/8tjm2l/blinded_by_darkness_how_evangelicals_put_donald/
     author: autotldr
     created_date: "2018-06-24"
@@ -199,7 +349,7 @@ competition:
     created_date: "2018-04-17"
     score: "4"
   - reddit_id: "8"
-    title: "How Bill O'Reilly Silenced His Accusers Settlement agreements between
+    title: "How Bill O'Reilly Silenced His Accusers: Settlement agreements between
       Bill O'Reilly and two of his accusers  made public for the first
       time on Wednesday  filled in previously unknown details about tactics
       he employed to silence women who came forward with sexual harassment allegations
@@ -261,7 +411,7 @@ competition:
     created_date: "2017-07-20"
     score: "1"
   - reddit_id: "6"
-    title: "Friday Box Office 'Cars 3\u2032 Speeds Ahead of 'Wonder Woman'"
+    title: "Friday Box Office: 'Cars 3\u2032 Speeds Ahead of 'Wonder Woman'"
     url: https://www.reddit.com/r/autotldr/comments/6hxvpz/friday_box_office_cars_3_speeds_ahead_of_wonder/
     author: autotldr
     created_date: "2017-06-18"
@@ -425,7 +575,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -506,7 +656,157 @@ competition:
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
     url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413250726
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413246512
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413154508
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: axefrog commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413084449
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: axefrog
+    repo: ably/docs
+  - title: mattheworiordan commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413049874
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: mattheworiordan
+    repo: ably/docs
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/483
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: jdavid commented on an issue for ably/ably-python
+    url: https://api.github.com/repos/ably/ably-python/issues/comments/412808533
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: DaTester submitted an issue on ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/247
+    time_stamp: "2018-08-14"
+    type: IssuesEvent
+    user_name: DaTester
+    repo: ably/ably-dotnet
+  - title: Srushtika commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/412806989
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: Srushtika
+    repo: ably/docs
+  - title: jdavid pushed to ably/ably-python
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/490
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
   latest_reddit_searches:
   - reddit_id: "97"
     title: AWS AppSync Adds Quick Start for Amazon Aurora
@@ -515,8 +815,8 @@ competition:
     created_date: "2018-08-14"
     score: "6"
   - reddit_id: "97"
-    title: GitHub - aws-samples/aws-appsync-rds-aurora-sample An AWS AppSync Serverless
-      resolver for the Amazon Aurora relational database.
+    title: 'GitHub - aws-samples/aws-appsync-rds-aurora-sample: An AWS AppSync Serverless
+      resolver for the Amazon Aurora relational database.'
     url: https://github.com/aws-samples/aws-appsync-rds-aurora-sample
     author: revnext2
     created_date: "2018-08-14"
@@ -559,9 +859,9 @@ competition:
     created_date: "2018-05-30"
     score: "7"
   - reddit_id: "8"
-    title: Got a great deal on a store's display TV! Problem It is stuck in the retail
-      demo mode, and nothing I've tried has made any progress. Ugh. [Make and model
-      Element 55 Amazon Fire TV Edition (EL4KAMZ5517T)]
+    title: 'Got a great deal on a store''s display TV! Problem: It is stuck in the
+      retail demo mode, and nothing I''ve tried has made any progress. Ugh. [Make
+      and model: Element 55 Amazon Fire TV Edition (EL4KAMZ5517T)]'
     url: https://www.reddit.com/r/techsupport/comments/8m84u6/got_a_great_deal_on_a_stores_display_tv_problem/
     author: FullScrim
     created_date: "2018-05-26"
@@ -573,8 +873,8 @@ competition:
     created_date: "2018-05-16"
     score: "3"
   - reddit_id: "8"
-    title: App Search Android app that does something similar to Amazon's WhisperSync/Immersive
-      Reading with my OWN files?
+    title: 'App Search: Android app that does something similar to Amazon''s WhisperSync/Immersive
+      Reading with my OWN files?'
     url: https://www.reddit.com/r/audiobooks/comments/8fdndl/app_search_android_app_that_does_something/
     author: minarin
     created_date: "2018-04-27"
@@ -776,7 +1076,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -857,7 +1157,157 @@ competition:
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
     url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413250726
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413246512
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413154508
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: axefrog commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413084449
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: axefrog
+    repo: ably/docs
+  - title: mattheworiordan commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413049874
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: mattheworiordan
+    repo: ably/docs
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/483
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: jdavid commented on an issue for ably/ably-python
+    url: https://api.github.com/repos/ably/ably-python/issues/comments/412808533
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: DaTester submitted an issue on ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/247
+    time_stamp: "2018-08-14"
+    type: IssuesEvent
+    user_name: DaTester
+    repo: ably/ably-dotnet
+  - title: Srushtika commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/412806989
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: Srushtika
+    repo: ably/docs
+  - title: jdavid pushed to ably/ably-python
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/490
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
   latest_reddit_searches:
   - reddit_id: "8"
     title: Load CDC data from relational databases to Amazon Kinesis using Database
@@ -907,15 +1357,15 @@ competition:
     created_date: "2018-06-03"
     score: "1"
   - reddit_id: "8"
-    title: Amazon Kinesis Get total number of consumers and producers for Amazon Kinesis
-      stream
+    title: 'Amazon Kinesis: Get total number of consumers and producers for Amazon
+      Kinesis stream'
     url: https://stackoverflow.com/questions/45447316
     author: Gleb--K
     created_date: "2018-05-12"
     score: "6"
   - reddit_id: "8"
-    title: AWS Summit SF 2018 Analyzing Data Streams in Real Time with Amazon Kinesis
-      (BDA307)
+    title: 'AWS Summit SF 2018: Analyzing Data Streams in Real Time with Amazon Kinesis
+      (BDA307)'
     url: http://www.cloudypoint.com/amazon-web-services/aws-summit-sf-2018-analyzing-data-streams-in-real-time-with-amazon-kinesis-bda307/
     author: foundnazi
     created_date: "2018-04-12"
@@ -927,7 +1377,7 @@ competition:
     created_date: "2018-03-20"
     score: "3"
   - reddit_id: "7"
-    title: Spark Streaming IoT with Amazon Kinesis and Visualizing with Qubole Notebooks
+    title: 'Spark Streaming: IoT with Amazon Kinesis and Visualizing with Qubole Notebooks'
     url: https://www.qubole.com/blog/spark-streaming-iot-amazon-kinesis-visualizing-qubole-notebooks/
     author: sharetrackiot
     created_date: "2018-02-09"
@@ -1015,7 +1465,7 @@ competition:
     created_date: "2017-06-06"
     score: "1"
   - reddit_id: "5"
-    title: "Amazon Kinesis the best event queue you're not using"
+    title: "Amazon Kinesis: the best event queue you're not using"
     url: https://instrumentalapp.com/blog/aws-kinesis/
     author: mediocretes
     created_date: "2017-02-08"
@@ -1421,7 +1871,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -1502,7 +1952,157 @@ competition:
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
     url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413250726
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413246512
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413154508
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: axefrog commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413084449
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: axefrog
+    repo: ably/docs
+  - title: mattheworiordan commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413049874
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: mattheworiordan
+    repo: ably/docs
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/483
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: jdavid commented on an issue for ably/ably-python
+    url: https://api.github.com/repos/ably/ably-python/issues/comments/412808533
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: DaTester submitted an issue on ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/247
+    time_stamp: "2018-08-14"
+    type: IssuesEvent
+    user_name: DaTester
+    repo: ably/ably-dotnet
+  - title: Srushtika commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/412806989
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: Srushtika
+    repo: ably/docs
+  - title: jdavid pushed to ably/ably-python
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/490
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
   latest_reddit_searches:
   - reddit_id: "95"
     title: Looking for a 1-2 month Power BI Project in the LA area??
@@ -1517,8 +2117,8 @@ competition:
     created_date: "2018-05-30"
     score: "2"
   - reddit_id: "8"
-    title: Azure Functions does the Event Hub trigger work in Java? There is an annotation
-      available but there's nothing about it in the docs.
+    title: 'Azure Functions: does the Event Hub trigger work in Java? There is an
+      annotation available but there''s nothing about it in the docs.'
     url: https://www.reddit.com/r/AZURE/comments/8ggz86/azure_functions_does_the_event_hub_trigger_work/
     author: irrelevant_banana
     created_date: "2018-05-02"
@@ -1530,7 +2130,7 @@ competition:
     created_date: "2018-04-24"
     score: "171"
   - reddit_id: "8"
-    title: '[Tutorial] Pluralsight - Azure Event Hubs for .NET Developers Fundamentals
+    title: '[Tutorial] Pluralsight - Azure Event Hubs for .NET Developers: Fundamentals
       2018 TUTORiAL'
     url: http://scenep2p.com/e-books/video-training/5900-pluralsight-azure-event-hubs-for-net-developers-fundamentals-2018-tutorial.html
     author: tuongyda14
@@ -1579,7 +2179,7 @@ competition:
     created_date: "2017-09-04"
     score: "11"
   - reddit_id: "69"
-    title: GitHub - Azure/diagnostics-eventflow Microsoft Diagnostics EventFlow
+    title: 'GitHub - Azure/diagnostics-eventflow: Microsoft Diagnostics EventFlow'
     url: https://github.com/Azure/diagnostics-eventflow
     author: shoorik
     created_date: "2017-05-05"
@@ -1598,7 +2198,7 @@ competition:
     created_date: "2017-02-06"
     score: "3"
   - reddit_id: "5"
-    title: Tuesdays with Corey Azure Event Hubs Archive goodness
+    title: 'Tuesdays with Corey: Azure Event Hubs Archive goodness'
     url: https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Tuesdays-with-Corey-Azure-Event-Hubs-Archive-goodness
     author: MattLoflin
     created_date: "2016-11-08"
@@ -1629,7 +2229,7 @@ competition:
     created_date: "2015-07-16"
     score: "1"
   - reddit_id: "38"
-    title: Azure  Event Hub A First Look
+    title: 'Azure : Event Hub A First Look'
     url: https://sachabarbs.wordpress.com/2015/06/04/azure-event-hub-a-first-look/
     author: attila_kisko
     created_date: "2015-06-05"
@@ -2017,7 +2617,7 @@ competition:
       will show us how to surface SMS notifications in an @angular applicati..."
     url: https://twitter.com/ablyrealtime/status/1026869222683697153
     time_stamp: "2018-08-07 09:34:35"
-  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate
+  - title: "RT @Nexmo: WiFi at #europython inspired @NexmoDev Advocate 
       @lakatos88 to finish his @angular SMS notifications blog post using Nexmo, @ab..."
     url: https://twitter.com/ablyrealtime/status/1024691661715202048
     time_stamp: "2018-08-01 09:21:44"
@@ -2098,7 +2698,157 @@ competition:
       blog. https://t.co/Hy2lZQReQ3 #GitHub #wiki #hacking'
     url: https://twitter.com/ablyrealtime/status/1014104989411790848
     time_stamp: "2018-07-03 04:14:05"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413250726
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: paddybyers commented on an issue for ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/comments/413246512
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: paddybyers
+    repo: ably/ably-dotnet
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: tomczoink commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413154508
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink submitted an issue on ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/487
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: axefrog commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413084449
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: axefrog
+    repo: ably/docs
+  - title: mattheworiordan commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/413049874
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: mattheworiordan
+    repo: ably/docs
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/483
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: jdavid commented on an issue for ably/ably-python
+    url: https://api.github.com/repos/ably/ably-python/issues/comments/412808533
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: DaTester submitted an issue on ably/ably-dotnet
+    url: https://api.github.com/repos/ably/ably-dotnet/issues/247
+    time_stamp: "2018-08-14"
+    type: IssuesEvent
+    user_name: DaTester
+    repo: ably/ably-dotnet
+  - title: Srushtika commented on an issue for ably/docs
+    url: https://api.github.com/repos/ably/docs/issues/comments/412806989
+    time_stamp: "2018-08-14"
+    type: IssueCommentEvent
+    user_name: Srushtika
+    repo: ably/docs
+  - title: jdavid pushed to ably/ably-python
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: jdavid
+    repo: ably/ably-python
+  - title: tomczoink pushed to ably/docs
+    url: ""
+    time_stamp: "2018-08-14"
+    type: PushEvent
+    user_name: tomczoink
+    repo: ably/docs
+  - title: tomczoink made a pull request on ably/docs
+    url: https://github.com/ably/docs/pull/490
+    time_stamp: "2018-08-14"
+    type: PullRequestEvent
+    user_name: tomczoink
+    repo: ably/docs
   latest_reddit_searches:
   - reddit_id: "977"
     title: '[H] Doom, Shadow of War, No Man''s Sky, Monster Hunter, Battletech and
@@ -2171,8 +2921,8 @@ competition:
     created_date: "2018-08-06"
     score: "1"
   - reddit_id: "94"
-    title: A little survey do you put event bugs on the flower type they spawn on,
-      or on the other flower types, or on just any empty flower?
+    title: 'A little survey: do you put event bugs on the flower type they spawn on,
+      or on the other flower types, or on just any empty flower?'
     url: https://www.reddit.com/r/ACPocketCamp/comments/94g9sw/a_little_survey_do_you_put_event_bugs_on_the/
     author: AstralGuardian97
     created_date: "2018-08-04"
@@ -2891,7 +3641,7 @@ competition:
     created_date: "2018-02-08"
     score: "1"
   - reddit_id: "7"
-    title: "Secure API Keys in Salesforce  Example Google Firebase"
+    title: "Secure API Keys in Salesforce  Example: Google Firebase"
     url: https://www.reddit.com/r/salesforce/comments/7v59kb/secure_api_keys_in_salesforce_example_google/
     author: SimpleForceCom
     created_date: "2018-02-04"
@@ -3597,9 +4347,9 @@ competition:
     created_date: "2018-05-31"
     score: "2"
   - reddit_id: "82"
-    title: '@justin_aptaker  #DoD using Google''s #opensource #AI software, and some
+    title: '@justin_aptaker : #DoD using Google''s #opensource #AI software, and some
       employees are skeptical. . #ArtificalIntelligence #TensorFlow #machinelearning
-      #BigData #Datascience #DeepLearning https//t.co/KbyRziukcf'
+      #BigData #Datascience #DeepLearning https://t.co/KbyRziukcf'
     url: https://twitter.com/justin_aptaker/status/971358282525929474
     author: japtaker
     created_date: "2018-03-07"
@@ -3637,8 +4387,9 @@ competition:
     created_date: "2017-11-21"
     score: "6"
   - reddit_id: "78"
-    title: "@VentureBeat RT @golkeepr22 @google 's Jeff Dean open sourcing @TensorFlow
-      allows users to keep proprietary data in-house and still take advant... https//t.co/aUzHWGBk8t"
+    title: "@VentureBeat: RT @golkeepr22: @google 's Jeff Dean open sourcing
+      @TensorFlow allows users to keep proprietary data in-house and still take advant...
+      https://t.co/aUzHWGBk8t"
     url: https://twitter.com/golkeepr22/status/922591862862512128
     author: -en-
     created_date: "2017-10-23"
@@ -3652,7 +4403,7 @@ competition:
     created_date: "2017-08-11"
     score: "9"
   - reddit_id: "6"
-    title: '[github] QubitProducts/metrics-flow Metrics collection library for Google
+    title: '[github] QubitProducts/metrics-flow: Metrics collection library for Google
       Dataflow'
     url: https://github.com/QubitProducts/metrics-flow
     author: fhoffa
@@ -3678,8 +4429,8 @@ competition:
     created_date: "2017-02-06"
     score: "3"
   - reddit_id: "5"
-    title: Inaccurate Data in Google Analytics Behavior Flow Is anyone Else Seeing
-      This?
+    title: 'Inaccurate Data in Google Analytics Behavior Flow: Is anyone Else Seeing
+      This?'
     url: https://www.reddit.com/r/marketing/comments/5dgk0d/inaccurate_data_in_google_analytics_behavior_flow/
     author: daveeb
     created_date: "2016-11-17"
@@ -3692,7 +4443,7 @@ competition:
     created_date: "2016-07-27"
     score: "4"
   - reddit_id: "4"
-    title: Google Analytics User Flow data through API?
+    title: 'Google Analytics: User Flow data through API?'
     url: https://www.reddit.com/r/analytics/comments/4ijw9j/google_analytics_user_flow_data_through_api/
     author: datewithikeaa
     created_date: "2016-05-09"
@@ -3711,10 +4462,10 @@ competition:
     created_date: "2015-11-25"
     score: "1273"
   - reddit_id: "1"
-    title: Google encrypts data amid backlash against NSA spying Google is racing
+    title: 'Google encrypts data amid backlash against NSA spying: Google is racing
       to encrypt the torrents of information that flow among its data centers around
       the world, in a bid to thwart snooping by the NSA as well as the intelligence
-      agencies of foreign governments, company officials said on Friday.
+      agencies of foreign governments, company officials said on Friday.'
     url: http://www.washingtonpost.com/business/technology/google-encrypts-data-amid-backlash-against-nsa-spying/2013/09/06/9acc3c20-1722-11e3-a2ec-b47e45e6f8ef_story.html
     author: airpatrol
     created_date: "2013-09-07"
@@ -4183,10 +4934,160 @@ competition:
       your organization's #data:... https://t.co/y3tjFZFxlh"
     url: https://twitter.com/kaazing/status/882665929280245760
     time_stamp: "2017-07-05 11:22:11"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CommitCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: hthetiot pushed to kaazing/http2-cache.js
+    url: ""
+    time_stamp: "2018-08-07"
+    type: PushEvent
+    user_name: hthetiot
+    repo: kaazing/http2-cache.js
+  - title: hthetiot pushed to kaazing/http2.js
+    url: ""
+    time_stamp: "2018-08-07"
+    type: PushEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
+  - title: hthetiot made a pull request on kaazing/http2.js
+    url: https://github.com/kaazing/http2.js/pull/25
+    time_stamp: "2018-08-07"
+    type: PullRequestEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
+  - title: hthetiot commented on an issue for kaazing/http2.js
+    url: https://api.github.com/repos/kaazing/http2.js/issues/comments/411200048
+    time_stamp: "2018-08-07"
+    type: IssueCommentEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
+  - title: hthetiot commented on an issue for kaazing/http2.js
+    url: https://api.github.com/repos/kaazing/http2.js/issues/comments/411199700
+    time_stamp: "2018-08-07"
+    type: IssueCommentEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
+  - title: hthetiot pushed to kaazing/http2.js
+    url: ""
+    time_stamp: "2018-08-07"
+    type: PushEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
+  - title: hthetiot pushed to kaazing/http2.js
+    url: ""
+    time_stamp: "2018-08-07"
+    type: PushEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
+  - title: kaazing/gateway being watched by adnoh
+    url: ""
+    time_stamp: "2018-08-07"
+    type: WatchEvent
+    user_name: adnoh
+    repo: kaazing/gateway
+  - title: kaazing/gateway being watched by uns-miyama
+    url: ""
+    time_stamp: "2018-08-07"
+    type: WatchEvent
+    user_name: uns-miyama
+    repo: kaazing/gateway
+  - title: hthetiot made a pull request on kaazing/http2.js
+    url: https://github.com/kaazing/http2.js/pull/25
+    time_stamp: "2018-08-06"
+    type: PullRequestEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
+  - title: kaazing/template-simple-chat-app was forked by template-simple-chat-app
+    url: ""
+    time_stamp: "2018-08-02"
+    type: ForkEvent
+    user_name: template-simple-chat-app
+    repo: kaazing/template-simple-chat-app
+  - title: dpwspoon pushed to kaazing/dynamodb-transactions
+    url: ""
+    time_stamp: "2018-07-30"
+    type: PushEvent
+    user_name: dpwspoon
+    repo: kaazing/dynamodb-transactions
+  - title: dpwspoon pushed to kaazing/dynamodb-transactions
+    url: ""
+    time_stamp: "2018-07-30"
+    type: PushEvent
+    user_name: dpwspoon
+    repo: kaazing/dynamodb-transactions
+  - title: kaazing/gateway.docker being watched by anezjonathan
+    url: ""
+    time_stamp: "2018-07-28"
+    type: WatchEvent
+    user_name: anezjonathan
+    repo: kaazing/gateway.docker
+  - title: jitsni submitted an issue on kaazing/http2.js
+    url: https://api.github.com/repos/kaazing/http2.js/issues/24
+    time_stamp: "2018-07-25"
+    type: IssuesEvent
+    user_name: jitsni
+    repo: kaazing/http2.js
+  - title: dpwspoon commented on an issue for kaazing/http2.js
+    url: https://api.github.com/repos/kaazing/http2.js/issues/comments/407188971
+    time_stamp: "2018-07-23"
+    type: IssueCommentEvent
+    user_name: dpwspoon
+    repo: kaazing/http2.js
+  - title: hthetiot made a pull request on kaazing/http2.js
+    url: https://github.com/kaazing/http2.js/pull/23
+    time_stamp: "2018-07-23"
+    type: PullRequestEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
+  - title: hthetiot submitted an issue on kaazing/http2.js
+    url: https://api.github.com/repos/kaazing/http2.js/issues/18
+    time_stamp: "2018-07-23"
+    type: IssuesEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
+  - title: hthetiot commented on an issue for kaazing/http2.js
+    url: https://api.github.com/repos/kaazing/http2.js/issues/comments/407183966
+    time_stamp: "2018-07-23"
+    type: IssueCommentEvent
+    user_name: hthetiot
+    repo: kaazing/http2.js
   latest_reddit_searches:
   - reddit_id: "6"
-    title: Pushpin An Evented API for your DevOps Stack
+    title: 'Pushpin: An Evented API for your DevOps Stack'
     url: https://www.reddit.com/r/devops/comments/6zv7yx/pushpin_an_evented_api_for_your_devops_stack/
     author: justinucd
     created_date: "2017-09-13"
@@ -4204,8 +5105,8 @@ competition:
     created_date: "2016-01-28"
     score: "1"
   - reddit_id: "3"
-    title: Four New Official Repos in Docker Hub Kibana, ownCloud, ArangoDB and Kaazing
-      Gateway
+    title: 'Four New Official Repos in Docker Hub: Kibana, ownCloud, ArangoDB and
+      Kaazing Gateway'
     url: https://blog.docker.com/2015/07/official-repos-kibana-owncloud-arangodb-kaazing/
     author: daHoodwatcher
     created_date: "2015-07-28"
@@ -4223,7 +5124,7 @@ competition:
     created_date: "2012-04-20"
     score: "1"
   - reddit_id: "6"
-    title: 'Funding Announcements Docstoc, Kaazing and Wishpot '
+    title: 'Funding Announcements: Docstoc, Kaazing and Wishpot '
     url: http://www.centernetworks.com/vc-funding-docstoc-wishpot-kaazing
     author: weblaunches
     created_date: "2008-04-29"
@@ -4678,7 +5579,164 @@ competition:
       broker-dealer for institutional investor... https://t.co/eT3mFsA4Yl"
     url: https://twitter.com/Lightstreamer/status/911244396665982986
     time_stamp: "2017-09-22 08:02:48"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: Lightstreamer/Lightstreamer-example-StockList-client-angular being watched
+      by RobBickel
+    url: ""
+    time_stamp: "2018-08-11"
+    type: WatchEvent
+    user_name: RobBickel
+    repo: Lightstreamer/Lightstreamer-example-StockList-clie
+  - title: Bravo27 pushed to Lightstreamer/Lightstreamer-example-Quickstart-client-socket
+    url: ""
+    time_stamp: "2018-08-07"
+    type: PushEvent
+    user_name: Bravo27
+    repo: Lightstreamer/Lightstreamer-example-Quickstart-cli
+  - title: Bravo27 pushed to Lightstreamer/Lightstreamer-example-Quickstart-client-kotlin
+    url: ""
+    time_stamp: "2018-08-06"
+    type: PushEvent
+    user_name: Bravo27
+    repo: Lightstreamer/Lightstreamer-example-Quickstart-cli
+  - title: Lightstreamer/Lightstreamer-example-StockList-client-dotnet was forked
+      by Lightstreamer-example-StockList-client-dotnet
+    url: ""
+    time_stamp: "2018-08-03"
+    type: ForkEvent
+    user_name: Lightstreamer-example-StockList-client-dotnet
+    repo: Lightstreamer/Lightstreamer-example-StockList-clie
+  - title: Lightstreamer/Lightstreamer-example-StockList-client-reactnative being
+      watched by teopeurt
+    url: ""
+    time_stamp: "2018-08-02"
+    type: WatchEvent
+    user_name: teopeurt
+    repo: Lightstreamer/Lightstreamer-example-StockList-clie
+  - title: Lightstreamer/Lightstreamer-example-StockList-client-angular2 being watched
+      by mingsc
+    url: ""
+    time_stamp: "2018-08-02"
+    type: WatchEvent
+    user_name: mingsc
+    repo: Lightstreamer/Lightstreamer-example-StockList-clie
+  - title: Lightstreamer/Lightstreamer-example-StockList-client-javascript was forked
+      by Lightstreamer-example-StockList-client-javascript
+    url: ""
+    time_stamp: "2018-07-31"
+    type: ForkEvent
+    user_name: Lightstreamer-example-StockList-client-javascript
+    repo: Lightstreamer/Lightstreamer-example-StockList-clie
+  - title: gfinocchiaro pushed to Lightstreamer/official-images
+    url: ""
+    time_stamp: "2018-07-31"
+    type: PushEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/official-images
+  - title: gfinocchiaro pushed to Lightstreamer/official-images
+    url: ""
+    time_stamp: "2018-07-31"
+    type: PushEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/official-images
+  - title: tianon pushed to Lightstreamer/official-images
+    url: ""
+    time_stamp: "2018-07-30"
+    type: PushEvent
+    user_name: tianon
+    repo: Lightstreamer/official-images
+  - title: gfinocchiaro pushed to Lightstreamer/official-images
+    url: ""
+    time_stamp: "2018-07-30"
+    type: PushEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/official-images
+  - title: gfinocchiaro pushed to Lightstreamer/docker-docs
+    url: ""
+    time_stamp: "2018-07-27"
+    type: PushEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/docker-docs
+  - title: gfinocchiaro pushed to Lightstreamer/official-images
+    url: ""
+    time_stamp: "2018-07-27"
+    type: PushEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/official-images
+  - title: gfinocchiaro pushed to Lightstreamer/official-images
+    url: ""
+    time_stamp: "2018-07-27"
+    type: PushEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/official-images
+  - title: gfinocchiaro pushed to Lightstreamer/official-images
+    url: ""
+    time_stamp: "2018-07-27"
+    type: PushEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/official-images
+  - title: Lightstreamer/Lightstreamer-example-AuthMetadata-client-javascript was
+      forked by Lightstreamer-example-AuthMetadata-client-javascript
+    url: ""
+    time_stamp: "2018-07-18"
+    type: ForkEvent
+    user_name: Lightstreamer-example-AuthMetadata-client-javascript
+    repo: Lightstreamer/Lightstreamer-example-AuthMetadata-c
+  - title: Lightstreamer/utility-ThreadPool-ios being watched by woshiccm
+    url: ""
+    time_stamp: "2018-07-17"
+    type: WatchEvent
+    user_name: woshiccm
+    repo: Lightstreamer/utility-ThreadPool-ios
+  - title: Lightstreamer/Lightstreamer-example-Quickstart-client-dotnet being watched
+      by mehdipayervand
+    url: ""
+    time_stamp: "2018-07-15"
+    type: WatchEvent
+    user_name: mehdipayervand
+    repo: Lightstreamer/Lightstreamer-example-Quickstart-cli
+  - title: gfinocchiaro commented on an issue for Lightstreamer/Docker
+    url: https://api.github.com/repos/Lightstreamer/Docker/issues/comments/404777990
+    time_stamp: "2018-07-13"
+    type: IssueCommentEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/Docker
+  - title: lag-linaro commented on an issue for Lightstreamer/Docker
+    url: https://api.github.com/repos/Lightstreamer/Docker/issues/comments/404464177
+    time_stamp: "2018-07-12"
+    type: IssueCommentEvent
+    user_name: lag-linaro
+    repo: Lightstreamer/Docker
+  - title: gfinocchiaro commented on an issue for Lightstreamer/Docker
+    url: https://api.github.com/repos/Lightstreamer/Docker/issues/comments/404454659
+    time_stamp: "2018-07-12"
+    type: IssueCommentEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/Docker
+  - title: lag-linaro commented on an issue for Lightstreamer/Docker
+    url: https://api.github.com/repos/Lightstreamer/Docker/issues/comments/404452443
+    time_stamp: "2018-07-12"
+    type: IssueCommentEvent
+    user_name: lag-linaro
+    repo: Lightstreamer/Docker
+  - title: gfinocchiaro commented on an issue for Lightstreamer/Docker
+    url: https://api.github.com/repos/Lightstreamer/Docker/issues/comments/404449851
+    time_stamp: "2018-07-12"
+    type: IssueCommentEvent
+    user_name: gfinocchiaro
+    repo: Lightstreamer/Docker
+  - title: lag-linaro commented on an issue for Lightstreamer/Docker
+    url: https://api.github.com/repos/Lightstreamer/Docker/issues/comments/404448843
+    time_stamp: "2018-07-12"
+    type: IssueCommentEvent
+    user_name: lag-linaro
+    repo: Lightstreamer/Docker
+  - title: lag-linaro commented on an issue for Lightstreamer/Docker
+    url: https://api.github.com/repos/Lightstreamer/Docker/issues/comments/404447846
+    time_stamp: "2018-07-12"
+    type: IssueCommentEvent
+    user_name: lag-linaro
+    repo: Lightstreamer/Docker
   latest_reddit_searches:
   - reddit_id: "970"
     title: Ice called streamers who abuse TTS fags. Literally what Sam does, sleep
@@ -4712,9 +5770,9 @@ competition:
     created_date: "2018-07-19"
     score: "702"
   - reddit_id: "8"
-    title: 'Came back because of double BP, had 5 matches with 3 ebony mories with
+    title: Came back because of double BP, had 5 matches with 3 ebony mories with
       dying light, 2 tombstone myers, one perma tier 3 and all camped... although
-      we always had 2 or more party streamers    url: https://www.reddit.com/r/deadbydaylight/comments/8wt1op/came_back_because_of_double_bp_had_5_matches_with/'
+      we always had 2 or more party streamers    url: https://www.reddit.com/r/deadbydaylight/comments/8wt1op/came_back_because_of_double_bp_had_5_matches_with/
     author: DeadByDaylight_Zoe
     created_date: "2018-07-07"
     score: "9"
@@ -4722,7 +5780,7 @@ competition:
     title: Creators of Light are a discord based community focused on sharing creative
       content by players. Currently we are preparing our first month of web published
       content and need creatives to share! Photographers, artists, writers, streamers,
-      memers - we need you! https//discord.gg/nKXWTpY
+      memers - we need you! https://discord.gg/nKXWTpY
     url: https://i.redd.it/7e1xbkbd4f711.jpg
     author: ladygrey94
     created_date: "2018-07-02"
@@ -4782,7 +5840,7 @@ competition:
     created_date: "2017-03-18"
     score: "2"
   - reddit_id: "5"
-    title: Sohlas is playing World of Warcraft From Now Until 930 EST- Rum Runners
+    title: Sohlas is playing World of Warcraft From Now Until 9:30 EST- Rum Runners
       Nighthold Progression
     url: https://www.reddit.com/r/vgstreams/comments/5pe782/sohlas_is_playing_world_of_warcraft_from_now/
     author: Kmill92
@@ -5329,8 +6387,8 @@ competition:
     created_date: "2017-10-31"
     score: "2"
   - reddit_id: "79"
-    title: Using PubNub A Real-world Example of Building a Talking Chat That Displays
-      Emotions
+    title: 'Using PubNub: A Real-world Example of Building a Talking Chat That Displays
+      Emotions'
     url: https://distillery.com/blog/using-pubnub-a-real-world-example-of-building-a-talking-chat-that-displays-emotions/
     author: cromathaar
     created_date: "2017-10-30"
@@ -5400,13 +6458,13 @@ competition:
     created_date: "2015-09-30"
     score: "0"
   - reddit_id: "2"
-    title: Code Review Fan tachometer with PWM, LCD and PubNub over WiFi
+    title: 'Code Review: Fan tachometer with PWM, LCD and PubNub over WiFi'
     url: https://www.reddit.com/r/MSP430/comments/2vqb2e/code_review_fan_tachometer_with_pwm_lcd_and/
     author: benjaminchodroff
     created_date: "2015-02-13"
     score: "2"
   - reddit_id: "2"
-    title: PubNub Blog Coinkite Keeps Customers in the Loop with Push Notifications
+    title: 'PubNub Blog: Coinkite Keeps Customers in the Loop with Push Notifications'
     url: http://www.pubnub.com/blog/push-notifications-financial-transactions-coinkite/
     author: dochex
     created_date: "2014-08-13"
@@ -6353,8 +7411,8 @@ competition:
     created_date: "2018-08-15"
     score: "180"
   - reddit_id: "96"
-    title: EXCLUSIVE Ang official statement ni Pangulong Duterte hinggil sa nakalusot
-      na halos pitong bilyong pisong halaga ng panibagong shabu shipment
+    title: 'EXCLUSIVE: Ang official statement ni Pangulong Duterte hinggil sa nakalusot
+      na halos pitong bilyong pisong halaga ng panibagong shabu shipment'
     url: https://i.redd.it/g3lnzhnbhrf11.jpg
     author: HasNameAllTakenWTF
     created_date: "2018-08-13"
@@ -6995,7 +8053,157 @@ competition:
       nice and documented overview of the project\U0001F44D!"
     url: https://twitter.com/streamrinc/status/1027862230648410112
     time_stamp: "2018-08-10 03:20:27"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: YizhouCodes pushed to streamr-dev/Unity_Datagathering_Demo
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: YizhouCodes
+    repo: streamr-dev/Unity_Datagathering_Demo
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: mikhaelsantos pushed to streamr-dev/engine-and-editor
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: mikhaelsantos
+    repo: streamr-dev/engine-and-editor
+  - title: mikhaelsantos made a pull request on streamr-dev/engine-and-editor
+    url: https://github.com/streamr-dev/engine-and-editor/pull/493
+    time_stamp: "2018-08-15"
+    type: PullRequestEvent
+    user_name: mikhaelsantos
+    repo: streamr-dev/engine-and-editor
+  - title: mikhaelsantos made a pull request on streamr-dev/engine-and-editor
+    url: https://github.com/streamr-dev/engine-and-editor/pull/493
+    time_stamp: "2018-08-15"
+    type: PullRequestEvent
+    user_name: mikhaelsantos
+    repo: streamr-dev/engine-and-editor
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: mondoreale commented on an issue for streamr-dev/engine-and-editor
+    url: https://api.github.com/repos/streamr-dev/engine-and-editor/issues/comments/413161004
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: mondoreale
+    repo: streamr-dev/engine-and-editor
+  - title: mondoreale commented on an issue for streamr-dev/engine-and-editor
+    url: https://api.github.com/repos/streamr-dev/engine-and-editor/issues/comments/413160893
+    time_stamp: "2018-08-15"
+    type: IssueCommentEvent
+    user_name: mondoreale
+    repo: streamr-dev/engine-and-editor
+  - title: mondoreale pushed to streamr-dev/engine-and-editor
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: mondoreale
+    repo: streamr-dev/engine-and-editor
+  - title: mondoreale pushed to streamr-dev/engine-and-editor
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: mondoreale
+    repo: streamr-dev/engine-and-editor
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: mondoreale pushed to streamr-dev/engine-and-editor
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: mondoreale
+    repo: streamr-dev/engine-and-editor
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: mikhaelsantos pushed to streamr-dev/engine-and-editor
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: mikhaelsantos
+    repo: streamr-dev/engine-and-editor
+  - title: mikhaelsantos made a pull request on streamr-dev/engine-and-editor
+    url: https://github.com/streamr-dev/engine-and-editor/pull/492
+    time_stamp: "2018-08-15"
+    type: PullRequestEvent
+    user_name: mikhaelsantos
+    repo: streamr-dev/engine-and-editor
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: DeleteEvent
+    user_name: ""
+    repo: ""
+  - title: mikhaelsantos made a pull request on streamr-dev/engine-and-editor
+    url: https://github.com/streamr-dev/engine-and-editor/pull/492
+    time_stamp: "2018-08-15"
+    type: PullRequestEvent
+    user_name: mikhaelsantos
+    repo: streamr-dev/engine-and-editor
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: CreateEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
+  - title: ""
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PullRequestReviewCommentEvent
+    user_name: ""
+    repo: ""
   latest_reddit_searches:
   - reddit_id: "97"
     title: Congrats to our Community Hero of the month u/Lootcoin for helping us spread
@@ -7056,8 +8264,8 @@ competition:
     created_date: "2018-07-13"
     score: "9"
   - reddit_id: "8"
-    title: "Blog post 'DATA Chance encounter with a lucky small cap?' -
-      The story of how one person found out about Streamr!"
+    title: "Blog post: 'DATA: Chance encounter with a lucky small cap?'
+      - The story of how one person found out about Streamr!"
     url: https://busy.org/@kirkins/data-chance-encounter-with-a-lucky-small-cap
     author: whenmoon
     created_date: "2018-07-07"
@@ -7071,7 +8279,7 @@ competition:
     score: "12"
   - reddit_id: "8"
     title: "Streamr's founder and CEO speaking at major TechCrunch event this
-      Friday between 1300 and 1315."
+      Friday between 13:00 and 13:15."
     url: https://i.redd.it/70uprcit7w711.png
     author: AmandineF
     created_date: "2018-07-04"
@@ -7103,7 +8311,7 @@ competition:
     created_date: "2018-06-05"
     score: "6"
   - reddit_id: "8"
-    title: "Watch and Read Streamr CEO's roundup of Marketplace launch."
+    title: "Watch and Read: Streamr CEO's roundup of Marketplace launch."
     url: https://medium.com/streamrblog/why-we-went-live-at-consensus-2018-and-whats-next-for-our-data-marketplace-e35fe53a8fa5
     author: AmandineF
     created_date: "2018-06-04"
@@ -7122,22 +8330,22 @@ competition:
     created_date: "2018-05-16"
     score: "55"
   - reddit_id: "8"
-    title: IBM identifies Streamr marketplace launch as a highlight of Consensus in
-      article titled Great day to blockchain Positive contributions to the industry
+    title: 'IBM identifies Streamr marketplace launch as a highlight of Consensus
+      in article titled Great day to blockchain: Positive contributions to the industry'
     url: https://www.ibm.com/blogs/blockchain/2018/05/great-day-to-blockchain-positive-contributions-to-the-industry/
     author: whenmoon
     created_date: "2018-05-15"
     score: "69"
   - reddit_id: "8"
-    title: News Streamr and Hewlett Packard Enterprise are partnering to monetise
-      realtime commercial car data.
+    title: 'News: Streamr and Hewlett Packard Enterprise are partnering to monetise
+      realtime commercial car data.'
     url: https://medium.com/streamrblog/news-streamr-partners-with-hewlett-packard-enterprise-to-monetise-car-data-525d5b7c1d07
     author: WeileiY
     created_date: "2018-05-10"
     score: "113"
   - reddit_id: "8"
-    title: Bitcoin mentioned around Reddit Amazon Sees Bitcoin Use Case in Data Marketplaces
-      (include short statement from Henri Pihkala) /r/streamr
+    title: 'Bitcoin mentioned around Reddit: Amazon Sees Bitcoin Use Case in Data
+      Marketplaces (include short statement from Henri Pihkala) /r/streamr'
     url: https://www.reddit.com/r/streamr/comments/8d38oe/_/dxk3rdh
     author: HiIAMCaptainObvious
     created_date: "2018-04-18"
@@ -7608,9 +8816,9 @@ competition:
   latest_reddit_searches:
   - reddit_id: "93775"
     title: "\U0001F691 \U0001D54A\U0001D566\U0001D553 \u211D\U0001D556\U0001D564\U0001D554\U0001D566\U0001D556
-      \u2119\U0001D55D\U0001D552\U0001D55F Step 1 Post, Step 2 Bring Sing here while
-      he is doing IRL, Result Ez publicity, more readers, more posts, better striim
-      content"
+      \u2119\U0001D55D\U0001D552\U0001D55F: Step 1: Post, Step 2: Bring Sing here
+      while he is doing IRL, Result: Ez publicity, more readers, more posts, better
+      striim content"
     url: https://i.redd.it/4ngxmeacx4d11.png
     author: Streamfighter
     created_date: "2018-07-30"
@@ -7649,7 +8857,7 @@ competition:
     created_date: "2018-06-08"
     score: "7"
   - reddit_id: "8"
-    title: "striim hubii is scaling the Ethereum network \u2013 Jacobo \u2013 Medium"
+    title: "striim: hubii is scaling the Ethereum network \u2013 Jacobo \u2013 Medium"
     url: https://medium.com/@jacobotoll/striim-hubii-is-scaling-the-ethereum-network-95f555d80fdc
     author: Janmilly
     created_date: "2018-05-23"
@@ -7705,15 +8913,15 @@ competition:
     created_date: "2016-10-04"
     score: "1"
   - reddit_id: "4"
-    title: '@VentureBeat Striim raises $10 million to expand streaming technology
-      to Europe https//t.co/e55zJ37TGK https//t.co/ZHWZQp0kRR'
+    title: '@VentureBeat: Striim raises $10 million to expand streaming technology
+      to Europe https://t.co/e55zJ37TGK https://t.co/ZHWZQp0kRR'
     url: https://twitter.com/VentureBeat/status/710294565866094594
     author: AncientAstronauts
     created_date: "2016-03-17"
     score: "1"
   - reddit_id: "4"
-    title: '@VentureBeat Striim raises $10 million to expand its streaming integration
-      and intelligence technology to Europe https//t.co/11pmFGiP1N by @siindy64'
+    title: '@VentureBeat: Striim raises $10 million to expand its streaming integration
+      and intelligence technology to Europe https://t.co/11pmFGiP1N by @siindy64'
     url: https://twitter.com/VentureBeat/status/710058299811561472
     author: AncientAstronauts
     created_date: "2016-03-16"
