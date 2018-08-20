@@ -2034,6 +2034,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
   image_width: "150"
   latest_blog:
+  - title: In-App Messaging, Crashlytics integrations, and more! Oh my!
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/nSXHpH-9MJk/in-app-messaging-crashlytics.html
+    time_stamp: "2018-08-20 10:37:25"
   - title: ' New runtime configuration options with Cloud Functions for Firebase'
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/siypAazVN-o/cloud-functions-for-firebase-config-node-8-timeout-memory-region.html
     time_stamp: "2018-08-15 10:55:55"
@@ -2108,9 +2111,6 @@ competition:
     time_stamp: "1969-12-31 16:00:00"
   - title: 7 tips for getting the most out of Crashlytics
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/dKZb6YZznhw/7-tips-for-getting-most-out-of.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: A Cross-platform Firebase Sample App Featuring Best Practices
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/Cx0gOUUHx88/a-cross-platform-firebase-sample-app.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
   - title: "As the industry becomes more diverse, there's more opportunity for everyone.
@@ -2353,6 +2353,90 @@ competition:
     user_name: nicolasgarnier
     repo: firebase/functions-samples
   latest_reddit_searches:
+  - reddit_id: "9895"
+    title: '@TheNextWeb: Google''s Firebase adds in-app messaging and new Crashlytics
+      integrations https://t.co/Ywz83hPKWx'
+    url: https://mobile.twitter.com/TheNextWeb/status/1030676921322020864
+    author: -en-
+    created_date: "2018-08-18"
+    score: "1"
+  - reddit_id: "980"
+    title: '@TheNextWeb: Google''s Firebase adds in-app messaging and new Crashlytics
+      integrations https://t.co/KkXKIlzCyS'
+    url: https://mobile.twitter.com/TheNextWeb/status/1030385147760308224
+    author: -en-
+    created_date: "2018-08-17"
+    score: "1"
+  - reddit_id: "97"
+    title: Google Firebase adds in-app messaging, JIRA integration, new reports and
+      more
+    url: https://techcrunch.com/2018/08/16/google-firebase-adds-in-app-messaging-jira-integration-new-reports-and-more/
+    author: deepak387
+    created_date: "2018-08-17"
+    score: "10"
+  - reddit_id: "98431"
+    title: '@TheNextWeb: Google''s Firebase adds in-app messaging and new Crashlytics
+      integrations https://t.co/CjONjarRjM'
+    url: https://mobile.twitter.com/TheNextWeb/status/1030501707732738048
+    author: -en-
+    created_date: "2018-08-17"
+    score: "1"
+  - reddit_id: "97"
+    title: '@Techmeme: Google''s Firebase gets in-app messaging, integration with
+      Atlassian''s JIRA, better Crashlytics support, and more (@fredericl / TechCrunch)
+      https://t.co/bIid0EsEWL https://t.co/SnkdVI1ubY'
+    url: https://mobile.twitter.com/Techmeme/status/1030127340452495360
+    author: -en-
+    created_date: "2018-08-16"
+    score: "1"
+  - reddit_id: "97"
+    title: '@ZDNet: Google''s Firebase intros in-app messaging, BigQuery integration
+      https://t.co/zvhWH0DHFs by @natalienoell'
+    url: https://mobile.twitter.com/ZDNet/status/1030122066165420033
+    author: -en-
+    created_date: "2018-08-16"
+    score: "1"
+  - reddit_id: "97"
+    title: '@TechCrunch: Google Firebase adds in-app messaging, JIRA integration,
+      new reports and more https://t.co/c5aB1W2CR8 by @fredericl https://t.co/vWvRix5BFe'
+    url: https://mobile.twitter.com/TechCrunch/status/1030122238748635139
+    author: -en-
+    created_date: "2018-08-16"
+    score: "1"
+  - reddit_id: "97"
+    title: '[Crashlytics] Google''s Firebase adds in-app messaging and new Crashlytics
+      integrations'
+    url: https://thenextweb.com/dd/2018/08/16/googles-firebase-adds-in-app-messaging-and-new-crashlytics-integrations/
+    author: laserlikebot
+    created_date: "2018-08-16"
+    score: "1"
+  - reddit_id: "97"
+    title: '[BigQuery] Google''s Firebase intros in-app messaging, BigQuery integration'
+    url: https://www.zdnet.com/article/googles-firebase-intros-in-app-messaging-bigquery-integration/
+    author: laserlikebot
+    created_date: "2018-08-16"
+    score: "1"
+  - reddit_id: "97"
+    title: '@ZDNet: Google''s Firebase intros in-app messaging, BigQuery integration
+      https://t.co/rGU9CSYsjO @natalienoell'
+    url: https://mobile.twitter.com/ZDNet/status/1030174975532122112
+    author: -en-
+    created_date: "2018-08-16"
+    score: "1"
+  - reddit_id: "97"
+    title: '@TheNextWeb: Google''s Firebase adds in-app messaging and new Crashlytics
+      integrations https://t.co/qKznkz7YQS'
+    url: https://mobile.twitter.com/TheNextWeb/status/1030124141431672833
+    author: -en-
+    created_date: "2018-08-16"
+    score: "1"
+  - reddit_id: "97"
+    title: '@TheNextWeb: Google''s Firebase adds in-app messaging and new Crashlytics
+      integrations https://t.co/Wvsl9lvFnU'
+    url: https://mobile.twitter.com/TheNextWeb/status/1030223041391943682
+    author: -en-
+    created_date: "2018-08-16"
+    score: "1"
   - reddit_id: "95"
     title: Looking for Javascript Developer to help build Google Firebase project
     url: https://www.reddit.com/r/jobbit/comments/95szw9/looking_for_javascript_developer_to_help_build/
@@ -2437,81 +2521,6 @@ competition:
     author: eng_guy23
     created_date: "2018-03-20"
     score: "1"
-  - reddit_id: "823580"
-    title: How secure is Google Firebase?
-    url: https://www.reddit.com/r/computerscience/comments/823580/how_secure_is_google_firebase/
-    author: randomperson996
-    created_date: "2018-03-05"
-    score: "2"
-  - reddit_id: "7"
-    title: Learn to Authenticate Angular with Google Firebase
-    url: https://www.youtube.com/watch?v=_RedwjRwSKA&amp;t=12s
-    author: ciaracodes
-    created_date: "2018-02-15"
-    score: "17"
-  - reddit_id: "7"
-    title: Google Firebase vs doing it myself
-    url: https://www.reddit.com/r/webdev/comments/7w5hiq/google_firebase_vs_doing_it_myself/
-    author: Yotep
-    created_date: "2018-02-08"
-    score: "1"
-  - reddit_id: "7"
-    title: Google Firebase - Best way to serve image content?
-    url: https://www.reddit.com/r/webdev/comments/7w2m3r/google_firebase_best_way_to_serve_image_content/
-    author: Psynight
-    created_date: "2018-02-08"
-    score: "1"
-  - reddit_id: "7"
-    title: "Secure API Keys in Salesforce  Example: Google Firebase"
-    url: https://www.reddit.com/r/salesforce/comments/7v59kb/secure_api_keys_in_salesforce_example_google/
-    author: SimpleForceCom
-    created_date: "2018-02-04"
-    score: "2"
-  - reddit_id: "7"
-    title: Ionic 3 Login Authentication With Google Firebase (it's so damn easy!)
-    url: https://www.technouz.com/4700/ionic3-login-authentication-google-firebase/
-    author: zmasta94
-    created_date: "2018-01-19"
-    score: "13"
-  - reddit_id: "7"
-    title: google firebase not returning data from a collection ref?
-    url: https://www.reddit.com/r/Firebase/comments/7ihtyx/google_firebase_not_returning_data_from_a/
-    author: random503
-    created_date: "2017-12-08"
-    score: "0"
-  - reddit_id: "7"
-    title: Is Google's Firebase Real-time Database really a database?
-    url: https://www.reddit.com/r/AskProgramming/comments/7crwsa/is_googles_firebase_realtime_database_really_a/
-    author: evolution2015
-    created_date: "2017-11-14"
-    score: "3"
-  - reddit_id: "7"
-    title: Just discovered Google Firebase Hosting why isn't everyone using this for
-      small sites?
-    url: https://www.reddit.com/r/webdev/comments/7a52er/just_discovered_google_firebase_hosting_why_isnt/
-    author: Mike
-    created_date: "2017-11-01"
-    score: "5"
-  - reddit_id: "79"
-    title: Google Firebase Dev Summit 2017 Brings Crashlytics, a UI Redsign, Machine
-      Learning, and Much More!
-    url: https://www.xda-developers.com/google-firebase-dev-summit-2017-brings-crashlytics-redsign-machine-learning/
-    author: svBFtyOVLCghHbeXwZIy
-    created_date: "2017-10-31"
-    score: "61"
-  - reddit_id: "736"
-    title: Google Firebase for Mobile Application Development
-    url: https://www.producthunt.com/posts/firebase-for-mobile-application-development
-    author: sarojroot86
-    created_date: "2017-09-29"
-    score: "4"
-  - reddit_id: "5"
-    title: '[task] I made a small ios calculation app and need it ported to Google
-      Firebase and Android'
-    url: https://www.reddit.com/r/slavelabour/comments/5yahmu/task_i_made_a_small_ios_calculation_app_and_need/
-    author: irlcake
-    created_date: "2017-03-08"
-    score: "2"
   latest_hacker_news_searches: []
   latest_stack_exchange_searches:
   - question_id: "51761171"
