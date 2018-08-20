@@ -4845,6 +4845,12 @@ competition:
     author: dochex
     created_date: "2014-08-13"
     score: "9"
+  - reddit_id: "25"
+    title: How to build presence into your angularJS app w/ PubNub
+    url: http://www.pubnub.com/blog/advanced-presence-features-using-the-pubnub-angularjs-library/
+    author: RealtimeWebDev
+    created_date: "2014-05-14"
+    score: "4"
   - reddit_id: "24"
     title: Build a realtime app with AngularJS/PubNub in 99 lines of code
     url: http://www.pubnub.com/blog/angularjs-101-from-zero-to-angular-in-seconds/
