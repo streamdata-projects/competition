@@ -4594,156 +4594,127 @@ competition:
     url: https://twitter.com/PubNub/status/1019302616143093761
     time_stamp: "2018-07-17 12:27:36"
   latest_github_activity:
-  - title: pubnub/arduino being watched by mateustoin
+  - title: ianjennings pushed to pubnub/chat-engine
     url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: mateustoin
-    repo: pubnub/arduino
-  - title: pubnub/SimpleRTC was forked by SimpleRTC
+    time_stamp: "2018-08-20"
+    type: PushEvent
+    user_name: ianjennings
+    repo: pubnub/chat-engine
+  - title: ianjennings made a pull request on pubnub/chat-engine
+    url: https://github.com/pubnub/chat-engine/pull/387
+    time_stamp: "2018-08-20"
+    type: PullRequestEvent
+    user_name: ianjennings
+    repo: pubnub/chat-engine
+  - title: codacy-bot commented on an issue for pubnub/php
+    url: https://api.github.com/repos/pubnub/php/issues/comments/414307873
+    time_stamp: "2018-08-20"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/php
+  - title: qsoftdevelopment pushed to pubnub/php
     url: ""
-    time_stamp: "2018-08-15"
-    type: ForkEvent
-    user_name: SimpleRTC
-    repo: pubnub/SimpleRTC
-  - title: pubnub/react-native-tutorial being watched by jhendley25
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: jhendley25
-    repo: pubnub/react-native-tutorial
-  - title: pubnub/chat-engine-tutorial being watched by vnnet24
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: vnnet24
-    repo: pubnub/chat-engine-tutorial
+    time_stamp: "2018-08-20"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/php
+  - title: qsoftdevelopment made a pull request on pubnub/php
+    url: https://github.com/pubnub/php/pull/24
+    time_stamp: "2018-08-20"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/php
+  - title: codacy-bot commented on an issue for pubnub/php
+    url: https://api.github.com/repos/pubnub/php/issues/comments/414285128
+    time_stamp: "2018-08-20"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/php
+  - title: qsoftdevelopment made a pull request on pubnub/php
+    url: https://github.com/pubnub/php/pull/24
+    time_stamp: "2018-08-20"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/php
   - title: parfeon commented on an issue for pubnub/chat-engine-apple
-    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/413136187
-    time_stamp: "2018-08-15"
+    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/414158444
+    time_stamp: "2018-08-19"
     type: IssueCommentEvent
     user_name: parfeon
     repo: pubnub/chat-engine-apple
-  - title: pubnub/java was forked by java
+  - title: pubnub/real-time-stocks being watched by clooney2007
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-08-18"
+    type: WatchEvent
+    user_name: clooney2007
+    repo: pubnub/real-time-stocks
+  - title: pubnub/chat-engine was forked by chat-engine
+    url: ""
+    time_stamp: "2018-08-17"
     type: ForkEvent
-    user_name: java
-    repo: pubnub/java
-  - title: lumenlunae submitted an issue on pubnub/chat-engine-apple
-    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/18
-    time_stamp: "2018-08-15"
-    type: IssuesEvent
-    user_name: lumenlunae
-    repo: pubnub/chat-engine-apple
-  - title: pubnub/arduino being watched by mateustoin
+    user_name: chat-engine
+    repo: pubnub/chat-engine
+  - title: pubnub/Realtime-RaspberryPi-Temperature-Humidity-Sensor being watched by
+      jtbai
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-08-17"
     type: WatchEvent
-    user_name: mateustoin
-    repo: pubnub/arduino
-  - title: pubnub/SimpleRTC was forked by SimpleRTC
+    user_name: jtbai
+    repo: pubnub/Realtime-RaspberryPi-Temperature-Humidity-S
+  - title: ianjennings pushed to pubnub/chat-engine
     url: ""
-    time_stamp: "2018-08-15"
-    type: ForkEvent
-    user_name: SimpleRTC
-    repo: pubnub/SimpleRTC
-  - title: pubnub/react-native-tutorial being watched by jhendley25
+    time_stamp: "2018-08-17"
+    type: PushEvent
+    user_name: ianjennings
+    repo: pubnub/chat-engine
+  - title: ianjennings made a pull request on pubnub/chat-engine
+    url: https://github.com/pubnub/chat-engine/pull/388
+    time_stamp: "2018-08-17"
+    type: PullRequestEvent
+    user_name: ianjennings
+    repo: pubnub/chat-engine
+  - title: ianjennings pushed to pubnub/chat-engine
     url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: jhendley25
-    repo: pubnub/react-native-tutorial
-  - title: pubnub/chat-engine-tutorial being watched by vnnet24
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: vnnet24
-    repo: pubnub/chat-engine-tutorial
-  - title: parfeon commented on an issue for pubnub/chat-engine-apple
-    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/413136187
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-08-17"
+    type: PushEvent
+    user_name: ianjennings
+    repo: pubnub/chat-engine
+  - title: ianjennings made a pull request on pubnub/chat-engine
+    url: https://github.com/pubnub/chat-engine/pull/388
+    time_stamp: "2018-08-17"
+    type: PullRequestEvent
+    user_name: ianjennings
+    repo: pubnub/chat-engine
+  - title: ianjennings commented on an issue for pubnub/chat-engine
+    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/413717349
+    time_stamp: "2018-08-16"
     type: IssueCommentEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-apple
-  - title: pubnub/java was forked by java
-    url: ""
-    time_stamp: "2018-08-15"
-    type: ForkEvent
-    user_name: java
-    repo: pubnub/java
-  - title: lumenlunae submitted an issue on pubnub/chat-engine-apple
-    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/18
-    time_stamp: "2018-08-15"
+    user_name: ianjennings
+    repo: pubnub/chat-engine
+  - title: ianjennings submitted an issue on pubnub/chat-engine
+    url: https://api.github.com/repos/pubnub/chat-engine/issues/384
+    time_stamp: "2018-08-16"
     type: IssuesEvent
-    user_name: lumenlunae
-    repo: pubnub/chat-engine-apple
-  - title: pubnub/arduino being watched by mateustoin
+    user_name: ianjennings
+    repo: pubnub/chat-engine
+  - title: pubnub/java being watched by semihokanpehlivan
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-08-16"
     type: WatchEvent
-    user_name: mateustoin
-    repo: pubnub/arduino
+    user_name: semihokanpehlivan
+    repo: pubnub/java
   - title: pubnub/SimpleRTC was forked by SimpleRTC
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-08-16"
     type: ForkEvent
     user_name: SimpleRTC
     repo: pubnub/SimpleRTC
-  - title: pubnub/react-native-tutorial being watched by jhendley25
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: jhendley25
-    repo: pubnub/react-native-tutorial
-  - title: pubnub/chat-engine-tutorial being watched by vnnet24
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: vnnet24
-    repo: pubnub/chat-engine-tutorial
-  - title: parfeon commented on an issue for pubnub/chat-engine-apple
-    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/413136187
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-apple
-  - title: pubnub/java was forked by java
-    url: ""
-    time_stamp: "2018-08-15"
-    type: ForkEvent
-    user_name: java
-    repo: pubnub/java
-  - title: lumenlunae submitted an issue on pubnub/chat-engine-apple
-    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/18
-    time_stamp: "2018-08-15"
+  - title: Yodablues submitted an issue on pubnub/vue
+    url: https://api.github.com/repos/pubnub/vue/issues/2
+    time_stamp: "2018-08-16"
     type: IssuesEvent
-    user_name: lumenlunae
-    repo: pubnub/chat-engine-apple
-  - title: pubnub/arduino being watched by mateustoin
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: mateustoin
-    repo: pubnub/arduino
-  - title: pubnub/SimpleRTC was forked by SimpleRTC
-    url: ""
-    time_stamp: "2018-08-15"
-    type: ForkEvent
-    user_name: SimpleRTC
-    repo: pubnub/SimpleRTC
-  - title: pubnub/react-native-tutorial being watched by jhendley25
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: jhendley25
-    repo: pubnub/react-native-tutorial
-  - title: pubnub/chat-engine-tutorial being watched by vnnet24
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: vnnet24
-    repo: pubnub/chat-engine-tutorial
+    user_name: Yodablues
+    repo: pubnub/vue
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
