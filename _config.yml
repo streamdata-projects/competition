@@ -5716,6 +5716,12 @@ competition:
     user_name: lukabratos
     repo: pusher/push-notifications-server-swift
   latest_reddit_searches:
+  - reddit_id: "98"
+    title: 18-year-old who pushed friend off 60-foot bridge is charged.
+    url: https://abcnews.go.com/GMA/News/woman-pushed-teen-friend-off-bridge-admits-didnt/story?id=57238510
+    author: PukedtheDayAway
+    created_date: "2018-08-18"
+    score: "71"
   - reddit_id: "97"
     title: From a shitty retail gig slinging soap to running my own dispensary in
       a couple years. Thanks to this community for always being encouraging, loving,
@@ -5724,6 +5730,13 @@ competition:
     author: StonedSoapSeller
     created_date: "2018-08-15"
     score: "180"
+  - reddit_id: "97"
+    title: 'Update on girl who was pushed by friend off the 60 ft bridge: Investigators
+      have identified the pusher and Prosecutors are considering charges against her.'
+    url: https://abcnews.go.com/US/prosecutors-mulling-charges-woman-pushed-friend-off-bridge/story?id=57175905
+    author: lipstickpizza
+    created_date: "2018-08-15"
+    score: "474"
   - reddit_id: "96"
     title: 'EXCLUSIVE: Ang official statement ni Pangulong Duterte hinggil sa nakalusot
       na halos pitong bilyong pisong halaga ng panibagong shabu shipment'
@@ -5834,172 +5847,158 @@ competition:
     created_date: "2018-06-23"
     score: "1"
   - reddit_id: "8"
+    title: "PSA to cart pushers, drink plenty of water and don't work too hard!!"
+    url: https://www.reddit.com/r/walmart/comments/8o3gvb/psa_to_cart_pushers_drink_plenty_of_water_and/
+    author: bubbachubba4436
+    created_date: "2018-06-02"
+    score: "91"
+  - reddit_id: "8"
+    title: "Here comes the storm! Wait, fuck. I'm a cart pusher."
+    url: https://i.redd.it/o5eukmixwv011.jpg
+    author: Stargaze1534
+    created_date: "2018-05-30"
+    score: "25"
+  - reddit_id: "8"
     title: "So let's talk about what's happening in Christiania"
     url: https://www.reddit.com/r/copenhagen/comments/8mrdos/so_lets_talk_about_whats_happening_in_christiania/
     author: offi55
     created_date: "2018-05-28"
     score: "3"
-  - reddit_id: "7"
-    title: "(Canada)I work as a cart pusher and yesterday I was told I could only
-      have water (which they don't provide in the winter btw) with me at the
-      front."
-    url: https://www.reddit.com/r/walmart/comments/7wclks/canadai_work_as_a_cart_pusher_and_yesterday_i_was/
-    author: Whoopie233
-    created_date: "2018-02-09"
-    score: "4"
-  - reddit_id: "7"
-    title: How do you handle playing against a pusher player.
-    url: https://www.reddit.com/r/tennis/comments/7guxpn/how_do_you_handle_playing_against_a_pusher_player/
-    author: problemsanswers
-    created_date: "2017-12-01"
-    score: "73"
-  - reddit_id: "6"
-    title: I CAUGHT HIM BREAKING INTO MY COIN PUSHER!!! | No one was breaking into
-      his coin pusher. It was a locksmith getting his keys out.
-    url: https://streamable.com/gu00e
-    author: Gradians
-    created_date: "2017-05-21"
-    score: "92"
-  - reddit_id: "55"
-    title: Cart Pusher Question
-    url: https://www.reddit.com/r/walmart/comments/55lhs2/cart_pusher_question/
-    author: yoshieffect
-    created_date: "2016-10-03"
-    score: "1"
-  - reddit_id: "4"
-    title: '[Request] Pusher trilogy by Nicolas Winding Refn'
-    url: https://www.reddit.com/r/megalinks/comments/4l1l0g/request_pusher_trilogy_by_nicolas_winding_refn/
-    author: vis_sub
-    created_date: "2016-05-25"
-    score: "10"
-  - reddit_id: "3"
-    title: Cart pusher problems
-    url: https://www.reddit.com/r/walmart/comments/3oo386/cart_pusher_problems/
-    author: browningtons
-    created_date: "2015-10-14"
-    score: "1"
+  - reddit_id: "8"
+    title: The guy that made the coin pusher arcade game probably got his idea from
+      the beach
+    url: https://www.reddit.com/r/Showerthoughts/comments/8m2rag/the_guy_that_made_the_coin_pusher_arcade_game/
+    author: GrumpyDay
+    created_date: "2018-05-25"
+    score: "5"
+  - reddit_id: "8"
+    title: What cart pushers do when we arent busy
+    url: https://v.redd.it/8pseuxhdspw01
+    author: Gstary
+    created_date: "2018-05-09"
+    score: "11"
   latest_hacker_news_searches:
   - hacker_news_id: "16236692"
     title: Hawaii button pusher refusing to cooperate with FCC, internal investigators
     url: http://www.staradvertiser.com/2018/01/24/breaking-news/schatz-to-lead-hearing-on-alert-systems-in-wake-of-hawaii-blunder/
-    author: browningtons
+    author: Gstary
     created_at: "2018-01-25"
     points: "125"
   - hacker_news_id: "15896908"
     title: Building a realtime location app with ARKit, CoreLocation and Pusher
     url: https://blog.pusher.com/realtime-location-app-arkit-corelocation-pusher/
-    author: browningtons
+    author: Gstary
     created_at: "2017-12-11"
     points: "60"
   - hacker_news_id: "13064478"
     title: "Hello PubNub and Pusher users \u2013 we now speak your language. Welcome
       to Ably"
     url: http://www.ably.io/adapters
-    author: browningtons
+    author: Gstary
     created_at: "2016-11-29"
     points: "41"
   - hacker_news_id: "12699332"
     title: Dash author is lying? Pusher of shovelware
     url: http://forums.macrumors.com/threads/apple-says-1-000-fraudulent-reviews-were-detected-across-two-accounts-owned-by-dash-developer-update-developer-responds.2005850/page-12#post-23708918
-    author: browningtons
+    author: Gstary
     created_at: "2016-10-13"
     points: "73"
   - hacker_news_id: "10263535"
     title: Hail to the Pencil Pusher
     url: http://bostonreview.net/books-ideas/mike-konczal-government-bureaucracy
-    author: browningtons
+    author: Gstary
     created_at: "2015-09-22"
     points: "7"
   - hacker_news_id: "9375518"
     title: Pixel Pushers
     url: http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers
-    author: browningtons
+    author: Gstary
     created_at: "2015-04-14"
     points: "9"
   - hacker_news_id: "9242286"
     title: "Show HN WP Pusher \u2013 Pain-free deployment of WordPress themes and
       plugins"
     url: https://wppusher.com/
-    author: browningtons
+    author: Gstary
     created_at: "2015-03-21"
     points: "9"
   - hacker_news_id: "7615509"
     title: Poxa A Pusher clone with a real-time Console
     url: https://github.com/edgurgel/poxa
-    author: browningtons
+    author: Gstary
     created_at: "2014-04-19"
     points: "35"
   - hacker_news_id: "5808032"
     title: ' Pusher DNS Hacked?'
     url: http://pusher.com
-    author: browningtons
+    author: Gstary
     created_at: "2013-06-02"
     points: "7"
   - hacker_news_id: "5634776"
     title: How we built Pusher-JS 2.0  part 2  implementation
     url: http://blog.pusher.com/how-we-built-pusher-js-2-0-part-2-implementation/
-    author: browningtons
+    author: Gstary
     created_at: "2013-04-30"
     points: "29"
   - hacker_news_id: "5517151"
     title: Pusher-js 2.0.0 released WebSockets, comprehensive legacy support
     url: http://blog.pusher.com/pusher-2-0-0-cutting-edge-websockets-with-comprehensive-legacy-support/
-    author: browningtons
+    author: Gstary
     created_at: "2013-04-09"
     points: "22"
   - hacker_news_id: "4413185"
     title: Build Your Own Home Automation w/ Pusher, Twilio, and Arduino
     url: http://www.twilio.com/blog/2012/08/diy-home-automation-using-twilio-powerswitch-arduino-and-pusher.html
-    author: browningtons
+    author: Gstary
     created_at: "2012-08-21"
     points: "239"
   - hacker_news_id: "4190822"
     title: Ask HN What's are the key differences between Pusher and PubNub?
     url: ""
-    author: browningtons
+    author: Gstary
     created_at: "2012-07-02"
     points: "6"
   - hacker_news_id: "3534962"
     title: Shoutbox - a Sinatra-MongoDB-Pusher-based monitoring app
     url: http://moviepilotlabs.tumblr.com/post/16814219083/were-releasing-shoutbox
-    author: browningtons
+    author: Gstary
     created_at: "2012-01-31"
     points: "22"
   - hacker_news_id: "3359097"
     title: Slanger An open implementation of the Pusher protocol written in Ruby
     url: https://github.com/stevegraham/slanger?hn
-    author: browningtons
+    author: Gstary
     created_at: "2011-12-15"
     points: "45"
   - hacker_news_id: "3351886"
     title: Slanger - Open Source Pusher protocol powered by Ruby and Redis
     url: http://thechangelog.com/post/14214730049/slanger-open-source-pusher-protocol-powered-by-ruby-and
-    author: browningtons
+    author: Gstary
     created_at: "2011-12-14"
     points: "8"
   - hacker_news_id: "2679426"
     title: Backbone.js, now realtime with Pusher
     url: http://blog.pusher.com/2011/6/21/backbone-js-now-realtime-with-pusher
-    author: browningtons
+    author: Gstary
     created_at: "2011-06-21"
     points: "16"
   - hacker_news_id: "2636958"
     title: Pusher Raises $1M From Heroku Founders And More To Bring Realtime Tech
       To Apps
     url: http://techcrunch.com/2011/06/09/pusher-raises-1m-from-passion-capital-heroku-founders-to-bring-realtime-tech-to-your-apps/
-    author: browningtons
+    author: Gstary
     created_at: "2011-06-09"
     points: "28"
   - hacker_news_id: "1925100"
     title: Tech interview about PusherApp, the WebSockets service behind Scrabb.ly
     url: http://webpulp.tv/post/1626829659/pusher-app-martyn-loughran
-    author: browningtons
+    author: Gstary
     created_at: "2010-11-20"
     points: "8"
   - hacker_news_id: "1216648"
     title: Pusher - Realtime client push service powered by websockets
     url: http://pusherapp.com
-    author: browningtons
+    author: Gstary
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
