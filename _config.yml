@@ -4172,6 +4172,12 @@ competition:
     user_name: lag-linaro
     repo: Lightstreamer/Docker
   latest_reddit_searches:
+  - reddit_id: "98"
+    title: Crown flash phenomenon
+    url: https://v.redd.it/5vl688btv5h11
+    author: chocolat_ice_cream
+    created_date: "2018-08-20"
+    score: "161"
   - reddit_id: "970"
     title: Ice called streamers who abuse TTS fags. Literally what Sam does, sleep
       stream followed by TTS car stream. Bought a huge light up speaker just to bait
@@ -4331,23 +4337,17 @@ competition:
     author: mhortonable
     created_date: "2013-12-07"
     score: "15"
-  - reddit_id: "19"
-    title: Diabo Hopper and Natty Light Streamer
-    url: http://i.imgur.com/79EUxNR.jpg
-    author: down_view
-    created_date: "2013-03-03"
-    score: "9"
   latest_hacker_news_searches:
   - hacker_news_id: "2744690"
     title: 10 Years of Push Technology, Comet, and WebSockets
     url: http://cometdaily.com/2011/07/06/push-technology-comet-and-websockets-10-years-of-history-from-lightstreamers-perspective/
-    author: down_view
+    author: mhortonable
     created_at: "2011-07-08"
     points: "2"
   - hacker_news_id: "114854"
     title: Hello World with Lightstreamer
     url: http://cometdaily.com/2008/02/12/%e2%80%9chello-world%e2%80%9d-with-lightstreamer/
-    author: down_view
+    author: mhortonable
     created_at: "2008-02-13"
     points: "2"
   latest_stack_exchange_searches:
