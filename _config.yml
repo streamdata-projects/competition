@@ -1677,6 +1677,30 @@ competition:
   latest_tweets: []
   latest_github_activity: []
   latest_reddit_searches:
+  - reddit_id: "98"
+    title: '[H] Doom, Shadow of War, No Man''s Sky, Monster Hunter, Battletech and
+      more [W] Destiny 2, Nba 2k17, Conan exiles, Shadow Tactics, Rust, Plague Inc,
+      Project Cars and more'
+    url: https://www.reddit.com/r/SteamGameSwap/comments/98b927/h_doom_shadow_of_war_no_mans_sky_monster_hunter/
+    author: sp3ed3r
+    created_date: "2018-08-18"
+    score: "1"
+  - reddit_id: "9825"
+    title: '[H] Doom, Shadow of War, No Man''s Sky, Monster Hunter, Battletech and
+      more [W] Destiny 2, Nba 2k17, Conan exiles, Shadow Tactics, Rust, Plague Inc,
+      Project Cars and more'
+    url: https://www.reddit.com/r/SteamGameSwap/comments/9825bz/h_doom_shadow_of_war_no_mans_sky_monster_hunter/
+    author: sp3ed3r
+    created_date: "2018-08-17"
+    score: "1"
+  - reddit_id: "97"
+    title: '[H] Doom, Shadow of War, No Man''s Sky, Monster Hunter, Battletech and
+      more [W] Destiny 2, Nba 2k17, Conan exiles, Shadow Tactics, Rust, Plague Inc,
+      Project Cars and more'
+    url: https://www.reddit.com/r/SteamGameSwap/comments/97rctu/h_doom_shadow_of_war_no_mans_sky_monster_hunter/
+    author: sp3ed3r
+    created_date: "2018-08-16"
+    score: "1"
   - reddit_id: "977"
     title: '[H] Doom, Shadow of War, No Man''s Sky, Monster Hunter, Battletech and
       more [W] Destiny 2, Nba 2k17, Conan exiles, Shadow Tactics, Rust, Plague Inc,
@@ -4459,7 +4483,7 @@ competition:
   name: PubNub
   description: Focus on innovation and launch fast with our realtime APIs and global
     messaging infrastructure for web, mobile, and Internet of Things.
-  url: https://stackoverflow.com/questions/35992042/pubnub-removing-a-message-in-history-storage
+  url: https://stackoverflow.com/questions/37244454/building-pubnub-c-with-cmake
   email: stephen@pubnub.com
   blog_url: http://blog.pubnub.com
   blog_rss_url: https://www.pubnub.com/blog/feed/
@@ -5008,6 +5032,14 @@ competition:
     created_at: "2012-02-01"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "51924095"
+    title: Using PubNub to publish message in Django view
+    url: https://stackoverflow.com/questions/51924095/using-pubnub-to-publish-message-in-django-view
+    owner_display_name: Mike
+    owner_reputation: "38"
+    owner_link: https://stackoverflow.com/users/5240136/mike
+    creation_date: "2018-08-19"
+    view_count: "16"
   - question_id: "51813080"
     title: StackOverflowException on PubNub Subscribe
     url: https://stackoverflow.com/questions/51813080/stackoverflowexception-on-pubnub-subscribe
@@ -5201,14 +5233,6 @@ competition:
     owner_link: https://stackoverflow.com/users/4751770/hippolyte-barraud
     creation_date: "2016-05-15"
     view_count: "283"
-  - question_id: "35992042"
-    title: Pubnub - removing a message in history (storage)
-    url: https://stackoverflow.com/questions/35992042/pubnub-removing-a-message-in-history-storage
-    owner_display_name: Quang Luu
-    owner_reputation: "171"
-    owner_link: https://stackoverflow.com/users/1682677/quang-luu
-    creation_date: "2016-03-14"
-    view_count: "620"
   tags:
   - Technology
   - Stack Network
