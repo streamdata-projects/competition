@@ -2784,7 +2784,7 @@ competition:
     and executing a wide range of data processing patterns including ETL, batch computation,
     and continuous computation. Cloud Dataflow frees you from operational tasks like
     resource management and performance optimization.
-  url: https://stackoverflow.com/questions/44644045/java-lang-outofmemoryerror-java-heap-space-google-dataflow-job
+  url: https://stackoverflow.com/questions/44646447/singleton-in-google-dataflow
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -3061,6 +3061,14 @@ competition:
     created_at: "2014-06-26"
     points: "4"
   latest_stack_exchange_searches:
+  - question_id: "51949270"
+    title: Google DataFlow read from Kafka and save to GCS - how to guarantee exactly-once?
+    url: https://stackoverflow.com/questions/51949270/google-dataflow-read-from-kafka-and-save-to-gcs-how-to-guarantee-exactly-once
+    owner_display_name: Dmitry Tkachev
+    owner_reputation: "11"
+    owner_link: https://stackoverflow.com/users/10037070/dmitry-tkachev
+    creation_date: "2018-08-21"
+    view_count: "2"
   - question_id: "51812753"
     title: How to pry inside Google Dataflow / Apache Beam with Python
     url: https://stackoverflow.com/questions/51812753/how-to-pry-inside-google-dataflow-apache-beam-with-python
@@ -3258,14 +3266,6 @@ competition:
     owner_link: https://stackoverflow.com/users/4057655/sag
     creation_date: "2017-06-20"
     view_count: "213"
-  - question_id: "44644045"
-    title: java.lang.OutOfMemoryError Java heap space - Google Dataflow Job
-    url: https://stackoverflow.com/questions/44644045/java-lang-outofmemoryerror-java-heap-space-google-dataflow-job
-    owner_display_name: sag
-    owner_reputation: "2205"
-    owner_link: https://stackoverflow.com/users/4057655/sag
-    creation_date: "2017-06-19"
-    view_count: "397"
   tags:
   - Stack Network
   - Service API
