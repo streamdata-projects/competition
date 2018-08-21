@@ -6919,6 +6919,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: 'Beyond Real-Time Ingestion: Getting to Enterprise-Grade Real-Time Integration'
+    url: https://www.striim.com/blog/2018/08/beyond-real-time-ingestion-to-real-time-integration/
+    time_stamp: "2018-08-16 07:30:06"
   - title: "Striim's Latest Releases Boost Cloud Integration Capabilities, Ease
       of Use, and Extensibility \u2013 Part 2"
     url: https://www.striim.com/blog/2018/08/striims-latest-releases-boost-ease-of-use-extensibility-part-2/
