@@ -3569,6 +3569,18 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17810574"
+    title: Service as a SKU (2012)
+    url: https://a16z.com/2018/08/17/service-as-a-sku/
+    author: weblaunches
+    created_at: "2018-08-21"
+    points: "0"
+  - hacker_news_id: "17810472"
+    title: Show HN Hookpad, a music editor with music theory inside made with React/Redux
+    url: https://www.hooktheory.com/hookpad/app
+    author: weblaunches
+    created_at: "2018-08-21"
+    points: "0"
   - hacker_news_id: "17766130"
     title: When a 20-year-old punk put on a series of illegal shows in the desert
     url: https://www.huckmag.com/?p=414909
