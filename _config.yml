@@ -2051,7 +2051,7 @@ competition:
   name: Firebase
   description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
-  url: https://stackoverflow.com/questions/46836873/firebase-how-do-you-find-your-google-project-number-in-google-firebase
+  url: https://stackoverflow.com/questions/50990672/importing-non-js-files-in-google-firebase-functions-typescript-project
   email: info@firebase.com
   blog_url: https://firebase.googleblog.com/
   blog_rss_url: http://firebase.googleblog.com/feeds/posts/default?alt=rss
@@ -2553,6 +2553,38 @@ competition:
     score: "1"
   latest_hacker_news_searches: []
   latest_stack_exchange_searches:
+  - question_id: "51914119"
+    title: Xamarin forms using Google Firebase Cloud
+    url: https://stackoverflow.com/questions/51914119/xamarin-forms-using-google-firebase-cloud
+    owner_display_name: Anderson
+    owner_reputation: "9"
+    owner_link: https://stackoverflow.com/users/9706535/anderson
+    creation_date: "2018-08-18"
+    view_count: "34"
+  - question_id: "51902583"
+    title: Custom Authentication in Google Firebase
+    url: https://stackoverflow.com/questions/51902583/custom-authentication-in-google-firebase
+    owner_display_name: saglamcem
+    owner_reputation: "93"
+    owner_link: https://stackoverflow.com/users/5098209/saglamcem
+    creation_date: "2018-08-17"
+    view_count: "28"
+  - question_id: "51876053"
+    title: Multiple dex files define Lcom/google/firebase/iid/zze;
+    url: https://stackoverflow.com/questions/51876053/multiple-dex-files-define-lcom-google-firebase-iid-zze
+    owner_display_name: anna franca
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/9697078/anna-franca
+    creation_date: "2018-08-16"
+    view_count: "14"
+  - question_id: "51868891"
+    title: Unable to return correct boolean - Web - Google Firebase Firestore Database
+    url: https://stackoverflow.com/questions/51868891/unable-to-return-correct-boolean-web-google-firebase-firestore-database
+    owner_display_name: Eddie Melendez
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/6738596/eddie-melendez
+    creation_date: "2018-08-15"
+    view_count: "11"
   - question_id: "51761171"
     title: Facebook and Gmail Sign-in using google firebase not working with safari
       browser
@@ -2730,39 +2762,6 @@ competition:
     owner_link: https://stackoverflow.com/users/7945367/jan-franciszek-cie%c5%9blak
     creation_date: "2018-06-22"
     view_count: "21"
-  - question_id: "50944821"
-    title: Tracking app downloads by channel in Google Firebase and Analytics
-    url: https://stackoverflow.com/questions/50944821/tracking-app-downloads-by-channel-in-google-firebase-and-analytics
-    owner_display_name: Charlie C
-    owner_reputation: "1"
-    owner_link: https://stackoverflow.com/users/9966534/charlie-c
-    creation_date: "2018-06-20"
-    view_count: "92"
-  - question_id: "50912008"
-    title: java.lang.NoSuchMethodError No virtual method zzbqo()Z in class Lcom/google/firebase/FirebaseApp;
-      or its super classes
-    url: https://stackoverflow.com/questions/50912008/java-lang-nosuchmethoderror-no-virtual-method-zzbqoz-in-class-lcom-google-fir
-    owner_display_name: sumeet bhujang
-    owner_reputation: "1"
-    owner_link: https://stackoverflow.com/users/9840522/sumeet-bhujang
-    creation_date: "2018-06-18"
-    view_count: "332"
-  - question_id: "49833001"
-    title: Google Firebase URL Shortener in C#
-    url: https://stackoverflow.com/questions/49833001/google-firebase-url-shortener-in-c
-    owner_display_name: user9467387
-    owner_reputation: "11"
-    owner_link: https://stackoverflow.com/users/9467387/user9467387
-    creation_date: "2018-04-14"
-    view_count: "325"
-  - question_id: "46836873"
-    title: FIREBASE How do you find your google project number in google firebase?
-    url: https://stackoverflow.com/questions/46836873/firebase-how-do-you-find-your-google-project-number-in-google-firebase
-    owner_display_name: Darren Leung
-    owner_reputation: "6"
-    owner_link: https://stackoverflow.com/users/8803021/darren-leung
-    creation_date: "2017-10-19"
-    view_count: "882"
   tags:
   - Service API
   - SDIO Competition
