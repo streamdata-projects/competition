@@ -2066,7 +2066,7 @@ competition:
   name: Firebase
   description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
-  url: https://stackoverflow.com/questions/50990672/importing-non-js-files-in-google-firebase-functions-typescript-project
+  url: https://stackoverflow.com/questions/51149089/i-want-to-create-user-with-custom-fields-in-google-firebase
   email: info@firebase.com
   blog_url: https://firebase.googleblog.com/
   blog_rss_url: http://firebase.googleblog.com/feeds/posts/default?alt=rss
@@ -2550,6 +2550,14 @@ competition:
     score: "1"
   latest_hacker_news_searches: []
   latest_stack_exchange_searches:
+  - question_id: "51955843"
+    title: Libraries for connecting Uno to google firebase
+    url: https://stackoverflow.com/questions/51955843/libraries-for-connecting-uno-to-google-firebase
+    owner_display_name: Ashish
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10256606/ashish
+    creation_date: "2018-08-21"
+    view_count: "20"
   - question_id: "51914119"
     title: Xamarin forms using Google Firebase Cloud
     url: https://stackoverflow.com/questions/51914119/xamarin-forms-using-google-firebase-cloud
@@ -2751,14 +2759,6 @@ competition:
     owner_link: https://stackoverflow.com/users/9966632/thirumani
     creation_date: "2018-07-03"
     view_count: "35"
-  - question_id: "50990672"
-    title: importing non JS files in Google Firebase Functions typescript project
-    url: https://stackoverflow.com/questions/50990672/importing-non-js-files-in-google-firebase-functions-typescript-project
-    owner_display_name: "Jan Franciszek Cie\u015Blak"
-    owner_reputation: "36"
-    owner_link: https://stackoverflow.com/users/7945367/jan-franciszek-cie%c5%9blak
-    creation_date: "2018-06-22"
-    view_count: "21"
   tags:
   - Service API
   - SDIO Competition
