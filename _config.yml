@@ -4896,6 +4896,12 @@ competition:
     created_date: "2014-03-07"
     score: "95"
   latest_hacker_news_searches:
+  - hacker_news_id: "17811423"
+    title: Build a Multiplayer Game in Golang with PubNub
+    url: https://www.pubnub.com/blog/multiplayer-game-in-go-lang-with-pubnub/?devrel_hn=chandler
+    author: ToeJamson
+    created_at: "2018-08-21"
+    points: "5"
   - hacker_news_id: "17375645"
     title: Create a Blockchain Caller with PubNub and JSON RPC
     url: https://www.pubnub.com/blog/implementing-pubnub-dapp-with-ethereum-blockchain/
