@@ -623,6 +623,12 @@ competition:
     created_date: "2017-11-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17814221"
+    title: Building a Unified Back End with AWS AppSync and Amazon Neptune
+    url: https://medium.com/@joshua.a.kahn/building-a-unified-backend-with-aws-appsync-part-ii-amazon-neptune-df04e9e015e7
+    author: peggyrayzis
+    created_at: "2018-08-21"
+    points: "1"
   - hacker_news_id: "17762046"
     title: GraphQL with Amazon Aurora Sample with AppSync
     url: https://aws.amazon.com/about-aws/whats-new/2018/08/aws-appsync-adds-quick-start-for-amazon-aurora/
