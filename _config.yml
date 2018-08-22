@@ -5542,157 +5542,108 @@ competition:
     url: https://twitter.com/pusher/status/1006517976164544512
     time_stamp: "2018-06-12 05:46:00"
   latest_github_activity:
-  - title: pusher/chatkit-client-js being watched by HPWebdeveloper
+  - title: pusher/pusher-websocket-swift being watched by swift2geek
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-08-21"
     type: WatchEvent
-    user_name: HPWebdeveloper
-    repo: pusher/chatkit-client-js
-  - title: pusher/chatkit-android being watched by HPWebdeveloper
+    user_name: swift2geek
+    repo: pusher/pusher-websocket-swift
+  - title: lukabratos pushed to pusher/push-notifications-swift
     url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: HPWebdeveloper
-    repo: pusher/chatkit-android
-  - title: renshaw1 submitted an issue on pusher/chatkit-swift
-    url: https://api.github.com/repos/pusher/chatkit-swift/issues/101
-    time_stamp: "2018-08-15"
-    type: IssuesEvent
-    user_name: renshaw1
-    repo: pusher/chatkit-swift
-  - title: senky commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/413262003
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: senky
-    repo: pusher/chatkit-client-js
-  - title: senky commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/413261563
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: senky
-    repo: pusher/chatkit-client-js
-  - title: lukabratos pushed to pusher/push-notifications-server-swift
-    url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-08-21"
     type: PushEvent
     user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
-  - title: vivangkumar commented on an issue for pusher/chatkit-android
-    url: https://api.github.com/repos/pusher/chatkit-android/issues/comments/413236965
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: vivangkumar
-    repo: pusher/chatkit-android
-  - title: pusher/electron-desktop-starter-template being watched by alexanderdpv
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: alexanderdpv
-    repo: pusher/electron-desktop-starter-template
-  - title: jameshfisher commented on an issue for pusher/pusher-http-ruby
-    url: https://api.github.com/repos/pusher/pusher-http-ruby/issues/comments/413230607
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: jameshfisher
-    repo: pusher/pusher-http-ruby
-  - title: jameshfisher pushed to pusher/pusher-http-ruby
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: jameshfisher
-    repo: pusher/pusher-http-ruby
-  - title: jameshfisher made a pull request on pusher/pusher-http-ruby
-    url: https://github.com/pusher/pusher-http-ruby/pull/137
-    time_stamp: "2018-08-15"
+    repo: pusher/push-notifications-swift
+  - title: lukabratos made a pull request on pusher/push-notifications-swift
+    url: https://github.com/pusher/push-notifications-swift/pull/87
+    time_stamp: "2018-08-21"
     type: PullRequestEvent
-    user_name: jameshfisher
-    repo: pusher/pusher-http-ruby
-  - title: vivangkumar pushed to pusher/chatkit-android
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: lukabratos submitted an issue on pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/85
+    time_stamp: "2018-08-21"
+    type: IssuesEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: lukabratos pushed to pusher/push-notifications-swift
     url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: vivangkumar
-    repo: pusher/chatkit-android
-  - title: pusher/k8s-auth-example being watched by nthienan
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: nthienan
-    repo: pusher/k8s-auth-example
-  - title: lukabratos pushed to pusher/push-notifications-server-swift
-    url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-08-21"
     type: PushEvent
     user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
-  - title: lukabratos commented on an issue for pusher/push-notifications-server-swift
-    url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/comments/413216249
-    time_stamp: "2018-08-15"
+    repo: pusher/push-notifications-swift
+  - title: leesio commented on an issue for pusher/pusher-js
+    url: https://api.github.com/repos/pusher/pusher-js/issues/comments/414722443
+    time_stamp: "2018-08-21"
     type: IssueCommentEvent
-    user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
-  - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit was forked by
-      build-a-slack-clone-with-react-and-pusher-chatkit
-    url: ""
-    time_stamp: "2018-08-15"
-    type: ForkEvent
-    user_name: build-a-slack-clone-with-react-and-pusher-chatkit
-    repo: pusher/build-a-slack-clone-with-react-and-pusher-c
-  - title: lukabratos submitted an issue on pusher/push-notifications-server-swift
-    url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/10
-    time_stamp: "2018-08-15"
-    type: IssuesEvent
-    user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
-  - title: lukabratos submitted an issue on pusher/push-notifications-server-swift
-    url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/8
-    time_stamp: "2018-08-15"
-    type: IssuesEvent
-    user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
-  - title: lukabratos commented on an issue for pusher/push-notifications-server-swift
-    url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/comments/413214208
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
-  - title: lukabratos pushed to pusher/push-notifications-server-swift
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
-  - title: pusher/websockets-from-scratch-tutorial being watched by gbrlsnchs
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: gbrlsnchs
-    repo: pusher/websockets-from-scratch-tutorial
-  - title: marksamman submitted an issue on pusher/pusher-js
-    url: https://api.github.com/repos/pusher/pusher-js/issues/298
-    time_stamp: "2018-08-15"
-    type: IssuesEvent
-    user_name: marksamman
+    user_name: leesio
     repo: pusher/pusher-js
-  - title: lukabratos pushed to pusher/push-notifications-server-swift
+  - title: lukabratos pushed to pusher/push-notifications-swift
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-08-21"
     type: PushEvent
     user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
-  - title: lukabratos submitted an issue on pusher/push-notifications-server-swift
-    url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/1
-    time_stamp: "2018-08-15"
-    type: IssuesEvent
+    repo: pusher/push-notifications-swift
+  - title: lukabratos made a pull request on pusher/push-notifications-swift
+    url: https://github.com/pusher/push-notifications-swift/pull/86
+    time_stamp: "2018-08-21"
+    type: PullRequestEvent
     user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
-  - title: lukabratos commented on an issue for pusher/push-notifications-server-swift
-    url: https://api.github.com/repos/pusher/push-notifications-server-swift/issues/comments/413156574
-    time_stamp: "2018-08-15"
+    repo: pusher/push-notifications-swift
+  - title: lukabratos pushed to pusher/push-notifications-swift
+    url: ""
+    time_stamp: "2018-08-21"
+    type: PushEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: codecov-io commented on an issue for pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/414697608
+    time_stamp: "2018-08-21"
     type: IssueCommentEvent
+    user_name: codecov-io
+    repo: pusher/push-notifications-swift
+  - title: lukabratos pushed to pusher/push-notifications-swift
+    url: ""
+    time_stamp: "2018-08-21"
+    type: PushEvent
     user_name: lukabratos
-    repo: pusher/push-notifications-server-swift
+    repo: pusher/push-notifications-swift
+  - title: hbole commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/414693260
+    time_stamp: "2018-08-21"
+    type: IssueCommentEvent
+    user_name: hbole
+    repo: pusher/chatkit-client-js
+  - title: lukabratos made a pull request on pusher/push-notifications-swift
+    url: https://github.com/pusher/push-notifications-swift/pull/87
+    time_stamp: "2018-08-21"
+    type: PullRequestEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: codecov-io commented on an issue for pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/414666242
+    time_stamp: "2018-08-21"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: pusher/push-notifications-swift
+  - title: lukabratos made a pull request on pusher/push-notifications-swift
+    url: https://github.com/pusher/push-notifications-swift/pull/86
+    time_stamp: "2018-08-21"
+    type: PullRequestEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: pusher/chatkit-server-php was forked by chatkit-server-php
+    url: ""
+    time_stamp: "2018-08-21"
+    type: ForkEvent
+    user_name: chatkit-server-php
+    repo: pusher/chatkit-server-php
+  - title: lukabratos pushed to pusher/push-notifications-swift
+    url: ""
+    time_stamp: "2018-08-21"
+    type: PushEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
   latest_reddit_searches:
   - reddit_id: "98"
     title: 18-year-old who pushed friend off 60-foot bridge is charged.
