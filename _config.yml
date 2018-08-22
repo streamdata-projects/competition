@@ -6386,6 +6386,12 @@ competition:
     user_name: mikhaelsantos
     repo: streamr-dev/engine-and-editor
   latest_reddit_searches:
+  - reddit_id: "997"
+    title: Does Streamr has rivals and which?
+    url: https://www.reddit.com/r/streamr/comments/997ge1/does_streamr_has_rivals_and_which/
+    author: fongor
+    created_date: "2018-08-21"
+    score: "3"
   - reddit_id: "97"
     title: Congrats to our Community Hero of the month u/Lootcoin for helping us spread
       the word about Streamr on Reddit
@@ -6544,138 +6550,131 @@ competition:
     author: WeileiY
     created_date: "2018-05-10"
     score: "113"
-  - reddit_id: "8"
-    title: 'Bitcoin mentioned around Reddit: Amazon Sees Bitcoin Use Case in Data
-      Marketplaces (include short statement from Henri Pihkala) /r/streamr'
-    url: https://www.reddit.com/r/streamr/comments/8d38oe/_/dxk3rdh
-    author: HiIAMCaptainObvious
-    created_date: "2018-04-18"
-    score: "1"
   latest_hacker_news_searches:
   - hacker_news_id: "17618068"
     title: Streamroot powers largest ever video streaming distributed delivery for
       WC18
     url: https://blog.streamroot.io/streamroot-powers-largest-ever-deployment-of-distributed-network-delivery-video-streaming-world-cup-2018
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2018-07-26"
     points: "1"
   - hacker_news_id: "17032222"
     title: "\u201CDecentralisation in stages\u201D \u2013 Streamr DataCoin's
       approach"
     url: https://www.youtube.com/watch?v=q4N2rjpuC4U&t=1115s
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2018-05-09"
     points: "4"
   - hacker_news_id: "16987414"
     title: TF1 group selects streamroot technology to power its online video offerings
     url: https://blog.streamroot.io/tf1-largest-european-media-group-selects-streamroot-video-delivery/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2018-05-03"
     points: "3"
   - hacker_news_id: "16546006"
     title: How Streamr Labs will help make a real-time decentralised data economy
       a reality
     url: http://blog.streamr.com/2018/03/streamr-labs-launch/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2018-03-08"
     points: "9"
   - hacker_news_id: "16053814"
     title: Streamr joins EIT Digital Accelerator to drive pan-European scaleup effort
     url: https://www.eitdigital.eu/newsroom/news/article/streamr-joins-eit-digital-accelerator-to-drive-pan-european-scaleup-effort/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2018-01-02"
     points: "6"
   - hacker_news_id: "16051189"
     title: A comparison between IOTA and Streamr
     url: https://medium.com/@giotto_3438/a-comparison-between-iota-and-streamr-343b3d9cd2ec
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2018-01-02"
     points: "1"
   - hacker_news_id: "15987103"
     title: Cold Chain Monitoring with Streamr, Ruuvi, and Ethereum
     url: http://blog.streamr.com/2017/12/cold-chain-monitoring-with-streamr-ruuvi-and-ethereum/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2017-12-22"
     points: "1"
   - hacker_news_id: "15420331"
     title: "Show HN StreamRecap \u2013 Searchable Automatic Esports Highlights"
     url: https://streamrecap.com/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2017-10-06"
     points: "2"
   - hacker_news_id: "15190382"
     title: Streamroot lands $3.2M in financing to redesign content delivery
     url: https://www.streamroot.io/streamroot-lands-funding-redesign-content-delivery/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2017-09-07"
     points: "4"
   - hacker_news_id: "14594274"
     title: Streamroot goes multi-device with mobile SDKs
     url: https://blog.streamroot.io/streamroot-multi-device-mobile-sdks/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2017-06-20"
     points: "4"
   - hacker_news_id: "14506371"
     title: Streamroot launches world's First multi-device distributed OTT delivery
       solution
     url: https://www.streamroot.io/streamroot-extends-compatibility-offer-worlds-first-multi-device-plugin-free-distributed-delivery-solution-large-scale-ott
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2017-06-07"
     points: "2"
   - hacker_news_id: "14165521"
     title: Vivendi selects Streamroot for high quality OTT video delivery
     url: https://www.streamroot.io/vivendi-selects-streamroot-high-quality-ott-video-delivery
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2017-04-21"
     points: "13"
   - hacker_news_id: "12902329"
     title: Dailymotion selects Streamroot for large-scale Peer-accelerated video delivery
     url: https://blog.streamroot.io/dailymotion-streamroot-winning-combination-large-scale-ott/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2016-11-08"
     points: "3"
   - hacker_news_id: "12797873"
     title: Dailymotion selects Streamroot to control cost and QoS
     url: https://www.streamroot.io/dailymotion-selects-streamroot-control-cost-qos-large-scale-ott-video-delivery?utm_content=buffere0d03&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2016-10-26"
     points: "11"
   - hacker_news_id: "10712549"
     title: Streamroot makes video streaming cheaper thanks to peer-to-peer
     url: http://techcrunch.com/2015/12/10/streamroot-makes-video-streaming-cheaper-thanks-to-peer-to-peer/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2015-12-10"
     points: "11"
   - hacker_news_id: "9845251"
     title: Nimble+Streamroot double your live stream capacity with in-browser p2p
       streaming
     url: http://blog.streamroot.io/configure-nimble-streams-optimized-streamroot/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2015-07-07"
     points: "3"
   - hacker_news_id: "9251259"
     title: Interview by GPAC StreamRoot halves delivery costs while raising bitrate
       by 30%
     url: http://www.gpac-licensing.com/2015/03/21/interview-streamroot/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2015-03-23"
     points: "1"
   - hacker_news_id: "9013525"
     title: How to Build Streams in Elixir Easily with Stream.resource/3 Awesomeness
     url: http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2015-02-07"
     points: "1"
   - hacker_news_id: "4261901"
     title: Nodeable gives Hadoop a real-time boost with StreamReduce
     url: http://gigaom.com/cloud/nodeable-gives-hadoop-a-real-time-boost-with-streamreduce/
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2012-07-18"
     points: "1"
   - hacker_news_id: "34781"
     title: A VC Streamripping?
     url: http://avc.blogs.com/a_vc/2007/07/streamripping.html
-    author: HiIAMCaptainObvious
+    author: WeileiY
     created_at: "2007-07-17"
     points: "6"
   latest_stack_exchange_searches:
