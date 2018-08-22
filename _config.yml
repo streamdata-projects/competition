@@ -5367,7 +5367,7 @@ competition:
   name: Pusher
   description: Pusher empowers developer with API to create collaboration & communication
     features in their web and mobile apps.
-  url: https://stackoverflow.com/questions/51147924/laravel-event-exceeds-pusher-allowed-limit
+  url: https://stackoverflow.com/questions/51158424/pusher-chatkit-in-vue-onnewmessage-hook-triggered-twice
   email: info@pusher.com
   blog_url: http://blog.pusher.com/
   blog_rss_url: http://feeds.feedburner.com/pusherb
@@ -5948,6 +5948,14 @@ competition:
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "51969901"
+    title: Laravel Pusher to Echo not work when database as the queue driver
+    url: https://stackoverflow.com/questions/51969901/laravel-pusher-to-echo-not-work-when-database-as-the-queue-driver
+    owner_display_name: Terry D
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10233016/terry-d
+    creation_date: "2018-08-22"
+    view_count: "6"
   - question_id: "51917418"
     title: WebSocket connection error using Pusher
     url: https://stackoverflow.com/questions/51917418/websocket-connection-error-using-pusher
@@ -6142,14 +6150,6 @@ competition:
     owner_link: https://stackoverflow.com/users/2984127/kaspartr
     creation_date: "2018-07-03"
     view_count: "30"
-  - question_id: "51147924"
-    title: Laravel Event exceeds Pusher allowed limit
-    url: https://stackoverflow.com/questions/51147924/laravel-event-exceeds-pusher-allowed-limit
-    owner_display_name: sarotnem
-    owner_reputation: "71"
-    owner_link: https://stackoverflow.com/users/2516464/sarotnem
-    creation_date: "2018-07-02"
-    view_count: "82"
   tags:
   - WebSockets
   - Technology
