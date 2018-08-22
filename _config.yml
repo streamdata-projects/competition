@@ -4635,6 +4635,66 @@ competition:
     url: https://twitter.com/PubNub/status/1019302616143093761
     time_stamp: "2018-07-17 12:27:36"
   latest_github_activity:
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-21"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: pubnub/chat-engine being watched by absin1
+    url: ""
+    time_stamp: "2018-08-21"
+    type: WatchEvent
+    user_name: absin1
+    repo: pubnub/chat-engine
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-21"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-21"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: codacy-bot commented on an issue for pubnub/php
+    url: https://api.github.com/repos/pubnub/php/issues/comments/414879082
+    time_stamp: "2018-08-21"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/php
+  - title: socieboy made a pull request on pubnub/php
+    url: https://github.com/pubnub/php/pull/25
+    time_stamp: "2018-08-21"
+    type: PullRequestEvent
+    user_name: socieboy
+    repo: pubnub/php
+  - title: pubnub/php was forked by php
+    url: ""
+    time_stamp: "2018-08-21"
+    type: ForkEvent
+    user_name: php
+    repo: pubnub/php
+  - title: codacy-bot commented on an issue for pubnub/php
+    url: https://api.github.com/repos/pubnub/php/issues/comments/414776083
+    time_stamp: "2018-08-21"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/php
+  - title: parfeon made a pull request on pubnub/chat-engine-apple
+    url: https://github.com/pubnub/chat-engine-apple/pull/19
+    time_stamp: "2018-08-21"
+    type: PullRequestEvent
+    user_name: parfeon
+    repo: pubnub/chat-engine-apple
+  - title: parfeon pushed to pubnub/chat-engine-apple
+    url: ""
+    time_stamp: "2018-08-21"
+    type: PushEvent
+    user_name: parfeon
+    repo: pubnub/chat-engine-apple
   - title: ianjennings pushed to pubnub/chat-engine
     url: ""
     time_stamp: "2018-08-20"
@@ -4677,61 +4737,6 @@ competition:
     type: PullRequestEvent
     user_name: qsoftdevelopment
     repo: pubnub/php
-  - title: codacy-bot commented on an issue for pubnub/chat-engine
-    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/414482552
-    time_stamp: "2018-08-20"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/chat-engine
-  - title: ianjennings pushed to pubnub/chat-engine
-    url: ""
-    time_stamp: "2018-08-20"
-    type: PushEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: pubnub/Realtime-RaspberryPi-Temperature-Humidity-Sensor being watched by
-      davebulaval
-    url: ""
-    time_stamp: "2018-08-20"
-    type: WatchEvent
-    user_name: davebulaval
-    repo: pubnub/Realtime-RaspberryPi-Temperature-Humidity-S
-  - title: codacy-bot commented on an issue for pubnub/chat-engine
-    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/414469859
-    time_stamp: "2018-08-20"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/chat-engine
-  - title: ianjennings pushed to pubnub/chat-engine
-    url: ""
-    time_stamp: "2018-08-20"
-    type: PushEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: parfeon pushed to pubnub/chat-engine-apple
-    url: ""
-    time_stamp: "2018-08-20"
-    type: PushEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-apple
-  - title: codacy-bot commented on an issue for pubnub/chat-engine
-    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/414421416
-    time_stamp: "2018-08-20"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/chat-engine
-  - title: ianjennings made a pull request on pubnub/chat-engine
-    url: https://github.com/pubnub/chat-engine/pull/389
-    time_stamp: "2018-08-20"
-    type: PullRequestEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: codacy-bot commented on an issue for pubnub/chat-engine-examples
-    url: https://api.github.com/repos/pubnub/chat-engine-examples/issues/comments/414414225
-    time_stamp: "2018-08-20"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/chat-engine-examples
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
