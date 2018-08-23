@@ -4638,106 +4638,130 @@ competition:
     url: https://twitter.com/PubNub/status/1019302616143093761
     time_stamp: "2018-07-17 12:27:36"
   latest_github_activity:
-  - title: crimsonred pushed to pubnub/unity
+  - title: pubnub/paper-chat was forked by paper-chat
     url: ""
-    time_stamp: "2018-08-21"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: pubnub/chat-engine being watched by absin1
-    url: ""
-    time_stamp: "2018-08-21"
-    type: WatchEvent
-    user_name: absin1
-    repo: pubnub/chat-engine
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-21"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-21"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: codacy-bot commented on an issue for pubnub/php
-    url: https://api.github.com/repos/pubnub/php/issues/comments/414879082
-    time_stamp: "2018-08-21"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/php
-  - title: socieboy made a pull request on pubnub/php
-    url: https://github.com/pubnub/php/pull/25
-    time_stamp: "2018-08-21"
-    type: PullRequestEvent
-    user_name: socieboy
-    repo: pubnub/php
-  - title: pubnub/php was forked by php
-    url: ""
-    time_stamp: "2018-08-21"
+    time_stamp: "2018-08-23"
     type: ForkEvent
-    user_name: php
-    repo: pubnub/php
-  - title: codacy-bot commented on an issue for pubnub/php
-    url: https://api.github.com/repos/pubnub/php/issues/comments/414776083
-    time_stamp: "2018-08-21"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/php
-  - title: parfeon made a pull request on pubnub/chat-engine-apple
-    url: https://github.com/pubnub/chat-engine-apple/pull/19
-    time_stamp: "2018-08-21"
-    type: PullRequestEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-apple
-  - title: parfeon pushed to pubnub/chat-engine-apple
+    user_name: paper-chat
+    repo: pubnub/paper-chat
+  - title: pubnub/Realtime-RaspberryPi-Temperature-Humidity-Sensor was forked by Realtime-RaspberryPi-Temperature-Humidity-Sensor
     url: ""
-    time_stamp: "2018-08-21"
+    time_stamp: "2018-08-22"
+    type: ForkEvent
+    user_name: Realtime-RaspberryPi-Temperature-Humidity-Sensor
+    repo: pubnub/Realtime-RaspberryPi-Temperature-Humidity-S
+  - title: pubnub/python was forked by python-2
+    url: ""
+    time_stamp: "2018-08-22"
+    type: ForkEvent
+    user_name: python-2
+    repo: pubnub/python
+  - title: pubnub/python being watched by setigamer
+    url: ""
+    time_stamp: "2018-08-22"
+    type: WatchEvent
+    user_name: setigamer
+    repo: pubnub/python
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: ManuelFernando pushed to pubnub/chat-engine-event-status
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: ManuelFernando
+    repo: pubnub/chat-engine-event-status
+  - title: ManuelFernando made a pull request on pubnub/chat-engine-event-status
+    url: https://github.com/pubnub/chat-engine-event-status/pull/1
+    time_stamp: "2018-08-22"
+    type: PullRequestEvent
+    user_name: ManuelFernando
+    repo: pubnub/chat-engine-event-status
+  - title: parfeon pushed to pubnub/chat-engine-push-notifications
+    url: ""
+    time_stamp: "2018-08-22"
     type: PushEvent
     user_name: parfeon
-    repo: pubnub/chat-engine-apple
-  - title: ianjennings pushed to pubnub/chat-engine
+    repo: pubnub/chat-engine-push-notifications
+  - title: crimsonred pushed to pubnub/unity
     url: ""
-    time_stamp: "2018-08-20"
+    time_stamp: "2018-08-22"
     type: PushEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: ianjennings made a pull request on pubnub/chat-engine
-    url: https://github.com/pubnub/chat-engine/pull/387
-    time_stamp: "2018-08-20"
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred made a pull request on pubnub/unity
+    url: https://github.com/pubnub/unity/pull/14
+    time_stamp: "2018-08-22"
     type: PullRequestEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: codacy-bot commented on an issue for pubnub/php
-    url: https://api.github.com/repos/pubnub/php/issues/comments/414307873
-    time_stamp: "2018-08-20"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/php
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: pubnub/pi-house being watched by CrazyJiawei
+    url: ""
+    time_stamp: "2018-08-22"
+    type: WatchEvent
+    user_name: CrazyJiawei
+    repo: pubnub/pi-house
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-22"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
   - title: qsoftdevelopment pushed to pubnub/php
     url: ""
-    time_stamp: "2018-08-20"
+    time_stamp: "2018-08-22"
     type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/php
-  - title: qsoftdevelopment made a pull request on pubnub/php
-    url: https://github.com/pubnub/php/pull/24
-    time_stamp: "2018-08-20"
-    type: PullRequestEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/php
-  - title: codacy-bot commented on an issue for pubnub/php
-    url: https://api.github.com/repos/pubnub/php/issues/comments/414285128
-    time_stamp: "2018-08-20"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/php
-  - title: qsoftdevelopment made a pull request on pubnub/php
-    url: https://github.com/pubnub/php/pull/24
-    time_stamp: "2018-08-20"
-    type: PullRequestEvent
     user_name: qsoftdevelopment
     repo: pubnub/php
   latest_reddit_searches:
