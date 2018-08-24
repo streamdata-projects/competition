@@ -2262,120 +2262,138 @@ competition:
     url: https://twitter.com/Firebase/status/1020035546788265984
     time_stamp: "2018-07-19 13:00:00"
   latest_github_activity:
-  - title: firebase/quickstart-android being watched by mashjulal
-    url: ""
-    time_stamp: "2018-08-22"
-    type: WatchEvent
-    user_name: mashjulal
-    repo: firebase/quickstart-android
-  - title: hiranya911 commented on an issue for firebase/firebase-admin-python
-    url: https://api.github.com/repos/firebase/firebase-admin-python/issues/comments/415220579
-    time_stamp: "2018-08-22"
-    type: IssueCommentEvent
-    user_name: hiranya911
-    repo: firebase/firebase-admin-python
-  - title: PetersonRyan commented on an issue for firebase/firebaseui-web
-    url: https://api.github.com/repos/firebase/firebaseui-web/issues/comments/415220075
-    time_stamp: "2018-08-22"
-    type: IssueCommentEvent
-    user_name: PetersonRyan
-    repo: firebase/firebaseui-web
   - title: schmidt-sebastian pushed to firebase/firebase-js-sdk
     url: ""
-    time_stamp: "2018-08-22"
+    time_stamp: "2018-08-23"
     type: PushEvent
     user_name: schmidt-sebastian
     repo: firebase/firebase-js-sdk
-  - title: firebase/firebase-tools was forked by firebase-tools
-    url: ""
-    time_stamp: "2018-08-22"
-    type: ForkEvent
-    user_name: firebase-tools
-    repo: firebase/firebase-tools
-  - title: firebase/firebase-functions being watched by sarahdwyer
-    url: ""
-    time_stamp: "2018-08-22"
-    type: WatchEvent
-    user_name: sarahdwyer
-    repo: firebase/firebase-functions
-  - title: paulb777 submitted an issue on firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/529
-    time_stamp: "2018-08-22"
-    type: IssuesEvent
-    user_name: paulb777
-    repo: firebase/firebase-ios-sdk
-  - title: paulb777 commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/415207945
-    time_stamp: "2018-08-22"
-    type: IssueCommentEvent
-    user_name: paulb777
-    repo: firebase/firebase-ios-sdk
-  - title: davideast pushed to firebase/firebase-js-sdk
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: davideast
-    repo: firebase/firebase-js-sdk
-  - title: davideast made a pull request on firebase/firebase-js-sdk
-    url: https://github.com/firebase/firebase-js-sdk/pull/1160
-    time_stamp: "2018-08-22"
+  - title: schmidt-sebastian made a pull request on firebase/firebase-js-sdk
+    url: https://github.com/firebase/firebase-js-sdk/pull/1162
+    time_stamp: "2018-08-23"
     type: PullRequestEvent
-    user_name: davideast
+    user_name: schmidt-sebastian
     repo: firebase/firebase-js-sdk
-  - title: samtstern pushed to firebase/snippets-android
+  - title: firebase/quickstart-ios was forked by quickstart-ios
     url: ""
-    time_stamp: "2018-08-22"
+    time_stamp: "2018-08-23"
+    type: ForkEvent
+    user_name: quickstart-ios
+    repo: firebase/quickstart-ios
+  - title: IchordeDionysos commented on an issue for firebase/firebase-js-sdk
+    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/comments/415604322
+    time_stamp: "2018-08-23"
+    type: IssueCommentEvent
+    user_name: IchordeDionysos
+    repo: firebase/firebase-js-sdk
+  - title: firebase/friendlychat-web being watched by comcodejenny
+    url: ""
+    time_stamp: "2018-08-23"
+    type: WatchEvent
+    user_name: comcodejenny
+    repo: firebase/friendlychat-web
+  - title: firebase/polymerfire being watched by Grimm-Child
+    url: ""
+    time_stamp: "2018-08-23"
+    type: WatchEvent
+    user_name: Grimm-Child
+    repo: firebase/polymerfire
+  - title: samtstern pushed to firebase/quickstart-android
+    url: ""
+    time_stamp: "2018-08-23"
     type: PushEvent
     user_name: samtstern
-    repo: firebase/snippets-android
-  - title: kr05 submitted an issue on firebase/polymerfire
-    url: https://api.github.com/repos/firebase/polymerfire/issues/355
-    time_stamp: "2018-08-22"
-    type: IssuesEvent
-    user_name: kr05
-    repo: firebase/polymerfire
-  - title: firebase/firebase-tools being watched by JordanCoin
-    url: ""
-    time_stamp: "2018-08-22"
-    type: WatchEvent
-    user_name: JordanCoin
-    repo: firebase/firebase-tools
-  - title: laurenzlong commented on an issue for firebase/firebase-tools
-    url: https://api.github.com/repos/firebase/firebase-tools/issues/comments/415192975
-    time_stamp: "2018-08-22"
+    repo: firebase/quickstart-android
+  - title: samtstern made a pull request on firebase/quickstart-android
+    url: https://github.com/firebase/quickstart-android/pull/609
+    time_stamp: "2018-08-23"
+    type: PullRequestEvent
+    user_name: samtstern
+    repo: firebase/quickstart-android
+  - title: soccer1mt commented on an issue for firebase/firebaseui-web-react
+    url: https://api.github.com/repos/firebase/firebaseui-web-react/issues/comments/415592489
+    time_stamp: "2018-08-23"
     type: IssueCommentEvent
-    user_name: laurenzlong
-    repo: firebase/firebase-tools
-  - title: hiranya911 pushed to firebase/firebase-admin-node
+    user_name: soccer1mt
+    repo: firebase/firebaseui-web-react
+  - title: dpebot pushed to firebase/friendlychat-web
     url: ""
-    time_stamp: "2018-08-22"
+    time_stamp: "2018-08-23"
     type: PushEvent
-    user_name: hiranya911
-    repo: firebase/firebase-admin-node
-  - title: schmidt-sebastian submitted an issue on firebase/firebase-js-sdk
-    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/1158
-    time_stamp: "2018-08-22"
-    type: IssuesEvent
-    user_name: schmidt-sebastian
-    repo: firebase/firebase-js-sdk
-  - title: schmidt-sebastian commented on an issue for firebase/firebase-js-sdk
-    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/comments/415185059
-    time_stamp: "2018-08-22"
-    type: IssueCommentEvent
-    user_name: schmidt-sebastian
-    repo: firebase/firebase-js-sdk
-  - title: wilhuff pushed to firebase/firebase-ios-sdk
+    user_name: dpebot
+    repo: firebase/friendlychat-web
+  - title: dpebot made a pull request on firebase/friendlychat-web
+    url: https://github.com/firebase/friendlychat-web/pull/307
+    time_stamp: "2018-08-23"
+    type: PullRequestEvent
+    user_name: dpebot
+    repo: firebase/friendlychat-web
+  - title: dpebot pushed to firebase/quickstart-android
     url: ""
-    time_stamp: "2018-08-22"
+    time_stamp: "2018-08-23"
     type: PushEvent
-    user_name: wilhuff
-    repo: firebase/firebase-ios-sdk
-  - title: paulb777 commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/415184991
-    time_stamp: "2018-08-22"
-    type: IssueCommentEvent
+    user_name: dpebot
+    repo: firebase/quickstart-android
+  - title: dpebot made a pull request on firebase/quickstart-android
+    url: https://github.com/firebase/quickstart-android/pull/609
+    time_stamp: "2018-08-23"
+    type: PullRequestEvent
+    user_name: dpebot
+    repo: firebase/quickstart-android
+  - title: jshcrowthe pushed to firebase/firebase-bower
+    url: ""
+    time_stamp: "2018-08-23"
+    type: PushEvent
+    user_name: jshcrowthe
+    repo: firebase/firebase-bower
+  - title: paulb777 made a pull request on firebase/firebase-ios-sdk
+    url: https://github.com/firebase/firebase-ios-sdk/pull/1739
+    time_stamp: "2018-08-23"
+    type: PullRequestEvent
     user_name: paulb777
     repo: firebase/firebase-ios-sdk
+  - title: Berlioz pushed to firebase/firebase-tools
+    url: ""
+    time_stamp: "2018-08-23"
+    type: PushEvent
+    user_name: Berlioz
+    repo: firebase/firebase-tools
+  - title: firebase/quickstart-unity was forked by quickstart-unity
+    url: ""
+    time_stamp: "2018-08-23"
+    type: ForkEvent
+    user_name: quickstart-unity
+    repo: firebase/quickstart-unity
+  - title: kr05 commented on an issue for firebase/polymerfire
+    url: https://api.github.com/repos/firebase/polymerfire/issues/comments/415578196
+    time_stamp: "2018-08-23"
+    type: IssueCommentEvent
+    user_name: kr05
+    repo: firebase/polymerfire
+  - title: manikyak commented on an issue for firebase/firebase-tools
+    url: https://api.github.com/repos/firebase/firebase-tools/issues/comments/415577803
+    time_stamp: "2018-08-23"
+    type: IssueCommentEvent
+    user_name: manikyak
+    repo: firebase/firebase-tools
+  - title: firebase/quickstart-ios being watched by nelsongonzalezpo
+    url: ""
+    time_stamp: "2018-08-23"
+    type: WatchEvent
+    user_name: nelsongonzalezpo
+    repo: firebase/quickstart-ios
+  - title: jshcrowthe pushed to firebase/firebase-js-sdk
+    url: ""
+    time_stamp: "2018-08-23"
+    type: PushEvent
+    user_name: jshcrowthe
+    repo: firebase/firebase-js-sdk
+  - title: samtstern submitted an issue on firebase/firebaseopensource.com
+    url: https://api.github.com/repos/firebase/firebaseopensource.com/issues/52
+    time_stamp: "2018-08-23"
+    type: IssuesEvent
+    user_name: samtstern
+    repo: firebase/firebaseopensource.com
   latest_reddit_searches:
   - reddit_id: "9895"
     title: '@TheNextWeb: Google''s Firebase adds in-app messaging and new Crashlytics
