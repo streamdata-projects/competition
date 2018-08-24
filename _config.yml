@@ -3575,6 +3575,18 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17829141"
+    title: "Dr. Oke's site about the 22 tone (\u201Cshruti\u201D) music system"
+    url: http://www.22shruti.com/
+    author: weblaunches
+    created_at: "2018-08-23"
+    points: "1"
+  - hacker_news_id: "17830900"
+    title: A study of musical scales (2017)
+    url: https://ianring.com/musictheory/scales/
+    author: weblaunches
+    created_at: "2018-08-23"
+    points: "0"
   - hacker_news_id: "17810574"
     title: Service as a SKU (2012)
     url: https://a16z.com/2018/08/17/service-as-a-sku/
