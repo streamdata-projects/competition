@@ -688,7 +688,7 @@ competition:
     Amazon S3, Amazon Redshift, and Amazon Elasticsearch Service, enabling near real-time
     analytics with existing business intelligence tools and dashboards you are already
     using today.
-  url: https://stackoverflow.com/questions/34468319/reading-the-data-written-to-s3-by-amazon-kinesis-firehose-stream
+  url: https://stackoverflow.com/questions/34883551/amazon-kinesis-put-record-to-every-shard
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -978,6 +978,14 @@ competition:
     created_at: "2013-11-14"
     points: "6"
   latest_stack_exchange_searches:
+  - question_id: "51991401"
+    title: How to Implement Amazon Kinesis PutMedia Method using PYTHON
+    url: https://stackoverflow.com/questions/51991401/how-to-implement-amazon-kinesis-putmedia-method-using-python
+    owner_display_name: Sandeep Kumar
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10264905/sandeep-kumar
+    creation_date: "2018-08-23"
+    view_count: "6"
   - question_id: "50888062"
     title: Amazon kinesis multiple publishers
     url: https://stackoverflow.com/questions/50888062/amazon-kinesis-multiple-publishers
@@ -1173,14 +1181,6 @@ competition:
     owner_link: https://stackoverflow.com/users/661190/chris
     creation_date: "2016-01-19"
     view_count: "993"
-  - question_id: "34468319"
-    title: Reading the data written to s3 by Amazon Kinesis Firehose stream
-    url: https://stackoverflow.com/questions/34468319/reading-the-data-written-to-s3-by-amazon-kinesis-firehose-stream
-    owner_display_name: learner_21
-    owner_reputation: "173"
-    owner_link: https://stackoverflow.com/users/3470384/learner-21
-    creation_date: "2015-12-25"
-    view_count: "2724"
   tags:
   - Streaming
   - Stack Network
@@ -4656,132 +4656,90 @@ competition:
     url: https://twitter.com/PubNub/status/1019302616143093761
     time_stamp: "2018-07-17 12:27:36"
   latest_github_activity:
+  - title: crimsonred made a pull request on pubnub/unity
+    url: https://github.com/pubnub/unity/pull/13
+    time_stamp: "2018-08-23"
+    type: PullRequestEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred commented on an issue for pubnub/unity
+    url: https://api.github.com/repos/pubnub/unity/issues/comments/415468549
+    time_stamp: "2018-08-23"
+    type: IssueCommentEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred pushed to pubnub/unity
+    url: ""
+    time_stamp: "2018-08-23"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: crimsonred made a pull request on pubnub/unity
+    url: https://github.com/pubnub/unity/pull/14
+    time_stamp: "2018-08-23"
+    type: PullRequestEvent
+    user_name: crimsonred
+    repo: pubnub/unity
+  - title: socieboy commented on an issue for pubnub/php
+    url: https://api.github.com/repos/pubnub/php/issues/comments/415454603
+    time_stamp: "2018-08-23"
+    type: IssueCommentEvent
+    user_name: socieboy
+    repo: pubnub/php
+  - title: pubnub/eon being watched by supercobra
+    url: ""
+    time_stamp: "2018-08-23"
+    type: WatchEvent
+    user_name: supercobra
+    repo: pubnub/eon
+  - title: parfeon made a pull request on pubnub/chat-engine-push-notifications
+    url: https://github.com/pubnub/chat-engine-push-notifications/pull/7
+    time_stamp: "2018-08-23"
+    type: PullRequestEvent
+    user_name: parfeon
+    repo: pubnub/chat-engine-push-notifications
+  - title: parfeon pushed to pubnub/chat-engine-push-notifications
+    url: ""
+    time_stamp: "2018-08-23"
+    type: PushEvent
+    user_name: parfeon
+    repo: pubnub/chat-engine-push-notifications
+  - title: parfeon pushed to pubnub/chat-engine-push-notifications
+    url: ""
+    time_stamp: "2018-08-23"
+    type: PushEvent
+    user_name: parfeon
+    repo: pubnub/chat-engine-push-notifications
+  - title: codacy-bot commented on an issue for pubnub/c-core
+    url: https://api.github.com/repos/pubnub/c-core/issues/comments/415382780
+    time_stamp: "2018-08-23"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/c-core
+  - title: vveljko pushed to pubnub/c-core
+    url: ""
+    time_stamp: "2018-08-23"
+    type: PushEvent
+    user_name: vveljko
+    repo: pubnub/c-core
   - title: pubnub/paper-chat was forked by paper-chat
     url: ""
     time_stamp: "2018-08-23"
     type: ForkEvent
     user_name: paper-chat
     repo: pubnub/paper-chat
-  - title: pubnub/Realtime-RaspberryPi-Temperature-Humidity-Sensor was forked by Realtime-RaspberryPi-Temperature-Humidity-Sensor
+  - title: codacy-bot commented on an issue for pubnub/chat-engine
+    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/415597334
+    time_stamp: "2018-08-23"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/chat-engine
+  - title: ianjennings pushed to pubnub/chat-engine
     url: ""
-    time_stamp: "2018-08-22"
-    type: ForkEvent
-    user_name: Realtime-RaspberryPi-Temperature-Humidity-Sensor
-    repo: pubnub/Realtime-RaspberryPi-Temperature-Humidity-S
-  - title: pubnub/python was forked by python-2
-    url: ""
-    time_stamp: "2018-08-22"
-    type: ForkEvent
-    user_name: python-2
-    repo: pubnub/python
-  - title: pubnub/python being watched by setigamer
-    url: ""
-    time_stamp: "2018-08-22"
-    type: WatchEvent
-    user_name: setigamer
-    repo: pubnub/python
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
+    time_stamp: "2018-08-23"
     type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: ManuelFernando pushed to pubnub/chat-engine-event-status
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: ManuelFernando
-    repo: pubnub/chat-engine-event-status
-  - title: ManuelFernando made a pull request on pubnub/chat-engine-event-status
-    url: https://github.com/pubnub/chat-engine-event-status/pull/1
-    time_stamp: "2018-08-22"
-    type: PullRequestEvent
-    user_name: ManuelFernando
-    repo: pubnub/chat-engine-event-status
-  - title: parfeon pushed to pubnub/chat-engine-push-notifications
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-push-notifications
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred made a pull request on pubnub/unity
-    url: https://github.com/pubnub/unity/pull/14
-    time_stamp: "2018-08-22"
-    type: PullRequestEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: pubnub/pi-house being watched by CrazyJiawei
-    url: ""
-    time_stamp: "2018-08-22"
-    type: WatchEvent
-    user_name: CrazyJiawei
-    repo: pubnub/pi-house
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: qsoftdevelopment pushed to pubnub/php
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/php
+    user_name: ianjennings
+    repo: pubnub/chat-engine
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
