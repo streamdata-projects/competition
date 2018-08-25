@@ -4657,90 +4657,36 @@ competition:
     url: https://twitter.com/PubNub/status/1019302616143093761
     time_stamp: "2018-07-17 12:27:36"
   latest_github_activity:
-  - title: crimsonred made a pull request on pubnub/unity
-    url: https://github.com/pubnub/unity/pull/13
-    time_stamp: "2018-08-23"
+  - title: parfeon made a pull request on pubnub/chat-engine-apple
+    url: https://github.com/pubnub/chat-engine-apple/pull/20
+    time_stamp: "2018-08-24"
     type: PullRequestEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred commented on an issue for pubnub/unity
-    url: https://api.github.com/repos/pubnub/unity/issues/comments/415468549
-    time_stamp: "2018-08-23"
-    type: IssueCommentEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred pushed to pubnub/unity
+    user_name: parfeon
+    repo: pubnub/chat-engine-apple
+  - title: qsoftdevelopment pushed to pubnub/php
     url: ""
-    time_stamp: "2018-08-23"
+    time_stamp: "2018-08-24"
     type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: crimsonred made a pull request on pubnub/unity
-    url: https://github.com/pubnub/unity/pull/14
-    time_stamp: "2018-08-23"
-    type: PullRequestEvent
-    user_name: crimsonred
-    repo: pubnub/unity
-  - title: socieboy commented on an issue for pubnub/php
-    url: https://api.github.com/repos/pubnub/php/issues/comments/415454603
-    time_stamp: "2018-08-23"
-    type: IssueCommentEvent
-    user_name: socieboy
+    user_name: qsoftdevelopment
     repo: pubnub/php
-  - title: pubnub/eon being watched by supercobra
+  - title: qsoftdevelopment made a pull request on pubnub/php
+    url: https://github.com/pubnub/php/pull/27
+    time_stamp: "2018-08-24"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/php
+  - title: parfeon pushed to pubnub/chat-engine-push-notifications
     url: ""
-    time_stamp: "2018-08-23"
-    type: WatchEvent
-    user_name: supercobra
-    repo: pubnub/eon
+    time_stamp: "2018-08-24"
+    type: PushEvent
+    user_name: parfeon
+    repo: pubnub/chat-engine-push-notifications
   - title: parfeon made a pull request on pubnub/chat-engine-push-notifications
-    url: https://github.com/pubnub/chat-engine-push-notifications/pull/7
-    time_stamp: "2018-08-23"
+    url: https://github.com/pubnub/chat-engine-push-notifications/pull/8
+    time_stamp: "2018-08-24"
     type: PullRequestEvent
     user_name: parfeon
     repo: pubnub/chat-engine-push-notifications
-  - title: parfeon pushed to pubnub/chat-engine-push-notifications
-    url: ""
-    time_stamp: "2018-08-23"
-    type: PushEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-push-notifications
-  - title: parfeon pushed to pubnub/chat-engine-push-notifications
-    url: ""
-    time_stamp: "2018-08-23"
-    type: PushEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-push-notifications
-  - title: codacy-bot commented on an issue for pubnub/c-core
-    url: https://api.github.com/repos/pubnub/c-core/issues/comments/415382780
-    time_stamp: "2018-08-23"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/c-core
-  - title: vveljko pushed to pubnub/c-core
-    url: ""
-    time_stamp: "2018-08-23"
-    type: PushEvent
-    user_name: vveljko
-    repo: pubnub/c-core
-  - title: pubnub/paper-chat was forked by paper-chat
-    url: ""
-    time_stamp: "2018-08-23"
-    type: ForkEvent
-    user_name: paper-chat
-    repo: pubnub/paper-chat
-  - title: codacy-bot commented on an issue for pubnub/chat-engine
-    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/415597334
-    time_stamp: "2018-08-23"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/chat-engine
-  - title: ianjennings pushed to pubnub/chat-engine
-    url: ""
-    time_stamp: "2018-08-23"
-    type: PushEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
