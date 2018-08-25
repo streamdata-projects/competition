@@ -5557,121 +5557,126 @@ competition:
     url: https://twitter.com/pusher/status/1006517976164544512
     time_stamp: "2018-06-12 05:46:00"
   latest_github_activity:
-  - title: pusher/pusher-angular being watched by DjawadT
+  - title: pusher/pusher-http-laravel was forked by pusher-http-laravel
     url: ""
-    time_stamp: "2018-08-23"
-    type: WatchEvent
-    user_name: DjawadT
-    repo: pusher/pusher-angular
-  - title: WillSewell commented on an issue for pusher/pusher-http-php
-    url: https://api.github.com/repos/pusher/pusher-http-php/issues/comments/415483801
-    time_stamp: "2018-08-23"
-    type: IssueCommentEvent
-    user_name: WillSewell
-    repo: pusher/pusher-http-php
-  - title: pusher/pusher-websocket-java being watched by kn100
-    url: ""
-    time_stamp: "2018-08-23"
-    type: WatchEvent
-    user_name: kn100
-    repo: pusher/pusher-websocket-java
-  - title: pusher/react-slack-clone being watched by swk3169
-    url: ""
-    time_stamp: "2018-08-23"
-    type: WatchEvent
-    user_name: swk3169
-    repo: pusher/react-slack-clone
-  - title: pusher/react-slack-clone being watched by orasik
-    url: ""
-    time_stamp: "2018-08-23"
-    type: WatchEvent
-    user_name: orasik
-    repo: pusher/react-slack-clone
-  - title: pusher/react-slack-clone was forked by react-slack-clone
-    url: ""
-    time_stamp: "2018-08-23"
+    time_stamp: "2018-08-24"
     type: ForkEvent
-    user_name: react-slack-clone
-    repo: pusher/react-slack-clone
-  - title: vivangkumar commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/415356714
-    time_stamp: "2018-08-23"
-    type: IssueCommentEvent
-    user_name: vivangkumar
-    repo: pusher/chatkit-client-js
-  - title: vivangkumar commented on an issue for pusher/chatkit-android
-    url: https://api.github.com/repos/pusher/chatkit-android/issues/comments/415349999
-    time_stamp: "2018-08-23"
-    type: IssueCommentEvent
-    user_name: vivangkumar
-    repo: pusher/chatkit-android
-  - title: vivangkumar made a pull request on pusher/chatkit-android
-    url: https://github.com/pusher/chatkit-android/pull/65
-    time_stamp: "2018-08-23"
+    user_name: pusher-http-laravel
+    repo: pusher/pusher-http-laravel
+  - title: pusher/pusher-http-laravel being watched by MaXiaofei2014
+    url: ""
+    time_stamp: "2018-08-24"
+    type: WatchEvent
+    user_name: MaXiaofei2014
+    repo: pusher/pusher-http-laravel
+  - title: JoelSpeed made a pull request on pusher/quack
+    url: https://github.com/pusher/quack/pull/6
+    time_stamp: "2018-08-24"
     type: PullRequestEvent
-    user_name: vivangkumar
-    repo: pusher/chatkit-android
-  - title: vivangkumar pushed to pusher/chatkit-android
+    user_name: JoelSpeed
+    repo: pusher/quack
+  - title: JoelSpeed pushed to pusher/quack
     url: ""
-    time_stamp: "2018-08-23"
+    time_stamp: "2018-08-24"
     type: PushEvent
-    user_name: vivangkumar
-    repo: pusher/chatkit-android
-  - title: pusher/pusher-http-php being watched by Ralph519
+    user_name: JoelSpeed
+    repo: pusher/quack
+  - title: JoelSpeed pushed to pusher/quack
     url: ""
-    time_stamp: "2018-08-23"
-    type: WatchEvent
-    user_name: Ralph519
-    repo: pusher/pusher-http-php
-  - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit being watched
-      by justinglibert
+    time_stamp: "2018-08-24"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/quack
+  - title: JoelSpeed pushed to pusher/controller-runtime
     url: ""
-    time_stamp: "2018-08-23"
-    type: WatchEvent
-    user_name: justinglibert
-    repo: pusher/build-a-slack-clone-with-react-and-pusher-c
-  - title: pusher/react-slack-clone was forked by react-slack-clone
-    url: ""
-    time_stamp: "2018-08-22"
-    type: ForkEvent
-    user_name: react-slack-clone
-    repo: pusher/react-slack-clone
-  - title: pusher/libPusher being watched by seifscape
-    url: ""
-    time_stamp: "2018-08-22"
-    type: WatchEvent
-    user_name: seifscape
-    repo: pusher/libPusher
-  - title: lmenus commented on an issue for pusher/pusher-websocket-swift
-    url: https://api.github.com/repos/pusher/pusher-websocket-swift/issues/comments/415137335
-    time_stamp: "2018-08-22"
+    time_stamp: "2018-08-24"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: KBoohene commented on an issue for pusher/react-slack-clone
+    url: https://api.github.com/repos/pusher/react-slack-clone/issues/comments/415737259
+    time_stamp: "2018-08-24"
     type: IssueCommentEvent
-    user_name: lmenus
-    repo: pusher/pusher-websocket-swift
-  - title: lmenus submitted an issue on pusher/pusher-websocket-swift
-    url: https://api.github.com/repos/pusher/pusher-websocket-swift/issues/195
-    time_stamp: "2018-08-22"
+    user_name: KBoohene
+    repo: pusher/react-slack-clone
+  - title: KBoohene submitted an issue on pusher/react-slack-clone
+    url: https://api.github.com/repos/pusher/react-slack-clone/issues/68
+    time_stamp: "2018-08-24"
     type: IssuesEvent
-    user_name: lmenus
-    repo: pusher/pusher-websocket-swift
-  - title: lukabratos pushed to pusher/push-notifications-swift
-    url: ""
-    time_stamp: "2018-08-22"
-    type: PushEvent
-    user_name: lukabratos
-    repo: pusher/push-notifications-swift
-  - title: lukabratos made a pull request on pusher/push-notifications-swift
-    url: https://github.com/pusher/push-notifications-swift/pull/88
-    time_stamp: "2018-08-22"
-    type: PullRequestEvent
-    user_name: lukabratos
-    repo: pusher/push-notifications-swift
-  - title: pusher/react-slack-clone being watched by AdamMarczyk
-    url: ""
-    time_stamp: "2018-08-22"
-    type: WatchEvent
-    user_name: AdamMarczyk
+    user_name: KBoohene
     repo: pusher/react-slack-clone
+  - title: KBoohene submitted an issue on pusher/react-slack-clone
+    url: https://api.github.com/repos/pusher/react-slack-clone/issues/68
+    time_stamp: "2018-08-24"
+    type: IssuesEvent
+    user_name: KBoohene
+    repo: pusher/react-slack-clone
+  - title: KBoohene submitted an issue on pusher/react-slack-clone
+    url: https://api.github.com/repos/pusher/react-slack-clone/issues/68
+    time_stamp: "2018-08-24"
+    type: IssuesEvent
+    user_name: KBoohene
+    repo: pusher/react-slack-clone
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-08-24"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-08-24"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-08-24"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-08-24"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: philipnjuguna66 made a pull request on pusher/chatkit-server-php
+    url: https://github.com/pusher/chatkit-server-php/pull/31
+    time_stamp: "2018-08-24"
+    type: PullRequestEvent
+    user_name: philipnjuguna66
+    repo: pusher/chatkit-server-php
+  - title: hamchapman made a pull request on pusher/chatkit-server-php
+    url: https://github.com/pusher/chatkit-server-php/pull/30
+    time_stamp: "2018-08-24"
+    type: PullRequestEvent
+    user_name: hamchapman
+    repo: pusher/chatkit-server-php
+  - title: hamchapman commented on an issue for pusher/chatkit-server-php
+    url: https://api.github.com/repos/pusher/chatkit-server-php/issues/comments/415704422
+    time_stamp: "2018-08-24"
+    type: IssueCommentEvent
+    user_name: hamchapman
+    repo: pusher/chatkit-server-php
+  - title: pusher/chatkit-server-php was forked by chatkit-server-php
+    url: ""
+    time_stamp: "2018-08-24"
+    type: ForkEvent
+    user_name: chatkit-server-php
+    repo: pusher/chatkit-server-php
+  - title: philipnjuguna66 made a pull request on pusher/chatkit-server-php
+    url: https://github.com/pusher/chatkit-server-php/pull/30
+    time_stamp: "2018-08-24"
+    type: PullRequestEvent
+    user_name: philipnjuguna66
+    repo: pusher/chatkit-server-php
+  - title: pusher/chatkit-android being watched by dbof10
+    url: ""
+    time_stamp: "2018-08-24"
+    type: WatchEvent
+    user_name: dbof10
+    repo: pusher/chatkit-android
   latest_reddit_searches:
   - reddit_id: "99"
     title: "Overheard at work: \u201CMy MIL won't look after my baby whilst I
