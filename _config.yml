@@ -4197,6 +4197,12 @@ competition:
     user_name: lag-linaro
     repo: Lightstreamer/Docker
   latest_reddit_searches:
+  - reddit_id: "9"
+    title: Streamers attempting the B33F challenge
+    url: https://www.reddit.com/r/OutreachHPG/comments/9aautk/streamers_attempting_the_b33f_challenge/
+    author: Th3b33f
+    created_date: "2018-08-25"
+    score: "41"
   - reddit_id: "98"
     title: Crown flash phenomenon
     url: https://v.redd.it/5vl688btv5h11
@@ -4356,23 +4362,17 @@ competition:
     author: btlyger
     created_date: "2014-01-02"
     score: "1"
-  - reddit_id: "1"
-    title: My cousin is starting a new company They accidentally make totem poles.
-    url: https://www.reddit.com/r/bonnaroo/comments/1sawws/my_cousin_is_starting_a_new_company_they/
-    author: mhortonable
-    created_date: "2013-12-07"
-    score: "15"
   latest_hacker_news_searches:
   - hacker_news_id: "2744690"
     title: 10 Years of Push Technology, Comet, and WebSockets
     url: http://cometdaily.com/2011/07/06/push-technology-comet-and-websockets-10-years-of-history-from-lightstreamers-perspective/
-    author: mhortonable
+    author: btlyger
     created_at: "2011-07-08"
     points: "2"
   - hacker_news_id: "114854"
     title: Hello World with Lightstreamer
     url: http://cometdaily.com/2008/02/12/%e2%80%9chello-world%e2%80%9d-with-lightstreamer/
-    author: mhortonable
+    author: btlyger
     created_at: "2008-02-13"
     points: "2"
   latest_stack_exchange_searches:
