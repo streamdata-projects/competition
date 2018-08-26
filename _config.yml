@@ -6951,6 +6951,12 @@ competition:
     user_name: deepakstriim
     repo: striim/azure-solution-template
   latest_reddit_searches:
+  - reddit_id: "9"
+    title: Petition for Artour to striim
+    url: https://www.reddit.com/r/DotA2/comments/9aez2u/petition_for_artour_to_striim/
+    author: bz1234
+    created_date: "2018-08-26"
+    score: "1"
   - reddit_id: "93775"
     title: "\U0001F691 \U0001D54A\U0001D566\U0001D553 \u211D\U0001D556\U0001D564\U0001D554\U0001D566\U0001D556
       \u2119\U0001D55D\U0001D552\U0001D55F: Step 1: Post, Step 2: Bring Sing here
