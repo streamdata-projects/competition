@@ -4657,36 +4657,36 @@ competition:
     url: https://twitter.com/PubNub/status/1023959150173151232
     time_stamp: "2018-07-30 08:51:00"
   latest_github_activity:
-  - title: parfeon made a pull request on pubnub/chat-engine-apple
-    url: https://github.com/pubnub/chat-engine-apple/pull/20
-    time_stamp: "2018-08-24"
-    type: PullRequestEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-apple
-  - title: qsoftdevelopment pushed to pubnub/php
+  - title: pubnub/javascript was forked by javascript
     url: ""
-    time_stamp: "2018-08-24"
-    type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/php
-  - title: qsoftdevelopment made a pull request on pubnub/php
-    url: https://github.com/pubnub/php/pull/27
-    time_stamp: "2018-08-24"
-    type: PullRequestEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/php
-  - title: parfeon pushed to pubnub/chat-engine-push-notifications
+    time_stamp: "2018-08-26"
+    type: ForkEvent
+    user_name: javascript
+    repo: pubnub/javascript
+  - title: pubnub/chat-engine being watched by anilprasad
     url: ""
-    time_stamp: "2018-08-24"
-    type: PushEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-push-notifications
-  - title: parfeon made a pull request on pubnub/chat-engine-push-notifications
-    url: https://github.com/pubnub/chat-engine-push-notifications/pull/8
-    time_stamp: "2018-08-24"
-    type: PullRequestEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-push-notifications
+    time_stamp: "2018-08-25"
+    type: WatchEvent
+    user_name: anilprasad
+    repo: pubnub/chat-engine
+  - title: pubnub/javascript was forked by javascript
+    url: ""
+    time_stamp: "2018-08-25"
+    type: ForkEvent
+    user_name: javascript
+    repo: pubnub/javascript
+  - title: pubnub/php was forked by php
+    url: ""
+    time_stamp: "2018-08-25"
+    type: ForkEvent
+    user_name: php
+    repo: pubnub/php
+  - title: pubnub/chat-engine was forked by chat-engine
+    url: ""
+    time_stamp: "2018-08-25"
+    type: ForkEvent
+    user_name: chat-engine
+    repo: pubnub/chat-engine
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
