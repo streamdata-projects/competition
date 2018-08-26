@@ -5503,6 +5503,30 @@ competition:
     url: https://twitter.com/pusher/status/1006517976164544512
     time_stamp: "2018-06-12 05:46:00"
   latest_github_activity:
+  - title: ReaganMcF1059 commented on an issue for pusher/react-slack-clone
+    url: https://api.github.com/repos/pusher/react-slack-clone/issues/comments/415992411
+    time_stamp: "2018-08-25"
+    type: IssueCommentEvent
+    user_name: ReaganMcF1059
+    repo: pusher/react-slack-clone
+  - title: zdexter commented on an issue for pusher/pusher-http-python
+    url: https://api.github.com/repos/pusher/pusher-http-python/issues/comments/415989127
+    time_stamp: "2018-08-25"
+    type: IssueCommentEvent
+    user_name: zdexter
+    repo: pusher/pusher-http-python
+  - title: zdexter submitted an issue on pusher/pusher-http-python
+    url: https://api.github.com/repos/pusher/pusher-http-python/issues/115
+    time_stamp: "2018-08-25"
+    type: IssuesEvent
+    user_name: zdexter
+    repo: pusher/pusher-http-python
+  - title: philipnjuguna66 commented on an issue for pusher/chatkit-server-php
+    url: https://api.github.com/repos/pusher/chatkit-server-php/issues/comments/415952886
+    time_stamp: "2018-08-25"
+    type: IssueCommentEvent
+    user_name: philipnjuguna66
+    repo: pusher/chatkit-server-php
   - title: pusher/pusher-http-laravel was forked by pusher-http-laravel
     url: ""
     time_stamp: "2018-08-24"
@@ -5575,54 +5599,6 @@ competition:
     type: PushEvent
     user_name: JoelSpeed
     repo: pusher/controller-runtime
-  - title: JoelSpeed pushed to pusher/controller-runtime
-    url: ""
-    time_stamp: "2018-08-24"
-    type: PushEvent
-    user_name: JoelSpeed
-    repo: pusher/controller-runtime
-  - title: JoelSpeed pushed to pusher/controller-runtime
-    url: ""
-    time_stamp: "2018-08-24"
-    type: PushEvent
-    user_name: JoelSpeed
-    repo: pusher/controller-runtime
-  - title: philipnjuguna66 made a pull request on pusher/chatkit-server-php
-    url: https://github.com/pusher/chatkit-server-php/pull/31
-    time_stamp: "2018-08-24"
-    type: PullRequestEvent
-    user_name: philipnjuguna66
-    repo: pusher/chatkit-server-php
-  - title: hamchapman made a pull request on pusher/chatkit-server-php
-    url: https://github.com/pusher/chatkit-server-php/pull/30
-    time_stamp: "2018-08-24"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-server-php
-  - title: hamchapman commented on an issue for pusher/chatkit-server-php
-    url: https://api.github.com/repos/pusher/chatkit-server-php/issues/comments/415704422
-    time_stamp: "2018-08-24"
-    type: IssueCommentEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-server-php
-  - title: pusher/chatkit-server-php was forked by chatkit-server-php
-    url: ""
-    time_stamp: "2018-08-24"
-    type: ForkEvent
-    user_name: chatkit-server-php
-    repo: pusher/chatkit-server-php
-  - title: philipnjuguna66 made a pull request on pusher/chatkit-server-php
-    url: https://github.com/pusher/chatkit-server-php/pull/30
-    time_stamp: "2018-08-24"
-    type: PullRequestEvent
-    user_name: philipnjuguna66
-    repo: pusher/chatkit-server-php
-  - title: pusher/chatkit-android being watched by dbof10
-    url: ""
-    time_stamp: "2018-08-24"
-    type: WatchEvent
-    user_name: dbof10
-    repo: pusher/chatkit-android
   latest_reddit_searches:
   - reddit_id: "9"
     title: Sawing a Reindeer
