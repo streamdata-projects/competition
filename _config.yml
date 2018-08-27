@@ -688,7 +688,7 @@ competition:
     Amazon S3, Amazon Redshift, and Amazon Elasticsearch Service, enabling near real-time
     analytics with existing business intelligence tools and dashboards you are already
     using today.
-  url: https://stackoverflow.com/questions/34883551/amazon-kinesis-put-record-to-every-shard
+  url: https://stackoverflow.com/questions/37041083/how-to-process-static-data-in-amazon-kinesis
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -978,6 +978,14 @@ competition:
     created_at: "2013-11-14"
     points: "6"
   latest_stack_exchange_searches:
+  - question_id: "52033203"
+    title: Amazon Kinesis Video PutMedia Using Python
+    url: https://stackoverflow.com/questions/52033203/amazon-kinesis-video-putmedia-using-python
+    owner_display_name: Sandeep Kumar
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10264905/sandeep-kumar
+    creation_date: "2018-08-26"
+    view_count: "5"
   - question_id: "51991401"
     title: How to Implement Amazon Kinesis PutMedia Method using PYTHON
     url: https://stackoverflow.com/questions/51991401/how-to-implement-amazon-kinesis-putmedia-method-using-python
@@ -1173,14 +1181,6 @@ competition:
     owner_link: https://stackoverflow.com/users/5906402/saumm
     creation_date: "2016-05-04"
     view_count: "165"
-  - question_id: "34883551"
-    title: Amazon-Kinesis Put record to every shard
-    url: https://stackoverflow.com/questions/34883551/amazon-kinesis-put-record-to-every-shard
-    owner_display_name: Chris
-    owner_reputation: "206"
-    owner_link: https://stackoverflow.com/users/661190/chris
-    creation_date: "2016-01-19"
-    view_count: "993"
   tags:
   - Streaming
   - Stack Network
