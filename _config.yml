@@ -2415,6 +2415,19 @@ competition:
     user_name: Kiailandi
     repo: firebase/firebase-functions
   latest_reddit_searches:
+  - reddit_id: "9"
+    title: 'fiery-vue: A Typescript/JS library for VueJS and Google Firebase Firestore'
+    url: https://github.com/fiery-data/fiery-vue
+    author: ClickerMonkey
+    created_date: "2018-08-26"
+    score: "14"
+  - reddit_id: "9"
+    title: 'fiery-data: A Typescript/JS library for interacting with Google Firebase
+      Firestore'
+    url: https://github.com/fiery-data/fiery-data
+    author: ClickerMonkey
+    created_date: "2018-08-26"
+    score: "3"
   - reddit_id: "9895"
     title: '@TheNextWeb: Google''s Firebase adds in-app messaging and new Crashlytics
       integrations https://t.co/Ywz83hPKWx'
@@ -2570,19 +2583,6 @@ competition:
     author: EasyMDT
     created_date: "2018-04-10"
     score: "3"
-  - reddit_id: "881"
-    title: How to show two different versions of an app based on the log-in options?
-      [Google Firebase]
-    url: https://www.reddit.com/r/Xcode/comments/881ha0/how_to_show_two_different_versions_of_an_app/
-    author: VA06
-    created_date: "2018-03-29"
-    score: "2"
-  - reddit_id: "85"
-    title: Google firebase sucks and prone to hacking. No one should ever use it.
-    url: https://www.reddit.com/r/u_eng_guy23/comments/85upnu/google_firebase_sucks_and_prone_to_hacking_no_one/
-    author: eng_guy23
-    created_date: "2018-03-20"
-    score: "1"
   latest_hacker_news_searches: []
   latest_stack_exchange_searches:
   - question_id: "51998979"
