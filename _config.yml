@@ -2163,6 +2163,14 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/dKZb6YZznhw/7-tips-for-getting-most-out-of.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "The #io18 hit game is coming to @DroidconNYC! AppShip will be playable
+      at the #Firebase booth. Come by and play a r... https://t.co/9xifECx9XZ"
+    url: https://twitter.com/Firebase/status/1034096106538446850
+    time_stamp: "2018-08-27 08:11:39"
+  - title: "Don't miss @ToddKerpelman's Cloud Firestore workshop, today
+      at @360iDev! He'll cover basic and advanced Firestore f... https://t.co/nASfvWoLDt"
+    url: https://twitter.com/Firebase/status/1033791189819056130
+    time_stamp: "2018-08-26 12:00:01"
   - title: "Georgian tech lead @NinoNanitashvil loves conferences for the opportunity
       to learn and network. She can't wait to a... https://t.co/5YpEn6ojqv"
     url: https://twitter.com/Firebase/status/1033074624391598080
@@ -2255,14 +2263,6 @@ competition:
       on Google using the @GCPcloud #Firestore. In the 2nd part of her..."
     url: https://twitter.com/Firebase/status/1027674251984289793
     time_stamp: "2018-08-09 14:53:29"
-  - title: "We just made it a heck of a lot easier to use arrays in Cloud Firestore!
-      \n\nSee all the details here  https://t.co/5wp0owPxRh"
-    url: https://twitter.com/Firebase/status/1027661258273828865
-    time_stamp: "2018-08-09 14:01:51"
-  - title: "At #GoogleNext18 we announced a number of new features for you to play
-      with in Cloud Firestore:\n\n- Single field ind... https://t.co/MxYJLDfg4o"
-    url: https://twitter.com/Firebase/status/1027246280500813824
-    time_stamp: "2018-08-08 10:32:53"
   latest_github_activity:
   - title: firebase/functions-samples was forked by functions-samples
     url: ""
@@ -3596,6 +3596,13 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17852187"
+    title: "Google's Jeff Dean's undergrad senior thesis on neural networks
+      (1990) [pdf]"
+    url: https://drive.google.com/file/d/1I1fs4sczbCaACzA9XwxR3DiuXVtqmejL/view
+    author: weblaunches
+    created_at: "2018-08-27"
+    points: "0"
   - hacker_news_id: "17845337"
     title: Paradise Lost How Tourists Are Destroying the Places They Love
     url: http://www.spiegel.de/international/paradise-lost-tourists-are-destroying-the-places-they-love-a-1223502.html
@@ -3617,6 +3624,12 @@ competition:
   - hacker_news_id: "17844980"
     title: Beyond GDP
     url: https://www.npr.org/sections/money/2018/08/23/641278187/beyond-gdp
+    author: weblaunches
+    created_at: "2018-08-26"
+    points: "0"
+  - hacker_news_id: "17848995"
+    title: Anki Memorization with Spaced Learning
+    url: https://apps.ankiweb.net/
     author: weblaunches
     created_at: "2018-08-26"
     points: "0"
@@ -3734,18 +3747,6 @@ competition:
     author: weblaunches
     created_at: "2012-06-20"
     points: "2"
-  - hacker_news_id: "4031001"
-    title: How WebSockets work vs polling/long polling/streaming
-    url: http://www.websocket.org/quantum.html
-    author: weblaunches
-    created_at: "2012-05-27"
-    points: "9"
-  - hacker_news_id: "3868962"
-    title: WebSocket Platform in Amazon's EC2 Cloud
-    url: http://www.readwriteweb.com/cloud/2012/04/kaazing-launches-websocket-pla.php
-    author: weblaunches
-    created_at: "2012-04-20"
-    points: "3"
   latest_stack_exchange_searches:
   - question_id: "47058356"
     title: How catch reseane of closed connection with Kaazing Websocket gatway
