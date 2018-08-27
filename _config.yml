@@ -4692,30 +4692,24 @@ competition:
     type: ForkEvent
     user_name: javascript
     repo: pubnub/javascript
-  - title: pubnub/chat-engine being watched by anilprasad
-    url: ""
-    time_stamp: "2018-08-25"
-    type: WatchEvent
-    user_name: anilprasad
-    repo: pubnub/chat-engine
+  - title: codacy-bot commented on an issue for pubnub/chat-engine-plugin
+    url: https://api.github.com/repos/pubnub/chat-engine-plugin/issues/comments/416079632
+    time_stamp: "2018-08-26"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/chat-engine-plugin
+  - title: ajb413 made a pull request on pubnub/chat-engine-plugin
+    url: https://github.com/pubnub/chat-engine-plugin/pull/2
+    time_stamp: "2018-08-26"
+    type: PullRequestEvent
+    user_name: ajb413
+    repo: pubnub/chat-engine-plugin
   - title: pubnub/javascript was forked by javascript
     url: ""
-    time_stamp: "2018-08-25"
+    time_stamp: "2018-08-26"
     type: ForkEvent
     user_name: javascript
     repo: pubnub/javascript
-  - title: pubnub/php was forked by php
-    url: ""
-    time_stamp: "2018-08-25"
-    type: ForkEvent
-    user_name: php
-    repo: pubnub/php
-  - title: pubnub/chat-engine was forked by chat-engine
-    url: ""
-    time_stamp: "2018-08-25"
-    type: ForkEvent
-    user_name: chat-engine
-    repo: pubnub/chat-engine
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
