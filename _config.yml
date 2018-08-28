@@ -2163,6 +2163,22 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "RT @asciimike: Do you use @googlecloud or @Firebase #Functions? Have a
+      use case for workflow engines like @awscloud #StepFunctions, @Azure..."
+    url: https://twitter.com/Firebase/status/1034222596017938432
+    time_stamp: "2018-08-27 16:34:16"
+  - title: "RT @CodingDoug: The slides from the latest version of my @Firebase &amp;
+      Jetpack talk from @droidconNYC can be found here:\n\nhttps://t.co/FMgXy1..."
+    url: https://twitter.com/Firebase/status/1034191322964475905
+    time_stamp: "2018-08-27 14:30:00"
+  - title: Thanks to everyone who attended the workshop. Be sure to swing by our @360iDev
+      booth and say hi! https://t.co/wwgamA2slj
+    url: https://twitter.com/Firebase/status/1034172741312700416
+    time_stamp: "2018-08-27 13:16:10"
+  - title: "We're happy to announce the general availability of the Firebase Admin
+      SDK for .NET! \n\nLearn more on the blog  https://t.co/72oTN5eh6T"
+    url: https://twitter.com/Firebase/status/1034136310381006856
+    time_stamp: "2018-08-27 10:51:24"
   - title: "The #io18 hit game is coming to @DroidconNYC! AppShip will be playable
       at the #Firebase booth. Come by and play a r... https://t.co/9xifECx9XZ"
     url: https://twitter.com/Firebase/status/1034096106538446850
@@ -2247,22 +2263,6 @@ competition:
       These changes inspire dev... https://t.co/endoP5BCFi"
     url: https://twitter.com/Firebase/status/1029442532139102208
     time_stamp: "2018-08-14 12:00:00"
-  - title: "Educating &amp; inspiring developers is central to @WomenTechmakers and
-      @Firebase's mission. Startup founder Daria shar... https://t.co/8VvQL2dIfT"
-    url: https://twitter.com/Firebase/status/1029085388294389760
-    time_stamp: "2018-08-13 12:20:50"
-  - title: "There are new runtime configuration options for Cloud Functions for Firebase,
-      including Node.js 8, memory, timeout,... https://t.co/PqK0tjSNWO"
-    url: https://twitter.com/Firebase/status/1029054685297233920
-    time_stamp: "2018-08-13 10:18:50"
-  - title: "In the first episode of the #FirebaseProSeries, engineer Tyler Rockwood
-      dives deep into the Real Time Database Prof... https://t.co/aJpMUubEzZ"
-    url: https://twitter.com/Firebase/status/1028080547875225600
-    time_stamp: "2018-08-10 17:47:58"
-  - title: "RT @ActionsOnGoogle: Learn how to update and customize queries for Actions
-      on Google using the @GCPcloud #Firestore. In the 2nd part of her..."
-    url: https://twitter.com/Firebase/status/1027674251984289793
-    time_stamp: "2018-08-09 14:53:29"
   latest_github_activity:
   - title: hiranya911 pushed to firebase/firebase-admin-node
     url: ""
@@ -5437,6 +5437,14 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "This tutorial by @gideon_onwuka demonstrates how to build live table using
+      Flask. #Python \n\nhttps://t.co/r3NT5mexMJ"
+    url: https://twitter.com/pusher/status/1034146661998551040
+    time_stamp: "2018-08-27 11:32:32"
+  - title: You can learn this from @OgundipeOre's new tutorial. We will be publishing
+      it very soon! https://t.co/huga8DZs78
+    url: https://twitter.com/pusher/status/1034143413271027712
+    time_stamp: "2018-08-27 11:19:37"
   - title: |-
       Learn how to build a live graph with D3.js. Check out this tutorial authored by @ayisaiah
 
@@ -5532,14 +5540,6 @@ competition:
       are #kotlin, #DSL, and a lot of people paying attention! @pusher #kc..."
     url: https://twitter.com/pusher/status/1007204619141906432
     time_stamp: "2018-06-14 03:14:28"
-  - title: 'RT @pawel_ledwon: How we approach error design @pusher: https://t.co/AZftpwKPJK'
-    url: https://twitter.com/pusher/status/1006847638543785984
-    time_stamp: "2018-06-13 03:35:58"
-  - title: "RT @codeburstio: \u201CBuild A Chat App With Sentiment Analysis Using
-      Next.js\u201D and @pusher https://t.co/m5qS5BHSOC\n\n#reactjs #nextjs #webdev
-      #no..."
-    url: https://twitter.com/pusher/status/1006527125464248320
-    time_stamp: "2018-06-12 06:22:21"
   latest_github_activity:
   - title: Gabriel416 commented on an issue for pusher/chatkit-client-js
     url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416403028
