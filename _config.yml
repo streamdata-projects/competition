@@ -6169,6 +6169,12 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg
   image_width: ""
   latest_blog:
+  - title: 'DApps: Why realtime data is the missing component'
+    url: https://medium.com/streamrblog/dapps-why-the-realtime-data-backbone-is-the-missing-component-d2e6f9bb643e?source=rss----40973205350c---4
+    time_stamp: "2018-08-27 07:59:05"
+  - title: 'Streamr interview roundup: five of the best with Henri'
+    url: https://medium.com/streamrblog/streamr-interview-roundup-five-of-the-best-with-henri-ee2cf1f20d3e?source=rss----40973205350c---4
+    time_stamp: "2018-08-21 05:34:01"
   - title: "Building the missing protocol of today's internet stack: a decentralized
       pub/sub network for..."
     url: https://medium.com/streamrblog/building-the-missing-protocol-of-todays-internet-stack-a-decentralized-pub-sub-network-for-ad1f5972f3ca?source=rss----40973205350c---4
@@ -6847,6 +6853,16 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: "Adaptive Machine Learning Model Serving \u2013 Part 2"
+    url: https://www.striim.com/blog/2018/08/adaptive-machine-learning-model-serving-part-2/
+    time_stamp: "2018-08-23 07:12:24"
+  - title: "Operationalizing Machine Learning Through Streaming Integration \u2013
+      Part 1"
+    url: https://www.striim.com/blog/2018/08/operationalizing-machine-learning-part-1/
+    time_stamp: "2018-08-22 07:00:14"
+  - title: 'SQL Server Change Data Capture to HBase with Striim: A 5-Minute Demo'
+    url: https://www.striim.com/blog/2018/08/sql-server-change-data-capture-to-hbase/
+    time_stamp: "2018-08-21 12:51:35"
   - title: 'Beyond Real-Time Ingestion: Getting to Enterprise-Grade Real-Time Integration'
     url: https://www.striim.com/blog/2018/08/beyond-real-time-ingestion-to-real-time-integration/
     time_stamp: "2018-08-16 07:30:06"
