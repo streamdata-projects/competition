@@ -4662,30 +4662,66 @@ competition:
     url: https://twitter.com/PubNub/status/1024715097241878528
     time_stamp: "2018-08-01 10:54:52"
   latest_github_activity:
-  - title: pubnub/javascript was forked by javascript
+  - title: pubnub/LeapMotionServoBots being watched by kaolalong
     url: ""
-    time_stamp: "2018-08-26"
-    type: ForkEvent
-    user_name: javascript
-    repo: pubnub/javascript
-  - title: codacy-bot commented on an issue for pubnub/chat-engine-plugin
-    url: https://api.github.com/repos/pubnub/chat-engine-plugin/issues/comments/416079632
-    time_stamp: "2018-08-26"
+    time_stamp: "2018-08-27"
+    type: WatchEvent
+    user_name: kaolalong
+    repo: pubnub/LeapMotionServoBots
+  - title: captainkerk commented on an issue for pubnub/ruby
+    url: https://api.github.com/repos/pubnub/ruby/issues/comments/416381466
+    time_stamp: "2018-08-27"
     type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/chat-engine-plugin
-  - title: ajb413 made a pull request on pubnub/chat-engine-plugin
-    url: https://github.com/pubnub/chat-engine-plugin/pull/2
-    time_stamp: "2018-08-26"
-    type: PullRequestEvent
-    user_name: ajb413
-    repo: pubnub/chat-engine-plugin
-  - title: pubnub/javascript was forked by javascript
+    user_name: captainkerk
+    repo: pubnub/ruby
+  - title: pubnub/go being watched by udhos
     url: ""
-    time_stamp: "2018-08-26"
-    type: ForkEvent
-    user_name: javascript
-    repo: pubnub/javascript
+    time_stamp: "2018-08-27"
+    type: WatchEvent
+    user_name: udhos
+    repo: pubnub/go
+  - title: pubnub/c-core being watched by tango-oscar
+    url: ""
+    time_stamp: "2018-08-27"
+    type: WatchEvent
+    user_name: tango-oscar
+    repo: pubnub/c-core
+  - title: vveljko pushed to pubnub/arduino
+    url: ""
+    time_stamp: "2018-08-27"
+    type: PushEvent
+    user_name: vveljko
+    repo: pubnub/arduino
+  - title: vveljko made a pull request on pubnub/arduino
+    url: https://github.com/pubnub/arduino/pull/21
+    time_stamp: "2018-08-27"
+    type: PullRequestEvent
+    user_name: vveljko
+    repo: pubnub/arduino
+  - title: vveljko commented on an issue for pubnub/arduino
+    url: https://api.github.com/repos/pubnub/arduino/issues/comments/416225524
+    time_stamp: "2018-08-27"
+    type: IssueCommentEvent
+    user_name: vveljko
+    repo: pubnub/arduino
+  - title: vveljko submitted an issue on pubnub/arduino
+    url: https://api.github.com/repos/pubnub/arduino/issues/20
+    time_stamp: "2018-08-27"
+    type: IssuesEvent
+    user_name: vveljko
+    repo: pubnub/arduino
+  - title: vveljko commented on an issue for pubnub/arduino
+    url: https://api.github.com/repos/pubnub/arduino/issues/comments/416224877
+    time_stamp: "2018-08-27"
+    type: IssueCommentEvent
+    user_name: vveljko
+    repo: pubnub/arduino
+  - title: qsoftdevelopment made a pull request on pubnub/java
+    url: https://github.com/pubnub/java/pull/128
+    time_stamp: "2018-08-27"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
