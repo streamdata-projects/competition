@@ -4515,7 +4515,7 @@ competition:
   name: PubNub
   description: Focus on innovation and launch fast with our realtime APIs and global
     messaging infrastructure for web, mobile, and Internet of Things.
-  url: https://stackoverflow.com/questions/37244454/building-pubnub-c-with-cmake
+  url: https://stackoverflow.com/questions/37835110/how-to-use-xirsys-hosting-in-pubnub-android-example
   email: stephen@pubnub.com
   blog_url: http://blog.pubnub.com
   blog_rss_url: https://www.pubnub.com/blog/feed/
@@ -5006,6 +5006,14 @@ competition:
     created_at: "2012-02-01"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "52053051"
+    title: Not receiving GCM Notifications on Pubnub
+    url: https://stackoverflow.com/questions/52053051/not-receiving-gcm-notifications-on-pubnub
+    owner_display_name: tinker
+    owner_reputation: "22"
+    owner_link: https://stackoverflow.com/users/8668058/tinker
+    creation_date: "2018-08-28"
+    view_count: "3"
   - question_id: "51924095"
     title: Using PubNub to publish message in Django view
     url: https://stackoverflow.com/questions/51924095/using-pubnub-to-publish-message-in-django-view
@@ -5199,14 +5207,6 @@ competition:
     owner_link: https://stackoverflow.com/users/6182878/%ec%9d%b4%ec%9e%ac%ec%98%81
     creation_date: "2016-06-15"
     view_count: "257"
-  - question_id: "37244454"
-    title: Building PubNub C++ with CMake
-    url: https://stackoverflow.com/questions/37244454/building-pubnub-c-with-cmake
-    owner_display_name: Hippolyte Barraud
-    owner_reputation: "12"
-    owner_link: https://stackoverflow.com/users/4751770/hippolyte-barraud
-    creation_date: "2016-05-15"
-    view_count: "283"
   tags:
   - Technology
   - Stack Network
