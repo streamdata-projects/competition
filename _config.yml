@@ -2084,6 +2084,21 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
   image_width: "150"
   latest_blog:
+  - title: Introducing the Firebase Admin SDK for .NET
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/DUPnvd8kwA4/introducing-firebase-admin-sdk-for-net.html
+    time_stamp: "2018-08-27 18:12:07"
+  - title: Announcing Change History for Firebase Remote Config
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/ifzH8Bwu0ys/announcing-change-history-for-firebase.html
+    time_stamp: "2018-08-27 18:12:07"
+  - title: ' Exporting Crashlytics data to BigQuery'
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/v--eX8MzA7U/exporting-crashlytics-data-to-bigquery.html
+    time_stamp: "2018-08-27 18:12:07"
+  - title: ' One project, multiple sites! Plus a boost in upload speed!'
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/-UarlTkPQEg/one-project-multiple-sites-plus-boost.html
+    time_stamp: "2018-08-27 18:12:07"
+  - title: Introducing Firebase In-App Messaging
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/Jm6Ct_Bvk2o/introducing-firebase-in-app-messaging.html
+    time_stamp: "2018-08-27 18:12:07"
   - title: In-App Messaging, Crashlytics integrations, and more! Oh my!
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/nSXHpH-9MJk/in-app-messaging-crashlytics.html
     time_stamp: "2018-08-20 10:37:25"
@@ -2146,21 +2161,6 @@ competition:
     time_stamp: "1969-12-31 16:00:00"
   - title: Firebase Test Lab October 2017 Update
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: Cloud Firestore for Realtime Database Developers
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/SJ0VTPfOkBA/cloud-firestore-for-rtdb-developers.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: ' Introducing Cloud Firestore: Our New Document Database for Apps'
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/KDFLvexNBkE/introducing-cloud-firestore.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: Testing Functions Locally with the Cloud Functions Shell
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/Aknbb4w2GHE/testing-functions-locally-with-cloud.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: Sprynt launches eco-friendly, free ridesharing with Firebase
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/vXPshtMIS0Y/sprynt-launches-eco-friendly-free.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: 7 tips for getting the most out of Crashlytics
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/dKZb6YZznhw/7-tips-for-getting-most-out-of.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
   - title: "The #io18 hit game is coming to @DroidconNYC! AppShip will be playable
@@ -5505,6 +5505,115 @@ competition:
     url: https://twitter.com/pusher/status/1006527125464248320
     time_stamp: "2018-06-12 06:22:21"
   latest_github_activity:
+  - title: Gabriel416 commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416403028
+    time_stamp: "2018-08-27"
+    type: IssueCommentEvent
+    user_name: Gabriel416
+    repo: pusher/chatkit-client-js
+  - title: pusher/realtime-visitor-tracker was forked by realtime-visitor-tracker
+    url: ""
+    time_stamp: "2018-08-27"
+    type: ForkEvent
+    user_name: realtime-visitor-tracker
+    repo: pusher/realtime-visitor-tracker
+  - title: pusher/push-notifications-node was forked by push-notifications-node
+    url: ""
+    time_stamp: "2018-08-27"
+    type: ForkEvent
+    user_name: push-notifications-node
+    repo: pusher/push-notifications-node
+  - title: pusher/push-notifications-python was forked by push-notifications-python
+    url: ""
+    time_stamp: "2018-08-27"
+    type: ForkEvent
+    user_name: push-notifications-python
+    repo: pusher/push-notifications-python
+  - title: pusher/push-notifications-php was forked by push-notifications-php
+    url: ""
+    time_stamp: "2018-08-27"
+    type: ForkEvent
+    user_name: push-notifications-php
+    repo: pusher/push-notifications-php
+  - title: pusher/pusher-platform-node was forked by pusher-platform-node
+    url: ""
+    time_stamp: "2018-08-27"
+    type: ForkEvent
+    user_name: pusher-platform-node
+    repo: pusher/pusher-platform-node
+  - title: pusher/chatkit-server-php was forked by chatkit-server-php
+    url: ""
+    time_stamp: "2018-08-27"
+    type: ForkEvent
+    user_name: chatkit-server-php
+    repo: pusher/chatkit-server-php
+  - title: pusher/pusher-http-php was forked by pusher-http-php
+    url: ""
+    time_stamp: "2018-08-27"
+    type: ForkEvent
+    user_name: pusher-http-php
+    repo: pusher/pusher-http-php
+  - title: masoud-moghini commented on an issue for pusher/pusher-http-php
+    url: https://api.github.com/repos/pusher/pusher-http-php/issues/comments/416341738
+    time_stamp: "2018-08-27"
+    type: IssueCommentEvent
+    user_name: masoud-moghini
+    repo: pusher/pusher-http-php
+  - title: pusher/k8s-spot-rescheduler being watched by ElfoLiNk
+    url: ""
+    time_stamp: "2018-08-27"
+    type: WatchEvent
+    user_name: ElfoLiNk
+    repo: pusher/k8s-spot-rescheduler
+  - title: renshaw1 submitted an issue on pusher/chatkit-swift
+    url: https://api.github.com/repos/pusher/chatkit-swift/issues/101
+    time_stamp: "2018-08-27"
+    type: IssuesEvent
+    user_name: renshaw1
+    repo: pusher/chatkit-swift
+  - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit being watched
+      by nucreativa
+    url: ""
+    time_stamp: "2018-08-27"
+    type: WatchEvent
+    user_name: nucreativa
+    repo: pusher/build-a-slack-clone-with-react-and-pusher-c
+  - title: pusher/pusher-js being watched by nisimjoseph
+    url: ""
+    time_stamp: "2018-08-27"
+    type: WatchEvent
+    user_name: nisimjoseph
+    repo: pusher/pusher-js
+  - title: pusher/electron-desktop-starter-template was forked by electron-desktop-starter-template
+    url: ""
+    time_stamp: "2018-08-27"
+    type: ForkEvent
+    user_name: electron-desktop-starter-template
+    repo: pusher/electron-desktop-starter-template
+  - title: pusher/pusher-websocket-java being watched by Unknown2016
+    url: ""
+    time_stamp: "2018-08-27"
+    type: WatchEvent
+    user_name: Unknown2016
+    repo: pusher/pusher-websocket-java
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-08-27"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: kkcodes commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416148792
+    time_stamp: "2018-08-27"
+    type: IssueCommentEvent
+    user_name: kkcodes
+    repo: pusher/chatkit-client-js
+  - title: kkcodes commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416148294
+    time_stamp: "2018-08-27"
+    type: IssueCommentEvent
+    user_name: kkcodes
+    repo: pusher/chatkit-client-js
   - title: DevFlex commented on an issue for pusher/react-slack-clone
     url: https://api.github.com/repos/pusher/react-slack-clone/issues/comments/416084836
     time_stamp: "2018-08-26"
@@ -5541,48 +5650,6 @@ competition:
     type: WatchEvent
     user_name: tioken
     repo: pusher/pusher-js
-  - title: ReaganMcF1059 commented on an issue for pusher/react-slack-clone
-    url: https://api.github.com/repos/pusher/react-slack-clone/issues/comments/415992411
-    time_stamp: "2018-08-25"
-    type: IssueCommentEvent
-    user_name: ReaganMcF1059
-    repo: pusher/react-slack-clone
-  - title: zdexter commented on an issue for pusher/pusher-http-python
-    url: https://api.github.com/repos/pusher/pusher-http-python/issues/comments/415989127
-    time_stamp: "2018-08-25"
-    type: IssueCommentEvent
-    user_name: zdexter
-    repo: pusher/pusher-http-python
-  - title: zdexter submitted an issue on pusher/pusher-http-python
-    url: https://api.github.com/repos/pusher/pusher-http-python/issues/115
-    time_stamp: "2018-08-25"
-    type: IssuesEvent
-    user_name: zdexter
-    repo: pusher/pusher-http-python
-  - title: philipnjuguna66 commented on an issue for pusher/chatkit-server-php
-    url: https://api.github.com/repos/pusher/chatkit-server-php/issues/comments/415952886
-    time_stamp: "2018-08-25"
-    type: IssueCommentEvent
-    user_name: philipnjuguna66
-    repo: pusher/chatkit-server-php
-  - title: ReaganMcF1059 commented on an issue for pusher/react-slack-clone
-    url: https://api.github.com/repos/pusher/react-slack-clone/issues/comments/415992411
-    time_stamp: "2018-08-25"
-    type: IssueCommentEvent
-    user_name: ReaganMcF1059
-    repo: pusher/react-slack-clone
-  - title: zdexter commented on an issue for pusher/pusher-http-python
-    url: https://api.github.com/repos/pusher/pusher-http-python/issues/comments/415989127
-    time_stamp: "2018-08-25"
-    type: IssueCommentEvent
-    user_name: zdexter
-    repo: pusher/pusher-http-python
-  - title: zdexter submitted an issue on pusher/pusher-http-python
-    url: https://api.github.com/repos/pusher/pusher-http-python/issues/115
-    time_stamp: "2018-08-25"
-    type: IssuesEvent
-    user_name: zdexter
-    repo: pusher/pusher-http-python
   latest_reddit_searches:
   - reddit_id: "9"
     title: '[CASIO] My gf gifted me a royale with cheese'
