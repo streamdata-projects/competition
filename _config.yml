@@ -474,6 +474,13 @@ competition:
   latest_tweets: []
   latest_github_activity: []
   latest_reddit_searches:
+  - reddit_id: "9"
+    title: Amazon Prime Music app will no longer allow you to sync music from your
+      ITunes library to your downloaded music on September 30th.
+    url: https://www.reddit.com/r/amazonprime/comments/9aon5f/amazon_prime_music_app_will_no_longer_allow_you/
+    author: Fanofeverythinggood
+    created_date: "2018-08-27"
+    score: "3"
   - reddit_id: "97"
     title: AWS AppSync Adds Quick Start for Amazon Aurora
     url: https://aws.amazon.com/about-aws/whats-new/2018/08/aws-appsync-adds-quick-start-for-amazon-aurora/
@@ -499,6 +506,12 @@ competition:
     author: bennettbuzz
     created_date: "2018-07-24"
     score: "0"
+  - reddit_id: "905"
+    title: No Amazon App Store Update yet??
+    url: https://www.reddit.com/r/FFBraveExvius/comments/905mc3/no_amazon_app_store_update_yet/
+    author: Luke140288
+    created_date: "2018-07-19"
+    score: "1"
   - reddit_id: "8"
     title: New to Kindle
     url: https://www.reddit.com/r/kindle/comments/8svb4o/new_to_kindle/
