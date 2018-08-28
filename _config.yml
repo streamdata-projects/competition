@@ -2787,7 +2787,7 @@ competition:
     and executing a wide range of data processing patterns including ETL, batch computation,
     and continuous computation. Cloud Dataflow frees you from operational tasks like
     resource management and performance optimization.
-  url: https://stackoverflow.com/questions/44646447/singleton-in-google-dataflow
+  url: https://stackoverflow.com/questions/44892571/google-dataflow-firewall-rule-network-tag
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -3064,6 +3064,15 @@ competition:
     created_at: "2014-06-26"
     points: "4"
   latest_stack_exchange_searches:
+  - question_id: "52044349"
+    title: Apache Beam/Google Dataflow PubSub to BigQuery Pipeline Handling Insert
+      Errors and Unexpected Retry Behavior
+    url: https://stackoverflow.com/questions/52044349/apache-beam-google-dataflow-pubsub-to-bigquery-pipeline-handling-insert-errors
+    owner_display_name: HendPro12
+    owner_reputation: "338"
+    owner_link: https://stackoverflow.com/users/1076685/hendpro12
+    creation_date: "2018-08-27"
+    view_count: "28"
   - question_id: "51949270"
     title: Google DataFlow read from Kafka and save to GCS - how to guarantee exactly-once?
     url: https://stackoverflow.com/questions/51949270/google-dataflow-read-from-kafka-and-save-to-gcs-how-to-guarantee-exactly-once
@@ -3261,14 +3270,6 @@ competition:
     owner_link: https://stackoverflow.com/users/4107381/khalid
     creation_date: "2017-07-03"
     view_count: "235"
-  - question_id: "44646447"
-    title: Singleton in Google Dataflow
-    url: https://stackoverflow.com/questions/44646447/singleton-in-google-dataflow
-    owner_display_name: sag
-    owner_reputation: "2205"
-    owner_link: https://stackoverflow.com/users/4057655/sag
-    creation_date: "2017-06-20"
-    view_count: "213"
   tags:
   - Stack Network
   - Service API
