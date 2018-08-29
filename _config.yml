@@ -2277,132 +2277,60 @@ competition:
     url: https://twitter.com/Firebase/status/1029442532139102208
     time_stamp: "2018-08-14 12:00:00"
   latest_github_activity:
-  - title: hiranya911 pushed to firebase/firebase-admin-node
+  - title: hiranya911 pushed to firebase/firebase-admin-go
     url: ""
-    time_stamp: "2018-08-27"
+    time_stamp: "2018-08-28"
     type: PushEvent
     user_name: hiranya911
-    repo: firebase/firebase-admin-node
-  - title: hiranya911 made a pull request on firebase/firebase-admin-node
-    url: https://github.com/firebase/firebase-admin-node/pull/345
-    time_stamp: "2018-08-27"
+    repo: firebase/firebase-admin-go
+  - title: hiranya911 made a pull request on firebase/firebase-admin-go
+    url: https://github.com/firebase/firebase-admin-go/pull/172
+    time_stamp: "2018-08-28"
     type: PullRequestEvent
     user_name: hiranya911
-    repo: firebase/firebase-admin-node
-  - title: DonnaLea submitted an issue on firebase/friendlyeats-ios
-    url: https://api.github.com/repos/firebase/friendlyeats-ios/issues/6
-    time_stamp: "2018-08-27"
-    type: IssuesEvent
-    user_name: DonnaLea
-    repo: firebase/friendlyeats-ios
-  - title: samtstern commented on an issue for firebase/quickstart-android
-    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/416402633
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: samtstern
-    repo: firebase/quickstart-android
-  - title: samtstern submitted an issue on firebase/FirebaseUI-Android
-    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/1418
-    time_stamp: "2018-08-27"
-    type: IssuesEvent
-    user_name: samtstern
-    repo: firebase/FirebaseUI-Android
-  - title: samtstern commented on an issue for firebase/FirebaseUI-Android
-    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/416402512
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: samtstern
-    repo: firebase/FirebaseUI-Android
-  - title: samtstern commented on an issue for firebase/FirebaseUI-Android
-    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/416402320
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: samtstern
-    repo: firebase/FirebaseUI-Android
-  - title: samtstern pushed to firebase/FirebaseUI-Android
+    repo: firebase/firebase-admin-go
+  - title: gsoltis pushed to firebase/firebase-js-sdk
     url: ""
-    time_stamp: "2018-08-27"
+    time_stamp: "2018-08-28"
     type: PushEvent
-    user_name: samtstern
-    repo: firebase/FirebaseUI-Android
-  - title: samtstern made a pull request on firebase/
-    url: https://github.com/firebase/FirebaseUI-Android/pull/1422
-    time_stamp: "2018-08-27"
-    type: PullRequestEvent
-    user_name: samtstern
-    repo: firebase/
-  - title: samtstern made a pull request on firebase/
-    url: https://github.com/firebase/FirebaseUI-Android/pull/1422
-    time_stamp: "2018-08-27"
-    type: PullRequestEvent
-    user_name: samtstern
-    repo: firebase/
-  - title: samtstern made a pull request on firebase/
-    url: https://github.com/firebase/FirebaseUI-Android/pull/1422
-    time_stamp: "2018-08-27"
-    type: PullRequestEvent
-    user_name: samtstern
-    repo: firebase/
-  - title: samtstern commented on an issue for firebase/FirebaseUI-Android
-    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/416400479
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: samtstern
-    repo: firebase/FirebaseUI-Android
-  - title: paulb777 commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/416399825
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: paulb777
-    repo: firebase/firebase-ios-sdk
-  - title: jimijon commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/416397985
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: jimijon
-    repo: firebase/firebase-ios-sdk
-  - title: bojeil-google pushed to firebase/firebase-js-sdk
-    url: ""
-    time_stamp: "2018-08-27"
-    type: PushEvent
-    user_name: bojeil-google
+    user_name: gsoltis
     repo: firebase/firebase-js-sdk
-  - title: bojeil-google made a pull request on firebase/firebase-js-sdk
-    url: https://github.com/firebase/firebase-js-sdk/pull/1171
-    time_stamp: "2018-08-27"
-    type: PullRequestEvent
-    user_name: bojeil-google
-    repo: firebase/firebase-js-sdk
-  - title: SUPERCILEX commented on an issue for firebase/FirebaseUI-Android
-    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/416395458
-    time_stamp: "2018-08-27"
+  - title: firebase/quickstart-java was forked by quickstart-java
+    url: ""
+    time_stamp: "2018-08-28"
+    type: ForkEvent
+    user_name: quickstart-java
+    repo: firebase/quickstart-java
+  - title: googlebot commented on an issue for firebase/firebase-ios-sdk
+    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/416760039
+    time_stamp: "2018-08-28"
     type: IssueCommentEvent
-    user_name: SUPERCILEX
-    repo: firebase/FirebaseUI-Android
-  - title: bojeil-google pushed to firebase/firebase-js-sdk
-    url: ""
-    time_stamp: "2018-08-27"
-    type: PushEvent
-    user_name: bojeil-google
-    repo: firebase/firebase-js-sdk
-  - title: paulb777 pushed to firebase/firebase-ios-sdk
-    url: ""
-    time_stamp: "2018-08-27"
-    type: PushEvent
-    user_name: paulb777
+    user_name: googlebot
     repo: firebase/firebase-ios-sdk
-  - title: paulb777 made a pull request on firebase/firebase-ios-sdk
-    url: https://github.com/firebase/firebase-ios-sdk/pull/1742
-    time_stamp: "2018-08-27"
+  - title: googlebot commented on an issue for firebase/firebase-ios-sdk
+    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/416759868
+    time_stamp: "2018-08-28"
+    type: IssueCommentEvent
+    user_name: googlebot
+    repo: firebase/firebase-ios-sdk
+  - title: hiranya911 pushed to firebase/firebase-admin-dotnet
+    url: ""
+    time_stamp: "2018-08-28"
+    type: PushEvent
+    user_name: hiranya911
+    repo: firebase/firebase-admin-dotnet
+  - title: hiranya911 made a pull request on firebase/firebase-admin-dotnet
+    url: https://github.com/firebase/firebase-admin-dotnet/pull/6
+    time_stamp: "2018-08-28"
     type: PullRequestEvent
-    user_name: paulb777
-    repo: firebase/firebase-ios-sdk
-  - title: paulb777 pushed to firebase/firebase-ios-sdk
+    user_name: hiranya911
+    repo: firebase/firebase-admin-dotnet
+  - title: gsoltis pushed to firebase/firebase-js-sdk
     url: ""
-    time_stamp: "2018-08-27"
+    time_stamp: "2018-08-28"
     type: PushEvent
-    user_name: paulb777
-    repo: firebase/firebase-ios-sdk
+    user_name: gsoltis
+    repo: firebase/firebase-js-sdk
   latest_reddit_searches:
   - reddit_id: "9"
     title: 'fiery-vue: A Typescript/JS library for VueJS and Google Firebase Firestore'
