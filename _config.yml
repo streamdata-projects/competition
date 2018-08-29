@@ -5482,151 +5482,114 @@ competition:
     url: https://twitter.com/pusher/status/1007204619141906432
     time_stamp: "2018-06-14 03:14:28"
   latest_github_activity:
-  - title: Gabriel416 commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416403028
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: Gabriel416
+  - title: callum-oakley made a pull request on pusher/chatkit-client-js
+    url: https://github.com/pusher/chatkit-client-js/pull/97
+    time_stamp: "2018-08-28"
+    type: PullRequestEvent
+    user_name: callum-oakley
     repo: pusher/chatkit-client-js
-  - title: pusher/realtime-visitor-tracker was forked by realtime-visitor-tracker
-    url: ""
-    time_stamp: "2018-08-27"
-    type: ForkEvent
-    user_name: realtime-visitor-tracker
-    repo: pusher/realtime-visitor-tracker
-  - title: pusher/push-notifications-node was forked by push-notifications-node
-    url: ""
-    time_stamp: "2018-08-27"
-    type: ForkEvent
-    user_name: push-notifications-node
-    repo: pusher/push-notifications-node
-  - title: pusher/push-notifications-python was forked by push-notifications-python
-    url: ""
-    time_stamp: "2018-08-27"
-    type: ForkEvent
-    user_name: push-notifications-python
-    repo: pusher/push-notifications-python
-  - title: pusher/push-notifications-php was forked by push-notifications-php
-    url: ""
-    time_stamp: "2018-08-27"
-    type: ForkEvent
-    user_name: push-notifications-php
-    repo: pusher/push-notifications-php
-  - title: pusher/pusher-platform-node was forked by pusher-platform-node
-    url: ""
-    time_stamp: "2018-08-27"
-    type: ForkEvent
-    user_name: pusher-platform-node
-    repo: pusher/pusher-platform-node
-  - title: pusher/chatkit-server-php was forked by chatkit-server-php
-    url: ""
-    time_stamp: "2018-08-27"
-    type: ForkEvent
-    user_name: chatkit-server-php
-    repo: pusher/chatkit-server-php
-  - title: pusher/pusher-http-php was forked by pusher-http-php
-    url: ""
-    time_stamp: "2018-08-27"
-    type: ForkEvent
-    user_name: pusher-http-php
-    repo: pusher/pusher-http-php
-  - title: masoud-moghini commented on an issue for pusher/pusher-http-php
-    url: https://api.github.com/repos/pusher/pusher-http-php/issues/comments/416341738
-    time_stamp: "2018-08-27"
+  - title: callum-oakley commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416628386
+    time_stamp: "2018-08-28"
     type: IssueCommentEvent
-    user_name: masoud-moghini
-    repo: pusher/pusher-http-php
-  - title: pusher/k8s-spot-rescheduler being watched by ElfoLiNk
+    user_name: callum-oakley
+    repo: pusher/chatkit-client-js
+  - title: callum-oakley pushed to pusher/chatkit-client-js
     url: ""
-    time_stamp: "2018-08-27"
-    type: WatchEvent
-    user_name: ElfoLiNk
-    repo: pusher/k8s-spot-rescheduler
-  - title: renshaw1 submitted an issue on pusher/chatkit-swift
-    url: https://api.github.com/repos/pusher/chatkit-swift/issues/101
-    time_stamp: "2018-08-27"
-    type: IssuesEvent
-    user_name: renshaw1
-    repo: pusher/chatkit-swift
-  - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit being watched
-      by nucreativa
-    url: ""
-    time_stamp: "2018-08-27"
-    type: WatchEvent
-    user_name: nucreativa
-    repo: pusher/build-a-slack-clone-with-react-and-pusher-c
-  - title: pusher/pusher-js being watched by nisimjoseph
-    url: ""
-    time_stamp: "2018-08-27"
-    type: WatchEvent
-    user_name: nisimjoseph
-    repo: pusher/pusher-js
-  - title: pusher/electron-desktop-starter-template was forked by electron-desktop-starter-template
-    url: ""
-    time_stamp: "2018-08-27"
-    type: ForkEvent
-    user_name: electron-desktop-starter-template
-    repo: pusher/electron-desktop-starter-template
-  - title: pusher/pusher-websocket-java being watched by Unknown2016
-    url: ""
-    time_stamp: "2018-08-27"
-    type: WatchEvent
-    user_name: Unknown2016
-    repo: pusher/pusher-websocket-java
-  - title: JoelSpeed pushed to pusher/controller-runtime
-    url: ""
-    time_stamp: "2018-08-27"
+    time_stamp: "2018-08-28"
     type: PushEvent
-    user_name: JoelSpeed
-    repo: pusher/controller-runtime
-  - title: kkcodes commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416148792
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: kkcodes
+    user_name: callum-oakley
     repo: pusher/chatkit-client-js
-  - title: kkcodes commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416148294
-    time_stamp: "2018-08-27"
+  - title: yhlong0 commented on an issue for pusher/react-slack-clone
+    url: https://api.github.com/repos/pusher/react-slack-clone/issues/comments/416617856
+    time_stamp: "2018-08-28"
     type: IssueCommentEvent
-    user_name: kkcodes
-    repo: pusher/chatkit-client-js
-  - title: DevFlex commented on an issue for pusher/react-slack-clone
-    url: https://api.github.com/repos/pusher/react-slack-clone/issues/comments/416084836
-    time_stamp: "2018-08-26"
-    type: IssueCommentEvent
-    user_name: DevFlex
+    user_name: yhlong0
     repo: pusher/react-slack-clone
-  - title: Gabriel416 commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416080750
-    time_stamp: "2018-08-26"
-    type: IssueCommentEvent
-    user_name: Gabriel416
-    repo: pusher/chatkit-client-js
-  - title: Gabriel416 commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416080586
-    time_stamp: "2018-08-26"
-    type: IssueCommentEvent
-    user_name: Gabriel416
-    repo: pusher/chatkit-client-js
-  - title: Gabriel416 submitted an issue on pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/96
-    time_stamp: "2018-08-26"
-    type: IssuesEvent
-    user_name: Gabriel416
-    repo: pusher/chatkit-client-js
-  - title: pusher/react-slack-clone being watched by ms
+  - title: pusher/k8s-auth-example being watched by sirhopcount
     url: ""
-    time_stamp: "2018-08-26"
+    time_stamp: "2018-08-28"
     type: WatchEvent
-    user_name: ms
-    repo: pusher/react-slack-clone
-  - title: pusher/pusher-js being watched by tioken
+    user_name: sirhopcount
+    repo: pusher/k8s-auth-example
+  - title: callum-oakley pushed to pusher/chatkit-client-js
     url: ""
-    time_stamp: "2018-08-26"
+    time_stamp: "2018-08-28"
+    type: PushEvent
+    user_name: callum-oakley
+    repo: pusher/chatkit-client-js
+  - title: callum-oakley pushed to pusher/chatkit-client-js
+    url: ""
+    time_stamp: "2018-08-28"
+    type: PushEvent
+    user_name: callum-oakley
+    repo: pusher/chatkit-client-js
+  - title: pusher/pusher-js being watched by DIOGORA
+    url: ""
+    time_stamp: "2018-08-28"
     type: WatchEvent
-    user_name: tioken
+    user_name: DIOGORA
     repo: pusher/pusher-js
+  - title: pusher/pusher-js was forked by pusher-js
+    url: ""
+    time_stamp: "2018-08-28"
+    type: ForkEvent
+    user_name: pusher-js
+    repo: pusher/pusher-js
+  - title: pusher/pusher-http-php being watched by otienog1
+    url: ""
+    time_stamp: "2018-08-28"
+    type: WatchEvent
+    user_name: otienog1
+    repo: pusher/pusher-http-php
+  - title: pusher/react-slack-clone being watched by Jae-kwang
+    url: ""
+    time_stamp: "2018-08-28"
+    type: WatchEvent
+    user_name: Jae-kwang
+    repo: pusher/react-slack-clone
+  - title: Gabriel416 commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/416774423
+    time_stamp: "2018-08-28"
+    type: IssueCommentEvent
+    user_name: Gabriel416
+    repo: pusher/chatkit-client-js
+  - title: Fyb3roptik commented on an issue for pusher/pusher-js
+    url: https://api.github.com/repos/pusher/pusher-js/issues/comments/416735525
+    time_stamp: "2018-08-28"
+    type: IssueCommentEvent
+    user_name: Fyb3roptik
+    repo: pusher/pusher-js
+  - title: pusher/react-slack-clone being watched by torianBr
+    url: ""
+    time_stamp: "2018-08-28"
+    type: WatchEvent
+    user_name: torianBr
+    repo: pusher/react-slack-clone
+  - title: emilkarl submitted an issue on pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/89
+    time_stamp: "2018-08-28"
+    type: IssuesEvent
+    user_name: emilkarl
+    repo: pusher/push-notifications-swift
+  - title: Fyb3roptik submitted an issue on pusher/pusher-js
+    url: https://api.github.com/repos/pusher/pusher-js/issues/299
+    time_stamp: "2018-08-28"
+    type: IssuesEvent
+    user_name: Fyb3roptik
+    repo: pusher/pusher-js
+  - title: kneeki submitted an issue on pusher/chatkit-server-php
+    url: https://api.github.com/repos/pusher/chatkit-server-php/issues/32
+    time_stamp: "2018-08-28"
+    type: IssuesEvent
+    user_name: kneeki
+    repo: pusher/chatkit-server-php
+  - title: pusher/pusher-http-php being watched by danielme85
+    url: ""
+    time_stamp: "2018-08-28"
+    type: WatchEvent
+    user_name: danielme85
+    repo: pusher/pusher-http-php
   latest_reddit_searches:
   - reddit_id: "9"
     title: '[EVENT] Double troop event with clan games'
