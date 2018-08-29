@@ -2744,6 +2744,13 @@ competition:
   latest_tweets: []
   latest_github_activity: []
   latest_reddit_searches:
+  - reddit_id: "9"
+    title: 'Regulators should understand economic value of seamless data flow: Google''s
+      Caesar Sengupta'
+    url: https://m.economictimes.com/tech/internet/regulators-should-understand-economic-value-of-seamless-data-flow-googles-caesar-sengupta/articleshow/65588708.cms
+    author: laserlikebot
+    created_date: "2018-08-29"
+    score: "2"
   - reddit_id: "92"
     title: QUIC
     url: https://www.reddit.com/r/networking/comments/92b0n0/quic/
@@ -2803,6 +2810,13 @@ competition:
     author: elfof4sky
     created_date: "2017-11-21"
     score: "6"
+  - reddit_id: "7"
+    title: What are some of the technical questions that Google asks during a Product
+      Management job interview?
+    url: https://www.reddit.com/r/ProductManagement/comments/7an4or/what_are_some_of_the_technical_questions_that/
+    author: bijansha
+    created_date: "2017-11-04"
+    score: "9"
   - reddit_id: "78"
     title: "@VentureBeat: RT @golkeepr22: @google 's Jeff Dean open sourcing
       @TensorFlow allows users to keep proprietary data in-house and still take advant...
@@ -5283,7 +5297,7 @@ competition:
   name: Pusher
   description: Pusher empowers developer with API to create collaboration & communication
     features in their web and mobile apps.
-  url: https://stackoverflow.com/questions/51158424/pusher-chatkit-in-vue-onnewmessage-hook-triggered-twice
+  url: https://stackoverflow.com/questions/51176449/pusher-cant-trigger-an-event-in-codeigniter
   email: info@pusher.com
   blog_url: http://blog.pusher.com/
   blog_rss_url: http://feeds.feedburner.com/pusherb
@@ -5872,6 +5886,14 @@ competition:
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "52078215"
+    title: laravel 5.7 + vue.js 2 + laravel echo + pusher, how to make them work together?
+    url: https://stackoverflow.com/questions/52078215/laravel-5-7-vue-js-2-laravel-echo-pusher-how-to-make-them-work-together
+    owner_display_name: Dimitar
+    owner_reputation: "445"
+    owner_link: https://stackoverflow.com/users/1315174/dimitar
+    creation_date: "2018-08-29"
+    view_count: "28"
   - question_id: "51969901"
     title: Laravel Pusher to Echo not work when database as the queue driver
     url: https://stackoverflow.com/questions/51969901/laravel-pusher-to-echo-not-work-when-database-as-the-queue-driver
@@ -6066,14 +6088,6 @@ competition:
     owner_link: https://stackoverflow.com/users/5127620/sobia-safdar
     creation_date: "2018-07-04"
     view_count: "29"
-  - question_id: "51158424"
-    title: Pusher Chatkit in Vue - onNewMessage hook triggered twice?
-    url: https://stackoverflow.com/questions/51158424/pusher-chatkit-in-vue-onnewmessage-hook-triggered-twice
-    owner_display_name: KasparTr
-    owner_reputation: "451"
-    owner_link: https://stackoverflow.com/users/2984127/kaspartr
-    creation_date: "2018-07-03"
-    view_count: "30"
   tags:
   - WebSockets
   - Technology
