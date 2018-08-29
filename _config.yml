@@ -4604,66 +4604,60 @@ competition:
     url: https://twitter.com/PubNub/status/1024715097241878528
     time_stamp: "2018-08-01 10:54:52"
   latest_github_activity:
-  - title: pubnub/LeapMotionServoBots being watched by kaolalong
-    url: ""
-    time_stamp: "2018-08-27"
-    type: WatchEvent
-    user_name: kaolalong
-    repo: pubnub/LeapMotionServoBots
-  - title: captainkerk commented on an issue for pubnub/ruby
-    url: https://api.github.com/repos/pubnub/ruby/issues/comments/416381466
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: captainkerk
+  - title: madisonsmith made a pull request on pubnub/ruby
+    url: https://github.com/pubnub/ruby/pull/73
+    time_stamp: "2018-08-28"
+    type: PullRequestEvent
+    user_name: madisonsmith
     repo: pubnub/ruby
-  - title: pubnub/go being watched by udhos
+  - title: ManuelFernando made a pull request on pubnub/chat-engine
+    url: https://github.com/pubnub/chat-engine/pull/391
+    time_stamp: "2018-08-28"
+    type: PullRequestEvent
+    user_name: ManuelFernando
+    repo: pubnub/chat-engine
+  - title: madisonsmith pushed to pubnub/ruby
     url: ""
-    time_stamp: "2018-08-27"
-    type: WatchEvent
-    user_name: udhos
-    repo: pubnub/go
-  - title: pubnub/c-core being watched by tango-oscar
-    url: ""
-    time_stamp: "2018-08-27"
-    type: WatchEvent
-    user_name: tango-oscar
-    repo: pubnub/c-core
-  - title: vveljko pushed to pubnub/arduino
-    url: ""
-    time_stamp: "2018-08-27"
+    time_stamp: "2018-08-28"
     type: PushEvent
-    user_name: vveljko
-    repo: pubnub/arduino
-  - title: vveljko made a pull request on pubnub/arduino
-    url: https://github.com/pubnub/arduino/pull/21
-    time_stamp: "2018-08-27"
+    user_name: madisonsmith
+    repo: pubnub/ruby
+  - title: madisonsmith pushed to pubnub/ruby
+    url: ""
+    time_stamp: "2018-08-28"
+    type: PushEvent
+    user_name: madisonsmith
+    repo: pubnub/ruby
+  - title: madisonsmith made a pull request on pubnub/ruby
+    url: https://github.com/pubnub/ruby/pull/72
+    time_stamp: "2018-08-28"
     type: PullRequestEvent
-    user_name: vveljko
-    repo: pubnub/arduino
-  - title: vveljko commented on an issue for pubnub/arduino
-    url: https://api.github.com/repos/pubnub/arduino/issues/comments/416225524
-    time_stamp: "2018-08-27"
+    user_name: madisonsmith
+    repo: pubnub/ruby
+  - title: parfeon pushed to pubnub/chat-engine-apple
+    url: ""
+    time_stamp: "2018-08-28"
+    type: PushEvent
+    user_name: parfeon
+    repo: pubnub/chat-engine-apple
+  - title: parasyte commented on an issue for pubnub/git-sync
+    url: https://api.github.com/repos/pubnub/git-sync/issues/comments/416751807
+    time_stamp: "2018-08-28"
     type: IssueCommentEvent
-    user_name: vveljko
-    repo: pubnub/arduino
-  - title: vveljko submitted an issue on pubnub/arduino
-    url: https://api.github.com/repos/pubnub/arduino/issues/20
-    time_stamp: "2018-08-27"
-    type: IssuesEvent
-    user_name: vveljko
-    repo: pubnub/arduino
-  - title: vveljko commented on an issue for pubnub/arduino
-    url: https://api.github.com/repos/pubnub/arduino/issues/comments/416224877
-    time_stamp: "2018-08-27"
-    type: IssueCommentEvent
-    user_name: vveljko
-    repo: pubnub/arduino
-  - title: qsoftdevelopment made a pull request on pubnub/java
-    url: https://github.com/pubnub/java/pull/128
-    time_stamp: "2018-08-27"
+    user_name: parasyte
+    repo: pubnub/git-sync
+  - title: diericx pushed to pubnub/git-sync
+    url: ""
+    time_stamp: "2018-08-28"
+    type: PushEvent
+    user_name: diericx
+    repo: pubnub/git-sync
+  - title: diericx made a pull request on pubnub/git-sync
+    url: https://github.com/pubnub/git-sync/pull/1
+    time_stamp: "2018-08-28"
     type: PullRequestEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
+    user_name: diericx
+    repo: pubnub/git-sync
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
