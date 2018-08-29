@@ -2176,6 +2176,14 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "The @googlephotos team uses Firebase to power key features &amp; gain
+      insight into their app's performance. Firebase Dy... https://t.co/IgCjXxO5hN"
+    url: https://twitter.com/Firebase/status/1034572325902069760
+    time_stamp: "2018-08-28 15:43:58"
+  - title: 'Firebase is on the showroom floor at #PAXDev! Come by the booth for swag
+      and all things Firebase. https://t.co/YUCOSZgNCn'
+    url: https://twitter.com/Firebase/status/1034507274285404161
+    time_stamp: "2018-08-28 11:25:29"
   - title: "RT @asciimike: Do you use @googlecloud or @Firebase #Functions? Have a
       use case for workflow engines like @awscloud #StepFunctions, @Azure..."
     url: https://twitter.com/Firebase/status/1034222596017938432
@@ -2268,14 +2276,6 @@ competition:
       guest expert Tyler Rockwood shows us how t... https://t.co/4Wr2RMndW3"
     url: https://twitter.com/Firebase/status/1029820402187399169
     time_stamp: "2018-08-15 13:01:31"
-  - title: "We're always looking for ways to improve Firebase. One example: a question
-      on this week's #AskFirebase got us talki... https://t.co/If82dJxjWr"
-    url: https://twitter.com/Firebase/status/1029800646982156290
-    time_stamp: "2018-08-15 11:43:01"
-  - title: "As the industry becomes more diverse, there's more opportunity for everyone.
-      These changes inspire dev... https://t.co/endoP5BCFi"
-    url: https://twitter.com/Firebase/status/1029442532139102208
-    time_stamp: "2018-08-14 12:00:00"
   latest_github_activity:
   - title: hiranya911 pushed to firebase/firebase-admin-go
     url: ""
@@ -3514,6 +3514,19 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17868894"
+    title: '''I hate them'' Locals reportedly frustrated with Alphabet''s self-driving
+      cars'
+    url: https://www.cnbc.com/2018/08/28/locals-reportedly-frustrated-with-alphabets-waymo-self-driving-cars.html
+    author: weblaunches
+    created_at: "2018-08-29"
+    points: "0"
+  - hacker_news_id: "17862683"
+    title: How the Dutch created a casual biking culture
+    url: https://www.vox.com/science-and-health/2018/8/28/17789510/bike-cycling-netherlands-dutch-infrastructure
+    author: weblaunches
+    created_at: "2018-08-28"
+    points: "0"
   - hacker_news_id: "17852187"
     title: "Google's Jeff Dean's undergrad senior thesis on neural networks
       (1990) [pdf]"
@@ -3653,18 +3666,6 @@ competition:
     author: weblaunches
     created_at: "2012-08-04"
     points: "1"
-  - hacker_news_id: "4215668"
-    title: WebSocket is great But not the origin policy
-    url: http://learnitcorrect.com/blog/websocket-is-great-but-not-the-origin-policy.html
-    author: weblaunches
-    created_at: "2012-07-08"
-    points: "1"
-  - hacker_news_id: "4136894"
-    title: 'WebSocket Acceleration Startup Kaazing Raises $17M For Real-Time Communications '
-    url: http://techcrunch.com/2012/06/20/kaazing-17-million/
-    author: weblaunches
-    created_at: "2012-06-20"
-    points: "2"
   latest_stack_exchange_searches:
   - question_id: "47058356"
     title: How catch reseane of closed connection with Kaazing Websocket gatway
@@ -5372,6 +5373,10 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "Learn how to build en emotion recognition application using @TensorFlow
+      and @vuejs by @OgundipeOre... https://t.co/voo8i2o21p"
+    url: https://twitter.com/pusher/status/1034495330530648064
+    time_stamp: "2018-08-28 10:38:01"
   - title: "This tutorial by @gideon_onwuka demonstrates how to build live table using
       Flask. #Python \n\nhttps://t.co/r3NT5mexMJ"
     url: https://twitter.com/pusher/status/1034146661998551040
@@ -5471,10 +5476,6 @@ competition:
       by Anya Zenkina from @pusher https://t.co/GWKZa8E7By\n\nWhen did you..."
     url: https://twitter.com/pusher/status/1008978222837616640
     time_stamp: "2018-06-19 00:42:08"
-  - title: "RT @KotlinCommConf: There's @zmarkan in the Elvis Room, and then there
-      are #kotlin, #DSL, and a lot of people paying attention! @pusher #kc..."
-    url: https://twitter.com/pusher/status/1007204619141906432
-    time_stamp: "2018-06-14 03:14:28"
   latest_github_activity:
   - title: callum-oakley made a pull request on pusher/chatkit-client-js
     url: https://github.com/pusher/chatkit-client-js/pull/97
