@@ -4230,6 +4230,12 @@ competition:
     author: Wildfire2044
     created_date: "2018-05-16"
     score: "23335"
+  - reddit_id: "8"
+    title: IRL streamer hits a light pole while driving
+    url: https://clips.twitch.tv/BreakableLongBisonBabyRage
+    author: Inclusive1
+    created_date: "2018-04-12"
+    score: "386"
   - reddit_id: "7"
     title: OMG this is Hight Light streamers
     url: https://www.youtube.com/watch?v=OFz3tJeEVuI
@@ -4305,12 +4311,6 @@ competition:
     author: btlyger
     created_date: "2014-01-02"
     score: "6"
-  - reddit_id: "1"
-    title: 4 Minute+ ads making Streams Unwatchable
-    url: https://www.reddit.com/r/Twitch/comments/1u8wvf/4_minute_ads_making_streams_unwatchable/
-    author: btlyger
-    created_date: "2014-01-02"
-    score: "1"
   latest_hacker_news_searches:
   - hacker_news_id: "2744690"
     title: 10 Years of Push Technology, Comet, and WebSockets
