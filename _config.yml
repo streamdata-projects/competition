@@ -2277,60 +2277,144 @@ competition:
     url: https://twitter.com/Firebase/status/1029820402187399169
     time_stamp: "2018-08-15 13:01:31"
   latest_github_activity:
-  - title: hiranya911 pushed to firebase/firebase-admin-go
-    url: ""
-    time_stamp: "2018-08-28"
-    type: PushEvent
-    user_name: hiranya911
-    repo: firebase/firebase-admin-go
-  - title: hiranya911 made a pull request on firebase/firebase-admin-go
-    url: https://github.com/firebase/firebase-admin-go/pull/172
-    time_stamp: "2018-08-28"
-    type: PullRequestEvent
-    user_name: hiranya911
-    repo: firebase/firebase-admin-go
   - title: gsoltis pushed to firebase/firebase-js-sdk
     url: ""
-    time_stamp: "2018-08-28"
+    time_stamp: "2018-08-29"
     type: PushEvent
     user_name: gsoltis
     repo: firebase/firebase-js-sdk
-  - title: firebase/quickstart-java was forked by quickstart-java
+  - title: firebase/functions-samples being watched by generic-github-user
     url: ""
-    time_stamp: "2018-08-28"
+    time_stamp: "2018-08-29"
+    type: WatchEvent
+    user_name: generic-github-user
+    repo: firebase/functions-samples
+  - title: paulb777 commented on an issue for firebase/firebase-ios-sdk
+    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/417138125
+    time_stamp: "2018-08-29"
+    type: IssueCommentEvent
+    user_name: paulb777
+    repo: firebase/firebase-ios-sdk
+  - title: firebase/firebase-admin-dotnet was forked by firebase-admin-dotnet
+    url: ""
+    time_stamp: "2018-08-29"
     type: ForkEvent
-    user_name: quickstart-java
-    repo: firebase/quickstart-java
-  - title: googlebot commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/416760039
-    time_stamp: "2018-08-28"
-    type: IssueCommentEvent
-    user_name: googlebot
-    repo: firebase/firebase-ios-sdk
-  - title: googlebot commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/416759868
-    time_stamp: "2018-08-28"
-    type: IssueCommentEvent
-    user_name: googlebot
-    repo: firebase/firebase-ios-sdk
-  - title: hiranya911 pushed to firebase/firebase-admin-dotnet
-    url: ""
-    time_stamp: "2018-08-28"
-    type: PushEvent
-    user_name: hiranya911
+    user_name: firebase-admin-dotnet
     repo: firebase/firebase-admin-dotnet
-  - title: hiranya911 made a pull request on firebase/firebase-admin-dotnet
-    url: https://github.com/firebase/firebase-admin-dotnet/pull/6
-    time_stamp: "2018-08-28"
+  - title: wti806 pushed to firebase/firebaseui-web
+    url: ""
+    time_stamp: "2018-08-29"
+    type: PushEvent
+    user_name: wti806
+    repo: firebase/firebaseui-web
+  - title: wti806 made a pull request on firebase/firebaseui-web
+    url: https://github.com/firebase/firebaseui-web/pull/493
+    time_stamp: "2018-08-29"
     type: PullRequestEvent
+    user_name: wti806
+    repo: firebase/firebaseui-web
+  - title: var-const pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-08-29"
+    type: PushEvent
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
+  - title: var-const made a pull request on firebase/firebase-ios-sdk
+    url: https://github.com/firebase/firebase-ios-sdk/pull/1765
+    time_stamp: "2018-08-29"
+    type: PullRequestEvent
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
+  - title: firebase/firebase-ios-sdk being watched by Marcopohlo
+    url: ""
+    time_stamp: "2018-08-29"
+    type: WatchEvent
+    user_name: Marcopohlo
+    repo: firebase/firebase-ios-sdk
+  - title: hiranya911 commented on an issue for firebase/firebase-admin-dotnet
+    url: https://api.github.com/repos/firebase/firebase-admin-dotnet/issues/comments/417130490
+    time_stamp: "2018-08-29"
+    type: IssueCommentEvent
     user_name: hiranya911
     repo: firebase/firebase-admin-dotnet
-  - title: gsoltis pushed to firebase/firebase-js-sdk
+  - title: firebase/quickstart-js being watched by seanhaufler
     url: ""
-    time_stamp: "2018-08-28"
-    type: PushEvent
-    user_name: gsoltis
-    repo: firebase/firebase-js-sdk
+    time_stamp: "2018-08-29"
+    type: WatchEvent
+    user_name: seanhaufler
+    repo: firebase/quickstart-js
+  - title: samtstern submitted an issue on firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/456
+    time_stamp: "2018-08-29"
+    type: IssuesEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern submitted an issue on firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/219
+    time_stamp: "2018-08-29"
+    type: IssuesEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern commented on an issue for firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/comments/417128258
+    time_stamp: "2018-08-29"
+    type: IssueCommentEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern submitted an issue on firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/233
+    time_stamp: "2018-08-29"
+    type: IssuesEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern commented on an issue for firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/comments/417127825
+    time_stamp: "2018-08-29"
+    type: IssueCommentEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern submitted an issue on firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/393
+    time_stamp: "2018-08-29"
+    type: IssuesEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern commented on an issue for firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/comments/417127439
+    time_stamp: "2018-08-29"
+    type: IssueCommentEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern submitted an issue on firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/434
+    time_stamp: "2018-08-29"
+    type: IssuesEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern commented on an issue for firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/comments/417126705
+    time_stamp: "2018-08-29"
+    type: IssueCommentEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern submitted an issue on firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/431
+    time_stamp: "2018-08-29"
+    type: IssuesEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern commented on an issue for firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/comments/417126540
+    time_stamp: "2018-08-29"
+    type: IssueCommentEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
+  - title: samtstern submitted an issue on firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/443
+    time_stamp: "2018-08-29"
+    type: IssuesEvent
+    user_name: samtstern
+    repo: firebase/functions-samples
   latest_reddit_searches:
   - reddit_id: "9"
     title: 'fiery-vue: A Typescript/JS library for VueJS and Google Firebase Firestore'
