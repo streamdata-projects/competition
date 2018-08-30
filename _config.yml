@@ -4703,60 +4703,48 @@ competition:
     url: https://twitter.com/PubNub/status/1024715097241878528
     time_stamp: "2018-08-01 10:54:52"
   latest_github_activity:
-  - title: madisonsmith made a pull request on pubnub/ruby
-    url: https://github.com/pubnub/ruby/pull/73
-    time_stamp: "2018-08-28"
-    type: PullRequestEvent
-    user_name: madisonsmith
-    repo: pubnub/ruby
+  - title: pubnub/webrtc-chat being watched by peter-sharp
+    url: ""
+    time_stamp: "2018-08-30"
+    type: WatchEvent
+    user_name: peter-sharp
+    repo: pubnub/webrtc-chat
+  - title: ManuelFernando pushed to pubnub/chat-engine
+    url: ""
+    time_stamp: "2018-08-29"
+    type: PushEvent
+    user_name: ManuelFernando
+    repo: pubnub/chat-engine
   - title: ManuelFernando made a pull request on pubnub/chat-engine
     url: https://github.com/pubnub/chat-engine/pull/391
-    time_stamp: "2018-08-28"
+    time_stamp: "2018-08-29"
     type: PullRequestEvent
     user_name: ManuelFernando
     repo: pubnub/chat-engine
-  - title: madisonsmith pushed to pubnub/ruby
-    url: ""
-    time_stamp: "2018-08-28"
-    type: PushEvent
-    user_name: madisonsmith
-    repo: pubnub/ruby
-  - title: madisonsmith pushed to pubnub/ruby
-    url: ""
-    time_stamp: "2018-08-28"
-    type: PushEvent
-    user_name: madisonsmith
-    repo: pubnub/ruby
-  - title: madisonsmith made a pull request on pubnub/ruby
-    url: https://github.com/pubnub/ruby/pull/72
-    time_stamp: "2018-08-28"
-    type: PullRequestEvent
-    user_name: madisonsmith
-    repo: pubnub/ruby
-  - title: parfeon pushed to pubnub/chat-engine-apple
-    url: ""
-    time_stamp: "2018-08-28"
-    type: PushEvent
+  - title: parfeon commented on an issue for pubnub/chat-engine-apple
+    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/417123007
+    time_stamp: "2018-08-29"
+    type: IssueCommentEvent
     user_name: parfeon
     repo: pubnub/chat-engine-apple
-  - title: parasyte commented on an issue for pubnub/git-sync
-    url: https://api.github.com/repos/pubnub/git-sync/issues/comments/416751807
-    time_stamp: "2018-08-28"
+  - title: nishith-pubnub commented on an issue for pubnub/chat-engine-apple
+    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/417122333
+    time_stamp: "2018-08-29"
     type: IssueCommentEvent
-    user_name: parasyte
-    repo: pubnub/git-sync
-  - title: diericx pushed to pubnub/git-sync
+    user_name: nishith-pubnub
+    repo: pubnub/chat-engine-apple
+  - title: pubnub/SimpleRTC being watched by gideondsouza
     url: ""
-    time_stamp: "2018-08-28"
-    type: PushEvent
-    user_name: diericx
-    repo: pubnub/git-sync
-  - title: diericx made a pull request on pubnub/git-sync
-    url: https://github.com/pubnub/git-sync/pull/1
-    time_stamp: "2018-08-28"
-    type: PullRequestEvent
-    user_name: diericx
-    repo: pubnub/git-sync
+    time_stamp: "2018-08-29"
+    type: WatchEvent
+    user_name: gideondsouza
+    repo: pubnub/SimpleRTC
+  - title: pubnub/SimpleRTC being watched by pawlaczyk
+    url: ""
+    time_stamp: "2018-08-29"
+    type: WatchEvent
+    user_name: pawlaczyk
+    repo: pubnub/SimpleRTC
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
