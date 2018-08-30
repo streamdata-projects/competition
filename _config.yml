@@ -443,6 +443,7 @@ competition:
     creation_date: "2018-07-30"
     view_count: "31"
   tags:
+  - Webhook Implementations
   - Technology
   - SDIO Competition
   - SaaS
@@ -5231,6 +5232,7 @@ competition:
     creation_date: "2016-06-15"
     view_count: "257"
   tags:
+  - Webhook Implementations
   - Technology
   - Stack Network
   - SDIO Competition
@@ -6170,6 +6172,7 @@ competition:
     view_count: "29"
   tags:
   - WebSockets
+  - Webhook Implementations
   - Technology
   - Stack Network
   - SDIO Competition
