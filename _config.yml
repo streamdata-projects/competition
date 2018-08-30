@@ -2176,6 +2176,14 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Best practices, exciting announcements &amp; direct feedback from the
+      community. Firebaser @MKrilanovich can't wait to... https://t.co/BQSsjZhgdr"
+    url: https://twitter.com/Firebase/status/1034918729048444928
+    time_stamp: "2018-08-29 14:40:27"
+  - title: "Make sure to stick around for @_davideast's talk at @360iDev. He'll
+      be talking about ML in human terms, less \u201Clogis... https://t.co/bEyGAvZ4p8"
+    url: https://twitter.com/Firebase/status/1034881225603698688
+    time_stamp: "2018-08-29 12:11:26"
   - title: "The @googlephotos team uses Firebase to power key features &amp; gain
       insight into their app's performance. Firebase Dy... https://t.co/IgCjXxO5hN"
     url: https://twitter.com/Firebase/status/1034572325902069760
@@ -2268,14 +2276,6 @@ competition:
       covers how the Rules work and walks thro... https://t.co/VWg2wdEU7d"
     url: https://twitter.com/Firebase/status/1030562620976316417
     time_stamp: "2018-08-17 14:10:50"
-  - title: "A new way to engage your users, Crashlytics integrations, an updated Firebase
-      console, and more!\n\nRead our round-up... https://t.co/DdFFpMAcjs"
-    url: https://twitter.com/Firebase/status/1030128280773517315
-    time_stamp: "2018-08-16 09:24:55"
-  - title: "Learn how to debug the Realtime Database like a Pro! Totally-not-a-robot
-      guest expert Tyler Rockwood shows us how t... https://t.co/4Wr2RMndW3"
-    url: https://twitter.com/Firebase/status/1029820402187399169
-    time_stamp: "2018-08-15 13:01:31"
   latest_github_activity:
   - title: gsoltis pushed to firebase/firebase-js-sdk
     url: ""
