@@ -2177,6 +2177,10 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Firebase and @fabric joined forces to give developers the tools they need
+      to build great apps. @codingdoug and... https://t.co/6ZYHwX7FSW"
+    url: https://twitter.com/Firebase/status/1035206266967261184
+    time_stamp: "2018-08-30 09:43:01"
   - title: "Best practices, exciting announcements &amp; direct feedback from the
       community. Firebaser @MKrilanovich can't wait to... https://t.co/BQSsjZhgdr"
     url: https://twitter.com/Firebase/status/1034918729048444928
@@ -2273,10 +2277,6 @@ competition:
       #Security Rules in which I:\n - Validate data types\n - Implement Rol..."
     url: https://twitter.com/Firebase/status/1031576589752913921
     time_stamp: "2018-08-20 09:19:59"
-  - title: "Dive deep into Security Rules with a dev who helped build them. @asciimike
-      covers how the Rules work and walks thro... https://t.co/VWg2wdEU7d"
-    url: https://twitter.com/Firebase/status/1030562620976316417
-    time_stamp: "2018-08-17 14:10:50"
   latest_github_activity:
   - title: adelespinasse commented on an issue for firebase/firebaseui-web
     url: https://api.github.com/repos/firebase/firebaseui-web/issues/comments/417503930
@@ -5479,6 +5479,10 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "We are on the look out for a Senior Platform Engineer to join our #London
+      team. Apply here \U0001F449https://t.co/tHc8DPV3hE"
+    url: https://twitter.com/pusher/status/1035520081998934016
+    time_stamp: "2018-08-31 06:30:01"
   - title: "Learn how to build en emotion recognition application using @TensorFlow
       and @vuejs by @OgundipeOre... https://t.co/voo8i2o21p"
     url: https://twitter.com/pusher/status/1034495330530648064
@@ -5578,10 +5582,6 @@ competition:
       Channels! 13 zeroes. My buddy @MrJamesFisher explains what went i..."
     url: https://twitter.com/pusher/status/1009027509470552064
     time_stamp: "2018-06-19 03:57:59"
-  - title: "RT @Code_LikeAGirl: \u201CHow I learnt I was born to be a Software Engineer\u201D
-      by Anya Zenkina from @pusher https://t.co/GWKZa8E7By\n\nWhen did you..."
-    url: https://twitter.com/pusher/status/1008978222837616640
-    time_stamp: "2018-06-19 00:42:08"
   latest_github_activity:
   - title: JoelSpeed pushed to pusher/controller-runtime
     url: ""
