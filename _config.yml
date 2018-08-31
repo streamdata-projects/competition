@@ -3589,6 +3589,25 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17878577"
+    title: Asian-American Students Suing Harvard Over Admissions Win Justice Dept.
+      Support
+    url: https://www.nytimes.com/2018/08/30/us/politics/asian-students-affirmative-action-harvard.html
+    author: weblaunches
+    created_at: "2018-08-30"
+    points: "0"
+  - hacker_news_id: "17882144"
+    title: Viewtron
+    url: https://en.wikipedia.org/wiki/Viewtron
+    author: weblaunches
+    created_at: "2018-08-30"
+    points: "0"
+  - hacker_news_id: "17879863"
+    title: LEGO built a life-size, drivable Bugatti from over a million Technic pieces
+    url: https://www.lego.com/en-us/aboutus/news-room/2018/august/technic-bugatti-chiron-build-for-real/
+    author: weblaunches
+    created_at: "2018-08-30"
+    points: "0"
   - hacker_news_id: "17868894"
     title: '''I hate them'' Locals reportedly frustrated with Alphabet''s self-driving
       cars'
@@ -3722,24 +3741,6 @@ competition:
     url: http://www.dataart.com/software-development-company/news/dataart-and-kaazing-partner-to-deliver-real-time-mobile-financial-applications
     author: weblaunches
     created_at: "2013-06-27"
-    points: "1"
-  - hacker_news_id: "5509969"
-    title: Show HN Remote Control Car with Raspberry Pi, Websockets, JMS,
-    url: http://blog.kaazing.com/2013/04/01/remote-controlling-a-car-over-the-web-ingredients-smartphone-websocket-and-raspberry-pi/
-    author: weblaunches
-    created_at: "2013-04-07"
-    points: "1"
-  - hacker_news_id: "4673373"
-    title: What's left for HTML5?
-    url: http://www.sdtimes.com/WHAT_S_LEFT_FOR_HTML5_/By_Alex_Handy/About_HTML5_and_KAAZING_and_YOYOGAMES/37083
-    author: weblaunches
-    created_at: "2012-10-19"
-    points: "2"
-  - hacker_news_id: "4337857"
-    title: Asa Kazingmei Winter/Festive 2012
-    url: http://www.glamourgoddessfashion.com/archives/56075
-    author: weblaunches
-    created_at: "2012-08-04"
     points: "1"
   latest_stack_exchange_searches:
   - question_id: "47058356"
@@ -4916,6 +4917,12 @@ competition:
     author: ToeJamson
     created_date: "2014-03-07"
     score: "95"
+  - reddit_id: "1"
+    title: How PubNub is different than WebSockets
+    url: http://www.pubnub.com/blog/how-pubnub-is-different-than-websockets/
+    author: ToeJamson
+    created_date: "2013-09-19"
+    score: "0"
   latest_hacker_news_searches:
   - hacker_news_id: "17811423"
     title: Build a Multiplayer Game in Golang with PubNub
