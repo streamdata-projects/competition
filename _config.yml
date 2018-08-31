@@ -4680,48 +4680,90 @@ competition:
     url: https://twitter.com/PubNub/status/1024715097241878528
     time_stamp: "2018-08-01 10:54:52"
   latest_github_activity:
+  - title: codecov-io commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417575030
+    time_stamp: "2018-08-31"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: pubnub/go
   - title: pubnub/webrtc-chat being watched by peter-sharp
     url: ""
     time_stamp: "2018-08-30"
     type: WatchEvent
     user_name: peter-sharp
     repo: pubnub/webrtc-chat
-  - title: ManuelFernando pushed to pubnub/chat-engine
+  - title: codacy-bot commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417561838
+    time_stamp: "2018-08-30"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/go
+  - title: crimsonred pushed to pubnub/go
     url: ""
-    time_stamp: "2018-08-29"
+    time_stamp: "2018-08-30"
     type: PushEvent
-    user_name: ManuelFernando
-    repo: pubnub/chat-engine
-  - title: ManuelFernando made a pull request on pubnub/chat-engine
-    url: https://github.com/pubnub/chat-engine/pull/391
-    time_stamp: "2018-08-29"
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: diericx pushed to pubnub/git-sync
+    url: ""
+    time_stamp: "2018-08-30"
+    type: PushEvent
+    user_name: diericx
+    repo: pubnub/git-sync
+  - title: diericx pushed to pubnub/git-sync
+    url: ""
+    time_stamp: "2018-08-30"
+    type: PushEvent
+    user_name: diericx
+    repo: pubnub/git-sync
+  - title: codacy-bot commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417333261
+    time_stamp: "2018-08-30"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/go
+  - title: crimsonred pushed to pubnub/go
+    url: ""
+    time_stamp: "2018-08-30"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: saitonakamura made a pull request on pubnub/c-sharp
+    url: https://github.com/pubnub/c-sharp/pull/46
+    time_stamp: "2018-08-30"
     type: PullRequestEvent
-    user_name: ManuelFernando
-    repo: pubnub/chat-engine
-  - title: parfeon commented on an issue for pubnub/chat-engine-apple
-    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/417123007
-    time_stamp: "2018-08-29"
-    type: IssueCommentEvent
-    user_name: parfeon
-    repo: pubnub/chat-engine-apple
-  - title: nishith-pubnub commented on an issue for pubnub/chat-engine-apple
-    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/417122333
-    time_stamp: "2018-08-29"
-    type: IssueCommentEvent
-    user_name: nishith-pubnub
-    repo: pubnub/chat-engine-apple
-  - title: pubnub/SimpleRTC being watched by gideondsouza
+    user_name: saitonakamura
+    repo: pubnub/c-sharp
+  - title: pubnub/c-sharp was forked by c-sharp
     url: ""
-    time_stamp: "2018-08-29"
-    type: WatchEvent
-    user_name: gideondsouza
-    repo: pubnub/SimpleRTC
-  - title: pubnub/SimpleRTC being watched by pawlaczyk
+    time_stamp: "2018-08-30"
+    type: ForkEvent
+    user_name: c-sharp
+    repo: pubnub/c-sharp
+  - title: codacy-bot commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417322355
+    time_stamp: "2018-08-30"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/go
+  - title: crimsonred made a pull request on pubnub/go
+    url: https://github.com/pubnub/go/pull/52
+    time_stamp: "2018-08-30"
+    type: PullRequestEvent
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: pubnub/open-growth being watched by silviupanaite
     url: ""
-    time_stamp: "2018-08-29"
+    time_stamp: "2018-08-30"
     type: WatchEvent
-    user_name: pawlaczyk
-    repo: pubnub/SimpleRTC
+    user_name: silviupanaite
+    repo: pubnub/open-growth
+  - title: vveljko pushed to pubnub/c-core
+    url: ""
+    time_stamp: "2018-08-30"
+    type: PushEvent
+    user_name: vveljko
+    repo: pubnub/c-core
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
