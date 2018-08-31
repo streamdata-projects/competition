@@ -2085,7 +2085,7 @@ competition:
   name: Firebase
   description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
-  url: https://stackoverflow.com/questions/51153795/using-nuxt-with-axios-on-google-firebase-hosting
+  url: https://stackoverflow.com/questions/51286821/having-problems-reading-google-maps-marker-data-from-google-firebase-realtime-da
   email: info@firebase.com
   blog_url: https://firebase.googleblog.com/
   blog_rss_url: http://firebase.googleblog.com/feeds/posts/default?alt=rss
@@ -2563,6 +2563,14 @@ competition:
     score: "3"
   latest_hacker_news_searches: []
   latest_stack_exchange_searches:
+  - question_id: "52097722"
+    title: google firebase mail templates multi language do not working
+    url: https://stackoverflow.com/questions/52097722/google-firebase-mail-templates-multi-language-do-not-working
+    owner_display_name: Stiller Eugen
+    owner_reputation: "206"
+    owner_link: https://stackoverflow.com/users/2098797/stiller-eugen
+    creation_date: "2018-08-30"
+    view_count: "17"
   - question_id: "51998979"
     title: Not able to upload Images on to Google Firebase Storage using iOS Swift
       API
@@ -2765,14 +2773,6 @@ competition:
     owner_link: https://stackoverflow.com/users/5752012/madsmortensen
     creation_date: "2018-07-11"
     view_count: "24"
-  - question_id: "51153795"
-    title: Using Nuxt with Axios on Google Firebase hosting
-    url: https://stackoverflow.com/questions/51153795/using-nuxt-with-axios-on-google-firebase-hosting
-    owner_display_name: Bram G
-    owner_reputation: "88"
-    owner_link: https://stackoverflow.com/users/3100711/bram-g
-    creation_date: "2018-07-03"
-    view_count: "74"
   tags:
   - Service API
   - SDIO Competition
