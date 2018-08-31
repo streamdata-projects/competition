@@ -833,6 +833,13 @@ competition:
     author: mikegchambers
     created_date: "2017-11-02"
     score: "1"
+  - reddit_id: "78"
+    title: Amazon Kinesis Analytics now supports configuring multiple destinations
+      in the console
+    url: https://aws.amazon.com/about-aws/whats-new/2017/10/amazon-kinesis-analytics-now-supports-configuring-multiple-destinations-in-the-console/
+    author: mikegchambers
+    created_date: "2017-10-26"
+    score: "1"
   - reddit_id: "74"
     title: Amazon Kinesis Analytics can now discover data schemas from sample S3 objects
     url: https://aws.amazon.com/about-aws/whats-new/2017/10/amazon-kinesis-analytics-can-now-discover-data-schemas-from-sample-s3-objects/
@@ -879,116 +886,109 @@ competition:
     author: alpyhp
     created_date: "2017-06-20"
     score: "1"
-  - reddit_id: "6"
-    title: Automatically Archive Items to S3 Using DynamoDB Time to Live (TTL) with
-      AWS Lambda and Amazon Kinesis Firehose
-    url: https://aws.amazon.com/blogs/database/automatically-archive-items-to-s3-using-dynamodb-time-to-live-with-aws-lambda-and-amazon-kinesis-firehose/
-    author: silviadoomra
-    created_date: "2017-06-06"
-    score: "1"
   latest_hacker_news_searches:
   - hacker_news_id: "14799906"
     title: New Server-Side Encryption for Amazon Kinesis Streams
     url: https://aws.amazon.com/blogs/aws/new-server-side-encryption-for-amazon-kinesis-streams/
-    author: silviadoomra
+    author: alpyhp
     created_at: "2017-07-18"
     points: "3"
   - hacker_news_id: "14592155"
     title: The Decision Apache Kafka or Amazon Kinesis?
     url: https://www.jowanza.com/blog/2017/6/19/the-decision-apache-kafka-or-amazon-kinesis
-    author: silviadoomra
+    author: alpyhp
     created_at: "2017-06-19"
     points: "5"
   - hacker_news_id: "13953796"
     title: "Amazon Kinesis the best event queue you're not using"
     url: https://instrumentalapp.com/blog/aws-kinesis/
-    author: silviadoomra
+    author: alpyhp
     created_at: "2017-03-24"
     points: "3"
   - hacker_news_id: "13655077"
     title: Apache Kafka vs. Amazon Kinesis to Build a High Performance Distributed
       System
     url: https://keen.io/blog/157206265381/using-apache-kafka-or-amazon-kinesis-to-build-a
-    author: silviadoomra
+    author: alpyhp
     created_at: "2017-02-15"
     points: "3"
   - hacker_news_id: "13647539"
     title: Apache Kafka vs. Amazon Kinesis for High Performance Distributed Systems
     url: https://keen.io/blog/157206265381/apache-kafka-vs-amazon-kinesis-to-build-a-high?s=hn
-    author: silviadoomra
+    author: alpyhp
     created_at: "2017-02-14"
     points: "4"
   - hacker_news_id: "13612142"
     title: Amazon Kinesis versus Apache Kafka
     url: https://www.quora.com/Amazon-Kinesis-versus-Apache-Kafka-which-of-them-is-the-most-proven-and-high-performance-oriented?share=1
-    author: silviadoomra
+    author: alpyhp
     created_at: "2017-02-09"
     points: "5"
   - hacker_news_id: "11892867"
     title: Amazon Kinesis Firehose
     url: http://cloudacademy.com/blog/everything-you-ever-wanted-to-know-about-amazon-kinesis-firehose/
-    author: silviadoomra
+    author: alpyhp
     created_at: "2016-06-13"
     points: "3"
   - hacker_news_id: "11083693"
     title: Persist Streaming Data to Amazon S3 Using Amazon Kinesis Firehose and AWS
       Lambda
     url: https://blogs.aws.amazon.com/bigdata/post/Tx2MUQB5PRWU36K/Persist-Streaming-Data-to-Amazon-S3-using-Amazon-Kinesis-Firehose-and-AWS-Lambda
-    author: silviadoomra
+    author: alpyhp
     created_at: "2016-02-11"
     points: "5"
   - hacker_news_id: "10903845"
     title: Querying Amazon Kinesis Streams Directly with SQL and Spark Streaming
     url: http://blogs.aws.amazon.com/bigdata/post/Tx3916WCIUPVA3T/Querying-Amazon-Kinesis-Streams-Directly-with-SQL-and-Spark-Streaming
-    author: silviadoomra
+    author: alpyhp
     created_at: "2016-01-14"
     points: "6"
   - hacker_news_id: "10453387"
     title: Amazon Kinesis managed real-time event processing
     url: http://cloudacademy.com/blog/amazon-kinesis-real-time-event-processing/
-    author: silviadoomra
+    author: alpyhp
     created_at: "2015-10-26"
     points: "3"
   - hacker_news_id: "10346901"
     title: "Amazon Kinesis Firehose \u2013 Simple and Scalable Data Ingestion"
     url: https://aws.amazon.com/blogs/aws/amazon-kinesis-firehose-simple-highly-scalable-data-ingestion/
-    author: silviadoomra
+    author: alpyhp
     created_at: "2015-10-07"
     points: "90"
   - hacker_news_id: "10346896"
     title: Amazon Kinesis Firehose Streamlined IoT Data Ingestion
     url: http://aws.amazon.com/kinesis/firehose/
-    author: silviadoomra
+    author: alpyhp
     created_at: "2015-10-07"
     points: "7"
   - hacker_news_id: "8704063"
     title: "Amazon Kinesis Update \u2013 New High-Throughput API"
     url: https://aws.amazon.com/blogs/aws/kinesis-update-putrecords-api/
-    author: silviadoomra
+    author: alpyhp
     created_at: "2014-12-05"
     points: "4"
   - hacker_news_id: "7138873"
     title: Storm Spout for Amazon Kinesis
     url: http://aws.typepad.com/aws/2014/01/marry-kinesis-and-storm-using-the-new-kinesis-storm-spout.html
-    author: silviadoomra
+    author: alpyhp
     created_at: "2014-01-28"
     points: "3"
   - hacker_news_id: "6920173"
     title: Amazon Kinesis Available For All Customers
     url: http://aws.amazon.com/kinesis/
-    author: silviadoomra
+    author: alpyhp
     created_at: "2013-12-17"
     points: "62"
   - hacker_news_id: "6734381"
     title: Amazon Kinesis
     url: http://aws.typepad.com/aws/2013/11/amazon-kinesis-real-time-processing-of-streamed-data.html
-    author: silviadoomra
+    author: alpyhp
     created_at: "2013-11-14"
     points: "71"
   - hacker_news_id: "6735933"
     title: Amazon Kinesis - real-time processing of streaming data at massive scale
     url: http://aws.amazon.com/kinesis
-    author: silviadoomra
+    author: alpyhp
     created_at: "2013-11-14"
     points: "6"
   latest_stack_exchange_searches:
