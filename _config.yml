@@ -2177,6 +2177,10 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "We're in Toronto and Waterloo next week and would love to talk to
+      you! Sign up for user research sessions \u2013 for nex... https://t.co/uxVNuCNKlP"
+    url: https://twitter.com/Firebase/status/1035632031160516609
+    time_stamp: "2018-08-31 13:54:51"
   - title: "Firebase and @fabric joined forces to give developers the tools they need
       to build great apps. @codingdoug and... https://t.co/6ZYHwX7FSW"
     url: https://twitter.com/Firebase/status/1035206266967261184
@@ -2273,10 +2277,6 @@ competition:
       Messaging helps you guide users who are... https://t.co/lyxYAp0KuI"
     url: https://twitter.com/Firebase/status/1031652456743292930
     time_stamp: "2018-08-20 14:21:27"
-  - title: "RT @asciimike: Watch the latest @Firebase tutorial video, on #Firestore
-      #Security Rules in which I:\n - Validate data types\n - Implement Rol..."
-    url: https://twitter.com/Firebase/status/1031576589752913921
-    time_stamp: "2018-08-20 09:19:59"
   latest_github_activity:
   - title: firebase/quickstart-unity being watched by exzizt
     url: ""
