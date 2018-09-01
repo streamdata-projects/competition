@@ -4615,84 +4615,114 @@ competition:
     type: IssueCommentEvent
     user_name: codecov-io
     repo: pubnub/go
-  - title: pubnub/webrtc-chat being watched by peter-sharp
+  - title: pubnub/tweet-emotion being watched by vikchopde
     url: ""
-    time_stamp: "2018-08-30"
+    time_stamp: "2018-08-31"
     type: WatchEvent
-    user_name: peter-sharp
-    repo: pubnub/webrtc-chat
-  - title: codacy-bot commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417561838
-    time_stamp: "2018-08-30"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/go
-  - title: crimsonred pushed to pubnub/go
-    url: ""
-    time_stamp: "2018-08-30"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: diericx pushed to pubnub/git-sync
-    url: ""
-    time_stamp: "2018-08-30"
-    type: PushEvent
-    user_name: diericx
-    repo: pubnub/git-sync
-  - title: diericx pushed to pubnub/git-sync
-    url: ""
-    time_stamp: "2018-08-30"
-    type: PushEvent
-    user_name: diericx
-    repo: pubnub/git-sync
-  - title: codacy-bot commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417333261
-    time_stamp: "2018-08-30"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/go
-  - title: crimsonred pushed to pubnub/go
-    url: ""
-    time_stamp: "2018-08-30"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: saitonakamura made a pull request on pubnub/c-sharp
-    url: https://github.com/pubnub/c-sharp/pull/46
-    time_stamp: "2018-08-30"
+    user_name: vikchopde
+    repo: pubnub/tweet-emotion
+  - title: pvtmert made a pull request on pubnub/easy-hacker-news-stream
+    url: https://github.com/pubnub/easy-hacker-news-stream/pull/4
+    time_stamp: "2018-08-31"
     type: PullRequestEvent
-    user_name: saitonakamura
-    repo: pubnub/c-sharp
-  - title: pubnub/c-sharp was forked by c-sharp
+    user_name: pvtmert
+    repo: pubnub/easy-hacker-news-stream
+  - title: pubnub/easy-hacker-news-stream was forked by easy-hacker-news-stream
     url: ""
-    time_stamp: "2018-08-30"
+    time_stamp: "2018-08-31"
     type: ForkEvent
-    user_name: c-sharp
-    repo: pubnub/c-sharp
+    user_name: easy-hacker-news-stream
+    repo: pubnub/easy-hacker-news-stream
+  - title: tr3online submitted an issue on pubnub/javascript-realtime-voting-app-workshop
+    url: https://api.github.com/repos/pubnub/javascript-realtime-voting-app-workshop/issues/2
+    time_stamp: "2018-08-31"
+    type: IssuesEvent
+    user_name: tr3online
+    repo: pubnub/javascript-realtime-voting-app-workshop
+  - title: pubnub/react being watched by sbhamad
+    url: ""
+    time_stamp: "2018-08-31"
+    type: WatchEvent
+    user_name: sbhamad
+    repo: pubnub/react
   - title: codacy-bot commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417322355
-    time_stamp: "2018-08-30"
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417702001
+    time_stamp: "2018-08-31"
     type: IssueCommentEvent
     user_name: codacy-bot
     repo: pubnub/go
-  - title: crimsonred made a pull request on pubnub/go
-    url: https://github.com/pubnub/go/pull/52
-    time_stamp: "2018-08-30"
-    type: PullRequestEvent
+  - title: crimsonred pushed to pubnub/go
+    url: ""
+    time_stamp: "2018-08-31"
+    type: PushEvent
     user_name: crimsonred
     repo: pubnub/go
-  - title: pubnub/open-growth being watched by silviupanaite
+  - title: codacy-bot commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417699457
+    time_stamp: "2018-08-31"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/go
+  - title: crimsonred pushed to pubnub/go
     url: ""
-    time_stamp: "2018-08-30"
-    type: WatchEvent
-    user_name: silviupanaite
-    repo: pubnub/open-growth
-  - title: vveljko pushed to pubnub/c-core
-    url: ""
-    time_stamp: "2018-08-30"
+    time_stamp: "2018-08-31"
     type: PushEvent
-    user_name: vveljko
-    repo: pubnub/c-core
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: codacy-bot commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417667232
+    time_stamp: "2018-08-31"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/go
+  - title: crimsonred pushed to pubnub/go
+    url: ""
+    time_stamp: "2018-08-31"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: codacy-bot commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417662520
+    time_stamp: "2018-08-31"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/go
+  - title: crimsonred pushed to pubnub/go
+    url: ""
+    time_stamp: "2018-08-31"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: codacy-bot commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417660668
+    time_stamp: "2018-08-31"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/go
+  - title: crimsonred pushed to pubnub/go
+    url: ""
+    time_stamp: "2018-08-31"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: pubnub/pubnub-api was forked by pubnub-api
+    url: ""
+    time_stamp: "2018-08-31"
+    type: ForkEvent
+    user_name: pubnub-api
+    repo: pubnub/pubnub-api
+  - title: pubnub/pubnub-api being watched by samantynawet
+    url: ""
+    time_stamp: "2018-08-31"
+    type: WatchEvent
+    user_name: samantynawet
+    repo: pubnub/pubnub-api
+  - title: codecov-io commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417575030
+    time_stamp: "2018-08-31"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: pubnub/go
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
