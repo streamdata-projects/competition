@@ -4194,6 +4194,12 @@ competition:
     author: AsciiFace
     created_date: "2018-08-11"
     score: "2"
+  - reddit_id: "96"
+    title: Waffle chromokeys his green hair to different colours
+    url: https://clips.twitch.tv/MoralOptimisticFennelBibleThump
+    author: Zamusek
+    created_date: "2018-08-10"
+    score: "2652"
   - reddit_id: "904"
     title: Vegan giveaway
     url: https://clips.twitch.tv/StupidInquisitiveBadgerWutFace
@@ -4310,23 +4316,17 @@ competition:
     author: norwegianmount
     created_date: "2015-08-20"
     score: "5"
-  - reddit_id: "1"
-    title: '[Build Help] Need Helping Building gaming/Streaming computer for my brother'
-    url: https://www.reddit.com/r/buildapc/comments/1z99fj/build_help_need_helping_building_gamingstreaming/
-    author: forthelittleone
-    created_date: "2014-03-01"
-    score: "2"
   latest_hacker_news_searches:
   - hacker_news_id: "2744690"
     title: 10 Years of Push Technology, Comet, and WebSockets
     url: http://cometdaily.com/2011/07/06/push-technology-comet-and-websockets-10-years-of-history-from-lightstreamers-perspective/
-    author: forthelittleone
+    author: norwegianmount
     created_at: "2011-07-08"
     points: "2"
   - hacker_news_id: "114854"
     title: Hello World with Lightstreamer
     url: http://cometdaily.com/2008/02/12/%e2%80%9chello-world%e2%80%9d-with-lightstreamer/
-    author: forthelittleone
+    author: norwegianmount
     created_at: "2008-02-13"
     points: "2"
   latest_stack_exchange_searches:
