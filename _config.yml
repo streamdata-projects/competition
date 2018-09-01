@@ -4508,6 +4508,30 @@ competition:
     url: https://www.pubnub.com/blog/every-millisecond-counts-why-time-is-everything-for-businesses/
     time_stamp: "2018-07-31 09:43:23"
   latest_tweets:
+  - title: 'How exactly does an #ecommerce #chatbot work? Learn here: https://t.co/m2BngEEnc3
+      https://t.co/z04KTmpL71'
+    url: https://twitter.com/PubNub/status/1035667814932258816
+    time_stamp: "2018-08-31 16:17:03"
+  - title: "95% of the online content that companies generate is available in only
+      one language.\n\nWhy language translation is o... https://t.co/DXndKm4JSv"
+    url: https://twitter.com/PubNub/status/1035637604694286336
+    time_stamp: "2018-08-31 14:17:00"
+  - title: "It has been estimated that Amazon's recommendation engine drives
+      35% of total sales. But building recommendation en... https://t.co/4N7VCJTVHA"
+    url: https://twitter.com/PubNub/status/1035610929055055872
+    time_stamp: "2018-08-31 12:31:00"
+  - title: "Business Insider predicts that 85% of customer interactions will be managed
+      without a human by as soon as 2020.\n\nAr... https://t.co/kN2Aj1RnWI"
+    url: https://twitter.com/PubNub/status/1035598093079724033
+    time_stamp: "2018-08-31 11:40:00"
+  - title: "49% of customers cite not being able to touch, feel or try a product as
+      one of their least favorite aspects of onli... https://t.co/bnrvrpWLem"
+    url: https://twitter.com/PubNub/status/1035577206762860545
+    time_stamp: "2018-08-31 10:17:00"
+  - title: "84% of online shoppers would no longer buy from an organization that doesn't
+      account for preferences and purchasing... https://t.co/J7irT1quUc"
+    url: https://twitter.com/PubNub/status/1035570669306761218
+    time_stamp: "2018-08-31 09:51:02"
   - title: |-
       Come out to our meetup Wednesday August 28th at 6pm to learn how about ARKit + Unity!
       https://t.co/j00HbNTLcc https://t.co/ix3m4OLTt4
@@ -4584,30 +4608,6 @@ competition:
       rides a day in the coming months, we're confident... https://t.co/IlQu6YHjMD"
     url: https://twitter.com/PubNub/status/1029432897709780993
     time_stamp: "2018-08-14 11:21:43"
-  - title: "RT @linkibol: Just published to https://t.co/EsRSnGuZyB : \nDogfoodingConfiguring
-      the Deployment Pipeline \n\nWe're using @BuddyGit to create..."
-    url: https://twitter.com/PubNub/status/1029039816552275968
-    time_stamp: "2018-08-13 09:19:45"
-  - title: 'RT @SoracomIoT: Incredible workshop working with @PubNub to graph real-time
-      sensor data! Learn all about it below https://t.co/haAod1FE9C'
-    url: https://twitter.com/PubNub/status/1027234896786247680
-    time_stamp: "2018-08-08 09:47:39"
-  - title: "RT @jhibbets: Get advice and insight from CTOs and project leads on their
-      experiences with team culture and microservices. https://t.co/87Z..."
-    url: https://twitter.com/PubNub/status/1027234658797334528
-    time_stamp: "2018-08-08 09:46:42"
-  - title: 'Learn how to build a smart irrigation system with remote realtime monitoring,
-      using @Raspberry_Pi and PubNub: https://t.co/yglmFDwTeP'
-    url: https://twitter.com/PubNub/status/1026577172243378176
-    time_stamp: "2018-08-06 14:14:05"
-  - title: "RT @RajRKane: It was super exciting to dabble in #InternetOfThings firsthand
-      for the first time. Also my first time using a #RaspberryPi. T..."
-    url: https://twitter.com/PubNub/status/1025100221347291137
-    time_stamp: "2018-08-02 12:25:12"
-  - title: "RT @SoracomIoT: Hypnotic! Multi-sensor real-time #IoT data. @SoracomIoT
-      @PubNub wonder twin powers: activated \n\nnice work @Blakecares @ninj..."
-    url: https://twitter.com/PubNub/status/1024715097241878528
-    time_stamp: "2018-08-01 10:54:52"
   latest_github_activity:
   - title: codecov-io commented on an issue for pubnub/go
     url: https://api.github.com/repos/pubnub/go/issues/comments/417575030
