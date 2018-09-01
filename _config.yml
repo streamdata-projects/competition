@@ -1232,6 +1232,13 @@ competition:
   latest_tweets: []
   latest_github_activity: []
   latest_reddit_searches:
+  - reddit_id: "9"
+    title: "Announcing general availability of Azure IoT Hub's integration with
+      Azure Event Grid"
+    url: https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-azure-iot-hub-s-integration-with-azure-event-grid/
+    author: cynycal
+    created_date: "2018-09-01"
+    score: "6"
   - reddit_id: "98"
     title: What Azure PaaS tools can I use to create an 'ELK' style stack
     url: https://www.reddit.com/r/AZURE/comments/98unb0/what_azure_paas_tools_can_i_use_to_create_an_elk/
