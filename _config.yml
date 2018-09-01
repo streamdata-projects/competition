@@ -2278,120 +2278,48 @@ competition:
     url: https://twitter.com/Firebase/status/1031576589752913921
     time_stamp: "2018-08-20 09:19:59"
   latest_github_activity:
-  - title: adelespinasse commented on an issue for firebase/firebaseui-web
-    url: https://api.github.com/repos/firebase/firebaseui-web/issues/comments/417503930
-    time_stamp: "2018-08-30"
-    type: IssueCommentEvent
-    user_name: adelespinasse
-    repo: firebase/firebaseui-web
-  - title: hiranya911 made a pull request on firebase/firebase-admin-java
-    url: https://github.com/firebase/firebase-admin-java/pull/203
-    time_stamp: "2018-08-30"
-    type: PullRequestEvent
-    user_name: hiranya911
-    repo: firebase/firebase-admin-java
-  - title: samtstern submitted an issue on firebase/firebaseopensource.com
-    url: https://api.github.com/repos/firebase/firebaseopensource.com/issues/57
-    time_stamp: "2018-08-30"
-    type: IssuesEvent
-    user_name: samtstern
-    repo: firebase/firebaseopensource.com
-  - title: samtstern pushed to firebase/firebaseopensource.com
+  - title: firebase/quickstart-unity being watched by exzizt
     url: ""
-    time_stamp: "2018-08-30"
-    type: PushEvent
-    user_name: samtstern
-    repo: firebase/firebaseopensource.com
-  - title: samtstern submitted an issue on firebase/firebaseopensource.com
-    url: https://api.github.com/repos/firebase/firebaseopensource.com/issues/56
-    time_stamp: "2018-08-30"
-    type: IssuesEvent
-    user_name: samtstern
-    repo: firebase/firebaseopensource.com
-  - title: samtstern commented on an issue for firebase/firebaseopensource.com
-    url: https://api.github.com/repos/firebase/firebaseopensource.com/issues/comments/417501044
-    time_stamp: "2018-08-30"
-    type: IssueCommentEvent
-    user_name: samtstern
-    repo: firebase/firebaseopensource.com
-  - title: samtstern pushed to firebase/firebaseopensource.com
-    url: ""
-    time_stamp: "2018-08-30"
-    type: PushEvent
-    user_name: samtstern
-    repo: firebase/firebaseopensource.com
-  - title: schmidt-sebastian pushed to firebase/firebase-js-sdk
-    url: ""
-    time_stamp: "2018-08-30"
-    type: PushEvent
-    user_name: schmidt-sebastian
-    repo: firebase/firebase-js-sdk
-  - title: schmidt-sebastian pushed to firebase/firebase-js-sdk
-    url: ""
-    time_stamp: "2018-08-30"
-    type: PushEvent
-    user_name: schmidt-sebastian
-    repo: firebase/firebase-js-sdk
-  - title: gsoltis pushed to firebase/firebase-js-sdk
-    url: ""
-    time_stamp: "2018-08-30"
-    type: PushEvent
-    user_name: gsoltis
-    repo: firebase/firebase-js-sdk
-  - title: gsoltis made a pull request on firebase/firebase-js-sdk
-    url: https://github.com/firebase/firebase-js-sdk/pull/1179
-    time_stamp: "2018-08-30"
-    type: PullRequestEvent
-    user_name: gsoltis
-    repo: firebase/firebase-js-sdk
-  - title: bklimt commented on an issue for firebase/firebase-functions
-    url: https://api.github.com/repos/firebase/firebase-functions/issues/comments/417496777
-    time_stamp: "2018-08-30"
-    type: IssueCommentEvent
-    user_name: bklimt
-    repo: firebase/firebase-functions
-  - title: nicolasgarnier submitted an issue on firebase/firebaseui-web
-    url: https://api.github.com/repos/firebase/firebaseui-web/issues/217
-    time_stamp: "2018-08-30"
-    type: IssuesEvent
-    user_name: nicolasgarnier
-    repo: firebase/firebaseui-web
-  - title: nicolasgarnier commented on an issue for firebase/firebaseui-web
-    url: https://api.github.com/repos/firebase/firebaseui-web/issues/comments/417495104
-    time_stamp: "2018-08-30"
-    type: IssueCommentEvent
-    user_name: nicolasgarnier
-    repo: firebase/firebaseui-web
+    time_stamp: "2018-08-31"
+    type: WatchEvent
+    user_name: exzizt
+    repo: firebase/quickstart-unity
   - title: var-const pushed to firebase/firebase-ios-sdk
     url: ""
-    time_stamp: "2018-08-30"
+    time_stamp: "2018-08-31"
     type: PushEvent
     user_name: var-const
     repo: firebase/firebase-ios-sdk
-  - title: nicolasgarnier submitted an issue on firebase/firebaseui-web
-    url: https://api.github.com/repos/firebase/firebaseui-web/issues/214
-    time_stamp: "2018-08-30"
-    type: IssuesEvent
-    user_name: nicolasgarnier
-    repo: firebase/firebaseui-web
-  - title: nicolasgarnier submitted an issue on firebase/firebaseui-web
-    url: https://api.github.com/repos/firebase/firebaseui-web/issues/211
-    time_stamp: "2018-08-30"
-    type: IssuesEvent
-    user_name: nicolasgarnier
-    repo: firebase/firebaseui-web
-  - title: nicolasgarnier commented on an issue for firebase/firebaseui-web
-    url: https://api.github.com/repos/firebase/firebaseui-web/issues/comments/417494316
-    time_stamp: "2018-08-30"
-    type: IssueCommentEvent
-    user_name: nicolasgarnier
-    repo: firebase/firebaseui-web
-  - title: gsoltis pushed to firebase/firebase-js-sdk
+  - title: var-const pushed to firebase/firebase-ios-sdk
     url: ""
-    time_stamp: "2018-08-30"
+    time_stamp: "2018-08-31"
     type: PushEvent
-    user_name: gsoltis
-    repo: firebase/firebase-js-sdk
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
+  - title: exzizt submitted an issue on firebase/quickstart-unity
+    url: https://api.github.com/repos/firebase/quickstart-unity/issues/206
+    time_stamp: "2018-08-31"
+    type: IssuesEvent
+    user_name: exzizt
+    repo: firebase/quickstart-unity
+  - title: var-const pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-08-31"
+    type: PushEvent
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
+  - title: var-const pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-08-31"
+    type: PushEvent
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
+  - title: var-const pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-08-31"
+    type: PushEvent
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
   latest_reddit_searches:
   - reddit_id: "9"
     title: 'fiery-vue: A Typescript/JS library for VueJS and Google Firebase Firestore'
