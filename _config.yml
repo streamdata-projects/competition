@@ -4688,18 +4688,24 @@ competition:
     url: https://twitter.com/PubNub/status/1029432897709780993
     time_stamp: "2018-08-14 11:21:43"
   latest_github_activity:
-  - title: codecov-io commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417575030
-    time_stamp: "2018-08-31"
-    type: IssueCommentEvent
-    user_name: codecov-io
-    repo: pubnub/go
-  - title: pubnub/tweet-emotion being watched by vikchopde
+  - title: pubnub/webrtc being watched by wh1tenoise
     url: ""
-    time_stamp: "2018-08-31"
+    time_stamp: "2018-09-01"
     type: WatchEvent
-    user_name: vikchopde
-    repo: pubnub/tweet-emotion
+    user_name: wh1tenoise
+    repo: pubnub/webrtc
+  - title: pubnub/arduino being watched by memolitasli
+    url: ""
+    time_stamp: "2018-09-01"
+    type: WatchEvent
+    user_name: memolitasli
+    repo: pubnub/arduino
+  - title: sveljko made a pull request on pubnub/c-core
+    url: https://github.com/pubnub/c-core/pull/53
+    time_stamp: "2018-09-01"
+    type: PullRequestEvent
+    user_name: sveljko
+    repo: pubnub/c-core
   - title: pvtmert made a pull request on pubnub/easy-hacker-news-stream
     url: https://github.com/pubnub/easy-hacker-news-stream/pull/4
     time_stamp: "2018-08-31"
@@ -4796,6 +4802,12 @@ competition:
     type: WatchEvent
     user_name: samantynawet
     repo: pubnub/pubnub-api
+  - title: codecov-io commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/417575030
+    time_stamp: "2018-08-31"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: pubnub/go
   - title: codecov-io commented on an issue for pubnub/go
     url: https://api.github.com/repos/pubnub/go/issues/comments/417575030
     time_stamp: "2018-08-31"
