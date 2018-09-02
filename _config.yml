@@ -2092,7 +2092,7 @@ competition:
   name: Firebase
   description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
-  url: https://stackoverflow.com/questions/51286821/having-problems-reading-google-maps-marker-data-from-google-firebase-realtime-da
+  url: https://stackoverflow.com/questions/51325959/flutter-google-firebase-sign-in-requires-every-time-the-user-start-the-app
   email: info@firebase.com
   blog_url: https://firebase.googleblog.com/
   blog_rss_url: http://firebase.googleblog.com/feeds/posts/default?alt=rss
@@ -2569,6 +2569,14 @@ competition:
     score: "7"
   latest_hacker_news_searches: []
   latest_stack_exchange_searches:
+  - question_id: "52132437"
+    title: unable to access google firebase from angular?
+    url: https://stackoverflow.com/questions/52132437/unable-to-access-google-firebase-from-angular
+    owner_display_name: user10292144
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/10292144/user10292144
+    creation_date: "2018-09-01"
+    view_count: "26"
   - question_id: "52097722"
     title: google firebase mail templates multi language do not working
     url: https://stackoverflow.com/questions/52097722/google-firebase-mail-templates-multi-language-do-not-working
@@ -2770,15 +2778,6 @@ competition:
     owner_link: https://stackoverflow.com/users/6077841/sourav-cse
     creation_date: "2018-07-13"
     view_count: "12"
-  - question_id: "51286821"
-    title: Having problems reading google maps marker data from Google Firebase Realtime
-      Database
-    url: https://stackoverflow.com/questions/51286821/having-problems-reading-google-maps-marker-data-from-google-firebase-realtime-da
-    owner_display_name: MadsMortensen
-    owner_reputation: "8"
-    owner_link: https://stackoverflow.com/users/5752012/madsmortensen
-    creation_date: "2018-07-11"
-    view_count: "24"
   tags:
   - Service API
   - SDIO Competition
