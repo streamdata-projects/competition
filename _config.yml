@@ -5627,6 +5627,30 @@ competition:
     url: https://twitter.com/pusher/status/1009027509470552064
     time_stamp: "2018-06-19 03:57:59"
   latest_github_activity:
+  - title: cirdes made a pull request on pusher/chatkit-server-ruby
+    url: https://github.com/pusher/chatkit-server-ruby/pull/15
+    time_stamp: "2018-09-01"
+    type: PullRequestEvent
+    user_name: cirdes
+    repo: pusher/chatkit-server-ruby
+  - title: cirdes made a pull request on pusher/chatkit-server-ruby
+    url: https://github.com/pusher/chatkit-server-ruby/pull/15
+    time_stamp: "2018-09-01"
+    type: PullRequestEvent
+    user_name: cirdes
+    repo: pusher/chatkit-server-ruby
+  - title: pusher/chatkit-server-ruby was forked by chatkit-server-ruby
+    url: ""
+    time_stamp: "2018-09-01"
+    type: ForkEvent
+    user_name: chatkit-server-ruby
+    repo: pusher/chatkit-server-ruby
+  - title: pusher/chatkit-server-ruby being watched by cirdes
+    url: ""
+    time_stamp: "2018-09-01"
+    type: WatchEvent
+    user_name: cirdes
+    repo: pusher/chatkit-server-ruby
   - title: pusher/pusher-http-php being watched by OctavioSI
     url: ""
     time_stamp: "2018-08-31"
@@ -5705,48 +5729,6 @@ competition:
     type: IssueCommentEvent
     user_name: vivangkumar
     repo: pusher/chatkit-swift
-  - title: pusher/pusher-http-laravel being watched by nelson6e65
-    url: ""
-    time_stamp: "2018-08-31"
-    type: WatchEvent
-    user_name: nelson6e65
-    repo: pusher/pusher-http-laravel
-  - title: BenPope pushed to pusher/lyft-ratelimit
-    url: ""
-    time_stamp: "2018-08-31"
-    type: PushEvent
-    user_name: BenPope
-    repo: pusher/lyft-ratelimit
-  - title: BenPope made a pull request on pusher/lyft-ratelimit
-    url: https://github.com/pusher/lyft-ratelimit/pull/2
-    time_stamp: "2018-08-31"
-    type: PullRequestEvent
-    user_name: BenPope
-    repo: pusher/lyft-ratelimit
-  - title: pusher/pusher-js was forked by pusher-js
-    url: ""
-    time_stamp: "2018-08-31"
-    type: ForkEvent
-    user_name: pusher-js
-    repo: pusher/pusher-js
-  - title: nbransby commented on an issue for pusher/chatkit-server-node
-    url: https://api.github.com/repos/pusher/chatkit-server-node/issues/comments/417633942
-    time_stamp: "2018-08-31"
-    type: IssueCommentEvent
-    user_name: nbransby
-    repo: pusher/chatkit-server-node
-  - title: BenPope made a pull request on pusher/lyft-ratelimit
-    url: https://github.com/pusher/lyft-ratelimit/pull/2
-    time_stamp: "2018-08-31"
-    type: PullRequestEvent
-    user_name: BenPope
-    repo: pusher/lyft-ratelimit
-  - title: BenPope pushed to pusher/lyft-ratelimit
-    url: ""
-    time_stamp: "2018-08-31"
-    type: PushEvent
-    user_name: BenPope
-    repo: pusher/lyft-ratelimit
   latest_reddit_searches:
   - reddit_id: "9"
     title: "Reefer Madness is a 1936 American propaganda film revolving around the
