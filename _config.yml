@@ -3594,6 +3594,24 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17896273"
+    title: 10 Amazing Google Chrome Extensions for Marketing People
+    url: https://codecanyons.net/blog/google-chrome-extensions-for-marketing-people/
+    author: weblaunches
+    created_at: "2018-09-02"
+    points: "1"
+  - hacker_news_id: "17898583"
+    title: Why Read the Classics? (1986)
+    url: https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/
+    author: weblaunches
+    created_at: "2018-09-02"
+    points: "0"
+  - hacker_news_id: "17883949"
+    title: "Uvloop Blazing fast Python networking \u2013 magicstack"
+    url: https://magic.io/blog/uvloop-blazing-fast-python-networking/
+    author: weblaunches
+    created_at: "2018-08-31"
+    points: "8"
   - hacker_news_id: "17878577"
     title: Asian-American Students Suing Harvard Over Admissions Win Justice Dept.
       Support
@@ -3717,36 +3735,18 @@ competition:
     author: weblaunches
     created_at: "2018-08-14"
     points: "0"
+  - hacker_news_id: "16708224"
+    title: Ask HN How can felons find programming jobs?
+    url: ""
+    author: weblaunches
+    created_at: "2018-03-29"
+    points: "100"
   - hacker_news_id: "8098756"
     title: "Mojolicious \u2013 Perl real-time web framework"
     url: http://mojolicio.us/
     author: weblaunches
     created_at: "2014-07-28"
     points: "4"
-  - hacker_news_id: "8021289"
-    title: You might not need a WebSocket
-    url: http://blog.fanout.io/2014/06/24/you-might-not-need-a-websocket/
-    author: weblaunches
-    created_at: "2014-07-11"
-    points: "1"
-  - hacker_news_id: "6477335"
-    title: IoT, RaspberryPi, Scalable infrastructure
-    url: http://blog.kaazing.com/2013/10/01/controlling-physical-devices-on-the-real-time-web-kaazing-iot-talk-at-javaone-2013/
-    author: weblaunches
-    created_at: "2013-10-01"
-    points: "1"
-  - hacker_news_id: "6342541"
-    title: Use your iPhone to drive this car
-    url: http://demo.kaazing.com/racer/
-    author: weblaunches
-    created_at: "2013-09-06"
-    points: "2"
-  - hacker_news_id: "5952515"
-    title: DataArt and Kaazing Partner to Deliver Real Time Mobile Financial Applications
-    url: http://www.dataart.com/software-development-company/news/dataart-and-kaazing-partner-to-deliver-real-time-mobile-financial-applications
-    author: weblaunches
-    created_at: "2013-06-27"
-    points: "1"
   latest_stack_exchange_searches:
   - question_id: "47058356"
     title: How catch reseane of closed connection with Kaazing Websocket gatway
