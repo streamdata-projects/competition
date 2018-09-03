@@ -4674,6 +4674,66 @@ competition:
     url: https://twitter.com/PubNub/status/1029432897709780993
     time_stamp: "2018-08-14 11:21:43"
   latest_github_activity:
+  - title: codacy-bot commented on an issue for pubnub/go
+    url: https://api.github.com/repos/pubnub/go/issues/comments/418027379
+    time_stamp: "2018-09-03"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/go
+  - title: crimsonred pushed to pubnub/go
+    url: ""
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: pubnub/pubnub-api being watched by quanpower
+    url: ""
+    time_stamp: "2018-09-02"
+    type: WatchEvent
+    user_name: quanpower
+    repo: pubnub/pubnub-api
+  - title: rosebless submitted an issue on pubnub/chat-engine-examples
+    url: https://api.github.com/repos/pubnub/chat-engine-examples/issues/18
+    time_stamp: "2018-09-02"
+    type: IssuesEvent
+    user_name: rosebless
+    repo: pubnub/chat-engine-examples
+  - title: vveljko pushed to pubnub/c-core
+    url: ""
+    time_stamp: "2018-09-02"
+    type: PushEvent
+    user_name: vveljko
+    repo: pubnub/c-core
+  - title: vveljko pushed to pubnub/c-core
+    url: ""
+    time_stamp: "2018-09-02"
+    type: PushEvent
+    user_name: vveljko
+    repo: pubnub/c-core
+  - title: vveljko made a pull request on pubnub/c-core
+    url: https://github.com/pubnub/c-core/pull/53
+    time_stamp: "2018-09-02"
+    type: PullRequestEvent
+    user_name: vveljko
+    repo: pubnub/c-core
+  - title: pubnub/webrtc being watched by wh1tenoise
+    url: ""
+    time_stamp: "2018-09-01"
+    type: WatchEvent
+    user_name: wh1tenoise
+    repo: pubnub/webrtc
+  - title: pubnub/arduino being watched by memolitasli
+    url: ""
+    time_stamp: "2018-09-01"
+    type: WatchEvent
+    user_name: memolitasli
+    repo: pubnub/arduino
+  - title: sveljko made a pull request on pubnub/c-core
+    url: https://github.com/pubnub/c-core/pull/53
+    time_stamp: "2018-09-01"
+    type: PullRequestEvent
+    user_name: sveljko
+    repo: pubnub/c-core
   - title: pubnub/webrtc being watched by wh1tenoise
     url: ""
     time_stamp: "2018-09-01"
@@ -4739,66 +4799,6 @@ competition:
     time_stamp: "2018-08-31"
     type: PushEvent
     user_name: crimsonred
-    repo: pubnub/go
-  - title: codacy-bot commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417667232
-    time_stamp: "2018-08-31"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/go
-  - title: crimsonred pushed to pubnub/go
-    url: ""
-    time_stamp: "2018-08-31"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: codacy-bot commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417662520
-    time_stamp: "2018-08-31"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/go
-  - title: crimsonred pushed to pubnub/go
-    url: ""
-    time_stamp: "2018-08-31"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: codacy-bot commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417660668
-    time_stamp: "2018-08-31"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/go
-  - title: crimsonred pushed to pubnub/go
-    url: ""
-    time_stamp: "2018-08-31"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: pubnub/pubnub-api was forked by pubnub-api
-    url: ""
-    time_stamp: "2018-08-31"
-    type: ForkEvent
-    user_name: pubnub-api
-    repo: pubnub/pubnub-api
-  - title: pubnub/pubnub-api being watched by samantynawet
-    url: ""
-    time_stamp: "2018-08-31"
-    type: WatchEvent
-    user_name: samantynawet
-    repo: pubnub/pubnub-api
-  - title: codecov-io commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417575030
-    time_stamp: "2018-08-31"
-    type: IssueCommentEvent
-    user_name: codecov-io
-    repo: pubnub/go
-  - title: codecov-io commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417575030
-    time_stamp: "2018-08-31"
-    type: IssueCommentEvent
-    user_name: codecov-io
     repo: pubnub/go
   latest_reddit_searches:
   - reddit_id: "8"
