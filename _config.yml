@@ -4217,6 +4217,12 @@ competition:
     repo: Lightstreamer/Docker
   latest_reddit_searches:
   - reddit_id: "9"
+    title: 'Daily Question for 08/30/2018:'
+    url: https://www.reddit.com/r/waifuism/comments/9bkbvn/daily_question_for_08302018/
+    author: ChanceFix
+    created_date: "2018-08-30"
+    score: "9"
+  - reddit_id: "9"
     title: Streamers attempting the B33F challenge
     url: https://www.reddit.com/r/OutreachHPG/comments/9aautk/streamers_attempting_the_b33f_challenge/
     author: Th3b33f
@@ -4375,23 +4381,17 @@ competition:
     author: Tidus2172
     created_date: "2016-08-04"
     score: "1"
-  - reddit_id: "3"
-    title: Hiccups ruined my trip last night
-    url: https://www.reddit.com/r/shrooms/comments/3hpcfs/hiccups_ruined_my_trip_last_night/
-    author: norwegianmount
-    created_date: "2015-08-20"
-    score: "5"
   latest_hacker_news_searches:
   - hacker_news_id: "2744690"
     title: 10 Years of Push Technology, Comet, and WebSockets
     url: http://cometdaily.com/2011/07/06/push-technology-comet-and-websockets-10-years-of-history-from-lightstreamers-perspective/
-    author: norwegianmount
+    author: Tidus2172
     created_at: "2011-07-08"
     points: "2"
   - hacker_news_id: "114854"
     title: Hello World with Lightstreamer
     url: http://cometdaily.com/2008/02/12/%e2%80%9chello-world%e2%80%9d-with-lightstreamer/
-    author: norwegianmount
+    author: Tidus2172
     created_at: "2008-02-13"
     points: "2"
   latest_stack_exchange_searches:
