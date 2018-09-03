@@ -5431,7 +5431,7 @@ competition:
   name: Pusher
   description: Pusher empowers developer with API to create collaboration & communication
     features in their web and mobile apps.
-  url: https://stackoverflow.com/questions/51176449/pusher-cant-trigger-an-event-in-codeigniter
+  url: https://stackoverflow.com/questions/51240316/pusher-integration-with-lumen-5-6-issue
   email: info@pusher.com
   blog_url: http://blog.pusher.com/
   blog_rss_url: http://feeds.feedburner.com/pusherb
@@ -6019,6 +6019,14 @@ competition:
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "52148367"
+    title: Lumen Pusher BroadcastException without a message
+    url: https://stackoverflow.com/questions/52148367/lumen-pusher-broadcastexception-without-a-message
+    owner_display_name: Alex
+    owner_reputation: "2222"
+    owner_link: https://stackoverflow.com/users/1020154/alex
+    creation_date: "2018-09-03"
+    view_count: "7"
   - question_id: "52078215"
     title: laravel 5.7 + vue.js 2 + laravel echo + pusher, how to make them work together?
     url: https://stackoverflow.com/questions/52078215/laravel-5-7-vue-js-2-laravel-echo-pusher-how-to-make-them-work-together
@@ -6213,14 +6221,6 @@ competition:
     owner_link: https://stackoverflow.com/users/7984933/rizwan-saleem
     creation_date: "2018-07-09"
     view_count: "12"
-  - question_id: "51176449"
-    title: Pusher can&#39;t trigger an event in codeigniter
-    url: https://stackoverflow.com/questions/51176449/pusher-cant-trigger-an-event-in-codeigniter
-    owner_display_name: sobia safdar
-    owner_reputation: "6"
-    owner_link: https://stackoverflow.com/users/5127620/sobia-safdar
-    creation_date: "2018-07-04"
-    view_count: "29"
   tags:
   - WebSockets
   - Webhook Implementations
@@ -6529,6 +6529,12 @@ competition:
     author: viwe12
     created_date: "2018-07-25"
     score: "10"
+  - reddit_id: "915"
+    title: Feral and Boomkin streamrs for learning
+    url: https://www.reddit.com/r/worldofpvp/comments/915msm/feral_and_boomkin_streamrs_for_learning/
+    author: RealGreenybwa
+    created_date: "2018-07-23"
+    score: "7"
   - reddit_id: "90"
     title: Are there IOTA competitors?
     url: https://www.reddit.com/r/Iota/comments/90edw1/are_there_iota_competitors/
@@ -6623,137 +6629,131 @@ competition:
     author: viwe12
     created_date: "2018-06-20"
     score: "28"
-  - reddit_id: "8"
-    title: Why is there zero marketing?
-    url: https://www.reddit.com/r/streamr/comments/8rg7nz/why_is_there_zero_marketing/
-    author: EX-FFguy
-    created_date: "2018-06-16"
-    score: "0"
   latest_hacker_news_searches:
   - hacker_news_id: "17618068"
     title: Streamroot powers largest ever video streaming distributed delivery for
       WC18
     url: https://blog.streamroot.io/streamroot-powers-largest-ever-deployment-of-distributed-network-delivery-video-streaming-world-cup-2018
-    author: EX-FFguy
+    author: viwe12
     created_at: "2018-07-26"
     points: "1"
   - hacker_news_id: "17032222"
     title: "\u201CDecentralisation in stages\u201D \u2013 Streamr DataCoin's
       approach"
     url: https://www.youtube.com/watch?v=q4N2rjpuC4U&t=1115s
-    author: EX-FFguy
+    author: viwe12
     created_at: "2018-05-09"
     points: "4"
   - hacker_news_id: "16987414"
     title: TF1 group selects streamroot technology to power its online video offerings
     url: https://blog.streamroot.io/tf1-largest-european-media-group-selects-streamroot-video-delivery/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2018-05-03"
     points: "3"
   - hacker_news_id: "16546006"
     title: How Streamr Labs will help make a real-time decentralised data economy
       a reality
     url: http://blog.streamr.com/2018/03/streamr-labs-launch/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2018-03-08"
     points: "9"
   - hacker_news_id: "16053814"
     title: Streamr joins EIT Digital Accelerator to drive pan-European scaleup effort
     url: https://www.eitdigital.eu/newsroom/news/article/streamr-joins-eit-digital-accelerator-to-drive-pan-european-scaleup-effort/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2018-01-02"
     points: "6"
   - hacker_news_id: "16051189"
     title: A comparison between IOTA and Streamr
     url: https://medium.com/@giotto_3438/a-comparison-between-iota-and-streamr-343b3d9cd2ec
-    author: EX-FFguy
+    author: viwe12
     created_at: "2018-01-02"
     points: "1"
   - hacker_news_id: "15987103"
     title: Cold Chain Monitoring with Streamr, Ruuvi, and Ethereum
     url: http://blog.streamr.com/2017/12/cold-chain-monitoring-with-streamr-ruuvi-and-ethereum/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2017-12-22"
     points: "1"
   - hacker_news_id: "15420331"
     title: "Show HN StreamRecap \u2013 Searchable Automatic Esports Highlights"
     url: https://streamrecap.com/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2017-10-06"
     points: "2"
   - hacker_news_id: "15190382"
     title: Streamroot lands $3.2M in financing to redesign content delivery
     url: https://www.streamroot.io/streamroot-lands-funding-redesign-content-delivery/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2017-09-07"
     points: "4"
   - hacker_news_id: "14594274"
     title: Streamroot goes multi-device with mobile SDKs
     url: https://blog.streamroot.io/streamroot-multi-device-mobile-sdks/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2017-06-20"
     points: "4"
   - hacker_news_id: "14506371"
     title: Streamroot launches world's First multi-device distributed OTT delivery
       solution
     url: https://www.streamroot.io/streamroot-extends-compatibility-offer-worlds-first-multi-device-plugin-free-distributed-delivery-solution-large-scale-ott
-    author: EX-FFguy
+    author: viwe12
     created_at: "2017-06-07"
     points: "2"
   - hacker_news_id: "14165521"
     title: Vivendi selects Streamroot for high quality OTT video delivery
     url: https://www.streamroot.io/vivendi-selects-streamroot-high-quality-ott-video-delivery
-    author: EX-FFguy
+    author: viwe12
     created_at: "2017-04-21"
     points: "13"
   - hacker_news_id: "12902329"
     title: Dailymotion selects Streamroot for large-scale Peer-accelerated video delivery
     url: https://blog.streamroot.io/dailymotion-streamroot-winning-combination-large-scale-ott/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2016-11-08"
     points: "3"
   - hacker_news_id: "12797873"
     title: Dailymotion selects Streamroot to control cost and QoS
     url: https://www.streamroot.io/dailymotion-selects-streamroot-control-cost-qos-large-scale-ott-video-delivery?utm_content=buffere0d03&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-    author: EX-FFguy
+    author: viwe12
     created_at: "2016-10-26"
     points: "11"
   - hacker_news_id: "10712549"
     title: Streamroot makes video streaming cheaper thanks to peer-to-peer
     url: http://techcrunch.com/2015/12/10/streamroot-makes-video-streaming-cheaper-thanks-to-peer-to-peer/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2015-12-10"
     points: "11"
   - hacker_news_id: "9845251"
     title: Nimble+Streamroot double your live stream capacity with in-browser p2p
       streaming
     url: http://blog.streamroot.io/configure-nimble-streams-optimized-streamroot/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2015-07-07"
     points: "3"
   - hacker_news_id: "9251259"
     title: Interview by GPAC StreamRoot halves delivery costs while raising bitrate
       by 30%
     url: http://www.gpac-licensing.com/2015/03/21/interview-streamroot/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2015-03-23"
     points: "1"
   - hacker_news_id: "9013525"
     title: How to Build Streams in Elixir Easily with Stream.resource/3 Awesomeness
     url: http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2015-02-07"
     points: "1"
   - hacker_news_id: "4261901"
     title: Nodeable gives Hadoop a real-time boost with StreamReduce
     url: http://gigaom.com/cloud/nodeable-gives-hadoop-a-real-time-boost-with-streamreduce/
-    author: EX-FFguy
+    author: viwe12
     created_at: "2012-07-18"
     points: "1"
   - hacker_news_id: "34781"
     title: A VC Streamripping?
     url: http://avc.blogs.com/a_vc/2007/07/streamripping.html
-    author: EX-FFguy
+    author: viwe12
     created_at: "2007-07-17"
     points: "6"
   latest_stack_exchange_searches:
