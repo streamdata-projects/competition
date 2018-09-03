@@ -6938,6 +6938,15 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: Why Hybrid Cloud Needs Streaming Integration
+    url: https://www.striim.com/blog/2018/08/hybrid-cloud-needs-streaming-integration/
+    time_stamp: "2018-08-30 07:05:06"
+  - title: Enabling Real-Time Data Warehousing with Azure SQL Data Warehouse
+    url: https://www.striim.com/blog/2018/08/enabling-real-time-data-warehousing-with-azure-sql-data-warehouse/
+    time_stamp: "2018-08-29 07:00:14"
+  - title: 'Streaming Integration: What Is It and Why Do I Need It?'
+    url: https://www.striim.com/blog/2018/08/streaming-integration-what-is-it-and-why-do-i-need-it/
+    time_stamp: "2018-08-28 07:00:16"
   - title: "Adaptive Machine Learning Model Serving \u2013 Part 2"
     url: https://www.striim.com/blog/2018/08/adaptive-machine-learning-model-serving-part-2/
     time_stamp: "2018-08-23 07:12:24"
