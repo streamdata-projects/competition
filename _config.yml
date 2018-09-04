@@ -5001,10 +5001,10 @@ competition:
     created_date: "2014-03-07"
     score: "95"
   - reddit_id: "1"
-    title: How PubNub is different than WebSockets
-    url: http://www.pubnub.com/blog/how-pubnub-is-different-than-websockets/
+    title: Build chat with App Inventor and PubNub
+    url: http://puravidaapps.com/pubnub.php
     author: ToeJamson
-    created_date: "2013-09-19"
+    created_date: "2013-11-25"
     score: "0"
   latest_hacker_news_searches:
   - hacker_news_id: "17811423"
