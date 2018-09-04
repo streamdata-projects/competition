@@ -2285,108 +2285,156 @@ competition:
     url: https://twitter.com/Firebase/status/1031652456743292930
     time_stamp: "2018-08-20 14:21:27"
   latest_github_activity:
-  - title: deejaygeroso commented on an issue for firebase/quickstart-ios
-    url: https://api.github.com/repos/firebase/quickstart-ios/issues/comments/417966957
-    time_stamp: "2018-09-02"
+  - title: exzizt commented on an issue for firebase/quickstart-unity
+    url: https://api.github.com/repos/firebase/quickstart-unity/issues/comments/418202177
+    time_stamp: "2018-09-03"
     type: IssueCommentEvent
-    user_name: deejaygeroso
-    repo: firebase/quickstart-ios
-  - title: firebase/functions-samples was forked by functions-samples
+    user_name: exzizt
+    repo: firebase/quickstart-unity
+  - title: var-const pushed to firebase/firebase-ios-sdk
     url: ""
-    time_stamp: "2018-09-02"
-    type: ForkEvent
-    user_name: functions-samples
-    repo: firebase/functions-samples
-  - title: firebase/functions-samples being watched by johnrhampton
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
+  - title: firebase/firebase-ios-sdk being watched by ItsMeMIHIR
     url: ""
-    time_stamp: "2018-09-02"
+    time_stamp: "2018-09-03"
     type: WatchEvent
-    user_name: johnrhampton
-    repo: firebase/functions-samples
+    user_name: ItsMeMIHIR
+    repo: firebase/firebase-ios-sdk
+  - title: var-const pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
+  - title: var-const pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
+  - title: yujia917 commented on an issue for firebase/FirebaseUI-iOS
+    url: https://api.github.com/repos/firebase/FirebaseUI-iOS/issues/comments/418198939
+    time_stamp: "2018-09-03"
+    type: IssueCommentEvent
+    user_name: yujia917
+    repo: firebase/FirebaseUI-iOS
+  - title: firebase/togetherjs being watched by scripterCD
+    url: ""
+    time_stamp: "2018-09-03"
+    type: WatchEvent
+    user_name: scripterCD
+    repo: firebase/togetherjs
+  - title: yujia917 submitted an issue on firebase/FirebaseUI-iOS
+    url: https://api.github.com/repos/firebase/FirebaseUI-iOS/issues/514
+    time_stamp: "2018-09-03"
+    type: IssuesEvent
+    user_name: yujia917
+    repo: firebase/FirebaseUI-iOS
+  - title: firebase/quickstart-android was forked by quickstart-android
+    url: ""
+    time_stamp: "2018-09-03"
+    type: ForkEvent
+    user_name: quickstart-android
+    repo: firebase/quickstart-android
   - title: firebase/firebase-ios-sdk was forked by firebase-ios-sdk
     url: ""
-    time_stamp: "2018-09-02"
+    time_stamp: "2018-09-03"
     type: ForkEvent
     user_name: firebase-ios-sdk
     repo: firebase/firebase-ios-sdk
-  - title: firebase/firebase-ios-sdk being watched by boraseoksoon
+  - title: firebase/friendlypix-web being watched by scripterCD
     url: ""
-    time_stamp: "2018-09-02"
+    time_stamp: "2018-09-03"
     type: WatchEvent
-    user_name: boraseoksoon
-    repo: firebase/firebase-ios-sdk
-  - title: firebase/firebaseui-web being watched by edmitry12
+    user_name: scripterCD
+    repo: firebase/friendlypix-web
+  - title: firebase/quickstart-ios was forked by quickstart-ios
     url: ""
-    time_stamp: "2018-09-02"
-    type: WatchEvent
-    user_name: edmitry12
-    repo: firebase/firebaseui-web
-  - title: ITGuy9401 submitted an issue on firebase/firebase-js-sdk
-    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/1191
-    time_stamp: "2018-09-02"
-    type: IssuesEvent
-    user_name: ITGuy9401
-    repo: firebase/firebase-js-sdk
-  - title: firebase/quickstart-unity was forked by quickstart-unity
-    url: ""
-    time_stamp: "2018-09-02"
+    time_stamp: "2018-09-03"
     type: ForkEvent
-    user_name: quickstart-unity
-    repo: firebase/quickstart-unity
-  - title: firebase/firebaseui-web being watched by stanfliet
+    user_name: quickstart-ios
+    repo: firebase/quickstart-ios
+  - title: firebase/quickstart-android was forked by quickstart-android
     url: ""
-    time_stamp: "2018-09-02"
-    type: WatchEvent
-    user_name: stanfliet
-    repo: firebase/firebaseui-web
-  - title: firebase/functions-samples being watched by AbdilFattahBoshi
+    time_stamp: "2018-09-03"
+    type: ForkEvent
+    user_name: quickstart-android
+    repo: firebase/quickstart-android
+  - title: firebase/functions-samples being watched by dpolicastro
     url: ""
-    time_stamp: "2018-09-02"
+    time_stamp: "2018-09-03"
     type: WatchEvent
-    user_name: AbdilFattahBoshi
+    user_name: dpolicastro
     repo: firebase/functions-samples
-  - title: var-const pushed to firebase/firebase-ios-sdk
+  - title: dpebot pushed to firebase/friendlypix-ios
     url: ""
-    time_stamp: "2018-09-02"
+    time_stamp: "2018-09-03"
     type: PushEvent
-    user_name: var-const
-    repo: firebase/firebase-ios-sdk
-  - title: var-const pushed to firebase/firebase-ios-sdk
+    user_name: dpebot
+    repo: firebase/friendlypix-ios
+  - title: danseethaler commented on an issue for firebase/firebase-functions
+    url: https://api.github.com/repos/firebase/firebase-functions/issues/comments/418186512
+    time_stamp: "2018-09-03"
+    type: IssueCommentEvent
+    user_name: danseethaler
+    repo: firebase/firebase-functions
+  - title: firebase/functions-samples being watched by RohanTalip
     url: ""
-    time_stamp: "2018-09-02"
-    type: PushEvent
-    user_name: var-const
-    repo: firebase/firebase-ios-sdk
-  - title: var-const pushed to firebase/firebase-ios-sdk
+    time_stamp: "2018-09-03"
+    type: WatchEvent
+    user_name: RohanTalip
+    repo: firebase/functions-samples
+  - title: JuanCollin7 commented on an issue for firebase/quickstart-ios
+    url: https://api.github.com/repos/firebase/quickstart-ios/issues/comments/418184325
+    time_stamp: "2018-09-03"
+    type: IssueCommentEvent
+    user_name: JuanCollin7
+    repo: firebase/quickstart-ios
+  - title: joaomelo81 submitted an issue on firebase/quickstart-ios
+    url: https://api.github.com/repos/firebase/quickstart-ios/issues/528
+    time_stamp: "2018-09-03"
+    type: IssuesEvent
+    user_name: joaomelo81
+    repo: firebase/quickstart-ios
+  - title: firebase/functions-samples being watched by wesleyfuchter
     url: ""
-    time_stamp: "2018-09-02"
-    type: PushEvent
-    user_name: var-const
-    repo: firebase/firebase-ios-sdk
+    time_stamp: "2018-09-03"
+    type: WatchEvent
+    user_name: wesleyfuchter
+    repo: firebase/functions-samples
+  - title: firebase/quickstart-android was forked by quickstart-android
+    url: ""
+    time_stamp: "2018-09-03"
+    type: ForkEvent
+    user_name: quickstart-android
+    repo: firebase/quickstart-android
+  - title: shs442000 commented on an issue for firebase/FirebaseUI-Android
+    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/418167101
+    time_stamp: "2018-09-03"
+    type: IssueCommentEvent
+    user_name: shs442000
+    repo: firebase/FirebaseUI-Android
+  - title: SUPERCILEX commented on an issue for firebase/FirebaseUI-Android
+    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/418166313
+    time_stamp: "2018-09-03"
+    type: IssueCommentEvent
+    user_name: SUPERCILEX
+    repo: firebase/FirebaseUI-Android
+  - title: shs442000 submitted an issue on firebase/FirebaseUI-Android
+    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/1433
+    time_stamp: "2018-09-03"
+    type: IssuesEvent
+    user_name: shs442000
+    repo: firebase/FirebaseUI-Android
   - title: firebase/functions-samples was forked by functions-samples
     url: ""
-    time_stamp: "2018-09-02"
+    time_stamp: "2018-09-03"
     type: ForkEvent
     user_name: functions-samples
     repo: firebase/functions-samples
-  - title: var-const pushed to firebase/firebase-ios-sdk
-    url: ""
-    time_stamp: "2018-09-02"
-    type: PushEvent
-    user_name: var-const
-    repo: firebase/firebase-ios-sdk
-  - title: googlebot commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/417956057
-    time_stamp: "2018-09-02"
-    type: IssueCommentEvent
-    user_name: googlebot
-    repo: firebase/firebase-ios-sdk
-  - title: var-const pushed to firebase/firebase-ios-sdk
-    url: ""
-    time_stamp: "2018-09-02"
-    type: PushEvent
-    user_name: var-const
-    repo: firebase/firebase-ios-sdk
   latest_reddit_searches:
   - reddit_id: "9"
     title: unable to access google firebase from angular?
