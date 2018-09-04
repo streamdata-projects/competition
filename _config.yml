@@ -4734,120 +4734,120 @@ competition:
     type: PushEvent
     user_name: crimsonred
     repo: pubnub/go
-  - title: pubnub/pubnub-api being watched by quanpower
+  - title: crimsonred pushed to pubnub/go
     url: ""
-    time_stamp: "2018-09-02"
-    type: WatchEvent
-    user_name: quanpower
-    repo: pubnub/pubnub-api
-  - title: rosebless submitted an issue on pubnub/chat-engine-examples
-    url: https://api.github.com/repos/pubnub/chat-engine-examples/issues/18
-    time_stamp: "2018-09-02"
-    type: IssuesEvent
-    user_name: rosebless
-    repo: pubnub/chat-engine-examples
-  - title: vveljko pushed to pubnub/c-core
-    url: ""
-    time_stamp: "2018-09-02"
+    time_stamp: "2018-09-03"
     type: PushEvent
-    user_name: vveljko
-    repo: pubnub/c-core
-  - title: vveljko pushed to pubnub/c-core
-    url: ""
-    time_stamp: "2018-09-02"
-    type: PushEvent
-    user_name: vveljko
-    repo: pubnub/c-core
-  - title: vveljko made a pull request on pubnub/c-core
-    url: https://github.com/pubnub/c-core/pull/53
-    time_stamp: "2018-09-02"
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: crimsonred made a pull request on pubnub/go
+    url: https://github.com/pubnub/go/pull/52
+    time_stamp: "2018-09-03"
     type: PullRequestEvent
-    user_name: vveljko
-    repo: pubnub/c-core
-  - title: pubnub/webrtc being watched by wh1tenoise
+    user_name: crimsonred
+    repo: pubnub/go
+  - title: pubnub/eon being watched by jermaineharris
     url: ""
-    time_stamp: "2018-09-01"
+    time_stamp: "2018-09-03"
     type: WatchEvent
-    user_name: wh1tenoise
-    repo: pubnub/webrtc
-  - title: pubnub/arduino being watched by memolitasli
+    user_name: jermaineharris
+    repo: pubnub/eon
+  - title: pubnub/java was forked by java-5
     url: ""
-    time_stamp: "2018-09-01"
-    type: WatchEvent
-    user_name: memolitasli
-    repo: pubnub/arduino
-  - title: sveljko made a pull request on pubnub/c-core
-    url: https://github.com/pubnub/c-core/pull/53
-    time_stamp: "2018-09-01"
-    type: PullRequestEvent
-    user_name: sveljko
-    repo: pubnub/c-core
-  - title: pubnub/webrtc being watched by wh1tenoise
-    url: ""
-    time_stamp: "2018-09-01"
-    type: WatchEvent
-    user_name: wh1tenoise
-    repo: pubnub/webrtc
-  - title: pubnub/arduino being watched by memolitasli
-    url: ""
-    time_stamp: "2018-09-01"
-    type: WatchEvent
-    user_name: memolitasli
-    repo: pubnub/arduino
-  - title: sveljko made a pull request on pubnub/c-core
-    url: https://github.com/pubnub/c-core/pull/53
-    time_stamp: "2018-09-01"
-    type: PullRequestEvent
-    user_name: sveljko
-    repo: pubnub/c-core
-  - title: pvtmert made a pull request on pubnub/easy-hacker-news-stream
-    url: https://github.com/pubnub/easy-hacker-news-stream/pull/4
-    time_stamp: "2018-08-31"
-    type: PullRequestEvent
-    user_name: pvtmert
-    repo: pubnub/easy-hacker-news-stream
-  - title: pubnub/easy-hacker-news-stream was forked by easy-hacker-news-stream
-    url: ""
-    time_stamp: "2018-08-31"
+    time_stamp: "2018-09-03"
     type: ForkEvent
-    user_name: easy-hacker-news-stream
-    repo: pubnub/easy-hacker-news-stream
-  - title: tr3online submitted an issue on pubnub/javascript-realtime-voting-app-workshop
-    url: https://api.github.com/repos/pubnub/javascript-realtime-voting-app-workshop/issues/2
-    time_stamp: "2018-08-31"
-    type: IssuesEvent
-    user_name: tr3online
-    repo: pubnub/javascript-realtime-voting-app-workshop
-  - title: pubnub/react being watched by sbhamad
+    user_name: java-5
+    repo: pubnub/java
+  - title: pubnub/pubnub-angular being watched by LightVolk
     url: ""
-    time_stamp: "2018-08-31"
+    time_stamp: "2018-09-03"
     type: WatchEvent
-    user_name: sbhamad
-    repo: pubnub/react
-  - title: codacy-bot commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417702001
-    time_stamp: "2018-08-31"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/go
-  - title: crimsonred pushed to pubnub/go
+    user_name: LightVolk
+    repo: pubnub/pubnub-angular
+  - title: pubnub/chat-engine-tutorial being watched by LightVolk
     url: ""
-    time_stamp: "2018-08-31"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: codacy-bot commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/417699457
-    time_stamp: "2018-08-31"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/go
-  - title: crimsonred pushed to pubnub/go
+    time_stamp: "2018-09-03"
+    type: WatchEvent
+    user_name: LightVolk
+    repo: pubnub/chat-engine-tutorial
+  - title: pubnub/eon being watched by tristanrose
     url: ""
-    time_stamp: "2018-08-31"
+    time_stamp: "2018-09-03"
+    type: WatchEvent
+    user_name: tristanrose
+    repo: pubnub/eon
+  - title: qsoftdevelopment pushed to pubnub/java
+    url: ""
+    time_stamp: "2018-09-03"
     type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: qsoftdevelopment made a pull request on pubnub/java
+    url: https://github.com/pubnub/java/pull/129
+    time_stamp: "2018-09-03"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: qsoftdevelopment pushed to pubnub/java
+    url: ""
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: qsoftdevelopment pushed to pubnub/java
+    url: ""
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: qsoftdevelopment pushed to pubnub/java
+    url: ""
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: qsoftdevelopment pushed to pubnub/java
+    url: ""
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: qsoftdevelopment pushed to pubnub/java
+    url: ""
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: qsoftdevelopment made a pull request on pubnub/java
+    url: https://github.com/pubnub/java/pull/127
+    time_stamp: "2018-09-03"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: qsoftdevelopment pushed to pubnub/java
+    url: ""
+    time_stamp: "2018-09-03"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: pubnub/eon-chart being watched by edwardpwtsoi
+    url: ""
+    time_stamp: "2018-09-03"
+    type: WatchEvent
+    user_name: edwardpwtsoi
+    repo: pubnub/eon-chart
+  - title: pubnub/pubnub-react was forked by pubnub-react
+    url: ""
+    time_stamp: "2018-09-03"
+    type: ForkEvent
+    user_name: pubnub-react
+    repo: pubnub/pubnub-react
+  - title: vveljko made a pull request on pubnub/c-core
+    url: https://github.com/pubnub/c-core/pull/54
+    time_stamp: "2018-09-03"
+    type: PullRequestEvent
+    user_name: vveljko
+    repo: pubnub/c-core
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
@@ -6304,6 +6304,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg
   image_width: ""
   latest_blog:
+  - title: "Streamr's online community: what's best for you?"
+    url: https://medium.com/streamrblog/streamrs-online-community-what-s-best-for-you-c751a6b088db?source=rss----40973205350c---4
+    time_stamp: "2018-08-30 03:33:12"
   - title: 'DApps: Why realtime data is the missing component'
     url: https://medium.com/streamrblog/dapps-why-the-realtime-data-backbone-is-the-missing-component-d2e6f9bb643e?source=rss----40973205350c---4
     time_stamp: "2018-08-27 07:59:05"
