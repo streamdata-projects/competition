@@ -4561,6 +4561,10 @@ competition:
     url: https://www.pubnub.com/blog/every-millisecond-counts-why-time-is-everything-for-businesses/
     time_stamp: "2018-07-31 09:43:23"
   latest_tweets:
+  - title: "RT @cml_apps: We had a great time presenting our Magic AR Giraffe demo
+      at the ARKit event put on by @PubNub. This multi-user AR experience..."
+    url: https://twitter.com/PubNub/status/1037023555014152193
+    time_stamp: "2018-09-04 10:04:17"
   - title: 'How exactly does an #ecommerce #chatbot work? Learn here: https://t.co/m2BngEEnc3
       https://t.co/z04KTmpL71'
     url: https://twitter.com/PubNub/status/1035667814932258816
@@ -4657,10 +4661,6 @@ competition:
       the current capabilities of their human op... https://t.co/mGPiJHFYkD"
     url: https://twitter.com/PubNub/status/1029437513474162689
     time_stamp: "2018-08-14 11:40:03"
-  - title: "\u201CFrom testing, to 1,500 rides a day today, to an estimated 15,000
-      rides a day in the coming months, we're confident... https://t.co/IlQu6YHjMD"
-    url: https://twitter.com/PubNub/status/1029432897709780993
-    time_stamp: "2018-08-14 11:21:43"
   latest_github_activity:
   - title: codacy-bot commented on an issue for pubnub/go
     url: https://api.github.com/repos/pubnub/go/issues/comments/418027379
