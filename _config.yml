@@ -2183,6 +2183,26 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Retaining users is a tough problem for game devs. Using Firebase Predictions,
+      @Halfbrick, the studio behind... https://t.co/qjASyIx0Hq"
+    url: https://twitter.com/Firebase/status/1037109214626439168
+    time_stamp: "2018-09-04 15:44:39"
+  - title: "Boost your productivity by creating @Jira issues based on reported crashes
+      within #Firebase. To celebrate the integ... https://t.co/63jzJCkC1i"
+    url: https://twitter.com/Firebase/status/1037090450241409025
+    time_stamp: "2018-09-04 14:30:06"
+  - title: "Inspired by a cat photo binge on Instagram, @ThatJenPerson built a social
+      media app with similar features. Catch he... https://t.co/5FEmeKsJAd"
+    url: https://twitter.com/Firebase/status/1037076923619233792
+    time_stamp: "2018-09-04 13:36:21"
+  - title: "The new Rest API for Remote Config makes life easier for devs juggling
+      multiple projects. @thatjenperson and PM May... https://t.co/uXqRQwR4AR"
+    url: https://twitter.com/Firebase/status/1037021703040319488
+    time_stamp: "2018-09-04 09:56:55"
+  - title: "Firebaser @megha loves hearing what devs like about Firebase &amp; how
+      we can make it even better. She'll be at the... https://t.co/6wjDha3a9R"
+    url: https://twitter.com/Firebase/status/1037012042929004544
+    time_stamp: "2018-09-04 09:18:32"
   - title: "We're in Toronto and Waterloo next week and would love to talk to
       you! Sign up for user research sessions \u2013 for nex... https://t.co/uxVNuCNKlP"
     url: https://twitter.com/Firebase/status/1035632031160516609
@@ -2263,26 +2283,6 @@ competition:
       for their infrastructure, authenticatio... https://t.co/oje7edYW4B"
     url: https://twitter.com/Firebase/status/1032327928271589378
     time_stamp: "2018-08-22 11:05:32"
-  - title: "We heard that you wanted more advanced issue filtering, so you can work
-      more efficiently. We are excited to announc... https://t.co/bCbx1ceIE8"
-    url: https://twitter.com/Firebase/status/1032299634994159616
-    time_stamp: "2018-08-22 09:13:06"
-  - title: "Our friends over at Google Analytics just published a great series of
-      videos to teach you how to get started with G... https://t.co/z9tCu20sXQ"
-    url: https://twitter.com/Firebase/status/1031988779672895494
-    time_stamp: "2018-08-21 12:37:53"
-  - title: "You asked for it! We built it! One Firebase project, multiple sites. \n\nCheck
-      out the blog post for all the details  https://t.co/2onjAuZs2I"
-    url: https://twitter.com/Firebase/status/1031980365425070081
-    time_stamp: "2018-08-21 12:04:27"
-  - title: 'RT @startupandrew: I have a blog now! https://t.co/321924wZ6u (powered
-      by @Firebase Hosting, of course)'
-    url: https://twitter.com/Firebase/status/1031960969298173952
-    time_stamp: "2018-08-21 10:47:22"
-  - title: "Today, we're unveiling a brand new tool: Firebase In-App Messaging!\n\nIn-App
-      Messaging helps you guide users who are... https://t.co/lyxYAp0KuI"
-    url: https://twitter.com/Firebase/status/1031652456743292930
-    time_stamp: "2018-08-20 14:21:27"
   latest_github_activity:
   - title: firebase/functions-samples being watched by sarahdwyer
     url: ""
