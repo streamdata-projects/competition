@@ -3588,6 +3588,12 @@ competition:
     author: weblaunches
     created_at: "2018-09-04"
     points: "0"
+  - hacker_news_id: "17914544"
+    title: Maybe adding generics to Go is about syntax after all
+    url: https://dave.cheney.net/2018/09/03/maybe-adding-generics-to-go-is-about-syntax-after-all
+    author: weblaunches
+    created_at: "2018-09-04"
+    points: "0"
   - hacker_news_id: "17906605"
     title: Paternity leave at startups designing a policy for new parents
     url: https://www.kapwing.com/blog/paternity-leave-for-startups/
@@ -3714,12 +3720,6 @@ competition:
   - hacker_news_id: "17810574"
     title: Service as a SKU (2012)
     url: https://a16z.com/2018/08/17/service-as-a-sku/
-    author: weblaunches
-    created_at: "2018-08-21"
-    points: "0"
-  - hacker_news_id: "17810472"
-    title: Show HN Hookpad, a music editor with music theory inside made with React/Redux
-    url: https://www.hooktheory.com/hookpad/app
     author: weblaunches
     created_at: "2018-08-21"
     points: "0"
@@ -4662,6 +4662,60 @@ competition:
     url: https://twitter.com/PubNub/status/1029437513474162689
     time_stamp: "2018-08-14 11:40:03"
   latest_github_activity:
+  - title: chrisreed01 submitted an issue on pubnub/eon-map
+    url: https://api.github.com/repos/pubnub/eon-map/issues/30
+    time_stamp: "2018-09-04"
+    type: IssuesEvent
+    user_name: chrisreed01
+    repo: pubnub/eon-map
+  - title: pubnub/unity was forked by unity
+    url: ""
+    time_stamp: "2018-09-04"
+    type: ForkEvent
+    user_name: unity
+    repo: pubnub/unity
+  - title: chrisreed01 submitted an issue on pubnub/eon-map
+    url: https://api.github.com/repos/pubnub/eon-map/issues/30
+    time_stamp: "2018-09-04"
+    type: IssuesEvent
+    user_name: chrisreed01
+    repo: pubnub/eon-map
+  - title: madisonsmith pushed to pubnub/chat-engine-plugin
+    url: ""
+    time_stamp: "2018-09-04"
+    type: PushEvent
+    user_name: madisonsmith
+    repo: pubnub/chat-engine-plugin
+  - title: madisonsmith made a pull request on pubnub/chat-engine-plugin
+    url: https://github.com/pubnub/chat-engine-plugin/pull/2
+    time_stamp: "2018-09-04"
+    type: PullRequestEvent
+    user_name: madisonsmith
+    repo: pubnub/chat-engine-plugin
+  - title: craigtp-ivendi submitted an issue on pubnub/chat-engine-examples
+    url: https://api.github.com/repos/pubnub/chat-engine-examples/issues/19
+    time_stamp: "2018-09-04"
+    type: IssuesEvent
+    user_name: craigtp-ivendi
+    repo: pubnub/chat-engine-examples
+  - title: pubnub/eon being watched by ladeef
+    url: ""
+    time_stamp: "2018-09-04"
+    type: WatchEvent
+    user_name: ladeef
+    repo: pubnub/eon
+  - title: qsoftdevelopment pushed to pubnub/java
+    url: ""
+    time_stamp: "2018-09-04"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
+  - title: qsoftdevelopment made a pull request on pubnub/java
+    url: https://github.com/pubnub/java/pull/129
+    time_stamp: "2018-09-04"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/java
   - title: codacy-bot commented on an issue for pubnub/go
     url: https://api.github.com/repos/pubnub/go/issues/comments/418027379
     time_stamp: "2018-09-03"
@@ -4704,90 +4758,6 @@ competition:
     type: WatchEvent
     user_name: LightVolk
     repo: pubnub/pubnub-angular
-  - title: pubnub/chat-engine-tutorial being watched by LightVolk
-    url: ""
-    time_stamp: "2018-09-03"
-    type: WatchEvent
-    user_name: LightVolk
-    repo: pubnub/chat-engine-tutorial
-  - title: pubnub/eon being watched by tristanrose
-    url: ""
-    time_stamp: "2018-09-03"
-    type: WatchEvent
-    user_name: tristanrose
-    repo: pubnub/eon
-  - title: qsoftdevelopment pushed to pubnub/java
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: qsoftdevelopment made a pull request on pubnub/java
-    url: https://github.com/pubnub/java/pull/129
-    time_stamp: "2018-09-03"
-    type: PullRequestEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: qsoftdevelopment pushed to pubnub/java
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: qsoftdevelopment pushed to pubnub/java
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: qsoftdevelopment pushed to pubnub/java
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: qsoftdevelopment pushed to pubnub/java
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: qsoftdevelopment pushed to pubnub/java
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: qsoftdevelopment made a pull request on pubnub/java
-    url: https://github.com/pubnub/java/pull/127
-    time_stamp: "2018-09-03"
-    type: PullRequestEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: qsoftdevelopment pushed to pubnub/java
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: pubnub/eon-chart being watched by edwardpwtsoi
-    url: ""
-    time_stamp: "2018-09-03"
-    type: WatchEvent
-    user_name: edwardpwtsoi
-    repo: pubnub/eon-chart
-  - title: pubnub/pubnub-react was forked by pubnub-react
-    url: ""
-    time_stamp: "2018-09-03"
-    type: ForkEvent
-    user_name: pubnub-react
-    repo: pubnub/pubnub-react
-  - title: vveljko made a pull request on pubnub/c-core
-    url: https://github.com/pubnub/c-core/pull/54
-    time_stamp: "2018-09-03"
-    type: PullRequestEvent
-    user_name: vveljko
-    repo: pubnub/c-core
   latest_reddit_searches:
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
