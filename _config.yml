@@ -5613,6 +5613,84 @@ competition:
     url: https://twitter.com/pusher/status/1009027509470552064
     time_stamp: "2018-06-19 03:57:59"
   latest_github_activity:
+  - title: pusher/pusher-js being watched by damienallen
+    url: ""
+    time_stamp: "2018-09-04"
+    type: WatchEvent
+    user_name: damienallen
+    repo: pusher/pusher-js
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-09-04"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: vivangkumar commented on an issue for pusher/chatkit-server-node
+    url: https://api.github.com/repos/pusher/chatkit-server-node/issues/comments/418374836
+    time_stamp: "2018-09-04"
+    type: IssueCommentEvent
+    user_name: vivangkumar
+    repo: pusher/chatkit-server-node
+  - title: vivangkumar commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/418374597
+    time_stamp: "2018-09-04"
+    type: IssueCommentEvent
+    user_name: vivangkumar
+    repo: pusher/chatkit-client-js
+  - title: pusher/pusher-js being watched by joaovertelo
+    url: ""
+    time_stamp: "2018-09-04"
+    type: WatchEvent
+    user_name: joaovertelo
+    repo: pusher/pusher-js
+  - title: pusher/pusher-http-laravel being watched by Yizen
+    url: ""
+    time_stamp: "2018-09-04"
+    type: WatchEvent
+    user_name: Yizen
+    repo: pusher/pusher-http-laravel
+  - title: mdpye pushed to pusher/pusher-platform-android
+    url: ""
+    time_stamp: "2018-09-04"
+    type: PushEvent
+    user_name: mdpye
+    repo: pusher/pusher-platform-android
+  - title: mdpye pushed to pusher/pusher-platform-android
+    url: ""
+    time_stamp: "2018-09-04"
+    type: PushEvent
+    user_name: mdpye
+    repo: pusher/pusher-platform-android
+  - title: jonathanlloyd submitted an issue on pusher/push-notifications-php
+    url: https://api.github.com/repos/pusher/push-notifications-php/issues/24
+    time_stamp: "2018-09-04"
+    type: IssuesEvent
+    user_name: jonathanlloyd
+    repo: pusher/push-notifications-php
+  - title: jonathanlloyd commented on an issue for pusher/push-notifications-php
+    url: https://api.github.com/repos/pusher/push-notifications-php/issues/comments/418296480
+    time_stamp: "2018-09-04"
+    type: IssueCommentEvent
+    user_name: jonathanlloyd
+    repo: pusher/push-notifications-php
+  - title: pusher/pusher-js being watched by wsee911
+    url: ""
+    time_stamp: "2018-09-04"
+    type: WatchEvent
+    user_name: wsee911
+    repo: pusher/pusher-js
+  - title: pusher/pusher-http-laravel being watched by wsee911
+    url: ""
+    time_stamp: "2018-09-04"
+    type: WatchEvent
+    user_name: wsee911
+    repo: pusher/pusher-http-laravel
+  - title: mdpye pushed to pusher/pusher-platform-android
+    url: ""
+    time_stamp: "2018-09-04"
+    type: PushEvent
+    user_name: mdpye
+    repo: pusher/pusher-platform-android
   - title: pusher/push-notifications-swift being watched by frwrdnet
     url: ""
     time_stamp: "2018-09-03"
@@ -5685,42 +5763,6 @@ competition:
     type: PushEvent
     user_name: hamchapman
     repo: pusher/chatkit-client-js
-  - title: hamchapman pushed to pusher/chatkit-client-js
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-client-js
-  - title: pusher/pusher-js being watched by jgranstrom
-    url: ""
-    time_stamp: "2018-09-03"
-    type: WatchEvent
-    user_name: jgranstrom
-    repo: pusher/pusher-js
-  - title: hamchapman made a pull request on pusher/chatkit-client-js
-    url: https://github.com/pusher/chatkit-client-js/pull/99
-    time_stamp: "2018-09-03"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-client-js
-  - title: hamchapman pushed to pusher/chatkit-client-js
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-client-js
-  - title: hamchapman pushed to pusher/chatkit-client-js
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-client-js
-  - title: JoelSpeed pushed to pusher/controller-runtime
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: JoelSpeed
-    repo: pusher/controller-runtime
   latest_reddit_searches:
   - reddit_id: "9"
     title: When Lewis has been gaining too much weight
