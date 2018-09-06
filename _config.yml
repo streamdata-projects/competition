@@ -5612,153 +5612,124 @@ competition:
     url: https://twitter.com/pusher/status/1009027509470552064
     time_stamp: "2018-06-19 03:57:59"
   latest_github_activity:
-  - title: pusher/pusher-js being watched by damienallen
+  - title: jackcbrown89 submitted an issue on pusher/cli
+    url: https://api.github.com/repos/pusher/cli/issues/34
+    time_stamp: "2018-09-05"
+    type: IssuesEvent
+    user_name: jackcbrown89
+    repo: pusher/cli
+  - title: pusher/pusher-http-node being watched by jackcbrown89
     url: ""
-    time_stamp: "2018-09-04"
+    time_stamp: "2018-09-05"
     type: WatchEvent
-    user_name: damienallen
-    repo: pusher/pusher-js
-  - title: JoelSpeed pushed to pusher/controller-runtime
+    user_name: jackcbrown89
+    repo: pusher/pusher-http-node
+  - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit being watched
+      by stewartmccoy
     url: ""
-    time_stamp: "2018-09-04"
+    time_stamp: "2018-09-05"
+    type: WatchEvent
+    user_name: stewartmccoy
+    repo: pusher/build-a-slack-clone-with-react-and-pusher-c
+  - title: pusher/k8s-auth-example was forked by k8s-auth-example
+    url: ""
+    time_stamp: "2018-09-05"
+    type: ForkEvent
+    user_name: k8s-auth-example
+    repo: pusher/k8s-auth-example
+  - title: pusher/pusher-websocket-java being watched by Ornolfr
+    url: ""
+    time_stamp: "2018-09-05"
+    type: WatchEvent
+    user_name: Ornolfr
+    repo: pusher/pusher-websocket-java
+  - title: codecov-io commented on an issue for pusher/pusher-http-laravel
+    url: https://api.github.com/repos/pusher/pusher-http-laravel/issues/comments/418761201
+    time_stamp: "2018-09-05"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: pusher/pusher-http-laravel
+  - title: kn100 made a pull request on pusher/pusher-http-laravel
+    url: https://github.com/pusher/pusher-http-laravel/pull/39
+    time_stamp: "2018-09-05"
+    type: PullRequestEvent
+    user_name: kn100
+    repo: pusher/pusher-http-laravel
+  - title: pusher/k8s-spot-termination-handler being watched by markthebault
+    url: ""
+    time_stamp: "2018-09-05"
+    type: WatchEvent
+    user_name: markthebault
+    repo: pusher/k8s-spot-termination-handler
+  - title: pusher/k8s-spot-rescheduler being watched by markthebault
+    url: ""
+    time_stamp: "2018-09-05"
+    type: WatchEvent
+    user_name: markthebault
+    repo: pusher/k8s-spot-rescheduler
+  - title: pusher/pusher-http-php being watched by blks
+    url: ""
+    time_stamp: "2018-09-05"
+    type: WatchEvent
+    user_name: blks
+    repo: pusher/pusher-http-php
+  - title: kn100 pushed to pusher/pusher-http-laravel
+    url: ""
+    time_stamp: "2018-09-05"
+    type: PushEvent
+    user_name: kn100
+    repo: pusher/pusher-http-laravel
+  - title: kn100 made a pull request on pusher/pusher-http-laravel
+    url: https://github.com/pusher/pusher-http-laravel/pull/38
+    time_stamp: "2018-09-05"
+    type: PullRequestEvent
+    user_name: kn100
+    repo: pusher/pusher-http-laravel
+  - title: teminer commented on an issue for pusher/chatkit-swift
+    url: https://api.github.com/repos/pusher/chatkit-swift/issues/comments/418732431
+    time_stamp: "2018-09-05"
+    type: IssueCommentEvent
+    user_name: teminer
+    repo: pusher/chatkit-swift
+  - title: JoelSpeed pushed to pusher/kubernetes
+    url: ""
+    time_stamp: "2018-09-05"
     type: PushEvent
     user_name: JoelSpeed
-    repo: pusher/controller-runtime
-  - title: vivangkumar commented on an issue for pusher/chatkit-server-node
-    url: https://api.github.com/repos/pusher/chatkit-server-node/issues/comments/418374836
-    time_stamp: "2018-09-04"
-    type: IssueCommentEvent
-    user_name: vivangkumar
-    repo: pusher/chatkit-server-node
-  - title: vivangkumar commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/418374597
-    time_stamp: "2018-09-04"
-    type: IssueCommentEvent
-    user_name: vivangkumar
-    repo: pusher/chatkit-client-js
-  - title: pusher/pusher-js being watched by joaovertelo
+    repo: pusher/kubernetes
+  - title: pusher/pusher-websocket-swift was forked by pusher-websocket-swift
     url: ""
-    time_stamp: "2018-09-04"
-    type: WatchEvent
-    user_name: joaovertelo
-    repo: pusher/pusher-js
-  - title: pusher/pusher-http-laravel being watched by Yizen
+    time_stamp: "2018-09-05"
+    type: ForkEvent
+    user_name: pusher-websocket-swift
+    repo: pusher/pusher-websocket-swift
+  - title: pusher/chameleon being watched by Sebastianbrg
     url: ""
-    time_stamp: "2018-09-04"
+    time_stamp: "2018-09-05"
     type: WatchEvent
-    user_name: Yizen
+    user_name: Sebastianbrg
+    repo: pusher/chameleon
+  - title: gianpaj commented on an issue for pusher/chatkit-swift
+    url: https://api.github.com/repos/pusher/chatkit-swift/issues/comments/418702928
+    time_stamp: "2018-09-05"
+    type: IssueCommentEvent
+    user_name: gianpaj
+    repo: pusher/chatkit-swift
+  - title: JoelSpeed pushed to pusher/kubernetes
+    url: ""
+    time_stamp: "2018-09-05"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/kubernetes
+  - title: kn100 commented on an issue for pusher/pusher-http-laravel
+    url: https://api.github.com/repos/pusher/pusher-http-laravel/issues/comments/418685574
+    time_stamp: "2018-09-05"
+    type: IssueCommentEvent
+    user_name: kn100
     repo: pusher/pusher-http-laravel
-  - title: mdpye pushed to pusher/pusher-platform-android
-    url: ""
-    time_stamp: "2018-09-04"
-    type: PushEvent
-    user_name: mdpye
-    repo: pusher/pusher-platform-android
-  - title: mdpye pushed to pusher/pusher-platform-android
-    url: ""
-    time_stamp: "2018-09-04"
-    type: PushEvent
-    user_name: mdpye
-    repo: pusher/pusher-platform-android
-  - title: jonathanlloyd submitted an issue on pusher/push-notifications-php
-    url: https://api.github.com/repos/pusher/push-notifications-php/issues/24
-    time_stamp: "2018-09-04"
-    type: IssuesEvent
-    user_name: jonathanlloyd
-    repo: pusher/push-notifications-php
-  - title: jonathanlloyd commented on an issue for pusher/push-notifications-php
-    url: https://api.github.com/repos/pusher/push-notifications-php/issues/comments/418296480
-    time_stamp: "2018-09-04"
-    type: IssueCommentEvent
-    user_name: jonathanlloyd
-    repo: pusher/push-notifications-php
-  - title: pusher/pusher-js being watched by wsee911
-    url: ""
-    time_stamp: "2018-09-04"
-    type: WatchEvent
-    user_name: wsee911
-    repo: pusher/pusher-js
-  - title: pusher/pusher-http-laravel being watched by wsee911
-    url: ""
-    time_stamp: "2018-09-04"
-    type: WatchEvent
-    user_name: wsee911
-    repo: pusher/pusher-http-laravel
-  - title: mdpye pushed to pusher/pusher-platform-android
-    url: ""
-    time_stamp: "2018-09-04"
-    type: PushEvent
-    user_name: mdpye
-    repo: pusher/pusher-platform-android
-  - title: pusher/push-notifications-swift being watched by frwrdnet
-    url: ""
-    time_stamp: "2018-09-03"
-    type: WatchEvent
-    user_name: frwrdnet
-    repo: pusher/push-notifications-swift
-  - title: pusher/pusher-js being watched by blueandhack
-    url: ""
-    time_stamp: "2018-09-03"
-    type: WatchEvent
-    user_name: blueandhack
-    repo: pusher/pusher-js
-  - title: pusher/pusher-http-php being watched by lexx27
-    url: ""
-    time_stamp: "2018-09-03"
-    type: WatchEvent
-    user_name: lexx27
-    repo: pusher/pusher-http-php
-  - title: hamchapman commented on an issue for pusher/chatkit-swift
-    url: https://api.github.com/repos/pusher/chatkit-swift/issues/comments/418165404
-    time_stamp: "2018-09-03"
-    type: IssueCommentEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-swift
-  - title: dalssoft commented on an issue for pusher/chatkit-swift
-    url: https://api.github.com/repos/pusher/chatkit-swift/issues/comments/418165140
-    time_stamp: "2018-09-03"
-    type: IssueCommentEvent
-    user_name: dalssoft
-    repo: pusher/chatkit-swift
   - title: hamchapman pushed to pusher/chatkit-client-js
     url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-client-js
-  - title: hamchapman commented on an issue for pusher/chatkit-swift
-    url: https://api.github.com/repos/pusher/chatkit-swift/issues/comments/418154672
-    time_stamp: "2018-09-03"
-    type: IssueCommentEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-swift
-  - title: hamchapman made a pull request on pusher/chatkit-server-node
-    url: https://github.com/pusher/chatkit-server-node/pull/22
-    time_stamp: "2018-09-03"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-server-node
-  - title: hamchapman pushed to pusher/chatkit-client-js
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-client-js
-  - title: vivangkumar pushed to pusher/pusher-platform-android
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: vivangkumar
-    repo: pusher/pusher-platform-android
-  - title: vivangkumar pushed to pusher/chatkit-android
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: vivangkumar
-    repo: pusher/chatkit-android
-  - title: hamchapman pushed to pusher/chatkit-client-js
-    url: ""
-    time_stamp: "2018-09-03"
+    time_stamp: "2018-09-05"
     type: PushEvent
     user_name: hamchapman
     repo: pusher/chatkit-client-js
