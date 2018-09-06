@@ -4590,6 +4590,10 @@ competition:
     url: https://www.pubnub.com/blog/every-millisecond-counts-why-time-is-everything-for-businesses/
     time_stamp: "2018-07-31 09:43:23"
   latest_tweets:
+  - title: "RT @mza: Nice post from @pubnub: Build a Smart Chat App that Categorizes
+      Topics with Amazon Comprehend and ChatEngine -  https://t.co/F5SoR..."
+    url: https://twitter.com/PubNub/status/1037469634797039616
+    time_stamp: "2018-09-05 15:36:50"
   - title: "RT @cml_apps: We had a great time presenting our Magic AR Giraffe demo
       at the ARKit event put on by @PubNub. This multi-user AR experience..."
     url: https://twitter.com/PubNub/status/1037023555014152193
@@ -4686,10 +4690,6 @@ competition:
       businesses and their customers? https://t.co/9drmHDhCoa
     url: https://twitter.com/PubNub/status/1029450335906156545
     time_stamp: "2018-08-14 12:31:00"
-  - title: "The cognitive era is a merger of the immense strengths of computers with
-      the current capabilities of their human op... https://t.co/mGPiJHFYkD"
-    url: https://twitter.com/PubNub/status/1029437513474162689
-    time_stamp: "2018-08-14 11:40:03"
   latest_github_activity:
   - title: chrisreed01 submitted an issue on pubnub/eon-map
     url: https://api.github.com/repos/pubnub/eon-map/issues/30
@@ -4788,6 +4788,13 @@ competition:
     user_name: LightVolk
     repo: pubnub/pubnub-angular
   latest_reddit_searches:
+  - reddit_id: "9"
+    title: Streaming data into Excel from Raspberry Pi devices via realtime backends
+      Pusher and PubNub
+    url: https://www.gridarrow.com/blog/streaming-data-from-realtime-backends/
+    author: mns06
+    created_date: "2018-09-05"
+    score: "7"
   - reddit_id: "8"
     title: Multiple Remote Vulnerabilities In Insteon Hub PubNub
     url: https://blog.talosintelligence.com/2018/06/multiple-vuln-insteon.html
@@ -4939,12 +4946,6 @@ competition:
     author: ToeJamson
     created_date: "2014-03-07"
     score: "95"
-  - reddit_id: "1"
-    title: Build chat with App Inventor and PubNub
-    url: http://puravidaapps.com/pubnub.php
-    author: ToeJamson
-    created_date: "2013-11-25"
-    score: "0"
   latest_hacker_news_searches:
   - hacker_news_id: "17811423"
     title: Build a Multiplayer Game in Golang with PubNub
