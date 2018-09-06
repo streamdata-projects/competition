@@ -2183,6 +2183,18 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Check out the first episode of our new series: Firebase Semi-Live, where
+      we live code with Firebase and you ... wat... https://t.co/1HQ7cP9IlL"
+    url: https://twitter.com/Firebase/status/1037481400847491073
+    time_stamp: "2018-09-05 16:23:36"
+  - title: "RT @CodingDoug: Today I noticed that the #Firestore rules editor now shows
+      inline autocomplete, just like a real IDE! It's a great companio..."
+    url: https://twitter.com/Firebase/status/1037435198965784576
+    time_stamp: "2018-09-05 13:20:00"
+  - title: "Hey, there, Firebase developers! Ever wonder how you could use BigQuery
+      to make a closed funnel with your Analytics... https://t.co/0odMeH5kOF"
+    url: https://twitter.com/Firebase/status/1037407517872193536
+    time_stamp: "2018-09-05 11:30:01"
   - title: "Retaining users is a tough problem for game devs. Using Firebase Predictions,
       @Halfbrick, the studio behind... https://t.co/qjASyIx0Hq"
     url: https://twitter.com/Firebase/status/1037109214626439168
@@ -2271,18 +2283,6 @@ competition:
       Finding out who made changes to what values... https://t.co/bKVIDDFdb9"
     url: https://twitter.com/Firebase/status/1032687386847789056
     time_stamp: "2018-08-23 10:53:54"
-  - title: "\"Voice your opinion &amp; it will be heard!\"\n\n@GDG Lead @HawraMilani
-      can't wait to see all the people coming together f... https://t.co/eYLM9cvpwE"
-    url: https://twitter.com/Firebase/status/1032362061253115904
-    time_stamp: "2018-08-22 13:21:10"
-  - title: "We've heard your requests to let you explore further into your Crashlytics
-      data, and today we're extremely excited... https://t.co/XXuisfDsO6"
-    url: https://twitter.com/Firebase/status/1032345664049557504
-    time_stamp: "2018-08-22 12:16:01"
-  - title: "Sworkit grew to 10M users with a developer team of only 3 by using Firebase
-      for their infrastructure, authenticatio... https://t.co/oje7edYW4B"
-    url: https://twitter.com/Firebase/status/1032327928271589378
-    time_stamp: "2018-08-22 11:05:32"
   latest_github_activity:
   - title: schmidt-sebastian pushed to firebase/firebase-js-sdk
     url: ""
@@ -5491,6 +5491,14 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "We're excited to announce that Pusher Beams  the API designed
+      to improve deliverability for transactional notifica... https://t.co/LSaGtL3imV"
+    url: https://twitter.com/pusher/status/1037687815281303552
+    time_stamp: "2018-09-06 06:03:49"
+  - title: "Learn how to build a live photo feed using @reactjs and @cloudinary. A
+      great tutorial by our community author... https://t.co/Iy7IjrQVNX"
+    url: https://twitter.com/pusher/status/1037420439893491712
+    time_stamp: "2018-09-05 12:21:21"
   - title: "We are on the look out for a Senior Platform Engineer to join our #London
       team. Apply here \U0001F449https://t.co/tHc8DPV3hE"
     url: https://twitter.com/pusher/status/1035520081998934016
@@ -5586,14 +5594,6 @@ competition:
       Feed with @Pusher and Gatsby (React + GraphQL + Node.js)\u201D https://..."
     url: https://twitter.com/pusher/status/1009790070956707841
     time_stamp: "2018-06-21 06:28:08"
-  - title: "RT @perborgen: I've written a quick tutorial on how to create a chat app
-      using @reactjs. The full course on the same subject is coming out..."
-    url: https://twitter.com/pusher/status/1009111043291795456
-    time_stamp: "2018-06-19 09:29:55"
-  - title: "RT @zmarkan: You know what's cool? 10 Trillion messages sent over @Pusher
-      Channels! 13 zeroes. My buddy @MrJamesFisher explains what went i..."
-    url: https://twitter.com/pusher/status/1009027509470552064
-    time_stamp: "2018-06-19 03:57:59"
   latest_github_activity:
   - title: jackcbrown89 submitted an issue on pusher/cli
     url: https://api.github.com/repos/pusher/cli/issues/34
