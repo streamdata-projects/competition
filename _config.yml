@@ -5407,7 +5407,7 @@ competition:
   name: Pusher
   description: Pusher empowers developer with API to create collaboration & communication
     features in their web and mobile apps.
-  url: https://stackoverflow.com/questions/51240316/pusher-integration-with-lumen-5-6-issue
+  url: https://stackoverflow.com/questions/51276442/pusher-on-codeigniter
   email: info@pusher.com
   blog_url: http://blog.pusher.com/
   blog_rss_url: http://feeds.feedburner.com/pusherb
@@ -6010,6 +6010,15 @@ competition:
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "52208285"
+    title: Pusher is not catching the triggered event since there is a change of TLS
+      from september 6, 2018 in Laravel
+    url: https://stackoverflow.com/questions/52208285/pusher-is-not-catching-the-triggered-event-since-there-is-a-change-of-tls-from-s
+    owner_display_name: Taha Siddiqui
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/8442009/taha-siddiqui
+    creation_date: "2018-09-06"
+    view_count: "17"
   - question_id: "52148367"
     title: Lumen Pusher BroadcastException without a message
     url: https://stackoverflow.com/questions/52148367/lumen-pusher-broadcastexception-without-a-message
@@ -6204,14 +6213,6 @@ competition:
     owner_link: https://stackoverflow.com/users/10062192/john-livee-galima-oroncillo
     creation_date: "2018-07-10"
     view_count: "21"
-  - question_id: "51240316"
-    title: Pusher integration with Lumen 5.6 issue
-    url: https://stackoverflow.com/questions/51240316/pusher-integration-with-lumen-5-6-issue
-    owner_display_name: Rizwan Saleem
-    owner_reputation: "128"
-    owner_link: https://stackoverflow.com/users/7984933/rizwan-saleem
-    creation_date: "2018-07-09"
-    view_count: "12"
   tags:
   - WebSockets
   - Webhook Implementations
