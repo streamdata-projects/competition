@@ -2836,6 +2836,12 @@ competition:
     created_date: "2018-07-23"
     score: "1"
   - reddit_id: "8"
+    title: "A Chinese-Style Digital Dystopia Isn't As Far Away As We Think"
+    url: https://www.buzzfeed.com/mattstoller2/as-democracy-suffers-digital-dictators-are-seizing-power
+    author: vilekangaree
+    created_date: "2018-07-01"
+    score: "11"
+  - reddit_id: "8"
     title: Combining Several MQTT Payloads Into a Comma-Separated String
     url: https://www.reddit.com/r/nodered/comments/8ndztv/combining_several_mqtt_payloads_into_a/
     author: MrRumHamRadio
