@@ -4691,6 +4691,30 @@ competition:
     url: https://twitter.com/PubNub/status/1029450335906156545
     time_stamp: "2018-08-14 12:31:00"
   latest_github_activity:
+  - title: pubnub/iOSSimpleChat being watched by NrmeenTomoum
+    url: ""
+    time_stamp: "2018-09-06"
+    type: WatchEvent
+    user_name: NrmeenTomoum
+    repo: pubnub/iOSSimpleChat
+  - title: pubnub/python was forked by python
+    url: ""
+    time_stamp: "2018-09-05"
+    type: ForkEvent
+    user_name: python
+    repo: pubnub/python
+  - title: pubnub/node-red was forked by node-red
+    url: ""
+    time_stamp: "2018-09-05"
+    type: ForkEvent
+    user_name: node-red
+    repo: pubnub/node-red
+  - title: vkhattar commented on an issue for pubnub/eon-map
+    url: https://api.github.com/repos/pubnub/eon-map/issues/comments/418800908
+    time_stamp: "2018-09-05"
+    type: IssueCommentEvent
+    user_name: vkhattar
+    repo: pubnub/eon-map
   - title: chrisreed01 submitted an issue on pubnub/eon-map
     url: https://api.github.com/repos/pubnub/eon-map/issues/30
     time_stamp: "2018-09-04"
@@ -4739,54 +4763,6 @@ competition:
     type: PushEvent
     user_name: qsoftdevelopment
     repo: pubnub/java
-  - title: qsoftdevelopment made a pull request on pubnub/java
-    url: https://github.com/pubnub/java/pull/129
-    time_stamp: "2018-09-04"
-    type: PullRequestEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/java
-  - title: codacy-bot commented on an issue for pubnub/go
-    url: https://api.github.com/repos/pubnub/go/issues/comments/418027379
-    time_stamp: "2018-09-03"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/go
-  - title: crimsonred pushed to pubnub/go
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: crimsonred pushed to pubnub/go
-    url: ""
-    time_stamp: "2018-09-03"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: crimsonred made a pull request on pubnub/go
-    url: https://github.com/pubnub/go/pull/52
-    time_stamp: "2018-09-03"
-    type: PullRequestEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: pubnub/eon being watched by jermaineharris
-    url: ""
-    time_stamp: "2018-09-03"
-    type: WatchEvent
-    user_name: jermaineharris
-    repo: pubnub/eon
-  - title: pubnub/java was forked by java-5
-    url: ""
-    time_stamp: "2018-09-03"
-    type: ForkEvent
-    user_name: java-5
-    repo: pubnub/java
-  - title: pubnub/pubnub-angular being watched by LightVolk
-    url: ""
-    time_stamp: "2018-09-03"
-    type: WatchEvent
-    user_name: LightVolk
-    repo: pubnub/pubnub-angular
   latest_reddit_searches:
   - reddit_id: "9"
     title: Streaming data into Excel from Raspberry Pi devices via realtime backends
