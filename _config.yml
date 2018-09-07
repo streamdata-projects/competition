@@ -6907,10 +6907,8 @@ competition:
   - Blockchain
 - organization_id: DCG8gdj2KDYS5spqpBD0HPT7eQz123MbNyliaWiCADxoM117
   name: StreamSets
-  description: StreamSets software delivers performance management for data flows
-    that feed the next generation of big data applications. Its mission is to bring
-    operational excellence to the management of data in motion, so that data continually
-    arrives on-time and with quality, empowering business-critical analysis and decision-making.
+  description: The industrys first data operations platform for full life-cycle management
+    of data in motion.
   url: https://streamsets.com
   email: ""
   blog_url: https://streamsets.com/blog/
@@ -6936,6 +6934,7 @@ competition:
   - SaaS
   - Real Time
   - Profiles
+  - New
   - Enterprise
   - Data
 - organization_id: kyFc1PI22cwHBh8123oILFQ4MGRBEJHPFrHUzhum6x9wE117
