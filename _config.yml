@@ -2194,6 +2194,18 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Software engineering student and @WomenTechmakers lead @vu_mayya is coming
+      to the #FirebaseSummit to learn best pra... https://t.co/ML4phsePpG"
+    url: https://twitter.com/Firebase/status/1037852951774150656
+    time_stamp: "2018-09-06 17:00:00"
+  - title: "Learn to import Firebase with @webpack! @_davideast covers importing the
+      base Firebase app library, features like F... https://t.co/l0GVJstAjn"
+    url: https://twitter.com/Firebase/status/1037840231339307008
+    time_stamp: "2018-09-06 16:09:27"
+  - title: "The Firebase team has started open sourcing some of their Android SDKs!
+      \n\nRead this blog, then go clone yourself so... https://t.co/Dd9AOLgmNz"
+    url: https://twitter.com/Firebase/status/1037750504800100352
+    time_stamp: "2018-09-06 10:12:55"
   - title: "Check out the first episode of our new series: Firebase Semi-Live, where
       we live code with Firebase and you ... wat... https://t.co/1HQ7cP9IlL"
     url: https://twitter.com/Firebase/status/1037481400847491073
@@ -2282,18 +2294,6 @@ competition:
       making a successful console. @codingdoug... https://t.co/CCub1WIhqk"
     url: https://twitter.com/Firebase/status/1033062758974201856
     time_stamp: "2018-08-24 11:45:29"
-  - title: Firebase has a busy conference schedule coming up! Where are you looking
-      forward to seeing us most?
-    url: https://twitter.com/Firebase/status/1033032054194098182
-    time_stamp: "2018-08-24 09:43:29"
-  - title: "New features have come to Firebase Messaging! @CodingDoug sits down with
-      Product Manager Jon Mensing to learn more... https://t.co/7uSO0xvpnX"
-    url: https://twitter.com/Firebase/status/1032725632508157952
-    time_stamp: "2018-08-23 13:25:52"
-  - title: "We're excited to announce we're adding change history to Remote Config!
-      Finding out who made changes to what values... https://t.co/bKVIDDFdb9"
-    url: https://twitter.com/Firebase/status/1032687386847789056
-    time_stamp: "2018-08-23 10:53:54"
   latest_github_activity:
   - title: firebase/firebase-android-sdk being watched by msasikanth
     url: ""
@@ -5436,7 +5436,7 @@ competition:
   name: Pusher
   description: Pusher empowers developer with API to create collaboration & communication
     features in their web and mobile apps.
-  url: https://stackoverflow.com/questions/51276442/pusher-on-codeigniter
+  url: https://stackoverflow.com/questions/51395339/laravel-5-4-pusherlaravel-echo-403-error-with-private-channel
   email: info@pusher.com
   blog_url: http://blog.pusher.com/
   blog_rss_url: http://feeds.feedburner.com/pusherb
@@ -5526,6 +5526,17 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: 'RT @sdtimes: Pusher launches the Beams API https://t.co/ZwZBRMCUN0 @pusher'
+    url: https://twitter.com/pusher/status/1037785942071889920
+    time_stamp: "2018-09-06 12:33:44"
+  - title: 'RT @TheNextWeb: Pusher''s new Beams API wants to make push notifications
+      suck less https://t.co/bEnWRDTZ4O'
+    url: https://twitter.com/pusher/status/1037764573552627713
+    time_stamp: "2018-09-06 11:08:49"
+  - title: "RT @matthewhughes: I wrote about @pusher's new Beams API, which promises
+      a better push notifications experience for developers. Many thanks..."
+    url: https://twitter.com/pusher/status/1037764423346204675
+    time_stamp: "2018-09-06 11:08:13"
   - title: "We're excited to announce that Pusher Beams  the API designed
       to improve deliverability for transactional notifica... https://t.co/LSaGtL3imV"
     url: https://twitter.com/pusher/status/1037687815281303552
@@ -5617,18 +5628,6 @@ competition:
       software including @algolia credit and access... https://t.co/jFNZJu0mf9"
     url: https://twitter.com/pusher/status/1010483103280689152
     time_stamp: "2018-06-23 04:22:00"
-  - title: "Get $10,000 worth of awesome #developer software, including @digitalocean
-      &amp; @Nexmo credits, with the Pusher Dev Pac... https://t.co/0TzLpE4SQM"
-    url: https://twitter.com/pusher/status/1010130280772857856
-    time_stamp: "2018-06-22 05:00:00"
-  - title: "Today our engineering team celebrated a milestone we reached last week:
-      10 trillion messages delivered via Pusher C... https://t.co/jEpXuX8PTR"
-    url: https://twitter.com/pusher/status/1009814897566380032
-    time_stamp: "2018-06-21 08:06:47"
-  - title: "RT @BrandonMorelli: Really cool article out today: Create A Live Comment
-      Feed with @Pusher and Gatsby (React + GraphQL + Node.js)\u201D https://..."
-    url: https://twitter.com/pusher/status/1009790070956707841
-    time_stamp: "2018-06-21 06:28:08"
   latest_github_activity:
   - title: pusher/pusher-http-node being watched by vedranvinko
     url: ""
@@ -6033,6 +6032,14 @@ competition:
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "52224436"
+    title: Not receiving message using Pusher and Echo
+    url: https://stackoverflow.com/questions/52224436/not-receiving-message-using-pusher-and-echo
+    owner_display_name: Araw
+    owner_reputation: "836"
+    owner_link: https://stackoverflow.com/users/1255810/araw
+    creation_date: "2018-09-07"
+    view_count: "6"
   - question_id: "52208285"
     title: Pusher is not catching the triggered event since there is a change of TLS
       from september 6, 2018 in Laravel
@@ -6042,6 +6049,22 @@ competition:
     owner_link: https://stackoverflow.com/users/8442009/taha-siddiqui
     creation_date: "2018-09-06"
     view_count: "17"
+  - question_id: "52213767"
+    title: Real-time listener doesn&#39;t work in PWA with Pusher
+    url: https://stackoverflow.com/questions/52213767/real-time-listener-doesnt-work-in-pwa-with-pusher
+    owner_display_name: Tony Elistratov
+    owner_reputation: "17"
+    owner_link: https://stackoverflow.com/users/7548212/tony-elistratov
+    creation_date: "2018-09-06"
+    view_count: "24"
+  - question_id: "52216790"
+    title: Can I add json object to message in pusher/chatkit
+    url: https://stackoverflow.com/questions/52216790/can-i-add-json-object-to-message-in-pusher-chatkit
+    owner_display_name: Roman
+    owner_reputation: "333"
+    owner_link: https://stackoverflow.com/users/571605/roman
+    creation_date: "2018-09-06"
+    view_count: "4"
   - question_id: "52148367"
     title: Lumen Pusher BroadcastException without a message
     url: https://stackoverflow.com/questions/52148367/lumen-pusher-broadcastexception-without-a-message
@@ -6212,30 +6235,6 @@ competition:
     owner_link: https://stackoverflow.com/users/1363426/arlong
     creation_date: "2018-07-17"
     view_count: "52"
-  - question_id: "51323318"
-    title: How do i use Pusher in my Flutter chat App
-    url: https://stackoverflow.com/questions/51323318/how-do-i-use-pusher-in-my-flutter-chat-app
-    owner_display_name: Peter
-    owner_reputation: "21"
-    owner_link: https://stackoverflow.com/users/7640941/peter
-    creation_date: "2018-07-13"
-    view_count: "58"
-  - question_id: "51303435"
-    title: Pusher  No callbacks on testChannel for App\Events\Event
-    url: https://stackoverflow.com/questions/51303435/pusher-no-callbacks-on-testchannel-for-app-events-event
-    owner_display_name: Prince Luo
-    owner_reputation: "54"
-    owner_link: https://stackoverflow.com/users/7500385/prince-luo
-    creation_date: "2018-07-12"
-    view_count: "38"
-  - question_id: "51276442"
-    title: Pusher on Codeigniter
-    url: https://stackoverflow.com/questions/51276442/pusher-on-codeigniter
-    owner_display_name: John Livee Galima Oroncillo
-    owner_reputation: "1"
-    owner_link: https://stackoverflow.com/users/10062192/john-livee-galima-oroncillo
-    creation_date: "2018-07-10"
-    view_count: "21"
   tags:
   - WebSockets
   - Webhook Implementations
