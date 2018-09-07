@@ -1237,6 +1237,12 @@ competition:
   latest_github_activity: []
   latest_reddit_searches:
   - reddit_id: "9"
+    title: Azure Event Hubs with Kafka coolness
+    url: https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Azure-Event-Hubs-with-Kafka-coolness
+    author: MattLoflin
+    created_date: "2018-09-06"
+    score: "1"
+  - reddit_id: "9"
     title: "Announcing general availability of Azure IoT Hub's integration with
       Azure Event Grid"
     url: https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-azure-iot-hub-s-integration-with-azure-event-grid/
@@ -4714,72 +4720,90 @@ competition:
     type: WatchEvent
     user_name: NrmeenTomoum
     repo: pubnub/iOSSimpleChat
-  - title: pubnub/python was forked by python
-    url: ""
-    time_stamp: "2018-09-05"
-    type: ForkEvent
-    user_name: python
-    repo: pubnub/python
-  - title: pubnub/node-red was forked by node-red
-    url: ""
-    time_stamp: "2018-09-05"
-    type: ForkEvent
-    user_name: node-red
-    repo: pubnub/node-red
-  - title: vkhattar commented on an issue for pubnub/eon-map
-    url: https://api.github.com/repos/pubnub/eon-map/issues/comments/418800908
-    time_stamp: "2018-09-05"
+  - title: codacy-bot commented on an issue for pubnub/chat-engine-muter
+    url: https://api.github.com/repos/pubnub/chat-engine-muter/issues/comments/419265921
+    time_stamp: "2018-09-06"
     type: IssueCommentEvent
-    user_name: vkhattar
-    repo: pubnub/eon-map
-  - title: chrisreed01 submitted an issue on pubnub/eon-map
-    url: https://api.github.com/repos/pubnub/eon-map/issues/30
-    time_stamp: "2018-09-04"
-    type: IssuesEvent
-    user_name: chrisreed01
-    repo: pubnub/eon-map
-  - title: pubnub/unity was forked by unity
-    url: ""
-    time_stamp: "2018-09-04"
-    type: ForkEvent
-    user_name: unity
-    repo: pubnub/unity
-  - title: chrisreed01 submitted an issue on pubnub/eon-map
-    url: https://api.github.com/repos/pubnub/eon-map/issues/30
-    time_stamp: "2018-09-04"
-    type: IssuesEvent
-    user_name: chrisreed01
-    repo: pubnub/eon-map
-  - title: madisonsmith pushed to pubnub/chat-engine-plugin
-    url: ""
-    time_stamp: "2018-09-04"
-    type: PushEvent
-    user_name: madisonsmith
-    repo: pubnub/chat-engine-plugin
-  - title: madisonsmith made a pull request on pubnub/chat-engine-plugin
-    url: https://github.com/pubnub/chat-engine-plugin/pull/2
-    time_stamp: "2018-09-04"
+    user_name: codacy-bot
+    repo: pubnub/chat-engine-muter
+  - title: ManuelFernando made a pull request on pubnub/chat-engine-muter
+    url: https://github.com/pubnub/chat-engine-muter/pull/6
+    time_stamp: "2018-09-06"
     type: PullRequestEvent
-    user_name: madisonsmith
-    repo: pubnub/chat-engine-plugin
-  - title: craigtp-ivendi submitted an issue on pubnub/chat-engine-examples
-    url: https://api.github.com/repos/pubnub/chat-engine-examples/issues/19
-    time_stamp: "2018-09-04"
-    type: IssuesEvent
-    user_name: craigtp-ivendi
-    repo: pubnub/chat-engine-examples
-  - title: pubnub/eon being watched by ladeef
+    user_name: ManuelFernando
+    repo: pubnub/chat-engine-muter
+  - title: ManuelFernando pushed to pubnub/chat-engine-muter
     url: ""
-    time_stamp: "2018-09-04"
-    type: WatchEvent
-    user_name: ladeef
-    repo: pubnub/eon
-  - title: qsoftdevelopment pushed to pubnub/java
-    url: ""
-    time_stamp: "2018-09-04"
+    time_stamp: "2018-09-06"
     type: PushEvent
-    user_name: qsoftdevelopment
+    user_name: ManuelFernando
+    repo: pubnub/chat-engine-muter
+  - title: pubnub/java was forked by java-1
+    url: ""
+    time_stamp: "2018-09-06"
+    type: ForkEvent
+    user_name: java-1
     repo: pubnub/java
+  - title: budgetpreneur pushed to pubnub/c-sharp
+    url: ""
+    time_stamp: "2018-09-06"
+    type: PushEvent
+    user_name: budgetpreneur
+    repo: pubnub/c-sharp
+  - title: budgetpreneur made a pull request on pubnub/c-sharp
+    url: https://github.com/pubnub/c-sharp/pull/47
+    time_stamp: "2018-09-06"
+    type: PullRequestEvent
+    user_name: budgetpreneur
+    repo: pubnub/c-sharp
+  - title: pubnub/ruby was forked by ruby
+    url: ""
+    time_stamp: "2018-09-06"
+    type: ForkEvent
+    user_name: ruby
+    repo: pubnub/ruby
+  - title: pubnub/chat-engine being watched by kabir-chandhoke
+    url: ""
+    time_stamp: "2018-09-06"
+    type: WatchEvent
+    user_name: kabir-chandhoke
+    repo: pubnub/chat-engine
+  - title: codacy-bot commented on an issue for pubnub/c-sharp
+    url: https://api.github.com/repos/pubnub/c-sharp/issues/comments/419120505
+    time_stamp: "2018-09-06"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/c-sharp
+  - title: budgetpreneur made a pull request on pubnub/c-sharp
+    url: https://github.com/pubnub/c-sharp/pull/47
+    time_stamp: "2018-09-06"
+    type: PullRequestEvent
+    user_name: budgetpreneur
+    repo: pubnub/c-sharp
+  - title: pubnub/chat-engine being watched by thelebster
+    url: ""
+    time_stamp: "2018-09-06"
+    type: WatchEvent
+    user_name: thelebster
+    repo: pubnub/chat-engine
+  - title: pubnub/webrtc being watched by pangoo
+    url: ""
+    time_stamp: "2018-09-06"
+    type: WatchEvent
+    user_name: pangoo
+    repo: pubnub/webrtc
+  - title: budgetpreneur pushed to pubnub/c-sharp
+    url: ""
+    time_stamp: "2018-09-06"
+    type: PushEvent
+    user_name: budgetpreneur
+    repo: pubnub/c-sharp
+  - title: pubnub/iOSSimpleChat being watched by NrmeenTomoum
+    url: ""
+    time_stamp: "2018-09-06"
+    type: WatchEvent
+    user_name: NrmeenTomoum
+    repo: pubnub/iOSSimpleChat
   latest_reddit_searches:
   - reddit_id: "9"
     title: Streaming data into Excel from Raspberry Pi devices via realtime backends
