@@ -3647,6 +3647,24 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17946688"
+    title: Mistakes C/C++ Devs make writing Go
+    url: https://about.sourcegraph.com/go/gophercon-2018-5-mistakes-c-c-devs-make-writing-go
+    author: weblaunches
+    created_at: "2018-09-09"
+    points: "0"
+  - hacker_news_id: "17946499"
+    title: "Beijing's Three Options Unemployment, Debt, or Wealth Transfers"
+    url: https://carnegieendowment.org/chinafinancialmarkets/77178
+    author: weblaunches
+    created_at: "2018-09-09"
+    points: "0"
+  - hacker_news_id: "17943526"
+    title: Toucan CLI A Ruby framework to craft small yet amazing CLI applications
+    url: https://github.com/fschuindt/toucan
+    author: weblaunches
+    created_at: "2018-09-08"
+    points: "3"
   - hacker_news_id: "17928794"
     title: Probiotics labelled 'quite useless'
     url: https://www.bbc.co.uk/news/health-45434753
@@ -3782,24 +3800,6 @@ competition:
     author: weblaunches
     created_at: "2018-08-26"
     points: "0"
-  - hacker_news_id: "17837369"
-    title: A2Z A computer designed and built from scratch. Custom CPU on FPGA (2017)
-    url: https://hackaday.io/project/18206-a2z-computer
-    author: weblaunches
-    created_at: "2018-08-24"
-    points: "0"
-  - hacker_news_id: "17835236"
-    title: The rise and rise of JSON (2017)
-    url: https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html
-    author: weblaunches
-    created_at: "2018-08-24"
-    points: "0"
-  - hacker_news_id: "17829141"
-    title: "Dr. Oke's site about the 22 tone (\u201Cshruti\u201D) music system"
-    url: http://www.22shruti.com/
-    author: weblaunches
-    created_at: "2018-08-23"
-    points: "1"
   latest_stack_exchange_searches:
   - question_id: "47058356"
     title: How catch reseane of closed connection with Kaazing Websocket gatway
@@ -5712,6 +5712,20 @@ competition:
     user_name: JoelSpeed
     repo: pusher/controller-runtime
   latest_reddit_searches:
+  - reddit_id: "9000"
+    title: Father I am trapped in coin machine
+    url: https://i.redd.it/evriswf510l11.jpg
+    author: Chaoticcoco
+    created_date: "2018-09-08"
+    score: "449"
+  - reddit_id: "90000000"
+    title: Currently away with family at a UK holiday resort, where the arcade machines
+      are aimed at young children on the penny pushers. Look down and come accross
+      a prize I didn't expect to see with the 2p's.
+    url: https://i.redd.it/oj8mzde6y2l11.jpg
+    author: DrumsDruid
+    created_date: "2018-09-08"
+    score: "116"
   - reddit_id: "9"
     title: Accident
     url: https://www.reddit.com/r/walmart/comments/9dond8/accident/
@@ -5724,6 +5738,12 @@ competition:
     author: GrantLikesSunChips
     created_date: "2018-09-07"
     score: "1035"
+  - reddit_id: "9"
+    title: tell me the truth if you can.
+    url: https://www.reddit.com/r/u_Glenn1112/comments/9dqf9i/tell_me_the_truth_if_you_can/
+    author: Glenn1112
+    created_date: "2018-09-07"
+    score: "1"
   - reddit_id: "9"
     title: The messiest corral that I have seen in my store so far.
     url: https://i.redd.it/fb74ki6tfgk11.jpg
@@ -5852,148 +5872,128 @@ competition:
     author: Mellisco
     created_date: "2018-08-23"
     score: "131"
-  - reddit_id: "999"
-    title: '[omega] my speedy is finally home!!'
-    url: https://i.redd.it/ahmjex8kxjh11.jpg
-    author: Bbgbg66
-    created_date: "2018-08-22"
-    score: "1261"
-  - reddit_id: "98"
-    title: 18-year-old who pushed friend off 60-foot bridge is charged.
-    url: https://abcnews.go.com/GMA/News/woman-pushed-teen-friend-off-bridge-admits-didnt/story?id=57238510
-    author: PukedtheDayAway
-    created_date: "2018-08-18"
-    score: "71"
-  - reddit_id: "97"
-    title: From a shitty retail gig slinging soap to running my own dispensary in
-      a couple years. Thanks to this community for always being encouraging, loving,
-      and just some kind dudes/dudettes.
-    url: https://i.redd.it/x75nocjtaag11.jpg
-    author: StonedSoapSeller
-    created_date: "2018-08-15"
-    score: "180"
   latest_hacker_news_searches:
   - hacker_news_id: "16236692"
     title: Hawaii button pusher refusing to cooperate with FCC, internal investigators
     url: http://www.staradvertiser.com/2018/01/24/breaking-news/schatz-to-lead-hearing-on-alert-systems-in-wake-of-hawaii-blunder/
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2018-01-25"
     points: "125"
   - hacker_news_id: "15896908"
     title: Building a realtime location app with ARKit, CoreLocation and Pusher
     url: https://blog.pusher.com/realtime-location-app-arkit-corelocation-pusher/
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2017-12-11"
     points: "60"
   - hacker_news_id: "13064478"
     title: "Hello PubNub and Pusher users \u2013 we now speak your language. Welcome
       to Ably"
     url: http://www.ably.io/adapters
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2016-11-29"
     points: "41"
   - hacker_news_id: "12699332"
     title: Dash author is lying? Pusher of shovelware
     url: http://forums.macrumors.com/threads/apple-says-1-000-fraudulent-reviews-were-detected-across-two-accounts-owned-by-dash-developer-update-developer-responds.2005850/page-12#post-23708918
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2016-10-13"
     points: "73"
   - hacker_news_id: "10263535"
     title: Hail to the Pencil Pusher
     url: http://bostonreview.net/books-ideas/mike-konczal-government-bureaucracy
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2015-09-22"
     points: "7"
   - hacker_news_id: "9375518"
     title: Pixel Pushers
     url: http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2015-04-14"
     points: "9"
   - hacker_news_id: "9242286"
     title: "Show HN WP Pusher \u2013 Pain-free deployment of WordPress themes and
       plugins"
     url: https://wppusher.com/
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2015-03-21"
     points: "9"
   - hacker_news_id: "7615509"
     title: Poxa A Pusher clone with a real-time Console
     url: https://github.com/edgurgel/poxa
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2014-04-19"
     points: "35"
   - hacker_news_id: "5808032"
     title: ' Pusher DNS Hacked?'
     url: http://pusher.com
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2013-06-02"
     points: "7"
   - hacker_news_id: "5634776"
     title: How we built Pusher-JS 2.0  part 2  implementation
     url: http://blog.pusher.com/how-we-built-pusher-js-2-0-part-2-implementation/
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2013-04-30"
     points: "29"
   - hacker_news_id: "5517151"
     title: Pusher-js 2.0.0 released WebSockets, comprehensive legacy support
     url: http://blog.pusher.com/pusher-2-0-0-cutting-edge-websockets-with-comprehensive-legacy-support/
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2013-04-09"
     points: "22"
   - hacker_news_id: "4413185"
     title: Build Your Own Home Automation w/ Pusher, Twilio, and Arduino
     url: http://www.twilio.com/blog/2012/08/diy-home-automation-using-twilio-powerswitch-arduino-and-pusher.html
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2012-08-21"
     points: "239"
   - hacker_news_id: "4190822"
     title: Ask HN What's are the key differences between Pusher and PubNub?
     url: ""
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2012-07-02"
     points: "6"
   - hacker_news_id: "3534962"
     title: Shoutbox - a Sinatra-MongoDB-Pusher-based monitoring app
     url: http://moviepilotlabs.tumblr.com/post/16814219083/were-releasing-shoutbox
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2012-01-31"
     points: "22"
   - hacker_news_id: "3359097"
     title: Slanger An open implementation of the Pusher protocol written in Ruby
     url: https://github.com/stevegraham/slanger?hn
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2011-12-15"
     points: "45"
   - hacker_news_id: "3351886"
     title: Slanger - Open Source Pusher protocol powered by Ruby and Redis
     url: http://thechangelog.com/post/14214730049/slanger-open-source-pusher-protocol-powered-by-ruby-and
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2011-12-14"
     points: "8"
   - hacker_news_id: "2679426"
     title: Backbone.js, now realtime with Pusher
     url: http://blog.pusher.com/2011/6/21/backbone-js-now-realtime-with-pusher
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2011-06-21"
     points: "16"
   - hacker_news_id: "2636958"
     title: Pusher Raises $1M From Heroku Founders And More To Bring Realtime Tech
       To Apps
     url: http://techcrunch.com/2011/06/09/pusher-raises-1m-from-passion-capital-heroku-founders-to-bring-realtime-tech-to-your-apps/
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2011-06-09"
     points: "28"
   - hacker_news_id: "1925100"
     title: Tech interview about PusherApp, the WebSockets service behind Scrabb.ly
     url: http://webpulp.tv/post/1626829659/pusher-app-martyn-loughran
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2010-11-20"
     points: "8"
   - hacker_news_id: "1216648"
     title: Pusher - Realtime client push service powered by websockets
     url: http://pusherapp.com
-    author: StonedSoapSeller
+    author: Mellisco
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
