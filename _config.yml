@@ -8,7 +8,7 @@ philosophy: This is our project area for keeping track of the competitive landsc
   and event-driven world. We track on all of the challenges we face when trying to
   reach and differentiate ourselves in a crowded market.
 competition:
-- organization_id: 6kemzS6eSXC0d1cWuuAp116EagNHu9QwrX4QwZCHLZfDM117
+- organization_id: ""
   name: Ably Realtime
   description: Ably is a realtime data stream network that makes it easy for developers
     to add realtime messaging, notifications and streaming data to their applications.
@@ -459,7 +459,7 @@ competition:
   - internet
   - Enterprise
   - API Provider
-- organization_id: eORBAz1xmH4nxOXaxOFfBJQNY1n3L5gLhItwhA5GlRw117
+- organization_id: ""
   name: AWS AppSync
   description: AWS AppSync automatically updates the data in web and mobile applications
     in real time, and updates data for offline users as soon as they reconnect. AWS
@@ -700,7 +700,7 @@ competition:
   latest_stack_exchange_searches: []
   tags:
   - SDIO Competition
-- organization_id: hrZqjFDZL3s2St123uCbR123pkq123QyrH116zijQ116TKeEKDfuc117
+- organization_id: ""
   name: AWS Kinesis
   description: Amazon Kinesis Firehose is the easiest way to load streaming data into
     AWS. It can capture, transform, and load streaming data into Amazon Kinesis Analytics,
@@ -1213,7 +1213,7 @@ competition:
   - API Service Provider
   - API Provider
   - Amazon Web Services
-- organization_id: r116zb2SaM406e5XUQBSFLmys8GUV8q5jRJfRxuEnkTxU117
+- organization_id: ""
   name: Azure Event Hubs
   description: Azure Event Hubs is a hyper-scale telemetry ingestion service that
     collects, transforms, and stores millions of events. As a distributed streaming
@@ -1696,7 +1696,7 @@ competition:
   - Jobs
   - API Service Provider
   - API Provider
-- organization_id: BvczQo6zbTOfoOrRlwLLiSSayfAPmeB7ZrzYD9WnTRo117
+- organization_id: ""
   name: Azure SignalR
   description: The Azure SignalR Service is an Azure service based on&nbsp;ASP.NET
     Core SignalR. ASP.NET Core SignalR is an&nbsp;open source library&nbsp;that simplifies
@@ -2098,7 +2098,7 @@ competition:
   tags:
   - SDIO Competition
   - Real Time
-- organization_id: UJu116WMjDUtOzqb8l1N23fMV7iROqgd7POnOWpH116AO9Q117
+- organization_id: ""
   name: Firebase
   description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
@@ -2194,6 +2194,14 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/0QREqlk2CqM/firebase-test-lab-october-2017-update.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "RT @CodingDoug: The @Firebase and Play services Android SDKs are getting
+      Javadoc support in @Android Studio! Javadoc will be distributed wi..."
+    url: https://twitter.com/Firebase/status/1038179100022767619
+    time_stamp: "2018-09-07 14:36:00"
+  - title: "Introducing RxFire: #RxJS + Firebase for all JavaScript frameworks\n\nRead
+      @_davideast's breakdown here  https://t.co/G3VyKiCeTk"
+    url: https://twitter.com/Firebase/status/1038138447117078531
+    time_stamp: "2018-09-07 11:54:28"
   - title: "Software engineering student and @WomenTechmakers lead @vu_mayya is coming
       to the #FirebaseSummit to learn best pra... https://t.co/ML4phsePpG"
     url: https://twitter.com/Firebase/status/1037852951774150656
@@ -2286,129 +2294,157 @@ competition:
       at @360iDev! He'll cover basic and advanced Firestore f... https://t.co/nASfvWoLDt"
     url: https://twitter.com/Firebase/status/1033791189819056130
     time_stamp: "2018-08-26 12:00:01"
-  - title: "Georgian tech lead @NinoNanitashvil loves conferences for the opportunity
-      to learn and network. She can't wait to a... https://t.co/5YpEn6ojqv"
-    url: https://twitter.com/Firebase/status/1033074624391598080
-    time_stamp: "2018-08-24 12:32:38"
-  - title: "Learn strategic tips for improving in-app user traffic and what goes into
-      making a successful console. @codingdoug... https://t.co/CCub1WIhqk"
-    url: https://twitter.com/Firebase/status/1033062758974201856
-    time_stamp: "2018-08-24 11:45:29"
   latest_github_activity:
-  - title: firebase/superstatic being watched by youngzhaosignifyd
-    url: ""
-    time_stamp: "2018-09-07"
-    type: WatchEvent
-    user_name: youngzhaosignifyd
-    repo: firebase/superstatic
-  - title: samtstern commented on an issue for firebase/quickstart-android
-    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/419594045
-    time_stamp: "2018-09-07"
+  - title: DedicatedManagers commented on an issue for firebase/firebase-js-sdk
+    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/comments/419679903
+    time_stamp: "2018-09-08"
     type: IssueCommentEvent
-    user_name: samtstern
-    repo: firebase/quickstart-android
-  - title: firebase/firebase-js-sdk being watched by klikstermkd
-    url: ""
-    time_stamp: "2018-09-07"
-    type: WatchEvent
-    user_name: klikstermkd
+    user_name: DedicatedManagers
     repo: firebase/firebase-js-sdk
-  - title: firebase/firebase-js-sdk being watched by gamsterx
+  - title: machoblue commented on an issue for firebase/FirebaseUI-iOS
+    url: https://api.github.com/repos/firebase/FirebaseUI-iOS/issues/comments/419678381
+    time_stamp: "2018-09-08"
+    type: IssueCommentEvent
+    user_name: machoblue
+    repo: firebase/FirebaseUI-iOS
+  - title: firebase/firebase-android-sdk being watched by dminta
     url: ""
-    time_stamp: "2018-09-07"
+    time_stamp: "2018-09-08"
     type: WatchEvent
-    user_name: gamsterx
-    repo: firebase/firebase-js-sdk
-  - title: firebase/firebase-functions being watched by gamsterx
+    user_name: dminta
+    repo: firebase/firebase-android-sdk
+  - title: firebase/php-jwt being watched by atroxic
     url: ""
-    time_stamp: "2018-09-07"
+    time_stamp: "2018-09-08"
     type: WatchEvent
-    user_name: gamsterx
-    repo: firebase/firebase-functions
-  - title: firebase/firebase-admin-node being watched by gamsterx
-    url: ""
-    time_stamp: "2018-09-07"
-    type: WatchEvent
-    user_name: gamsterx
-    repo: firebase/firebase-admin-node
-  - title: firebase/php-jwt being watched by mostofreddy
-    url: ""
-    time_stamp: "2018-09-07"
-    type: WatchEvent
-    user_name: mostofreddy
+    user_name: atroxic
     repo: firebase/php-jwt
-  - title: firebase/firebase-android-sdk being watched by estebanhernande
-    url: ""
-    time_stamp: "2018-09-07"
-    type: WatchEvent
-    user_name: estebanhernande
-    repo: firebase/firebase-android-sdk
-  - title: firebase/firebase-android-sdk being watched by akai-z
-    url: ""
-    time_stamp: "2018-09-07"
-    type: WatchEvent
-    user_name: akai-z
-    repo: firebase/firebase-android-sdk
-  - title: rosariopfernandes commented on an issue for firebase/quickstart-android
-    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/419586863
-    time_stamp: "2018-09-07"
-    type: IssueCommentEvent
-    user_name: rosariopfernandes
-    repo: firebase/quickstart-android
-  - title: rosariopfernandes made a pull request on firebase/quickstart-android
-    url: https://github.com/firebase/quickstart-android/pull/646
-    time_stamp: "2018-09-07"
-    type: PullRequestEvent
-    user_name: rosariopfernandes
-    repo: firebase/quickstart-android
   - title: firebase/functions-samples was forked by functions-samples
     url: ""
-    time_stamp: "2018-09-07"
+    time_stamp: "2018-09-08"
     type: ForkEvent
     user_name: functions-samples
     repo: firebase/functions-samples
-  - title: samtstern pushed to firebase/quickstart-android
+  - title: firebase/firebaseui-web being watched by nswekosk
     url: ""
-    time_stamp: "2018-09-07"
-    type: PushEvent
-    user_name: samtstern
-    repo: firebase/quickstart-android
-  - title: firebase/firebase-js-sdk being watched by murilocosta
-    url: ""
-    time_stamp: "2018-09-07"
+    time_stamp: "2018-09-08"
     type: WatchEvent
-    user_name: murilocosta
-    repo: firebase/firebase-js-sdk
-  - title: firebase/functions-samples being watched by nebrelbug
+    user_name: nswekosk
+    repo: firebase/firebaseui-web
+  - title: firebase/php-jwt being watched by alejandrososa
     url: ""
-    time_stamp: "2018-09-07"
+    time_stamp: "2018-09-08"
     type: WatchEvent
-    user_name: nebrelbug
-    repo: firebase/functions-samples
-  - title: ashwinraghav submitted an issue on firebase/firebase-android-sdk
-    url: https://api.github.com/repos/firebase/firebase-android-sdk/issues/9
-    time_stamp: "2018-09-07"
-    type: IssuesEvent
-    user_name: ashwinraghav
-    repo: firebase/firebase-android-sdk
+    user_name: alejandrososa
+    repo: firebase/php-jwt
   - title: dpebot pushed to firebase/quickstart-android
     url: ""
-    time_stamp: "2018-09-07"
+    time_stamp: "2018-09-08"
     type: PushEvent
     user_name: dpebot
     repo: firebase/quickstart-android
-  - title: dpebot made a pull request on firebase/quickstart-android
-    url: https://github.com/firebase/quickstart-android/pull/645
-    time_stamp: "2018-09-07"
+  - title: firebase/firebase-js-sdk being watched by spacecrio
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: spacecrio
+    repo: firebase/firebase-js-sdk
+  - title: firebase/functions-samples being watched by vtempest
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: vtempest
+    repo: firebase/functions-samples
+  - title: firebase/firebase-android-sdk being watched by joaquini
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: joaquini
+    repo: firebase/firebase-android-sdk
+  - title: firebase/geofire-java being watched by Eng-MahmoudBasuony
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: Eng-MahmoudBasuony
+    repo: firebase/geofire-java
+  - title: firebase/firebase-android-sdk being watched by c4software
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: c4software
+    repo: firebase/firebase-android-sdk
+  - title: firebase/firebase-js-sdk being watched by piotrek1543
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: piotrek1543
+    repo: firebase/firebase-js-sdk
+  - title: ulukaya pushed to firebase/quickstart-ios
+    url: ""
+    time_stamp: "2018-09-08"
+    type: PushEvent
+    user_name: ulukaya
+    repo: firebase/quickstart-ios
+  - title: ulukaya made a pull request on firebase/quickstart-ios
+    url: https://github.com/firebase/quickstart-ios/pull/533
+    time_stamp: "2018-09-08"
     type: PullRequestEvent
-    user_name: dpebot
-    repo: firebase/quickstart-android
-  - title: the-dagger commented on an issue for firebase/quickstart-android
-    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/419575933
-    time_stamp: "2018-09-07"
+    user_name: ulukaya
+    repo: firebase/quickstart-ios
+  - title: ulukaya pushed to firebase/friendlypix-ios
+    url: ""
+    time_stamp: "2018-09-08"
+    type: PushEvent
+    user_name: ulukaya
+    repo: firebase/friendlypix-ios
+  - title: ulukaya made a pull request on firebase/friendlypix-ios
+    url: https://github.com/firebase/friendlypix-ios/pull/23
+    time_stamp: "2018-09-08"
+    type: PullRequestEvent
+    user_name: ulukaya
+    repo: firebase/friendlypix-ios
+  - title: anirudhbagri commented on an issue for firebase/quickstart-android
+    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/419670350
+    time_stamp: "2018-09-08"
     type: IssueCommentEvent
-    user_name: the-dagger
+    user_name: anirudhbagri
     repo: firebase/quickstart-android
+  - title: dpebot pushed to firebase/friendlypix-ios
+    url: ""
+    time_stamp: "2018-09-08"
+    type: PushEvent
+    user_name: dpebot
+    repo: firebase/friendlypix-ios
+  - title: firebase/firebase-js-sdk being watched by imanbee
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: imanbee
+    repo: firebase/firebase-js-sdk
+  - title: dandv commented on an issue for firebase/firebase-js-sdk
+    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/comments/419667966
+    time_stamp: "2018-09-08"
+    type: IssueCommentEvent
+    user_name: dandv
+    repo: firebase/firebase-js-sdk
+  - title: firebase/firebase-js-sdk being watched by d2mj
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: d2mj
+    repo: firebase/firebase-js-sdk
+  - title: dan-leech commented on an issue for firebase/quickstart-android
+    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/419665536
+    time_stamp: "2018-09-08"
+    type: IssueCommentEvent
+    user_name: dan-leech
+    repo: firebase/quickstart-android
+  - title: firebase/firestore-codelab-extended-swift being watched by a211212abc
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: a211212abc
+    repo: firebase/firestore-codelab-extended-swift
   latest_reddit_searches:
   - reddit_id: "9"
     title: unable to access google firebase from angular?
@@ -2798,13 +2834,13 @@ competition:
   - Data
   - API Service Provider
   - API Provider
-- organization_id: EnIzpeZ0o6aFY8xqT1uPY2nBBx11664v9RmruyojxgQMY117
+- organization_id: ""
   name: Google Dataflow
   description: Dataflow is a unified programming model and a managed service for developing
     and executing a wide range of data processing patterns including ETL, batch computation,
     and continuous computation. Cloud Dataflow frees you from operational tasks like
     resource management and performance optimization.
-  url: https://stackoverflow.com/questions/44892571/google-dataflow-firewall-rule-network-tag
+  url: https://stackoverflow.com/questions/47950361/what-is-the-best-way-to-secure-connections-from-google-dataflow-to-on-premise-po
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -3101,6 +3137,15 @@ competition:
     created_at: "2014-06-26"
     points: "4"
   latest_stack_exchange_searches:
+  - question_id: "52239615"
+    title: How can I install a python package onto Google Dataflow and import it into
+      my pipeline?
+    url: https://stackoverflow.com/questions/52239615/how-can-i-install-a-python-package-onto-google-dataflow-and-import-it-into-my-pi
+    owner_display_name: Melissa Guo
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10335909/melissa-guo
+    creation_date: "2018-09-08"
+    view_count: "5"
   - question_id: "52044349"
     title: Apache Beam/Google Dataflow PubSub to BigQuery Pipeline Handling Insert
       Errors and Unexpected Retry Behavior
@@ -3299,14 +3344,6 @@ competition:
     owner_link: https://stackoverflow.com/users/795168/ygk
     creation_date: "2017-12-22"
     view_count: "46"
-  - question_id: "44892571"
-    title: google dataflow firewall rule/network tag
-    url: https://stackoverflow.com/questions/44892571/google-dataflow-firewall-rule-network-tag
-    owner_display_name: khalid
-    owner_reputation: "18"
-    owner_link: https://stackoverflow.com/users/4107381/khalid
-    creation_date: "2017-07-03"
-    view_count: "235"
   tags:
   - Stack Network
   - Service API
@@ -3319,7 +3356,7 @@ competition:
   - Data
   - API Service Provider
   - API Provider
-- organization_id: NtWvMIO744pMDTm5OmXlSOwzQVqnUYGLdSNC6116DbP123I117
+- organization_id: ""
   name: Kaazing
   description: Kaazing, creator of the widely-adopted WebSocket standard, offers a
     range of enterprise infrastructure products with unmatched security, performance
@@ -3969,7 +4006,7 @@ competition:
   tags:
   - SDIO Competition
   - Real Time
-- organization_id: HBAKls3j4GGDRe9BPbnrWnBzGBTmwcvN1116kHGLKsO1238117
+- organization_id: ""
   name: Lightstreamer
   description: Lightstreamer is a top-performing real-time messaging server optimized
     for the Internet. Blending WebSockets, HTTP, and push notifications, it streams
@@ -4245,6 +4282,18 @@ competition:
     repo: Lightstreamer/Docker
   latest_reddit_searches:
   - reddit_id: "9"
+    title: How are big youtubers/streamers getting their light SO high already?
+    url: https://www.reddit.com/r/DestinyTheGame/comments/9dxq2q/how_are_big_youtubersstreamers_getting_their/
+    author: wuttholol
+    created_date: "2018-09-07"
+    score: "5"
+  - reddit_id: "9"
+    title: Streamer breaks his light
+    url: https://clips.twitch.tv/BadHelpfulMetalAsianGlow
+    author: Jesslul
+    created_date: "2018-09-07"
+    score: "7"
+  - reddit_id: "9"
     title: 'Daily Question for 08/30/2018:'
     url: https://www.reddit.com/r/waifuism/comments/9bkbvn/daily_question_for_08302018/
     author: ChanceFix
@@ -4395,31 +4444,17 @@ competition:
     author: Jmcceney
     created_date: "2016-08-29"
     score: "5"
-  - reddit_id: "4"
-    title: Build Ready First Time Build. Mid to High tier gaming rig. Would like final
-      review please!
-    url: https://www.reddit.com/r/buildapc/comments/4w45n1/build_ready_first_time_build_mid_to_high_tier/
-    author: Tidus2172
-    created_date: "2016-08-04"
-    score: "1"
-  - reddit_id: "4"
-    title: Build Ready Doing my first build for mid level gaming. Quick Review is
-      welcomed.
-    url: https://www.reddit.com/r/buildapc/comments/4w2j8w/build_ready_doing_my_first_build_for_mid_level/
-    author: Tidus2172
-    created_date: "2016-08-04"
-    score: "1"
   latest_hacker_news_searches:
   - hacker_news_id: "2744690"
     title: 10 Years of Push Technology, Comet, and WebSockets
     url: http://cometdaily.com/2011/07/06/push-technology-comet-and-websockets-10-years-of-history-from-lightstreamers-perspective/
-    author: Tidus2172
+    author: Jmcceney
     created_at: "2011-07-08"
     points: "2"
   - hacker_news_id: "114854"
     title: Hello World with Lightstreamer
     url: http://cometdaily.com/2008/02/12/%e2%80%9chello-world%e2%80%9d-with-lightstreamer/
-    author: Tidus2172
+    author: Jmcceney
     created_at: "2008-02-13"
     points: "2"
   latest_stack_exchange_searches:
@@ -4551,7 +4586,7 @@ competition:
   - Real Time
   - Mobile
   - Enterprise
-- organization_id: 1234AI787zTW5123BBuy7VS32GHE4Ruq8MIHY39aWVKHB9o117
+- organization_id: ""
   name: PubNub
   description: Focus on innovation and launch fast with our realtime APIs and global
     messaging infrastructure for web, mobile, and Internet of Things.
@@ -4702,96 +4737,90 @@ competition:
     url: https://twitter.com/PubNub/status/1029450335906156545
     time_stamp: "2018-08-14 12:31:00"
   latest_github_activity:
-  - title: pubnub/iOSSimpleChat being watched by NrmeenTomoum
-    url: ""
-    time_stamp: "2018-09-06"
-    type: WatchEvent
-    user_name: NrmeenTomoum
-    repo: pubnub/iOSSimpleChat
   - title: codacy-bot commented on an issue for pubnub/chat-engine-muter
-    url: https://api.github.com/repos/pubnub/chat-engine-muter/issues/comments/419265921
-    time_stamp: "2018-09-06"
+    url: https://api.github.com/repos/pubnub/chat-engine-muter/issues/comments/419604676
+    time_stamp: "2018-09-07"
     type: IssueCommentEvent
     user_name: codacy-bot
-    repo: pubnub/chat-engine-muter
-  - title: ManuelFernando made a pull request on pubnub/chat-engine-muter
-    url: https://github.com/pubnub/chat-engine-muter/pull/6
-    time_stamp: "2018-09-06"
-    type: PullRequestEvent
-    user_name: ManuelFernando
     repo: pubnub/chat-engine-muter
   - title: ManuelFernando pushed to pubnub/chat-engine-muter
     url: ""
-    time_stamp: "2018-09-06"
+    time_stamp: "2018-09-07"
     type: PushEvent
     user_name: ManuelFernando
     repo: pubnub/chat-engine-muter
-  - title: pubnub/java was forked by java-1
-    url: ""
-    time_stamp: "2018-09-06"
-    type: ForkEvent
-    user_name: java-1
-    repo: pubnub/java
-  - title: budgetpreneur pushed to pubnub/c-sharp
-    url: ""
-    time_stamp: "2018-09-06"
-    type: PushEvent
-    user_name: budgetpreneur
-    repo: pubnub/c-sharp
-  - title: budgetpreneur made a pull request on pubnub/c-sharp
-    url: https://github.com/pubnub/c-sharp/pull/47
-    time_stamp: "2018-09-06"
-    type: PullRequestEvent
-    user_name: budgetpreneur
-    repo: pubnub/c-sharp
-  - title: pubnub/ruby was forked by ruby
-    url: ""
-    time_stamp: "2018-09-06"
-    type: ForkEvent
-    user_name: ruby
-    repo: pubnub/ruby
-  - title: pubnub/chat-engine being watched by kabir-chandhoke
-    url: ""
-    time_stamp: "2018-09-06"
-    type: WatchEvent
-    user_name: kabir-chandhoke
-    repo: pubnub/chat-engine
-  - title: codacy-bot commented on an issue for pubnub/c-sharp
-    url: https://api.github.com/repos/pubnub/c-sharp/issues/comments/419120505
-    time_stamp: "2018-09-06"
+  - title: codacy-bot commented on an issue for pubnub/chat-engine-muter
+    url: https://api.github.com/repos/pubnub/chat-engine-muter/issues/comments/419604413
+    time_stamp: "2018-09-07"
     type: IssueCommentEvent
     user_name: codacy-bot
-    repo: pubnub/c-sharp
-  - title: budgetpreneur made a pull request on pubnub/c-sharp
-    url: https://github.com/pubnub/c-sharp/pull/47
-    time_stamp: "2018-09-06"
-    type: PullRequestEvent
-    user_name: budgetpreneur
-    repo: pubnub/c-sharp
-  - title: pubnub/chat-engine being watched by thelebster
+    repo: pubnub/chat-engine-muter
+  - title: ManuelFernando pushed to pubnub/chat-engine-muter
     url: ""
-    time_stamp: "2018-09-06"
-    type: WatchEvent
-    user_name: thelebster
-    repo: pubnub/chat-engine
-  - title: pubnub/webrtc being watched by pangoo
-    url: ""
-    time_stamp: "2018-09-06"
-    type: WatchEvent
-    user_name: pangoo
-    repo: pubnub/webrtc
-  - title: budgetpreneur pushed to pubnub/c-sharp
-    url: ""
-    time_stamp: "2018-09-06"
+    time_stamp: "2018-09-07"
     type: PushEvent
-    user_name: budgetpreneur
-    repo: pubnub/c-sharp
-  - title: pubnub/iOSSimpleChat being watched by NrmeenTomoum
+    user_name: ManuelFernando
+    repo: pubnub/chat-engine-muter
+  - title: codacy-bot commented on an issue for pubnub/chat-engine-muter
+    url: https://api.github.com/repos/pubnub/chat-engine-muter/issues/comments/419603773
+    time_stamp: "2018-09-07"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/chat-engine-muter
+  - title: ManuelFernando pushed to pubnub/chat-engine-muter
     url: ""
-    time_stamp: "2018-09-06"
+    time_stamp: "2018-09-07"
+    type: PushEvent
+    user_name: ManuelFernando
+    repo: pubnub/chat-engine-muter
+  - title: codacy-bot commented on an issue for pubnub/chat-engine-muter
+    url: https://api.github.com/repos/pubnub/chat-engine-muter/issues/comments/419603161
+    time_stamp: "2018-09-07"
+    type: IssueCommentEvent
+    user_name: codacy-bot
+    repo: pubnub/chat-engine-muter
+  - title: ManuelFernando pushed to pubnub/chat-engine-muter
+    url: ""
+    time_stamp: "2018-09-07"
+    type: PushEvent
+    user_name: ManuelFernando
+    repo: pubnub/chat-engine-muter
+  - title: stefan-qsd made a pull request on pubnub/php
+    url: https://github.com/pubnub/php/pull/29
+    time_stamp: "2018-09-07"
+    type: PullRequestEvent
+    user_name: stefan-qsd
+    repo: pubnub/php
+  - title: pubnub/chat-engine-examples being watched by casualuser
+    url: ""
+    time_stamp: "2018-09-07"
     type: WatchEvent
-    user_name: NrmeenTomoum
-    repo: pubnub/iOSSimpleChat
+    user_name: casualuser
+    repo: pubnub/chat-engine-examples
+  - title: pvtmert made a pull request on pubnub/easy-hacker-news-stream
+    url: https://github.com/pubnub/easy-hacker-news-stream/pull/5
+    time_stamp: "2018-09-07"
+    type: PullRequestEvent
+    user_name: pvtmert
+    repo: pubnub/easy-hacker-news-stream
+  - title: pvtmert made a pull request on pubnub/easy-hacker-news-stream
+    url: https://github.com/pubnub/easy-hacker-news-stream/pull/4
+    time_stamp: "2018-09-07"
+    type: PullRequestEvent
+    user_name: pvtmert
+    repo: pubnub/easy-hacker-news-stream
+  - title: pubnub/chat-engine was forked by chat-engine
+    url: ""
+    time_stamp: "2018-09-07"
+    type: ForkEvent
+    user_name: chat-engine
+    repo: pubnub/chat-engine
+  - title: pubnub/chat-engine being watched by casualuser
+    url: ""
+    time_stamp: "2018-09-07"
+    type: WatchEvent
+    user_name: casualuser
+    repo: pubnub/chat-engine
   latest_reddit_searches:
   - reddit_id: "9"
     title: Streaming data into Excel from Raspberry Pi devices via realtime backends
@@ -4824,6 +4853,12 @@ competition:
     author: Fewthp
     created_date: "2018-05-07"
     score: "6"
+  - reddit_id: "8"
+    title: Vue.js Chat with AWS Lex on PubNub ChatEngine
+    url: https://github.com/ajb413/chat-engine-vue
+    author: bprogramming
+    created_date: "2018-05-01"
+    score: "2"
   - reddit_id: "8"
     title: Near-realtime, scalable 1-to-1 and 1-to-N message broker? Or, self-hosted
       Pusher / PubNub alternative?
@@ -4944,13 +4979,6 @@ competition:
     author: ToeJamson
     created_date: "2014-03-25"
     score: "8"
-  - reddit_id: "1"
-    title: 14 year old uses Arduino/detector/PubNub to create earthquake warning system
-      for 360k Chileans
-    url: http://www.pubnub.com/blog/pubnub-powers-earthquake-alert-system/
-    author: ToeJamson
-    created_date: "2014-03-07"
-    score: "95"
   latest_hacker_news_searches:
   - hacker_news_id: "17811423"
     title: Build a Multiplayer Game in Golang with PubNub
@@ -5297,7 +5325,7 @@ competition:
   - internet
   - Enterprise
   - API LIfeyclessss
-- organization_id: 9WZQ0R123p4GE116pFEuSCcv8Jez11F0Yh123FktGTYiy5uj0117
+- organization_id: ""
   name: Push Technology
   description: We make the Internet work for our mobile-obsessed, everything-connected
     world. Leading brands like 888 Holdings, DAB Bank, IBM, and William Hill leverage
@@ -5420,7 +5448,7 @@ competition:
   - Mobile
   - Enterprise
   - Data
-- organization_id: Drj85m123123KGsStm71163P09mvYncvxJqC116Pp2BPFbmZ5GA117
+- organization_id: ""
   name: Pusher
   description: Pusher empowers developer with API to create collaboration & communication
     features in their web and mobile apps.
@@ -5617,6 +5645,36 @@ competition:
     url: https://twitter.com/pusher/status/1010483103280689152
     time_stamp: "2018-06-23 04:22:00"
   latest_github_activity:
+  - title: pusher/feeds-server-node being watched by damianesteban
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: damianesteban
+    repo: pusher/feeds-server-node
+  - title: pusher/react-slack-clone being watched by nmrshll
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: nmrshll
+    repo: pusher/react-slack-clone
+  - title: pusher/pusher-js being watched by yangkghjh
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: yangkghjh
+    repo: pusher/pusher-js
+  - title: pusher/pusher-http-python being watched by tjordanwells
+    url: ""
+    time_stamp: "2018-09-08"
+    type: WatchEvent
+    user_name: tjordanwells
+    repo: pusher/pusher-http-python
+  - title: pusher/pusher-http-node was forked by pusher-http-node
+    url: ""
+    time_stamp: "2018-09-08"
+    type: ForkEvent
+    user_name: pusher-http-node
+    repo: pusher/pusher-http-node
   - title: pusher/react-slack-clone being watched by Nann
     url: ""
     time_stamp: "2018-09-07"
@@ -5683,48 +5741,6 @@ competition:
     type: PushEvent
     user_name: JoelSpeed
     repo: pusher/controller-runtime
-  - title: JoelSpeed pushed to pusher/controller-runtime
-    url: ""
-    time_stamp: "2018-09-07"
-    type: PushEvent
-    user_name: JoelSpeed
-    repo: pusher/controller-runtime
-  - title: pusher/pusher-http-ruby being watched by sandstrom
-    url: ""
-    time_stamp: "2018-09-07"
-    type: WatchEvent
-    user_name: sandstrom
-    repo: pusher/pusher-http-ruby
-  - title: cowwoc submitted an issue on pusher/pusher-socket-protocol
-    url: https://api.github.com/repos/pusher/pusher-socket-protocol/issues/7
-    time_stamp: "2018-09-07"
-    type: IssuesEvent
-    user_name: cowwoc
-    repo: pusher/pusher-socket-protocol
-  - title: cowwoc commented on an issue for pusher/pusher-socket-protocol
-    url: https://api.github.com/repos/pusher/pusher-socket-protocol/issues/comments/419389455
-    time_stamp: "2018-09-07"
-    type: IssueCommentEvent
-    user_name: cowwoc
-    repo: pusher/pusher-socket-protocol
-  - title: cowwoc submitted an issue on pusher/pusher-websocket-java
-    url: https://api.github.com/repos/pusher/pusher-websocket-java/issues/188
-    time_stamp: "2018-09-07"
-    type: IssuesEvent
-    user_name: cowwoc
-    repo: pusher/pusher-websocket-java
-  - title: cowwoc submitted an issue on pusher/pusher-socket-protocol
-    url: https://api.github.com/repos/pusher/pusher-socket-protocol/issues/7
-    time_stamp: "2018-09-07"
-    type: IssuesEvent
-    user_name: cowwoc
-    repo: pusher/pusher-socket-protocol
-  - title: pusher/pusher-http-php being watched by bmwangdev
-    url: ""
-    time_stamp: "2018-09-07"
-    type: WatchEvent
-    user_name: bmwangdev
-    repo: pusher/pusher-http-php
   latest_reddit_searches:
   - reddit_id: "9"
     title: Accident
@@ -5733,11 +5749,30 @@ competition:
     created_date: "2018-09-07"
     score: "147"
   - reddit_id: "9"
+    title: Aftermath of recent Japanese typhoon.
+    url: https://i.redd.it/p9fwpuy60wk11.jpg
+    author: GrantLikesSunChips
+    created_date: "2018-09-07"
+    score: "1035"
+  - reddit_id: "9"
+    title: The messiest corral that I have seen in my store so far.
+    url: https://i.redd.it/fb74ki6tfgk11.jpg
+    author: KMHT_Spotter
+    created_date: "2018-09-05"
+    score: "36"
+  - reddit_id: "9"
     title: When Lewis has been gaining too much weight
     url: https://i.redd.it/hjyzg5hem5k11.png
     author: Brynx42
     created_date: "2018-09-04"
     score: "585"
+  - reddit_id: "9"
+    title: 'Intro to Giggles: light Boundary Pusher has stepped up to her first full
+      CBF'
+    url: https://www.reddit.com/r/JUSTNOMIL/comments/9cxdvr/intro_to_giggles_light_boundary_pusher_has/
+    author: Agile_Strawberry
+    created_date: "2018-09-04"
+    score: "25"
   - reddit_id: "9"
     title: TIL that a wet umbrella is kryptonite to the Japanese subway butt pushers.
     url: https://www.reddit.com/r/japancirclejerk/comments/9cghal/til_that_a_wet_umbrella_is_kryptonite_to_the/
@@ -5867,149 +5902,128 @@ competition:
     author: StonedSoapSeller
     created_date: "2018-08-15"
     score: "180"
-  - reddit_id: "97"
-    title: 'Update on girl who was pushed by friend off the 60 ft bridge: Investigators
-      have identified the pusher and Prosecutors are considering charges against her.'
-    url: https://abcnews.go.com/US/prosecutors-mulling-charges-woman-pushed-friend-off-bridge/story?id=57175905
-    author: lipstickpizza
-    created_date: "2018-08-15"
-    score: "474"
-  - reddit_id: "96"
-    title: 'EXCLUSIVE: Ang official statement ni Pangulong Duterte hinggil sa nakalusot
-      na halos pitong bilyong pisong halaga ng panibagong shabu shipment'
-    url: https://i.redd.it/g3lnzhnbhrf11.jpg
-    author: HasNameAllTakenWTF
-    created_date: "2018-08-13"
-    score: "152"
-  - reddit_id: "96"
-    title: Nicolas Winding Refn Talks About Music &amp; Soundtracks To His Films And
-      His Use Of Colour
-    url: https://youtube.com/watch?v=3tsMEcOH6_A
-    author: IntelligentFennel
-    created_date: "2018-08-12"
-    score: "98"
   latest_hacker_news_searches:
   - hacker_news_id: "16236692"
     title: Hawaii button pusher refusing to cooperate with FCC, internal investigators
     url: http://www.staradvertiser.com/2018/01/24/breaking-news/schatz-to-lead-hearing-on-alert-systems-in-wake-of-hawaii-blunder/
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2018-01-25"
     points: "125"
   - hacker_news_id: "15896908"
     title: Building a realtime location app with ARKit, CoreLocation and Pusher
     url: https://blog.pusher.com/realtime-location-app-arkit-corelocation-pusher/
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2017-12-11"
     points: "60"
   - hacker_news_id: "13064478"
     title: "Hello PubNub and Pusher users \u2013 we now speak your language. Welcome
       to Ably"
     url: http://www.ably.io/adapters
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2016-11-29"
     points: "41"
   - hacker_news_id: "12699332"
     title: Dash author is lying? Pusher of shovelware
     url: http://forums.macrumors.com/threads/apple-says-1-000-fraudulent-reviews-were-detected-across-two-accounts-owned-by-dash-developer-update-developer-responds.2005850/page-12#post-23708918
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2016-10-13"
     points: "73"
   - hacker_news_id: "10263535"
     title: Hail to the Pencil Pusher
     url: http://bostonreview.net/books-ideas/mike-konczal-government-bureaucracy
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2015-09-22"
     points: "7"
   - hacker_news_id: "9375518"
     title: Pixel Pushers
     url: http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2015-04-14"
     points: "9"
   - hacker_news_id: "9242286"
     title: "Show HN WP Pusher \u2013 Pain-free deployment of WordPress themes and
       plugins"
     url: https://wppusher.com/
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2015-03-21"
     points: "9"
   - hacker_news_id: "7615509"
     title: Poxa A Pusher clone with a real-time Console
     url: https://github.com/edgurgel/poxa
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2014-04-19"
     points: "35"
   - hacker_news_id: "5808032"
     title: ' Pusher DNS Hacked?'
     url: http://pusher.com
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2013-06-02"
     points: "7"
   - hacker_news_id: "5634776"
     title: How we built Pusher-JS 2.0  part 2  implementation
     url: http://blog.pusher.com/how-we-built-pusher-js-2-0-part-2-implementation/
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2013-04-30"
     points: "29"
   - hacker_news_id: "5517151"
     title: Pusher-js 2.0.0 released WebSockets, comprehensive legacy support
     url: http://blog.pusher.com/pusher-2-0-0-cutting-edge-websockets-with-comprehensive-legacy-support/
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2013-04-09"
     points: "22"
   - hacker_news_id: "4413185"
     title: Build Your Own Home Automation w/ Pusher, Twilio, and Arduino
     url: http://www.twilio.com/blog/2012/08/diy-home-automation-using-twilio-powerswitch-arduino-and-pusher.html
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2012-08-21"
     points: "239"
   - hacker_news_id: "4190822"
     title: Ask HN What's are the key differences between Pusher and PubNub?
     url: ""
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2012-07-02"
     points: "6"
   - hacker_news_id: "3534962"
     title: Shoutbox - a Sinatra-MongoDB-Pusher-based monitoring app
     url: http://moviepilotlabs.tumblr.com/post/16814219083/were-releasing-shoutbox
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2012-01-31"
     points: "22"
   - hacker_news_id: "3359097"
     title: Slanger An open implementation of the Pusher protocol written in Ruby
     url: https://github.com/stevegraham/slanger?hn
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2011-12-15"
     points: "45"
   - hacker_news_id: "3351886"
     title: Slanger - Open Source Pusher protocol powered by Ruby and Redis
     url: http://thechangelog.com/post/14214730049/slanger-open-source-pusher-protocol-powered-by-ruby-and
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2011-12-14"
     points: "8"
   - hacker_news_id: "2679426"
     title: Backbone.js, now realtime with Pusher
     url: http://blog.pusher.com/2011/6/21/backbone-js-now-realtime-with-pusher
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2011-06-21"
     points: "16"
   - hacker_news_id: "2636958"
     title: Pusher Raises $1M From Heroku Founders And More To Bring Realtime Tech
       To Apps
     url: http://techcrunch.com/2011/06/09/pusher-raises-1m-from-passion-capital-heroku-founders-to-bring-realtime-tech-to-your-apps/
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2011-06-09"
     points: "28"
   - hacker_news_id: "1925100"
     title: Tech interview about PusherApp, the WebSockets service behind Scrabb.ly
     url: http://webpulp.tv/post/1626829659/pusher-app-martyn-loughran
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2010-11-20"
     points: "8"
   - hacker_news_id: "1216648"
     title: Pusher - Realtime client push service powered by websockets
     url: http://pusherapp.com
-    author: IntelligentFennel
+    author: StonedSoapSeller
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
@@ -6229,7 +6243,7 @@ competition:
   - HTML5
   - API United Kingdom
   - API LIfeyclessss
-- organization_id: sMCK2o5duVEs5whdTuymMCx3t7zws8P51m4EEPXJDxE117
+- organization_id: ""
   name: Streamr
   description: "Data done differently with our realtime #data Marketplace & p2p decentralised
     Network supported by #Ethereum. #IoT \U0001F4F6  #blockchain \U0001F4AA $DATA
@@ -6546,6 +6560,12 @@ competition:
     author: viwe12
     created_date: "2018-07-25"
     score: "10"
+  - reddit_id: "91"
+    title: 'Economist: What if people were paid for their data?'
+    url: https://www.economist.com/the-world-if/2018/07/07/what-if-people-were-paid-for-their-data
+    author: ethereumcpw
+    created_date: "2018-07-25"
+    score: "22"
   - reddit_id: "915"
     title: Feral and Boomkin streamrs for learning
     url: https://www.reddit.com/r/worldofpvp/comments/915msm/feral_and_boomkin_streamrs_for_learning/
@@ -6618,138 +6638,131 @@ competition:
     author: cmurf3989
     created_date: "2018-07-06"
     score: "15"
-  - reddit_id: "8"
-    title: "Streamr's founder and CEO speaking at major TechCrunch event this
-      Friday between 13:00 and 13:15."
-    url: https://i.redd.it/70uprcit7w711.png
-    author: AmandineF
-    created_date: "2018-07-04"
-    score: "26"
   latest_hacker_news_searches:
   - hacker_news_id: "17618068"
     title: Streamroot powers largest ever video streaming distributed delivery for
       WC18
     url: https://blog.streamroot.io/streamroot-powers-largest-ever-deployment-of-distributed-network-delivery-video-streaming-world-cup-2018
-    author: AmandineF
+    author: cmurf3989
     created_at: "2018-07-26"
     points: "1"
   - hacker_news_id: "17032222"
     title: "\u201CDecentralisation in stages\u201D \u2013 Streamr DataCoin's
       approach"
     url: https://www.youtube.com/watch?v=q4N2rjpuC4U&t=1115s
-    author: AmandineF
+    author: cmurf3989
     created_at: "2018-05-09"
     points: "4"
   - hacker_news_id: "16987414"
     title: TF1 group selects streamroot technology to power its online video offerings
     url: https://blog.streamroot.io/tf1-largest-european-media-group-selects-streamroot-video-delivery/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2018-05-03"
     points: "3"
   - hacker_news_id: "16546006"
     title: How Streamr Labs will help make a real-time decentralised data economy
       a reality
     url: http://blog.streamr.com/2018/03/streamr-labs-launch/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2018-03-08"
     points: "9"
   - hacker_news_id: "16053814"
     title: Streamr joins EIT Digital Accelerator to drive pan-European scaleup effort
     url: https://www.eitdigital.eu/newsroom/news/article/streamr-joins-eit-digital-accelerator-to-drive-pan-european-scaleup-effort/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2018-01-02"
     points: "6"
   - hacker_news_id: "16051189"
     title: A comparison between IOTA and Streamr
     url: https://medium.com/@giotto_3438/a-comparison-between-iota-and-streamr-343b3d9cd2ec
-    author: AmandineF
+    author: cmurf3989
     created_at: "2018-01-02"
     points: "1"
   - hacker_news_id: "15987103"
     title: Cold Chain Monitoring with Streamr, Ruuvi, and Ethereum
     url: http://blog.streamr.com/2017/12/cold-chain-monitoring-with-streamr-ruuvi-and-ethereum/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2017-12-22"
     points: "1"
   - hacker_news_id: "15420331"
     title: "Show HN StreamRecap \u2013 Searchable Automatic Esports Highlights"
     url: https://streamrecap.com/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2017-10-06"
     points: "2"
   - hacker_news_id: "15190382"
     title: Streamroot lands $3.2M in financing to redesign content delivery
     url: https://www.streamroot.io/streamroot-lands-funding-redesign-content-delivery/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2017-09-07"
     points: "4"
   - hacker_news_id: "14594274"
     title: Streamroot goes multi-device with mobile SDKs
     url: https://blog.streamroot.io/streamroot-multi-device-mobile-sdks/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2017-06-20"
     points: "4"
   - hacker_news_id: "14506371"
     title: Streamroot launches world's First multi-device distributed OTT delivery
       solution
     url: https://www.streamroot.io/streamroot-extends-compatibility-offer-worlds-first-multi-device-plugin-free-distributed-delivery-solution-large-scale-ott
-    author: AmandineF
+    author: cmurf3989
     created_at: "2017-06-07"
     points: "2"
   - hacker_news_id: "14165521"
     title: Vivendi selects Streamroot for high quality OTT video delivery
     url: https://www.streamroot.io/vivendi-selects-streamroot-high-quality-ott-video-delivery
-    author: AmandineF
+    author: cmurf3989
     created_at: "2017-04-21"
     points: "13"
   - hacker_news_id: "12902329"
     title: Dailymotion selects Streamroot for large-scale Peer-accelerated video delivery
     url: https://blog.streamroot.io/dailymotion-streamroot-winning-combination-large-scale-ott/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2016-11-08"
     points: "3"
   - hacker_news_id: "12797873"
     title: Dailymotion selects Streamroot to control cost and QoS
     url: https://www.streamroot.io/dailymotion-selects-streamroot-control-cost-qos-large-scale-ott-video-delivery?utm_content=buffere0d03&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-    author: AmandineF
+    author: cmurf3989
     created_at: "2016-10-26"
     points: "11"
   - hacker_news_id: "10712549"
     title: Streamroot makes video streaming cheaper thanks to peer-to-peer
     url: http://techcrunch.com/2015/12/10/streamroot-makes-video-streaming-cheaper-thanks-to-peer-to-peer/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2015-12-10"
     points: "11"
   - hacker_news_id: "9845251"
     title: Nimble+Streamroot double your live stream capacity with in-browser p2p
       streaming
     url: http://blog.streamroot.io/configure-nimble-streams-optimized-streamroot/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2015-07-07"
     points: "3"
   - hacker_news_id: "9251259"
     title: Interview by GPAC StreamRoot halves delivery costs while raising bitrate
       by 30%
     url: http://www.gpac-licensing.com/2015/03/21/interview-streamroot/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2015-03-23"
     points: "1"
   - hacker_news_id: "9013525"
     title: How to Build Streams in Elixir Easily with Stream.resource/3 Awesomeness
     url: http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2015-02-07"
     points: "1"
   - hacker_news_id: "4261901"
     title: Nodeable gives Hadoop a real-time boost with StreamReduce
     url: http://gigaom.com/cloud/nodeable-gives-hadoop-a-real-time-boost-with-streamreduce/
-    author: AmandineF
+    author: cmurf3989
     created_at: "2012-07-18"
     points: "1"
   - hacker_news_id: "34781"
     title: A VC Streamripping?
     url: http://avc.blogs.com/a_vc/2007/07/streamripping.html
-    author: AmandineF
+    author: cmurf3989
     created_at: "2007-07-17"
     points: "6"
   latest_stack_exchange_searches:
@@ -6884,7 +6897,7 @@ competition:
   - Mobile
   - Enterprise
   - Blockchain
-- organization_id: DCG8gdj2KDYS5spqpBD0HPT7eQz123MbNyliaWiCADxoM117
+- organization_id: ""
   name: StreamSets
   description: The industrys first data operations platform for full life-cycle management
     of data in motion.
@@ -6916,7 +6929,7 @@ competition:
   - New
   - Enterprise
   - Data
-- organization_id: kyFc1PI22cwHBh8123oILFQ4MGRBEJHPFrHUzhum6x9wE117
+- organization_id: ""
   name: Striim
   description: Striim (pronounced stream) provides an end-to-end, real-time data integration
     + streaming analytics platform. Leverage change data capture (CDC) to access data.
@@ -7231,47 +7244,53 @@ competition:
     author: AncientAstronauts
     created_date: "2016-03-16"
     score: "1"
+  - reddit_id: "1"
+    title: Striim - an opensource visio conference and live document sharing webapp
+    url: https://stri.im/
+    author: flo850
+    created_date: "2014-01-19"
+    score: "6"
   latest_hacker_news_searches:
   - hacker_news_id: "17668217"
     title: GitLab is working on a tool just for data teams
     url: https://about.gitlab.com/2018/08/01/hey-data-teams-we-are-working-on-a-tool-just-for-you/
-    author: AncientAstronauts
+    author: flo850
     created_at: "2018-08-01"
     points: "0"
   - hacker_news_id: "16972219"
     title: Ask HN Who is hiring? (May 2018)
     url: ""
-    author: AncientAstronauts
+    author: flo850
     created_at: "2018-05-01"
     points: "0"
   - hacker_news_id: "13997996"
     title: Streaming Databases in Real-Time with Kafka, Debezium, and MySQL
     url: https://wecode.wepay.com/posts/streaming-databases-in-realtime-with-mysql-debezium-kafka
-    author: AncientAstronauts
+    author: flo850
     created_at: "2017-03-30"
     points: "0"
   - hacker_news_id: "13904654"
     title: Continuous Analytics Over Discontinuous Streams [pdf]
     url: https://people.eecs.berkeley.edu/""franklin/Papers/sigmod10krishnamurthy.pdf
-    author: AncientAstronauts
+    author: flo850
     created_at: "2017-03-18"
     points: "0"
   - hacker_news_id: "13225960"
     title: Learning from a Year of Security Breaches
     url: https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b
-    author: AncientAstronauts
+    author: flo850
     created_at: "2016-12-20"
     points: "0"
   - hacker_news_id: "12527472"
     title: Scalable Stream Processing A Survey of Storm, Samza, Spark and Flink
     url: http://medium.com/baqend-blog/real-time-stream-processors-a-survey-and-decision-guidance-6d248f692056#.b1n6hnbrd
-    author: AncientAstronauts
+    author: flo850
     created_at: "2016-09-18"
     points: "0"
   - hacker_news_id: "11848861"
     title: Thumbtack How we run Spark and Sqoop in production
     url: https://www.thumbtack.com/engineering/building-thumbtacks-data-infrastructure-part-ll/
-    author: AncientAstronauts
+    author: flo850
     created_at: "2016-06-06"
     points: "0"
   latest_stack_exchange_searches: []
