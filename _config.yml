@@ -252,6 +252,18 @@ competition:
     repo: ably/docs
   latest_reddit_searches:
   - reddit_id: "9"
+    title: DAEX IN-DEPTH ANALYSIS
+    url: https://www.reddit.com/r/NewCryptoinfo/comments/9ehj5w/daex_indepth_analysis/
+    author: Elynks
+    created_date: "2018-09-10"
+    score: "13"
+  - reddit_id: "9"
+    title: REBRANDING CRYPTO CURRENCY EXCHANGE MARKET WITH DAEX (DIGITAL ASSET EXCHANGE)
+    url: https://www.reddit.com/r/ICOAnalysis/comments/9ebz7n/rebranding_crypto_currency_exchange_market_with/
+    author: Elynks
+    created_date: "2018-09-09"
+    score: "11"
+  - reddit_id: "9"
     title: REBRANDING CRYPTO CURRENCY EXCHANGE MARKET WITH DAEX (DIGITAL ASSET EXCHANGE)
     url: https://www.reddit.com/r/cryptocurrencynewico/comments/9dfs23/rebranding_crypto_currency_exchange_market_with/
     author: Elynks
@@ -402,41 +414,35 @@ competition:
     author: Jobot343
     created_date: "2016-01-18"
     score: "4"
-  - reddit_id: "2147483647"
-    title: '**[Hat] Dear Ears**'
-    url: https://www.reddit.com/r/TroveCreations/comments/3e9th1/hat_dear_ears/
-    author: parallelogremlin
-    created_date: "2015-07-23"
-    score: "7"
   latest_hacker_news_searches:
   - hacker_news_id: "17750260"
     title: Health Checks and Graceful Degradation in Distributed Systems
     url: https://medium.com/@copyconstruct/health-checks-in-distributed-systems-aa8a0e8c1672
-    author: parallelogremlin
+    author: Jobot343
     created_at: "2018-08-13"
     points: "0"
   - hacker_news_id: "17486315"
     title: Ask HN What APIs do you use the most?
     url: ""
-    author: parallelogremlin
+    author: Jobot343
     created_at: "2018-07-08"
     points: "0"
   - hacker_news_id: "16683733"
     title: Every single Heroku API is down. Wot?
     url: https://status.heroku.com/incidents/1459
-    author: parallelogremlin
+    author: Jobot343
     created_at: "2018-03-26"
     points: "0"
   - hacker_news_id: "14875593"
     title: "Where's all my CPU and memory gone? The answer Slack"
     url: https://medium.com/@matt.at.ably/wheres-all-my-cpu-and-memory-gone-the-answer-slack-9e5c39207cab
-    author: parallelogremlin
+    author: Jobot343
     created_at: "2017-07-28"
     points: "0"
   - hacker_news_id: "13856752"
     title: Real-time notifications from systemd to Slack
     url: https://www.scaledrone.com/blog/posts/real-time-notifications-from-systemd-to-slack
-    author: parallelogremlin
+    author: Jobot343
     created_at: "2017-03-13"
     points: "0"
   latest_stack_exchange_searches:
