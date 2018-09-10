@@ -6924,6 +6924,13 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: Striim Talks Cloud Integration at Strata Data Conference NYC, September
+      11-13
+    url: https://www.striim.com/blog/2018/09/striim-talks-cloud-integration-strata-data-conference-ny/
+    time_stamp: "2018-09-07 13:42:25"
+  - title: Using Change Data Capture to Solve the Cache Consistency Problem
+    url: https://www.striim.com/blog/2018/09/using-change-data-capture-for-cache-consistency/
+    time_stamp: "2018-09-05 12:45:37"
   - title: Why Hybrid Cloud Needs Streaming Integration
     url: https://www.striim.com/blog/2018/08/hybrid-cloud-needs-streaming-integration/
     time_stamp: "2018-08-30 07:05:06"
