@@ -4745,6 +4745,30 @@ competition:
     url: https://twitter.com/PubNub/status/1029450335906156545
     time_stamp: "2018-08-14 12:31:00"
   latest_github_activity:
+  - title: pubnub/java was forked by java
+    url: ""
+    time_stamp: "2018-09-09"
+    type: ForkEvent
+    user_name: java
+    repo: pubnub/java
+  - title: pubnub/pi-house being watched by Francescou2
+    url: ""
+    time_stamp: "2018-09-09"
+    type: WatchEvent
+    user_name: Francescou2
+    repo: pubnub/pi-house
+  - title: pubnub/video-sync being watched by Jabu2
+    url: ""
+    time_stamp: "2018-09-09"
+    type: WatchEvent
+    user_name: Jabu2
+    repo: pubnub/video-sync
+  - title: pubnub/javascript was forked by javascript
+    url: ""
+    time_stamp: "2018-09-09"
+    type: ForkEvent
+    user_name: javascript
+    repo: pubnub/javascript
   - title: pubnub/pubnub-react was forked by pubnub-react
     url: ""
     time_stamp: "2018-09-08"
@@ -4775,30 +4799,6 @@ competition:
     type: PushEvent
     user_name: qsoftdevelopment
     repo: pubnub/php
-  - title: qsoftdevelopment made a pull request on pubnub/php
-    url: https://github.com/pubnub/php/pull/29
-    time_stamp: "2018-09-08"
-    type: PullRequestEvent
-    user_name: qsoftdevelopment
-    repo: pubnub/php
-  - title: codacy-bot commented on an issue for pubnub/chat-engine-muter
-    url: https://api.github.com/repos/pubnub/chat-engine-muter/issues/comments/419604676
-    time_stamp: "2018-09-07"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/chat-engine-muter
-  - title: ManuelFernando pushed to pubnub/chat-engine-muter
-    url: ""
-    time_stamp: "2018-09-07"
-    type: PushEvent
-    user_name: ManuelFernando
-    repo: pubnub/chat-engine-muter
-  - title: codacy-bot commented on an issue for pubnub/chat-engine-muter
-    url: https://api.github.com/repos/pubnub/chat-engine-muter/issues/comments/419604413
-    time_stamp: "2018-09-07"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/chat-engine-muter
   latest_reddit_searches:
   - reddit_id: "9"
     title: Streaming data into Excel from Raspberry Pi devices via realtime backends
