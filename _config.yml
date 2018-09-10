@@ -4844,6 +4844,12 @@ competition:
     author: mingp
     created_date: "2018-04-10"
     score: "1"
+  - reddit_id: "7"
+    title: Microservices helping with costs and scale at PubNub
+    url: https://buttercms.com/blog/microservices-for-startups-an-interview-with-stephen-blum-of-pubnub
+    author: Modiculous
+    created_date: "2018-02-14"
+    score: "1"
   - reddit_id: "79"
     title: Meet PubNub - The Startup That Brought Serverless Computing To The Edge
     url: https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/janakirammsv/2017/10/31/meet-pubnub-the-startup-that-brought-serverless-computing-to-the-edge/&amp;refURL=&amp;referrer=
@@ -4951,141 +4957,135 @@ competition:
     author: RealtimeWebDev
     created_date: "2014-04-22"
     score: "0"
-  - reddit_id: "21"
-    title: Add speech-to-text to JavaScript chat room with PubNub and Wit
-    url: http://www.pubnub.com/blog/create-a-speech-to-text-chat-room-with-wit-and-pubnub/
-    author: ToeJamson
-    created_date: "2014-03-25"
-    score: "8"
   latest_hacker_news_searches:
   - hacker_news_id: "17811423"
     title: Build a Multiplayer Game in Golang with PubNub
     url: https://www.pubnub.com/blog/multiplayer-game-in-go-lang-with-pubnub/?devrel_hn=chandler
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2018-08-21"
     points: "5"
   - hacker_news_id: "17375645"
     title: Create a Blockchain Caller with PubNub and JSON RPC
     url: https://www.pubnub.com/blog/implementing-pubnub-dapp-with-ethereum-blockchain/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2018-06-22"
     points: "11"
   - hacker_news_id: "17304939"
     title: Implementing PubNub with the Ethereum Blockchain
     url: https://www.pubnub.com/blog/implementing-pubnub-dapp-with-ethereum-blockchain/?devrel_hn=cameron
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2018-06-13"
     points: "6"
   - hacker_news_id: "17180953"
     title: Broadcast Ethereum Events with Web3.js and PubNub
     url: https://hackernoon.com/broadcast-ethereum-events-with-web3-js-and-pubnub-267f6e38210b
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2018-05-29"
     points: "9"
   - hacker_news_id: "16969946"
     title: Show HN Vue.js Chat with AWS Lex on PubNub ChatEngine
     url: https://github.com/ajb413/chat-engine-vue
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2018-05-01"
     points: "45"
   - hacker_news_id: "16869024"
     title: PubNub is Faster than iMessage
     url: https://www.pubnub.com/blog/pubnub-chatengine-is-faster-than-imessage/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2018-04-18"
     points: "6"
   - hacker_news_id: "16650305"
     title: Build a Twitter Chatbot with PubNub Functions
     url: https://www.pubnub.com/blog/build-a-twitter-chatbot-with-pubnub-functions/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2018-03-22"
     points: "5"
   - hacker_news_id: "15697103"
     title: PubNub Launches ChatEngine Serverless Chat SDK for React Native, Node,
       and Web
     url: https://www.pubnub.com/products/chatengine/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2017-11-14"
     points: "19"
   - hacker_news_id: "13064478"
     title: "Hello PubNub and Pusher users \u2013 we now speak your language. Welcome
       to Ably"
     url: http://www.ably.io/adapters
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2016-11-29"
     points: "41"
   - hacker_news_id: "10387412"
     title: PubNub Raises $25M Series C
     url: http://techcrunch.com/2015/10/14/pubnub-expands-series-c-to-25m-banks-on-iot-to-boost-business-on-its-messaging-network/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2015-10-14"
     points: "10"
   - hacker_news_id: "9584019"
     title: Build a realtime liveblog with RethinkDB and PubNub
     url: http://rethinkdb.com/blog/rethinkdb-pubnub/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2015-05-21"
     points: "19"
   - hacker_news_id: "8949648"
     title: "Show HN CloudFIRE \u2013 Open-Source Replacement for Cloudflare + Pubnub"
     url: https://github.com/coinkite/CloudFIRE
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2015-01-26"
     points: "10"
   - hacker_news_id: "8611539"
     title: "SocketCluster v1.0 \u2013 An open source alternative to Pusher, PubNub
       and Firebase?"
     url: http://socketcluster.io/#!/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2014-11-15"
     points: "4"
   - hacker_news_id: "8045345"
     title: Show HN Live multiplayer blackjack for Android using Pubnub
     url: https://play.google.com/store/apps/details?id=com.twansoftware.chuslivecasino
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2014-07-16"
     points: "4"
   - hacker_news_id: "7361442"
     title: 14 y.o. builds earthquake warning system with Arduino/detector/PubNub for
       360k
     url: http://www.pubnub.com/blog/pubnub-powers-earthquake-alert-system/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2014-03-07"
     points: "5"
   - hacker_news_id: "4666243"
     title: At PubNub we ride dinosaurs and fight zombies with lasers
     url: http://www.pubnub.com/zombies
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2012-10-17"
     points: "6"
   - hacker_news_id: "4581995"
     title: MMO xkcd WebSockets fixed by PubNub
     url: http://www.pubnub.com/static/pubnub-xkcd/index.html
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2012-09-27"
     points: "121"
   - hacker_news_id: "4454086"
     title: PubNub Channel Presence - Who's There in your App?
     url: https://vimeo.com/47541092
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2012-08-30"
     points: "4"
   - hacker_news_id: "4190822"
     title: Ask HN What's are the key differences between Pusher and PubNub?
     url: ""
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2012-07-02"
     points: "6"
   - hacker_news_id: "3733459"
     title: PubNub raises $4.5M to bring real-time messaging to apps
     url: http://gigaom.com/2012/03/20/pubnub-funding/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2012-03-21"
     points: "13"
   - hacker_news_id: "3539284"
     title: A Massively-Multiplayer Mashup of PubNub and Three.js
     url: http://stackhack.com/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2012-02-01"
     points: "33"
   latest_stack_exchange_searches:
@@ -5413,7 +5413,7 @@ competition:
   - hacker_news_id: "8962573"
     title: Almost everything about replication
     url: http://www.pushtechnology.com/2015/01/23/replication-pt-3-hazelcast/
-    author: ToeJamson
+    author: RealtimeWebDev
     created_at: "2015-01-28"
     points: "5"
   latest_stack_exchange_searches: []
