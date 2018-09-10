@@ -5430,7 +5430,7 @@ competition:
   name: Pusher
   description: Pusher empowers developer with API to create collaboration & communication
     features in their web and mobile apps.
-  url: https://stackoverflow.com/questions/51395339/laravel-5-4-pusherlaravel-echo-403-error-with-private-channel
+  url: https://stackoverflow.com/questions/51386508/angular-pusher-service-creating-multiple-instances-when-hitting-back-then-for
   email: info@pusher.com
   blog_url: http://blog.pusher.com/
   blog_rss_url: http://feeds.feedburner.com/pusherb
@@ -6005,6 +6005,14 @@ competition:
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "52252809"
+    title: How to create a user with Pusher on React Native?
+    url: https://stackoverflow.com/questions/52252809/how-to-create-a-user-with-pusher-on-react-native
+    owner_display_name: "\u5F90\u535A\u4FCA"
+    owner_reputation: "1006"
+    owner_link: https://stackoverflow.com/users/6902961/%e5%be%90%e5%8d%9a%e4%bf%8a
+    creation_date: "2018-09-10"
+    view_count: "10"
   - question_id: "52224436"
     title: Not receiving message using Pusher and Echo
     url: https://stackoverflow.com/questions/52224436/not-receiving-message-using-pusher-and-echo
@@ -6200,14 +6208,6 @@ competition:
     owner_link: https://stackoverflow.com/users/3105880/dc922
     creation_date: "2018-07-17"
     view_count: "25"
-  - question_id: "51395339"
-    title: laravel 5.4 pusher(laravel echo) 403 error with private channel
-    url: https://stackoverflow.com/questions/51395339/laravel-5-4-pusherlaravel-echo-403-error-with-private-channel
-    owner_display_name: Arlong
-    owner_reputation: "112"
-    owner_link: https://stackoverflow.com/users/1363426/arlong
-    creation_date: "2018-07-17"
-    view_count: "52"
   tags:
   - WebSockets
   - Webhook Implementations
