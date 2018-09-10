@@ -440,6 +440,14 @@ competition:
     created_at: "2017-03-13"
     points: "0"
   latest_stack_exchange_searches:
+  - question_id: "52259438"
+    title: Get Unknown error when connecting creating a connection using Ably.io
+    url: https://stackoverflow.com/questions/52259438/get-unknown-error-when-connecting-creating-a-connection-using-ably-io
+    owner_display_name: pacmaninbw
+    owner_reputation: "214"
+    owner_link: https://stackoverflow.com/users/5999841/pacmaninbw
+    creation_date: "2018-09-10"
+    view_count: "16"
   - question_id: "51605386"
     title: How to set up an e-commerce messaging solution using ably.io
     url: https://stackoverflow.com/questions/51605386/how-to-set-up-an-e-commerce-messaging-solution-using-ably-io
