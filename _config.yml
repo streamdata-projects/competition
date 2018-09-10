@@ -2296,156 +2296,156 @@ competition:
     url: https://twitter.com/Firebase/status/1033791189819056130
     time_stamp: "2018-08-26 12:00:01"
   latest_github_activity:
-  - title: DedicatedManagers commented on an issue for firebase/firebase-js-sdk
-    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/comments/419679903
-    time_stamp: "2018-09-08"
-    type: IssueCommentEvent
-    user_name: DedicatedManagers
-    repo: firebase/firebase-js-sdk
-  - title: machoblue commented on an issue for firebase/FirebaseUI-iOS
-    url: https://api.github.com/repos/firebase/FirebaseUI-iOS/issues/comments/419678381
-    time_stamp: "2018-09-08"
-    type: IssueCommentEvent
-    user_name: machoblue
-    repo: firebase/FirebaseUI-iOS
-  - title: firebase/firebase-android-sdk being watched by dminta
+  - title: firebase/firebase-android-sdk being watched by jkaliciak
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: WatchEvent
-    user_name: dminta
+    user_name: jkaliciak
     repo: firebase/firebase-android-sdk
-  - title: firebase/php-jwt being watched by atroxic
+  - title: googlebot commented on an issue for firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/comments/419753367
+    time_stamp: "2018-09-09"
+    type: IssueCommentEvent
+    user_name: googlebot
+    repo: firebase/functions-samples
+  - title: luskin commented on an issue for firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/comments/419753361
+    time_stamp: "2018-09-09"
+    type: IssueCommentEvent
+    user_name: luskin
+    repo: firebase/functions-samples
+  - title: googlebot commented on an issue for firebase/functions-samples
+    url: https://api.github.com/repos/firebase/functions-samples/issues/comments/419753294
+    time_stamp: "2018-09-09"
+    type: IssueCommentEvent
+    user_name: googlebot
+    repo: firebase/functions-samples
+  - title: luskin made a pull request on firebase/functions-samples
+    url: https://github.com/firebase/functions-samples/pull/462
+    time_stamp: "2018-09-09"
+    type: PullRequestEvent
+    user_name: luskin
+    repo: firebase/functions-samples
+  - title: firebase/php-jwt being watched by D3strukt0r
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: WatchEvent
-    user_name: atroxic
+    user_name: D3strukt0r
     repo: firebase/php-jwt
   - title: firebase/functions-samples was forked by functions-samples
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: ForkEvent
     user_name: functions-samples
     repo: firebase/functions-samples
-  - title: firebase/firebaseui-web being watched by nswekosk
+  - title: firebase/firebase-android-sdk being watched by mschisaka
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: WatchEvent
-    user_name: nswekosk
-    repo: firebase/firebaseui-web
-  - title: firebase/php-jwt being watched by alejandrososa
+    user_name: mschisaka
+    repo: firebase/firebase-android-sdk
+  - title: firebase/functions-samples being watched by jackuse
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: WatchEvent
-    user_name: alejandrososa
-    repo: firebase/php-jwt
+    user_name: jackuse
+    repo: firebase/functions-samples
   - title: dpebot pushed to firebase/quickstart-android
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: PushEvent
     user_name: dpebot
     repo: firebase/quickstart-android
-  - title: firebase/firebase-js-sdk being watched by spacecrio
-    url: ""
-    time_stamp: "2018-09-08"
-    type: WatchEvent
-    user_name: spacecrio
+  - title: shs442000 submitted an issue on firebase/quickstart-android
+    url: https://api.github.com/repos/firebase/quickstart-android/issues/649
+    time_stamp: "2018-09-09"
+    type: IssuesEvent
+    user_name: shs442000
+    repo: firebase/quickstart-android
+  - title: davideast commented on an issue for firebase/firebase-js-sdk
+    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/comments/419740855
+    time_stamp: "2018-09-09"
+    type: IssueCommentEvent
+    user_name: davideast
     repo: firebase/firebase-js-sdk
-  - title: firebase/functions-samples being watched by vtempest
-    url: ""
-    time_stamp: "2018-09-08"
-    type: WatchEvent
-    user_name: vtempest
+  - title: neelpatel6294 submitted an issue on firebase/friendlypix-android
+    url: https://api.github.com/repos/firebase/friendlypix-android/issues/37
+    time_stamp: "2018-09-09"
+    type: IssuesEvent
+    user_name: neelpatel6294
+    repo: firebase/friendlypix-android
+  - title: kchandawat commented on an issue for firebase/quickstart-android
+    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/419739972
+    time_stamp: "2018-09-09"
+    type: IssueCommentEvent
+    user_name: kchandawat
+    repo: firebase/quickstart-android
+  - title: nicolasgarnier made a pull request on firebase/functions-samples
+    url: https://github.com/firebase/functions-samples/pull/461
+    time_stamp: "2018-09-09"
+    type: PullRequestEvent
+    user_name: nicolasgarnier
     repo: firebase/functions-samples
-  - title: firebase/firebase-android-sdk being watched by joaquini
+  - title: firebase/firebaseui-web being watched by elszczepano
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: WatchEvent
-    user_name: joaquini
-    repo: firebase/firebase-android-sdk
-  - title: firebase/geofire-java being watched by Eng-MahmoudBasuony
+    user_name: elszczepano
+    repo: firebase/firebaseui-web
+  - title: firebase/firebaseui-web-react being watched by elszczepano
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: WatchEvent
-    user_name: Eng-MahmoudBasuony
-    repo: firebase/geofire-java
-  - title: firebase/firebase-android-sdk being watched by c4software
-    url: ""
-    time_stamp: "2018-09-08"
-    type: WatchEvent
-    user_name: c4software
-    repo: firebase/firebase-android-sdk
-  - title: firebase/firebase-js-sdk being watched by piotrek1543
-    url: ""
-    time_stamp: "2018-09-08"
-    type: WatchEvent
-    user_name: piotrek1543
-    repo: firebase/firebase-js-sdk
-  - title: ulukaya pushed to firebase/quickstart-ios
-    url: ""
-    time_stamp: "2018-09-08"
-    type: PushEvent
-    user_name: ulukaya
-    repo: firebase/quickstart-ios
-  - title: ulukaya made a pull request on firebase/quickstart-ios
-    url: https://github.com/firebase/quickstart-ios/pull/533
-    time_stamp: "2018-09-08"
+    user_name: elszczepano
+    repo: firebase/firebaseui-web-react
+  - title: nicolasgarnier made a pull request on firebase/firebaseui-web
+    url: https://github.com/firebase/firebaseui-web/pull/498
+    time_stamp: "2018-09-09"
     type: PullRequestEvent
-    user_name: ulukaya
-    repo: firebase/quickstart-ios
-  - title: ulukaya pushed to firebase/friendlypix-ios
+    user_name: nicolasgarnier
+    repo: firebase/firebaseui-web
+  - title: firebase/firebase-tools being watched by ShunnyBunny
     url: ""
-    time_stamp: "2018-09-08"
-    type: PushEvent
-    user_name: ulukaya
-    repo: firebase/friendlypix-ios
-  - title: ulukaya made a pull request on firebase/friendlypix-ios
-    url: https://github.com/firebase/friendlypix-ios/pull/23
-    time_stamp: "2018-09-08"
-    type: PullRequestEvent
-    user_name: ulukaya
-    repo: firebase/friendlypix-ios
-  - title: anirudhbagri commented on an issue for firebase/quickstart-android
-    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/419670350
-    time_stamp: "2018-09-08"
-    type: IssueCommentEvent
-    user_name: anirudhbagri
-    repo: firebase/quickstart-android
-  - title: dpebot pushed to firebase/friendlypix-ios
-    url: ""
-    time_stamp: "2018-09-08"
-    type: PushEvent
-    user_name: dpebot
-    repo: firebase/friendlypix-ios
-  - title: firebase/firebase-js-sdk being watched by imanbee
-    url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: WatchEvent
-    user_name: imanbee
-    repo: firebase/firebase-js-sdk
-  - title: dandv commented on an issue for firebase/firebase-js-sdk
-    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/comments/419667966
-    time_stamp: "2018-09-08"
-    type: IssueCommentEvent
-    user_name: dandv
-    repo: firebase/firebase-js-sdk
-  - title: firebase/firebase-js-sdk being watched by d2mj
+    user_name: ShunnyBunny
+    repo: firebase/firebase-tools
+  - title: firebase/firebase-android-sdk being watched by sowrabh
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: WatchEvent
-    user_name: d2mj
-    repo: firebase/firebase-js-sdk
-  - title: dan-leech commented on an issue for firebase/quickstart-android
-    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/419665536
-    time_stamp: "2018-09-08"
-    type: IssueCommentEvent
-    user_name: dan-leech
-    repo: firebase/quickstart-android
-  - title: firebase/firestore-codelab-extended-swift being watched by a211212abc
+    user_name: sowrabh
+    repo: firebase/firebase-android-sdk
+  - title: firebase/firebase-android-sdk being watched by sowrabh
     url: ""
-    time_stamp: "2018-09-08"
+    time_stamp: "2018-09-09"
     type: WatchEvent
-    user_name: a211212abc
-    repo: firebase/firestore-codelab-extended-swift
+    user_name: sowrabh
+    repo: firebase/firebase-android-sdk
+  - title: firebase/firebaseui-web-react being watched by vinu123
+    url: ""
+    time_stamp: "2018-09-09"
+    type: WatchEvent
+    user_name: vinu123
+    repo: firebase/firebaseui-web-react
+  - title: googlebot commented on an issue for firebase/FirebaseUI-Android
+    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/419735809
+    time_stamp: "2018-09-09"
+    type: IssueCommentEvent
+    user_name: googlebot
+    repo: firebase/FirebaseUI-Android
+  - title: JuhaniLehtimaeki commented on an issue for firebase/FirebaseUI-Android
+    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/419735806
+    time_stamp: "2018-09-09"
+    type: IssueCommentEvent
+    user_name: JuhaniLehtimaeki
+    repo: firebase/FirebaseUI-Android
+  - title: googlebot commented on an issue for firebase/FirebaseUI-Android
+    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/419735728
+    time_stamp: "2018-09-09"
+    type: IssueCommentEvent
+    user_name: googlebot
+    repo: firebase/FirebaseUI-Android
   latest_reddit_searches:
   - reddit_id: "9"
     title: unable to access google firebase from angular?
