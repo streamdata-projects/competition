@@ -1252,6 +1252,12 @@ competition:
   latest_github_activity: []
   latest_reddit_searches:
   - reddit_id: "9"
+    title: Penetration Testing - IoT
+    url: https://www.reddit.com/r/cybersecurity/comments/9et5kp/penetration_testing_iot/
+    author: grtn316
+    created_date: "2018-09-11"
+    score: "12"
+  - reddit_id: "9"
     title: Azure Event Hubs with Kafka coolness
     url: https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Azure-Event-Hubs-with-Kafka-coolness
     author: MattLoflin
@@ -1400,96 +1406,90 @@ competition:
     author: attila_kisko
     created_date: "2015-06-05"
     score: "1"
-  - reddit_id: "36"
-    title: azure event hubs from WinRT/UWP apps
-    url: http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2015/05/18/azure-event-hubs-from-winrt-uwp-apps.aspx
-    author: one_eyed_golfer
-    created_date: "2015-05-21"
-    score: "0"
   latest_hacker_news_searches:
   - hacker_news_id: "17483386"
     title: Apache Kafka, Azure Event Hubs, Event-Driven Microservices in Week 27
     url: http://www.nielsberglund.com/2018/07/08/interesting-stuff-week-27/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2018-07-08"
     points: "1"
   - hacker_news_id: "16970211"
     title: Ask HN Who is hiring? (May 2018)
     url: ""
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2018-05-01"
     points: "0"
   - hacker_news_id: "16235714"
     title: Azure Event Hub Ingestion at Scale with Python and Kubernetes
     url: https://www.microsoft.com/developerblog/2018/01/24/azure-event-hub-ingestion-scale-python-kubernetes/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2018-01-25"
     points: "2"
   - hacker_news_id: "16050881"
     title: Show HN Scalable Python Eventhub Client
     url: https://github.com/Azure/azure-event-hubs-python
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2018-01-02"
     points: "1"
   - hacker_news_id: "15402510"
     title: Avoid Vendor Lock-In Risk with Multi-Cloud Deployments
     url: https://www.cockroachlabs.com/blog/gs-response/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2017-10-04"
     points: "0"
   - hacker_news_id: "15031235"
     title: Introducing Event Grid the first fully-managed event routing service
     url: https://azure.microsoft.com/en-us/blog/introducing-azure-event-grid-an-event-service-for-modern-applications/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2017-08-16"
     points: "0"
   - hacker_news_id: "14796378"
     title: "Rankings of required skills in software development job listings \u2013
       July 2017"
     url: https://www.latitude.work/trends/july-2017
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2017-07-18"
     points: "0"
   - hacker_news_id: "13028368"
     title: Stream Processing Systems
     url: http://container-solutions.com/introduction-stream-processing-systems-kafka-aws-kinesis-azure-event-hubs/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2016-11-23"
     points: "1"
   - hacker_news_id: "12788428"
     title: Errors from Microsoft's Cloud
     url: https://errorsazurethrows.tumblr.com/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2016-10-25"
     points: "0"
   - hacker_news_id: "11577455"
     title: Heroku Kafka
     url: https://www.heroku.com/kafka
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2016-04-26"
     points: "0"
   - hacker_news_id: "11399752"
     title: Microsoft Azure Functions
     url: https://azure.microsoft.com/en-us/services/functions/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2016-03-31"
     points: "0"
   - hacker_news_id: "10354593"
     title: AWS IoT Beta
     url: https://aws.amazon.com/iot/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2015-10-08"
     points: "0"
   - hacker_news_id: "8036588"
     title: "Azure Event Hubs \u2013 Cloud-scale telemetry ingestion"
     url: https://azure.microsoft.com/en-us/services/event-hubs/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2014-07-15"
     points: "28"
   - hacker_news_id: "8035423"
     title: Getting started with Azure Service Bus Event Hubs (IoT)
     url: http://fabriccontroller.net/blog/posts/getting-started-azure-service-bus-event-hubs-building-a-real-time-log-stream/
-    author: one_eyed_golfer
+    author: attila_kisko
     created_at: "2014-07-15"
     points: "1"
   latest_stack_exchange_searches:
@@ -2117,7 +2117,7 @@ competition:
   name: Firebase
   description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
-  url: https://stackoverflow.com/questions/51325959/flutter-google-firebase-sign-in-requires-every-time-the-user-start-the-app
+  url: https://stackoverflow.com/questions/51336198/no-virtual-method-zzbqoz-in-class-lcom-google-firebase-firebaseapp-or-its-sup
   email: info@firebase.com
   blog_url: https://firebase.googleblog.com/
   blog_rss_url: http://firebase.googleblog.com/feeds/posts/default?alt=rss
@@ -2588,6 +2588,14 @@ competition:
     score: "7"
   latest_hacker_news_searches: []
   latest_stack_exchange_searches:
+  - question_id: "52262199"
+    title: Can Google Firebase be considered a middleware?
+    url: https://stackoverflow.com/questions/52262199/can-google-firebase-be-considered-a-middleware
+    owner_display_name: DcCoO
+    owner_reputation: "311"
+    owner_link: https://stackoverflow.com/users/5162677/dccoo
+    creation_date: "2018-09-10"
+    view_count: "17"
   - question_id: "52132437"
     title: unable to access google firebase from angular?
     url: https://stackoverflow.com/questions/52132437/unable-to-access-google-firebase-from-angular
@@ -2788,15 +2796,6 @@ competition:
     owner_link: https://stackoverflow.com/users/8149269/sunil-meena
     creation_date: "2018-07-14"
     view_count: "198"
-  - question_id: "51325959"
-    title: flutter google firebase sign in requires every time the user start the
-      app
-    url: https://stackoverflow.com/questions/51325959/flutter-google-firebase-sign-in-requires-every-time-the-user-start-the-app
-    owner_display_name: Sourav Cse
-    owner_reputation: "4"
-    owner_link: https://stackoverflow.com/users/6077841/sourav-cse
-    creation_date: "2018-07-13"
-    view_count: "12"
   tags:
   - Service API
   - SDIO Competition
