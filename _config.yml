@@ -5432,7 +5432,7 @@ competition:
   name: Pusher
   description: Pusher empowers developer with API to create collaboration & communication
     features in their web and mobile apps.
-  url: https://stackoverflow.com/questions/51386508/angular-pusher-service-creating-multiple-instances-when-hitting-back-then-for
+  url: https://stackoverflow.com/questions/51395817/laravel-pusher-notification
   email: info@pusher.com
   blog_url: http://blog.pusher.com/
   blog_rss_url: http://feeds.feedburner.com/pusherb
@@ -6034,6 +6034,15 @@ competition:
     owner_link: https://stackoverflow.com/users/6902961/%e5%be%90%e5%8d%9a%e4%bf%8a
     creation_date: "2018-09-10"
     view_count: "10"
+  - question_id: "52263871"
+    title: From sign In I redirected to home page which has a Semantic sidebar, the
+      Pusher Content is a switch of route.The react router Switch is not working
+    url: https://stackoverflow.com/questions/52263871/from-sign-in-i-redirected-to-home-page-which-has-a-semantic-sidebar-the-pusher
+    owner_display_name: Shweta Kumar
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10203122/shweta-kumar
+    creation_date: "2018-09-10"
+    view_count: "6"
   - question_id: "52224436"
     title: Not receiving message using Pusher and Echo
     url: https://stackoverflow.com/questions/52224436/not-receiving-message-using-pusher-and-echo
@@ -6220,15 +6229,6 @@ competition:
     owner_link: https://stackoverflow.com/users/9797333/yuri-chandra
     creation_date: "2018-07-18"
     view_count: "23"
-  - question_id: "51386508"
-    title: Angular - pusher service creating multiple instances when hitting back,
-      then forward in browser
-    url: https://stackoverflow.com/questions/51386508/angular-pusher-service-creating-multiple-instances-when-hitting-back-then-for
-    owner_display_name: dc922
-    owner_reputation: "281"
-    owner_link: https://stackoverflow.com/users/3105880/dc922
-    creation_date: "2018-07-17"
-    view_count: "25"
   tags:
   - WebSockets
   - Webhook Implementations
