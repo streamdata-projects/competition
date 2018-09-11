@@ -3626,6 +3626,12 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17961482"
+    title: "Winnipeg Doesn't Know Who Erected This Amazing Sign on a Landfill-Turned-Park"
+    url: https://www.atlasobscura.com/articles/garbage-hill
+    author: weblaunches
+    created_at: "2018-09-11"
+    points: "2"
   - hacker_news_id: "17946688"
     title: Mistakes C/C++ Devs make writing Go
     url: https://about.sourcegraph.com/go/gophercon-2018-5-mistakes-c-c-devs-make-writing-go
@@ -3770,12 +3776,6 @@ competition:
   - hacker_news_id: "17844980"
     title: Beyond GDP
     url: https://www.npr.org/sections/money/2018/08/23/641278187/beyond-gdp
-    author: weblaunches
-    created_at: "2018-08-26"
-    points: "0"
-  - hacker_news_id: "17848995"
-    title: Anki Memorization with Spaced Learning
-    url: https://apps.ankiweb.net/
     author: weblaunches
     created_at: "2018-08-26"
     points: "0"
