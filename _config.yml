@@ -2209,6 +2209,10 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "RT @ThatJenPerson: \u201CFirebase: Developing an App Engine service with
+      Python and Cloud Firestore\u201D by Hiranya Jayathilaka https://t.co/10PczPo..."
+    url: https://twitter.com/Firebase/status/1039260582355062784
+    time_stamp: "2018-09-10 14:13:26"
   - title: "RT @CodingDoug: The @Firebase and Play services Android SDKs are getting
       Javadoc support in @Android Studio! Javadoc will be distributed wi..."
     url: https://twitter.com/Firebase/status/1038179100022767619
@@ -2305,10 +2309,6 @@ competition:
       at the #Firebase booth. Come by and play a r... https://t.co/9xifECx9XZ"
     url: https://twitter.com/Firebase/status/1034096106538446850
     time_stamp: "2018-08-27 08:11:39"
-  - title: "Don't miss @ToddKerpelman's Cloud Firestore workshop, today
-      at @360iDev! He'll cover basic and advanced Firestore f... https://t.co/nASfvWoLDt"
-    url: https://twitter.com/Firebase/status/1033791189819056130
-    time_stamp: "2018-08-26 12:00:01"
   latest_github_activity:
   - title: samtstern commented on an issue for firebase/quickstart-android
     url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/420099411
@@ -5522,6 +5522,10 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "Join our #Engineering team in London. We are \U0001F440 for a Senior Backend
+      Engineer in the Channels team  \n\nhttps://t.co/WvOO38GrRG"
+    url: https://twitter.com/pusher/status/1039506352559681536
+    time_stamp: "2018-09-11 06:30:02"
   - title: 'RT @sdtimes: Pusher launches the Beams API https://t.co/ZwZBRMCUN0 @pusher'
     url: https://twitter.com/pusher/status/1037785942071889920
     time_stamp: "2018-09-06 12:33:44"
@@ -5620,10 +5624,6 @@ competition:
       goal of improving readability and saving time on repetitive tasks\n#..."
     url: https://twitter.com/pusher/status/1011203139146518529
     time_stamp: "2018-06-25 04:03:10"
-  - title: "Only a week left to redeem the Pusher Dev Pack. Get loads of free dev
-      software including @algolia credit and access... https://t.co/jFNZJu0mf9"
-    url: https://twitter.com/pusher/status/1010483103280689152
-    time_stamp: "2018-06-23 04:22:00"
   latest_github_activity:
   - title: pusher/pusher-http-php being watched by kendugu
     url: ""
@@ -6477,6 +6477,13 @@ competition:
     repo: streamr-dev/engine-and-editor
   latest_reddit_searches:
   - reddit_id: "9"
+    title: Watch this 4min video as we run down Streamr's achievements during the
+      first half of 2018
+    url: https://youtu.be/bX35NeJ7JX8
+    author: AmandineF
+    created_date: "2018-09-11"
+    score: "5"
+  - reddit_id: "9"
     title: Any update about development or partnerships?
     url: https://www.reddit.com/r/streamr/comments/9czjd5/any_update_about_development_or_partnerships/
     author: fongor
@@ -6631,13 +6638,6 @@ competition:
     author: whenmoon
     created_date: "2018-07-07"
     score: "15"
-  - reddit_id: "8"
-    title: "Golem mentions Streamr when asked about future possible integrations (@
-      TechCrunch's blockchain event)"
-    url: https://mobile.twitter.com/golemproject/status/1015598554696560641
-    author: whenmoon
-    created_date: "2018-07-07"
-    score: "12"
   latest_hacker_news_searches:
   - hacker_news_id: "17618068"
     title: Streamroot powers largest ever video streaming distributed delivery for
