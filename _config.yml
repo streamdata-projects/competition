@@ -4570,7 +4570,7 @@ competition:
   name: PubNub
   description: Focus on innovation and launch fast with our realtime APIs and global
     messaging infrastructure for web, mobile, and Internet of Things.
-  url: https://stackoverflow.com/questions/37903316/using-mqtt-with-pubnub
+  url: https://stackoverflow.com/questions/43458657/amazon-sns-vs-pubnub-vs-parse-for-a-webrtc
   email: stephen@pubnub.com
   blog_url: http://blog.pubnub.com
   blog_rss_url: https://www.pubnub.com/blog/feed/
@@ -5091,6 +5091,14 @@ competition:
     created_at: "2012-02-01"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "52276332"
+    title: PubNub Tornado object initialisation raise exception
+    url: https://stackoverflow.com/questions/52276332/pubnub-tornado-object-initialisation-raise-exception
+    owner_display_name: Krupa Suthar
+    owner_reputation: "161"
+    owner_link: https://stackoverflow.com/users/7438993/krupa-suthar
+    creation_date: "2018-09-11"
+    view_count: "9"
   - question_id: "52245704"
     title: Pubnub&#39;s rtc-controller.js compatible with webrtc v2 and pubnub v4
     url: https://stackoverflow.com/questions/52245704/pubnubs-rtc-controller-js-compatible-with-webrtc-v2-and-pubnub-v4
@@ -5284,14 +5292,6 @@ competition:
     owner_link: https://stackoverflow.com/users/2867237/user2867237
     creation_date: "2017-04-17"
     view_count: "277"
-  - question_id: "37903316"
-    title: Using MQTT with PubNub
-    url: https://stackoverflow.com/questions/37903316/using-mqtt-with-pubnub
-    owner_display_name: Bigomby
-    owner_reputation: "60"
-    owner_link: https://stackoverflow.com/users/5469366/bigomby
-    creation_date: "2016-06-18"
-    view_count: "651"
   tags:
   - Webhook Implementations
   - Technology
