@@ -4651,6 +4651,13 @@ competition:
     url: https://www.pubnub.com/blog/every-millisecond-counts-why-time-is-everything-for-businesses/
     time_stamp: "2018-07-31 09:43:23"
   latest_tweets:
+  - title: 'Beef up #encryption in your ChatEngine app even more with this @VirgilSecurity
+      implementation: https://t.co/OxqjYD0Gtf'
+    url: https://twitter.com/PubNub/status/1039597196096753671
+    time_stamp: "2018-09-11 12:31:00"
+  - title: 'The Current State of Public Cloud Enterprise #IoT Platforms: https://t.co/Zve03X6MXd'
+    url: https://twitter.com/PubNub/status/1039563470964965376
+    time_stamp: "2018-09-11 10:17:00"
   - title: "RT @mza: Nice post from @pubnub: Build a Smart Chat App that Categorizes
       Topics with Amazon Comprehend and ChatEngine -  https://t.co/F5SoR..."
     url: https://twitter.com/PubNub/status/1037469634797039616
@@ -4743,14 +4750,6 @@ competition:
       https://t.co/4a4KWW2Q72
     url: https://twitter.com/PubNub/status/1029869598638829568
     time_stamp: "2018-08-15 16:17:01"
-  - title: "Cognitive services are changing the world we live in today. Here's a couple
-      examples of how it's being implemented... https://t.co/OxuLaYWxkH"
-    url: https://twitter.com/PubNub/status/1029477014066147329
-    time_stamp: "2018-08-14 14:17:01"
-  - title: What does industry look like in the cognitive era? How's it transforming
-      businesses and their customers? https://t.co/9drmHDhCoa
-    url: https://twitter.com/PubNub/status/1029450335906156545
-    time_stamp: "2018-08-14 12:31:00"
   latest_github_activity:
   - title: ianjennings made a pull request on pubnub/chat-engine-event-status
     url: https://github.com/pubnub/chat-engine-event-status/pull/2
