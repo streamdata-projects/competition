@@ -2221,6 +2221,14 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Startup founder &amp; @cheflyapp CEO @ggarciapaola can't wait for the
+      updates &amp; news coming out of this year's... https://t.co/FroeEXoe4m"
+    url: https://twitter.com/Firebase/status/1039616538959986688
+    time_stamp: "2018-09-11 13:47:52"
+  - title: "Curious if your Cloud Firestore data structure is set up right? Unsure
+      when to use a Subcollection instead of maps... https://t.co/FeIoqNPM2U"
+    url: https://twitter.com/Firebase/status/1039599437461499905
+    time_stamp: "2018-09-11 12:39:55"
   - title: "RT @ThatJenPerson: \u201CFirebase: Developing an App Engine service with
       Python and Cloud Firestore\u201D by Hiranya Jayathilaka https://t.co/10PczPo..."
     url: https://twitter.com/Firebase/status/1039260582355062784
@@ -2313,14 +2321,6 @@ competition:
       booth and say hi! https://t.co/wwgamA2slj
     url: https://twitter.com/Firebase/status/1034172741312700416
     time_stamp: "2018-08-27 13:16:10"
-  - title: "We're happy to announce the general availability of the Firebase Admin
-      SDK for .NET! \n\nLearn more on the blog  https://t.co/72oTN5eh6T"
-    url: https://twitter.com/Firebase/status/1034136310381006856
-    time_stamp: "2018-08-27 10:51:24"
-  - title: "The #io18 hit game is coming to @DroidconNYC! AppShip will be playable
-      at the #Firebase booth. Come by and play a r... https://t.co/9xifECx9XZ"
-    url: https://twitter.com/Firebase/status/1034096106538446850
-    time_stamp: "2018-08-27 08:11:39"
   latest_github_activity:
   - title: firebase/geofire-objc being watched by syclonefx
     url: ""
@@ -5562,6 +5562,10 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "Fancy joining our #Chatkit team? We are hiring a Senior Backend Engineer
+      in #London \nCheck it out \U0001F447\n\nhttps://t.co/T61fUTLyKI"
+    url: https://twitter.com/pusher/status/1039816805320204289
+    time_stamp: "2018-09-12 03:03:39"
   - title: "Join our #Engineering team in London. We are \U0001F440 for a Senior Backend
       Engineer in the Channels team  \n\nhttps://t.co/WvOO38GrRG"
     url: https://twitter.com/pusher/status/1039506352559681536
@@ -5660,10 +5664,6 @@ competition:
       customers' https://t.co/AmOVDLwxDa via @computerweekly https://t.co/01vH5NDZ..."
     url: https://twitter.com/pusher/status/1011571554520649734
     time_stamp: "2018-06-26 04:27:07"
-  - title: "RT @aniamorgiel: @zmarkan presenting @pusher's approach to DLS with the
-      goal of improving readability and saving time on repetitive tasks\n#..."
-    url: https://twitter.com/pusher/status/1011203139146518529
-    time_stamp: "2018-06-25 04:03:10"
   latest_github_activity:
   - title: pusher/react-slack-clone being watched by jameshuynh
     url: ""
