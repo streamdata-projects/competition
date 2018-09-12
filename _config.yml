@@ -5660,121 +5660,144 @@ competition:
     url: https://twitter.com/pusher/status/1011203139146518529
     time_stamp: "2018-06-25 04:03:10"
   latest_github_activity:
-  - title: pusher/pusher-http-php being watched by kendugu
+  - title: pusher/react-slack-clone being watched by jameshuynh
     url: ""
-    time_stamp: "2018-09-10"
+    time_stamp: "2018-09-11"
     type: WatchEvent
-    user_name: kendugu
-    repo: pusher/pusher-http-php
-  - title: pusher/rack-headers_filter being watched by kangkyu
+    user_name: jameshuynh
+    repo: pusher/react-slack-clone
+  - title: pusher/react-slack-clone being watched by jameshuynh
     url: ""
-    time_stamp: "2018-09-10"
+    time_stamp: "2018-09-11"
     type: WatchEvent
-    user_name: kangkyu
-    repo: pusher/rack-headers_filter
-  - title: EllisShen commented on an issue for pusher/push-notifications-swift
-    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/420060664
-    time_stamp: "2018-09-10"
+    user_name: jameshuynh
+    repo: pusher/react-slack-clone
+  - title: pusher/react-slack-clone being watched by jameshuynh
+    url: ""
+    time_stamp: "2018-09-11"
+    type: WatchEvent
+    user_name: jameshuynh
+    repo: pusher/react-slack-clone
+  - title: pusher/react-slack-clone being watched by jameshuynh
+    url: ""
+    time_stamp: "2018-09-11"
+    type: WatchEvent
+    user_name: jameshuynh
+    repo: pusher/react-slack-clone
+  - title: pusher/react-slack-clone being watched by jameshuynh
+    url: ""
+    time_stamp: "2018-09-11"
+    type: WatchEvent
+    user_name: jameshuynh
+    repo: pusher/react-slack-clone
+  - title: codecov-io commented on an issue for pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/420334090
+    time_stamp: "2018-09-11"
     type: IssueCommentEvent
-    user_name: EllisShen
+    user_name: codecov-io
     repo: pusher/push-notifications-swift
-  - title: n8twj submitted an issue on pusher/pusher-http-node
-    url: https://api.github.com/repos/pusher/pusher-http-node/issues/83
-    time_stamp: "2018-09-10"
+  - title: lukabratos pushed to pusher/push-notifications-swift
+    url: ""
+    time_stamp: "2018-09-11"
+    type: PushEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: lukabratos made a pull request on pusher/push-notifications-swift
+    url: https://github.com/pusher/push-notifications-swift/pull/92
+    time_stamp: "2018-09-11"
+    type: PullRequestEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: shrugs commented on an issue for pusher/chatkit-server-ruby
+    url: https://api.github.com/repos/pusher/chatkit-server-ruby/issues/comments/420333607
+    time_stamp: "2018-09-11"
+    type: IssueCommentEvent
+    user_name: shrugs
+    repo: pusher/chatkit-server-ruby
+  - title: shrugs commented on an issue for pusher/chatkit-server-ruby
+    url: https://api.github.com/repos/pusher/chatkit-server-ruby/issues/comments/420333370
+    time_stamp: "2018-09-11"
+    type: IssueCommentEvent
+    user_name: shrugs
+    repo: pusher/chatkit-server-ruby
+  - title: shrugs commented on an issue for pusher/chatkit-server-ruby
+    url: https://api.github.com/repos/pusher/chatkit-server-ruby/issues/comments/420332787
+    time_stamp: "2018-09-11"
+    type: IssueCommentEvent
+    user_name: shrugs
+    repo: pusher/chatkit-server-ruby
+  - title: lukabratos made a pull request on pusher/push-notifications-swift
+    url: https://github.com/pusher/push-notifications-swift/pull/92
+    time_stamp: "2018-09-11"
+    type: PullRequestEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: lukabratos commented on an issue for pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/420307254
+    time_stamp: "2018-09-11"
+    type: IssueCommentEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: lukabratos submitted an issue on pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/81
+    time_stamp: "2018-09-11"
     type: IssuesEvent
-    user_name: n8twj
-    repo: pusher/pusher-http-node
-  - title: hamchapman pushed to pusher/chatkit-swift
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: hamchapman pushed to pusher/chatkit-server-ruby
     url: ""
-    time_stamp: "2018-09-10"
+    time_stamp: "2018-09-11"
     type: PushEvent
     user_name: hamchapman
-    repo: pusher/chatkit-swift
-  - title: hamchapman pushed to pusher/chatkit-swift
-    url: ""
-    time_stamp: "2018-09-10"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-swift
-  - title: hamchapman pushed to pusher/pusher-platform-swift
-    url: ""
-    time_stamp: "2018-09-10"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-swift
-  - title: hamchapman pushed to pusher/pusher-platform-swift
-    url: ""
-    time_stamp: "2018-09-10"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-swift
-  - title: hamchapman made a pull request on pusher/pusher-platform-swift
-    url: https://github.com/pusher/pusher-platform-swift/pull/37
-    time_stamp: "2018-09-10"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-swift
-  - title: pusher-ci commented on an issue for pusher/pusher-platform-swift
-    url: https://api.github.com/repos/pusher/pusher-platform-swift/issues/comments/419978023
-    time_stamp: "2018-09-10"
-    type: IssueCommentEvent
-    user_name: pusher-ci
-    repo: pusher/pusher-platform-swift
-  - title: hamchapman made a pull request on pusher/pusher-platform-swift
-    url: https://github.com/pusher/pusher-platform-swift/pull/37
-    time_stamp: "2018-09-10"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-swift
-  - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit was forked by
-      build-a-slack-clone-with-react-and-pusher-chatkit
-    url: ""
-    time_stamp: "2018-09-10"
-    type: ForkEvent
-    user_name: build-a-slack-clone-with-react-and-pusher-chatkit
-    repo: pusher/build-a-slack-clone-with-react-and-pusher-c
-  - title: mdpye pushed to pusher/chatkit-android
-    url: ""
-    time_stamp: "2018-09-10"
-    type: PushEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: mdpye pushed to pusher/chatkit-android
-    url: ""
-    time_stamp: "2018-09-10"
-    type: PushEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: luismfonseca pushed to pusher/push-notifications-go
-    url: ""
-    time_stamp: "2018-09-10"
-    type: PushEvent
+    repo: pusher/chatkit-server-ruby
+  - title: luismfonseca submitted an issue on pusher/push-notifications-android
+    url: https://api.github.com/repos/pusher/push-notifications-android/issues/56
+    time_stamp: "2018-09-11"
+    type: IssuesEvent
     user_name: luismfonseca
-    repo: pusher/push-notifications-go
-  - title: teminer commented on an issue for pusher/chatkit-swift
-    url: https://api.github.com/repos/pusher/chatkit-swift/issues/comments/419921970
-    time_stamp: "2018-09-10"
+    repo: pusher/push-notifications-android
+  - title: luismfonseca commented on an issue for pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/420270041
+    time_stamp: "2018-09-11"
     type: IssueCommentEvent
-    user_name: teminer
-    repo: pusher/chatkit-swift
-  - title: luismfonseca made a pull request on pusher/push-notifications-go
-    url: https://github.com/pusher/push-notifications-go/pull/9
-    time_stamp: "2018-09-10"
-    type: PullRequestEvent
     user_name: luismfonseca
-    repo: pusher/push-notifications-go
-  - title: hamchapman commented on an issue for pusher/chatkit-swift
-    url: https://api.github.com/repos/pusher/chatkit-swift/issues/comments/419920600
-    time_stamp: "2018-09-10"
+    repo: pusher/push-notifications-swift
+  - title: lukabratos pushed to pusher/push-notifications-swift
+    url: ""
+    time_stamp: "2018-09-11"
+    type: PushEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: codecov-io commented on an issue for pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/420266786
+    time_stamp: "2018-09-11"
     type: IssueCommentEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-swift
-  - title: teminer commented on an issue for pusher/chatkit-swift
-    url: https://api.github.com/repos/pusher/chatkit-swift/issues/comments/419920207
-    time_stamp: "2018-09-10"
+    user_name: codecov-io
+    repo: pusher/push-notifications-swift
+  - title: callum-oakley submitted an issue on pusher/chatkit-android
+    url: https://api.github.com/repos/pusher/chatkit-android/issues/69
+    time_stamp: "2018-09-11"
+    type: IssuesEvent
+    user_name: callum-oakley
+    repo: pusher/chatkit-android
+  - title: callum-oakley commented on an issue for pusher/chatkit-android
+    url: https://api.github.com/repos/pusher/chatkit-android/issues/comments/420264670
+    time_stamp: "2018-09-11"
     type: IssueCommentEvent
-    user_name: teminer
-    repo: pusher/chatkit-swift
+    user_name: callum-oakley
+    repo: pusher/chatkit-android
+  - title: lukabratos pushed to pusher/push-notifications-swift
+    url: ""
+    time_stamp: "2018-09-11"
+    type: PushEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: BenitoP submitted an issue on pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/91
+    time_stamp: "2018-09-11"
+    type: IssuesEvent
+    user_name: BenitoP
+    repo: pusher/push-notifications-swift
   latest_reddit_searches:
   - reddit_id: "9"
     title: The most insane one I've come across so far.. Worst part - she has quite
