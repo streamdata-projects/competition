@@ -5805,6 +5805,12 @@ competition:
     repo: pusher/push-notifications-swift
   latest_reddit_searches:
   - reddit_id: "9"
+    title: The Life of a Cart Pusher
+    url: https://i.redd.it/d3l0hxzzspl11.png
+    author: downoblivion
+    created_date: "2018-09-12"
+    score: "191"
+  - reddit_id: "9"
     title: The most insane one I've come across so far.. Worst part - she has quite
       the following on facebook. Anti-vaxxer; MLM essential oil pusher; Organic-only;
       No meds (including OTC NSAIDs); Frequent chiropractor visits; and self-titled
@@ -5958,135 +5964,128 @@ competition:
     author: burmih
     created_date: "2018-08-26"
     score: "200"
-  - reddit_id: "9"
-    title: "How to deal with food pushers? Saying \u201Cno thanks\u201D doesn't
-      work \U0001F644"
-    url: https://www.reddit.com/r/wls/comments/9acdal/how_to_deal_with_food_pushers_saying_no_thanks/
-    author: Karly939393
-    created_date: "2018-08-26"
-    score: "24"
   latest_hacker_news_searches:
   - hacker_news_id: "16236692"
     title: Hawaii button pusher refusing to cooperate with FCC, internal investigators
     url: http://www.staradvertiser.com/2018/01/24/breaking-news/schatz-to-lead-hearing-on-alert-systems-in-wake-of-hawaii-blunder/
-    author: Karly939393
+    author: burmih
     created_at: "2018-01-25"
     points: "125"
   - hacker_news_id: "15896908"
     title: Building a realtime location app with ARKit, CoreLocation and Pusher
     url: https://blog.pusher.com/realtime-location-app-arkit-corelocation-pusher/
-    author: Karly939393
+    author: burmih
     created_at: "2017-12-11"
     points: "60"
   - hacker_news_id: "13064478"
     title: "Hello PubNub and Pusher users \u2013 we now speak your language. Welcome
       to Ably"
     url: http://www.ably.io/adapters
-    author: Karly939393
+    author: burmih
     created_at: "2016-11-29"
     points: "41"
   - hacker_news_id: "12699332"
     title: Dash author is lying? Pusher of shovelware
     url: http://forums.macrumors.com/threads/apple-says-1-000-fraudulent-reviews-were-detected-across-two-accounts-owned-by-dash-developer-update-developer-responds.2005850/page-12#post-23708918
-    author: Karly939393
+    author: burmih
     created_at: "2016-10-13"
     points: "73"
   - hacker_news_id: "10263535"
     title: Hail to the Pencil Pusher
     url: http://bostonreview.net/books-ideas/mike-konczal-government-bureaucracy
-    author: Karly939393
+    author: burmih
     created_at: "2015-09-22"
     points: "7"
   - hacker_news_id: "9375518"
     title: Pixel Pushers
     url: http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers
-    author: Karly939393
+    author: burmih
     created_at: "2015-04-14"
     points: "9"
   - hacker_news_id: "9242286"
     title: "Show HN WP Pusher \u2013 Pain-free deployment of WordPress themes and
       plugins"
     url: https://wppusher.com/
-    author: Karly939393
+    author: burmih
     created_at: "2015-03-21"
     points: "9"
   - hacker_news_id: "7615509"
     title: Poxa A Pusher clone with a real-time Console
     url: https://github.com/edgurgel/poxa
-    author: Karly939393
+    author: burmih
     created_at: "2014-04-19"
     points: "35"
   - hacker_news_id: "5808032"
     title: ' Pusher DNS Hacked?'
     url: http://pusher.com
-    author: Karly939393
+    author: burmih
     created_at: "2013-06-02"
     points: "7"
   - hacker_news_id: "5634776"
     title: How we built Pusher-JS 2.0  part 2  implementation
     url: http://blog.pusher.com/how-we-built-pusher-js-2-0-part-2-implementation/
-    author: Karly939393
+    author: burmih
     created_at: "2013-04-30"
     points: "29"
   - hacker_news_id: "5517151"
     title: Pusher-js 2.0.0 released WebSockets, comprehensive legacy support
     url: http://blog.pusher.com/pusher-2-0-0-cutting-edge-websockets-with-comprehensive-legacy-support/
-    author: Karly939393
+    author: burmih
     created_at: "2013-04-09"
     points: "22"
   - hacker_news_id: "4413185"
     title: Build Your Own Home Automation w/ Pusher, Twilio, and Arduino
     url: http://www.twilio.com/blog/2012/08/diy-home-automation-using-twilio-powerswitch-arduino-and-pusher.html
-    author: Karly939393
+    author: burmih
     created_at: "2012-08-21"
     points: "239"
   - hacker_news_id: "4190822"
     title: Ask HN What's are the key differences between Pusher and PubNub?
     url: ""
-    author: Karly939393
+    author: burmih
     created_at: "2012-07-02"
     points: "6"
   - hacker_news_id: "3534962"
     title: Shoutbox - a Sinatra-MongoDB-Pusher-based monitoring app
     url: http://moviepilotlabs.tumblr.com/post/16814219083/were-releasing-shoutbox
-    author: Karly939393
+    author: burmih
     created_at: "2012-01-31"
     points: "22"
   - hacker_news_id: "3359097"
     title: Slanger An open implementation of the Pusher protocol written in Ruby
     url: https://github.com/stevegraham/slanger?hn
-    author: Karly939393
+    author: burmih
     created_at: "2011-12-15"
     points: "45"
   - hacker_news_id: "3351886"
     title: Slanger - Open Source Pusher protocol powered by Ruby and Redis
     url: http://thechangelog.com/post/14214730049/slanger-open-source-pusher-protocol-powered-by-ruby-and
-    author: Karly939393
+    author: burmih
     created_at: "2011-12-14"
     points: "8"
   - hacker_news_id: "2679426"
     title: Backbone.js, now realtime with Pusher
     url: http://blog.pusher.com/2011/6/21/backbone-js-now-realtime-with-pusher
-    author: Karly939393
+    author: burmih
     created_at: "2011-06-21"
     points: "16"
   - hacker_news_id: "2636958"
     title: Pusher Raises $1M From Heroku Founders And More To Bring Realtime Tech
       To Apps
     url: http://techcrunch.com/2011/06/09/pusher-raises-1m-from-passion-capital-heroku-founders-to-bring-realtime-tech-to-your-apps/
-    author: Karly939393
+    author: burmih
     created_at: "2011-06-09"
     points: "28"
   - hacker_news_id: "1925100"
     title: Tech interview about PusherApp, the WebSockets service behind Scrabb.ly
     url: http://webpulp.tv/post/1626829659/pusher-app-martyn-loughran
-    author: Karly939393
+    author: burmih
     created_at: "2010-11-20"
     points: "8"
   - hacker_news_id: "1216648"
     title: Pusher - Realtime client push service powered by websockets
     url: http://pusherapp.com
-    author: Karly939393
+    author: burmih
     created_at: "2010-03-24"
     points: "33"
   latest_stack_exchange_searches:
