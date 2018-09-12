@@ -1413,6 +1413,12 @@ competition:
     created_date: "2015-06-05"
     score: "1"
   latest_hacker_news_searches:
+  - hacker_news_id: "17966222"
+    title: Understanding the Consumer Side of Azure Event Hubs
+    url: https://www.serverless360.com/blog/understanding-the-consumer-side-of-azure-event-hubs
+    author: attila_kisko
+    created_at: "2018-09-12"
+    points: "2"
   - hacker_news_id: "17483386"
     title: Apache Kafka, Azure Event Hubs, Event-Driven Microservices in Week 27
     url: http://www.nielsberglund.com/2018/07/08/interesting-stuff-week-27/
