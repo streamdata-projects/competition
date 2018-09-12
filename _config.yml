@@ -4751,90 +4751,90 @@ competition:
     url: https://twitter.com/PubNub/status/1029869598638829568
     time_stamp: "2018-08-15 16:17:01"
   latest_github_activity:
-  - title: ianjennings made a pull request on pubnub/chat-engine-event-status
-    url: https://github.com/pubnub/chat-engine-event-status/pull/2
-    time_stamp: "2018-09-10"
+  - title: crgbaumgart pushed to pubnub/chat-engine
+    url: ""
+    time_stamp: "2018-09-11"
+    type: PushEvent
+    user_name: crgbaumgart
+    repo: pubnub/chat-engine
+  - title: crgbaumgart pushed to pubnub/chat-engine
+    url: ""
+    time_stamp: "2018-09-11"
+    type: PushEvent
+    user_name: crgbaumgart
+    repo: pubnub/chat-engine
+  - title: qsoftdevelopment pushed to pubnub/python
+    url: ""
+    time_stamp: "2018-09-11"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/python
+  - title: qsoftdevelopment made a pull request on pubnub/python
+    url: https://github.com/pubnub/python/pull/60
+    time_stamp: "2018-09-11"
     type: PullRequestEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine-event-status
-  - title: vveljko pushed to pubnub/c-core
-    url: ""
-    time_stamp: "2018-09-10"
-    type: PushEvent
-    user_name: vveljko
-    repo: pubnub/c-core
-  - title: vveljko made a pull request on pubnub/c-core
-    url: https://github.com/pubnub/c-core/pull/54
-    time_stamp: "2018-09-10"
-    type: PullRequestEvent
-    user_name: vveljko
-    repo: pubnub/c-core
-  - title: pubnub/chat-engine was forked by chat-engine
-    url: ""
-    time_stamp: "2018-09-10"
-    type: ForkEvent
-    user_name: chat-engine
-    repo: pubnub/chat-engine
-  - title: pubnub/chat-engine was forked by chat-engine
-    url: ""
-    time_stamp: "2018-09-10"
-    type: ForkEvent
-    user_name: chat-engine
-    repo: pubnub/chat-engine
+    user_name: qsoftdevelopment
+    repo: pubnub/python
   - title: codacy-bot commented on an issue for pubnub/chat-engine
-    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/420065821
-    time_stamp: "2018-09-10"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/chat-engine
-  - title: codacy-bot commented on an issue for pubnub/c-core
-    url: https://api.github.com/repos/pubnub/c-core/issues/comments/420065795
-    time_stamp: "2018-09-10"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/c-core
-  - title: ianjennings pushed to pubnub/chat-engine
-    url: ""
-    time_stamp: "2018-09-10"
-    type: PushEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: vveljko pushed to pubnub/c-core
-    url: ""
-    time_stamp: "2018-09-10"
-    type: PushEvent
-    user_name: vveljko
-    repo: pubnub/c-core
-  - title: codacy-bot commented on an issue for pubnub/chat-engine
-    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/420064764
-    time_stamp: "2018-09-10"
+    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/420439329
+    time_stamp: "2018-09-11"
     type: IssueCommentEvent
     user_name: codacy-bot
     repo: pubnub/chat-engine
   - title: ianjennings pushed to pubnub/chat-engine
     url: ""
-    time_stamp: "2018-09-10"
+    time_stamp: "2018-09-11"
     type: PushEvent
     user_name: ianjennings
     repo: pubnub/chat-engine
-  - title: ianjennings commented on an issue for pubnub/chat-engine
-    url: https://api.github.com/repos/pubnub/chat-engine/issues/comments/420031290
-    time_stamp: "2018-09-10"
-    type: IssueCommentEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: codacy-bot commented on an issue for pubnub/c-core
-    url: https://api.github.com/repos/pubnub/c-core/issues/comments/419921060
-    time_stamp: "2018-09-10"
-    type: IssueCommentEvent
-    user_name: codacy-bot
-    repo: pubnub/c-core
-  - title: vveljko pushed to pubnub/c-core
+  - title: crgbaumgart pushed to pubnub/chat-engine
     url: ""
-    time_stamp: "2018-09-10"
+    time_stamp: "2018-09-11"
     type: PushEvent
-    user_name: vveljko
-    repo: pubnub/c-core
+    user_name: crgbaumgart
+    repo: pubnub/chat-engine
+  - title: qsoftdevelopment pushed to pubnub/python
+    url: ""
+    time_stamp: "2018-09-11"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/python
+  - title: qsoftdevelopment pushed to pubnub/python
+    url: ""
+    time_stamp: "2018-09-11"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/python
+  - title: qsoftdevelopment made a pull request on pubnub/python
+    url: https://github.com/pubnub/python/pull/60
+    time_stamp: "2018-09-11"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/python
+  - title: qsoftdevelopment pushed to pubnub/python
+    url: ""
+    time_stamp: "2018-09-11"
+    type: PushEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/python
+  - title: qsoftdevelopment made a pull request on pubnub/python
+    url: https://github.com/pubnub/python/pull/59
+    time_stamp: "2018-09-11"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/python
+  - title: QSDdean made a pull request on pubnub/python
+    url: https://github.com/pubnub/python/pull/59
+    time_stamp: "2018-09-11"
+    type: PullRequestEvent
+    user_name: QSDdean
+    repo: pubnub/python
+  - title: pubnub/python was forked by python
+    url: ""
+    time_stamp: "2018-09-11"
+    type: ForkEvent
+    user_name: python
+    repo: pubnub/python
   latest_reddit_searches:
   - reddit_id: "9"
     title: Streaming data into Excel from Raspberry Pi devices via realtime backends
