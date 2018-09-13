@@ -2221,6 +2221,14 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Meet UX Designer Aaron Druck! He sits down with @CodingDoug to give an
+      update on changes coming to the Firestore co... https://t.co/WOYenEfBqw"
+    url: https://twitter.com/Firebase/status/1040017217361010688
+    time_stamp: "2018-09-12 16:20:01"
+  - title: "Not sure how to use Firebase In-App Messaging to guide users? @ThatJenPerson
+      shows you how to set up a campaign to... https://t.co/UT1i1xymly"
+    url: https://twitter.com/Firebase/status/1039937040677257216
+    time_stamp: "2018-09-12 11:01:26"
   - title: "Startup founder &amp; @cheflyapp CEO @ggarciapaola can't wait for the
       updates &amp; news coming out of this year's... https://t.co/FroeEXoe4m"
     url: https://twitter.com/Firebase/status/1039616538959986688
@@ -2313,14 +2321,6 @@ competition:
       use case for workflow engines like @awscloud #StepFunctions, @Azure..."
     url: https://twitter.com/Firebase/status/1034222596017938432
     time_stamp: "2018-08-27 16:34:16"
-  - title: "RT @CodingDoug: The slides from the latest version of my @Firebase &amp;
-      Jetpack talk from @droidconNYC can be found here:\n\nhttps://t.co/FMgXy1..."
-    url: https://twitter.com/Firebase/status/1034191322964475905
-    time_stamp: "2018-08-27 14:30:00"
-  - title: Thanks to everyone who attended the workshop. Be sure to swing by our @360iDev
-      booth and say hi! https://t.co/wwgamA2slj
-    url: https://twitter.com/Firebase/status/1034172741312700416
-    time_stamp: "2018-08-27 13:16:10"
   latest_github_activity:
   - title: firebase/functions-samples being watched by ugotsoul
     url: ""
