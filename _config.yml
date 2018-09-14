@@ -4554,6 +4554,18 @@ competition:
     url: https://www.pubnub.com/blog/every-millisecond-counts-why-time-is-everything-for-businesses/
     time_stamp: "2018-07-31 09:43:23"
   latest_tweets:
+  - title: "Build chat apps that work for everyone! This tutorial shows you how to
+      build a realtime chat app with text-to-speec... https://t.co/HJg6zLodWU"
+    url: https://twitter.com/PubNub/status/1040341728870334464
+    time_stamp: "2018-09-13 13:49:31"
+  - title: "RT @bigjoshcodes: Learning more about IoT technologies and the challenges
+      in addressing large audiences in real-time! Are you ready for Dat..."
+    url: https://twitter.com/PubNub/status/1040304859348516865
+    time_stamp: "2018-09-13 11:23:01"
+  - title: 'RT @girlsaregeeks2: Interesting ideas about how to build and scale IoT
+      networks from Simon Jones @PubNub today #APIWorld18'
+    url: https://twitter.com/PubNub/status/1040304844311953408
+    time_stamp: "2018-09-13 11:22:57"
   - title: 'Beef up #encryption in your ChatEngine app even more with this @VirgilSecurity
       implementation: https://t.co/OxqjYD0Gtf'
     url: https://twitter.com/PubNub/status/1039597196096753671
@@ -4639,20 +4651,6 @@ competition:
       #realtime #pubnub #VR #virtualreality... https://t.co/eyrkFRxhHi"
     url: https://twitter.com/PubNub/status/1030209061130711041
     time_stamp: "2018-08-16 14:45:55"
-  - title: "Are you attending @APIWorld be sure to attend Simon's OPEN TALK: Connect
-      Everything: Real-Time Communication in an... https://t.co/yCZy4CbvJR"
-    url: https://twitter.com/PubNub/status/1030208611883016192
-    time_stamp: "2018-08-16 14:44:08"
-  - title: "RT @jhibbets: You can't build successful microservices without a successful
-      team culture, here are key insights from CTO's https://t.co/87Z..."
-    url: https://twitter.com/PubNub/status/1030140364496166912
-    time_stamp: "2018-08-16 10:12:56"
-  - title: |-
-      A PubNub first! Check out our new multiplayer #VR bowling game and build one yourself!
-
-      https://t.co/4a4KWW2Q72
-    url: https://twitter.com/PubNub/status/1029869598638829568
-    time_stamp: "2018-08-15 16:17:01"
   latest_github_activity:
   - title: pubnub/javascript was forked by javascript
     url: ""
