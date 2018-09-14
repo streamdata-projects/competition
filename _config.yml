@@ -2220,6 +2220,15 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "The schedule for the Firebase Summit has been published!\n\n\U0001F525
+      Go to \u2192 https://t.co/BSaJpnFb8l\n\U0001F4DC Scroll down to the ph...
+      https://t.co/lmutX5ofdJ"
+    url: https://twitter.com/Firebase/status/1040617925860835329
+    time_stamp: "2018-09-14 08:07:01"
+  - title: "This week on #AskFirebase, we've got your Cloud Functions, security rules
+      and denormalized data questions covered.... https://t.co/1ISZsErZI7"
+    url: https://twitter.com/Firebase/status/1040316549003915264
+    time_stamp: "2018-09-13 12:09:28"
   - title: "Meet UX Designer Aaron Druck! He sits down with @CodingDoug to give an
       update on changes coming to the Firestore co... https://t.co/WOYenEfBqw"
     url: https://twitter.com/Firebase/status/1040017217361010688
@@ -2312,14 +2321,6 @@ competition:
       insight into their app's performance. Firebase Dy... https://t.co/IgCjXxO5hN"
     url: https://twitter.com/Firebase/status/1034572325902069760
     time_stamp: "2018-08-28 15:43:58"
-  - title: 'Firebase is on the showroom floor at #PAXDev! Come by the booth for swag
-      and all things Firebase. https://t.co/YUCOSZgNCn'
-    url: https://twitter.com/Firebase/status/1034507274285404161
-    time_stamp: "2018-08-28 11:25:29"
-  - title: "RT @asciimike: Do you use @googlecloud or @Firebase #Functions? Have a
-      use case for workflow engines like @awscloud #StepFunctions, @Azure..."
-    url: https://twitter.com/Firebase/status/1034222596017938432
-    time_stamp: "2018-08-27 16:34:16"
   latest_github_activity:
   - title: ryanwilson pushed to firebase/firebase-ios-sdk
     url: ""
@@ -5457,6 +5458,10 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "Our #Engineering team is growing. We have a number of open roles in our
+      Platform, Channels &amp; Chatkit teams. Help us... https://t.co/0WrG5AdMEy"
+    url: https://twitter.com/pusher/status/1040555761900945408
+    time_stamp: "2018-09-14 04:00:00"
   - title: "Fancy joining our #Chatkit team? We are hiring a Senior Backend Engineer
       in #London \nCheck it out \U0001F447\n\nhttps://t.co/T61fUTLyKI"
     url: https://twitter.com/pusher/status/1039816805320204289
@@ -5555,10 +5560,6 @@ competition:
       through building a chat app! \U0001F680\n\nIt contains 19 interactive screenca..."
     url: https://twitter.com/pusher/status/1011632512433557505
     time_stamp: "2018-06-26 08:29:20"
-  - title: "RT @ABridgwater: COMPUTER WEEKLY\n\nPusher: treat developers 'as
-      customers' https://t.co/AmOVDLwxDa via @computerweekly https://t.co/01vH5NDZ..."
-    url: https://twitter.com/pusher/status/1011571554520649734
-    time_stamp: "2018-06-26 04:27:07"
   latest_github_activity:
   - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit being watched
       by felilama
