@@ -2751,7 +2751,7 @@ competition:
     and executing a wide range of data processing patterns including ETL, batch computation,
     and continuous computation. Cloud Dataflow frees you from operational tasks like
     resource management and performance optimization.
-  url: https://stackoverflow.com/questions/50180241/connect-to-mysql-from-google-dataflow
+  url: https://stackoverflow.com/questions/50214763/unable-to-write-to-bigquery-permission-denied-apache-beam-python-google-dat
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -3063,6 +3063,15 @@ competition:
     owner_link: https://stackoverflow.com/users/10351573/kenta-kozuka
     creation_date: "2018-09-13"
     view_count: "14"
+  - question_id: "52323896"
+    title: Google Dataflow - How to specify the TextIO in java if writing to an On-prem
+      server?
+    url: https://stackoverflow.com/questions/52323896/google-dataflow-how-to-specify-the-textio-in-java-if-writing-to-an-on-prem-ser
+    owner_display_name: Roshan Fernando
+    owner_reputation: "39"
+    owner_link: https://stackoverflow.com/users/9481677/roshan-fernando
+    creation_date: "2018-09-13"
+    view_count: "10"
   - question_id: "52239615"
     title: How can I install a python package onto Google Dataflow and import it into
       my pipeline?
@@ -3253,14 +3262,6 @@ competition:
     owner_link: https://stackoverflow.com/users/3442707/anuj
     creation_date: "2018-05-07"
     view_count: "146"
-  - question_id: "50180241"
-    title: Connect to MySQL from Google Dataflow
-    url: https://stackoverflow.com/questions/50180241/connect-to-mysql-from-google-dataflow
-    owner_display_name: A Kong
-    owner_reputation: "1"
-    owner_link: https://stackoverflow.com/users/9742590/a-kong
-    creation_date: "2018-05-04"
-    view_count: "152"
   tags:
   - Stack Network
   - Service API
