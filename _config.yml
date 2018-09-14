@@ -721,7 +721,7 @@ competition:
     Amazon S3, Amazon Redshift, and Amazon Elasticsearch Service, enabling near real-time
     analytics with existing business intelligence tools and dashboards you are already
     using today.
-  url: https://stackoverflow.com/questions/37041083/how-to-process-static-data-in-amazon-kinesis
+  url: https://stackoverflow.com/questions/39939225/call-rest-api-for-amazon-kinesis-with-setting-up-api-gateway
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -1016,6 +1016,14 @@ competition:
     created_at: "2013-11-14"
     points: "6"
   latest_stack_exchange_searches:
+  - question_id: "52331303"
+    title: Amazon Kinesis Data Firehose windows client
+    url: https://stackoverflow.com/questions/52331303/amazon-kinesis-data-firehose-windows-client
+    owner_display_name: Martin Andersen
+    owner_reputation: "588"
+    owner_link: https://stackoverflow.com/users/1147577/martin-andersen
+    creation_date: "2018-09-14"
+    view_count: "8"
   - question_id: "52033203"
     title: Amazon Kinesis Video PutMedia Using Python
     url: https://stackoverflow.com/questions/52033203/amazon-kinesis-video-putmedia-using-python
@@ -1211,14 +1219,6 @@ competition:
     owner_link: https://stackoverflow.com/users/3435519/needhelp
     creation_date: "2016-10-08"
     view_count: "1092"
-  - question_id: "37041083"
-    title: how to process static data in AMAZON Kinesis?
-    url: https://stackoverflow.com/questions/37041083/how-to-process-static-data-in-amazon-kinesis
-    owner_display_name: saumm
-    owner_reputation: "1"
-    owner_link: https://stackoverflow.com/users/5906402/saumm
-    creation_date: "2016-05-04"
-    view_count: "165"
   tags:
   - Streaming
   - Stack Network
