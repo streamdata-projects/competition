@@ -3574,6 +3574,18 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "17988475"
+    title: "What Most Remote Companies Don't Tell You About Remote Work"
+    url: https://blog.doist.com/mental-health-and-remote-work-1b77616f6945
+    author: weblaunches
+    created_at: "2018-09-14"
+    points: "0"
+  - hacker_news_id: "17990696"
+    title: Cycling Is Key to Safer, Healthier, More Vital Cities
+    url: https://www.citylab.com/transportation/2018/09/cycling-is-key-to-safer-healthier-more-vital-cities/570139/
+    author: weblaunches
+    created_at: "2018-09-14"
+    points: "0"
   - hacker_news_id: "17961482"
     title: "Winnipeg Doesn't Know Who Erected This Amazing Sign on a Landfill-Turned-Park"
     url: https://www.atlasobscura.com/articles/garbage-hill
@@ -3712,18 +3724,6 @@ competition:
   - hacker_news_id: "17845312"
     title: The Bhikkhu Diet (2003)
     url: https://tricycle.org/magazine/bhikkhu-diet/
-    author: weblaunches
-    created_at: "2018-08-26"
-    points: "0"
-  - hacker_news_id: "17845036"
-    title: "Age of Invisible Disasters \u2013 Learning from IT Project Failures"
-    url: https://blog.eutopian.io/the-age-of-invisible-disasters/
-    author: weblaunches
-    created_at: "2018-08-26"
-    points: "0"
-  - hacker_news_id: "17844980"
-    title: Beyond GDP
-    url: https://www.npr.org/sections/money/2018/08/23/641278187/beyond-gdp
     author: weblaunches
     created_at: "2018-08-26"
     points: "0"
@@ -6421,6 +6421,12 @@ competition:
     repo: streamr-dev/engine-and-editor
   latest_reddit_searches:
   - reddit_id: "9"
+    title: Think up some decent community goodies and win 5k in DATA
+    url: https://www.reddit.com/r/streamr/comments/9fkwp8/think_up_some_decent_community_goodies_and_win_5k/
+    author: smmblue
+    created_date: "2018-09-13"
+    score: "18"
+  - reddit_id: "9"
     title: Watch this 4min video as we run down Streamr's achievements during the
       first half of 2018
     url: https://youtu.be/bX35NeJ7JX8
@@ -6575,13 +6581,6 @@ competition:
     author: whenmoon
     created_date: "2018-07-13"
     score: "9"
-  - reddit_id: "8"
-    title: "Blog post: 'DATA: Chance encounter with a lucky small cap?'
-      - The story of how one person found out about Streamr!"
-    url: https://busy.org/@kirkins/data-chance-encounter-with-a-lucky-small-cap
-    author: whenmoon
-    created_date: "2018-07-07"
-    score: "15"
   latest_hacker_news_searches:
   - hacker_news_id: "17618068"
     title: Streamroot powers largest ever video streaming distributed delivery for
