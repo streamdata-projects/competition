@@ -495,6 +495,12 @@ competition:
   latest_tweets: []
   latest_github_activity: []
   latest_reddit_searches:
+  - reddit_id: "9"
+    title: Sony XBR 930E got an update yesterday
+    url: https://www.reddit.com/r/bravia/comments/9fb9xz/sony_xbr_930e_got_an_update_yesterday/
+    author: whatnow275
+    created_date: "2018-09-12"
+    score: "5"
   - reddit_id: "2147483647"
     title: Is there a Grocery List app that works well with (syncs &amp; updates)
       Amazon Alexa Shopping List?
@@ -649,67 +655,60 @@ competition:
     author: VembuTechnologies
     created_date: "2018-02-14"
     score: "1"
-  - reddit_id: "7"
-    title: Build a notes app with React Native, AWS AppSync, and AWS Amplify | Amazon
-      Web Services
-    url: https://aws.amazon.com/blogs/mobile/build-a-notes-app-with-react-native-aws-appsync-and-aws-amplify/
-    author: hb_to_ms
-    created_date: "2018-02-07"
-    score: "1"
   latest_hacker_news_searches:
   - hacker_news_id: "17814221"
     title: Building a Unified Back End with AWS AppSync and Amazon Neptune
     url: https://medium.com/@joshua.a.kahn/building-a-unified-backend-with-aws-appsync-part-ii-amazon-neptune-df04e9e015e7
-    author: hb_to_ms
+    author: VembuTechnologies
     created_at: "2018-08-21"
     points: "1"
   - hacker_news_id: "17762046"
     title: GraphQL with Amazon Aurora Sample with AppSync
     url: https://aws.amazon.com/about-aws/whats-new/2018/08/aws-appsync-adds-quick-start-for-amazon-aurora/
-    author: hb_to_ms
+    author: VembuTechnologies
     created_at: "2018-08-14"
     points: "3"
   - hacker_news_id: "17576353"
     title: GraphQL Didn't Kill REST
     url: https://graphqlme.com/2018/04/01/graphql-didnt-kill-rest/
-    author: hb_to_ms
+    author: VembuTechnologies
     created_at: "2018-07-20"
     points: "0"
   - hacker_news_id: "16859597"
     title: Deploy a GraphQL API with Amazon CloudFormation
     url: https://medium.com/@FizzyInTheHall/deploy-an-aws-appsync-graphql-api-with-amazon-cloudformation-9a783fdd8491
-    author: hb_to_ms
+    author: VembuTechnologies
     created_at: "2018-04-17"
     points: "1"
   - hacker_news_id: "16812967"
     title: "AWS AppSync \u2013 Build data-driven apps with real-time and offline capabilities"
     url: https://aws.amazon.com/appsync/
-    author: hb_to_ms
+    author: VembuTechnologies
     created_at: "2018-04-11"
     points: "0"
   - hacker_news_id: "16770498"
     title: Scaphold (GraphQL Backend as a Service) will be shutting down on May First
     url: ""
-    author: hb_to_ms
+    author: VembuTechnologies
     created_at: "2018-04-05"
     points: "2"
   - hacker_news_id: "15804540"
     title: "AWS AppSync \u2013 Build data-driven apps with real-time and off-line
       capabilities"
     url: https://aws.amazon.com/blogs/aws/introducing-amazon-appsync/
-    author: hb_to_ms
+    author: VembuTechnologies
     created_at: "2017-11-28"
     points: "0"
   - hacker_news_id: "5755337"
     title: Steve Jobs emails that show how to win a negotiation
     url: http://qz.com/87184/the-steve-jobs-emails-that-show-how-to-win-a-hard-nosed-negotiation/
-    author: hb_to_ms
+    author: VembuTechnologies
     created_at: "2013-05-22"
     points: "2"
   - hacker_news_id: "2109599"
     title: The Art of Computer Programming, Volume 4A has been published
     url: http://www-cs-staff.stanford.edu/""uno/news.html
-    author: hb_to_ms
+    author: VembuTechnologies
     created_at: "2011-01-16"
     points: "0"
   latest_stack_exchange_searches: []
