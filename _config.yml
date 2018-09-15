@@ -2330,42 +2330,132 @@ competition:
     url: https://twitter.com/Firebase/status/1034572325902069760
     time_stamp: "2018-08-28 15:43:58"
   latest_github_activity:
-  - title: ryanwilson pushed to firebase/firebase-ios-sdk
-    url: ""
-    time_stamp: "2018-09-13"
-    type: PushEvent
-    user_name: ryanwilson
+  - title: mikehaney24 commented on an issue for firebase/firebase-ios-sdk
+    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/421497858
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: mikehaney24
     repo: firebase/firebase-ios-sdk
-  - title: firebase/quickstart-js was forked by quickstart-js
+  - title: firebase/firebase-functions being watched by johnsi15
     url: ""
-    time_stamp: "2018-09-13"
-    type: ForkEvent
-    user_name: quickstart-js
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: johnsi15
+    repo: firebase/firebase-functions
+  - title: firebase/firebase-tools being watched by johnsi15
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: johnsi15
+    repo: firebase/firebase-tools
+  - title: firebase/quickstart-js being watched by johnsi15
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: johnsi15
     repo: firebase/quickstart-js
-  - title: schmidt-sebastian commented on an issue for firebase/firebase-js-sdk
-    url: https://api.github.com/repos/firebase/firebase-js-sdk/issues/comments/421184819
-    time_stamp: "2018-09-13"
-    type: IssueCommentEvent
-    user_name: schmidt-sebastian
-    repo: firebase/firebase-js-sdk
-  - title: Feiyang1 pushed to firebase/firebase-bower
+  - title: dpebot pushed to firebase/friendlychat-web
     url: ""
-    time_stamp: "2018-09-13"
+    time_stamp: "2018-09-14"
     type: PushEvent
-    user_name: Feiyang1
-    repo: firebase/firebase-bower
-  - title: samtstern commented on an issue for firebase/firebase-admin-java
-    url: https://api.github.com/repos/firebase/firebase-admin-java/issues/comments/421181611
-    time_stamp: "2018-09-13"
+    user_name: dpebot
+    repo: firebase/friendlychat-web
+  - title: firebase/quickstart-android was forked by quickstart-android
+    url: ""
+    time_stamp: "2018-09-14"
+    type: ForkEvent
+    user_name: quickstart-android
+    repo: firebase/quickstart-android
+  - title: renkelvin pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: renkelvin
+    repo: firebase/firebase-ios-sdk
+  - title: renkelvin made a pull request on firebase/firebase-ios-sdk
+    url: https://github.com/firebase/firebase-ios-sdk/pull/1828
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: renkelvin
+    repo: firebase/firebase-ios-sdk
+  - title: renkelvin made a pull request on firebase/firebase-ios-sdk
+    url: https://github.com/firebase/firebase-ios-sdk/pull/1828
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: renkelvin
+    repo: firebase/firebase-ios-sdk
+  - title: ryanpbrewster pushed to firebase/firebase-js-sdk
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: ryanpbrewster
+    repo: firebase/firebase-js-sdk
+  - title: morganchen12 pushed to firebase/friendlyeats-ios
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: morganchen12
+    repo: firebase/friendlyeats-ios
+  - title: morganchen12 made a pull request on firebase/friendlyeats-ios
+    url: https://github.com/firebase/friendlyeats-ios/pull/8
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: morganchen12
+    repo: firebase/friendlyeats-ios
+  - title: cyupa commented on an issue for firebase/firebase-ios-sdk
+    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/421501949
+    time_stamp: "2018-09-14"
     type: IssueCommentEvent
-    user_name: samtstern
-    repo: firebase/firebase-admin-java
-  - title: nbransby commented on an issue for firebase/firebase-admin-java
-    url: https://api.github.com/repos/firebase/firebase-admin-java/issues/comments/421181244
-    time_stamp: "2018-09-13"
+    user_name: cyupa
+    repo: firebase/firebase-ios-sdk
+  - title: visumickey commented on an issue for firebase/firebase-ios-sdk
+    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/421501888
+    time_stamp: "2018-09-14"
     type: IssueCommentEvent
-    user_name: nbransby
-    repo: firebase/firebase-admin-java
+    user_name: visumickey
+    repo: firebase/firebase-ios-sdk
+  - title: morganchen12 commented on an issue for firebase/firebase-ios-sdk
+    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/421499450
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: morganchen12
+    repo: firebase/firebase-ios-sdk
+  - title: ashwinraghav pushed to firebase/firebase-android-sdk
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: ashwinraghav
+    repo: firebase/firebase-android-sdk
+  - title: ashwinraghav made a pull request on firebase/firebase-android-sdk
+    url: https://github.com/firebase/firebase-android-sdk/pull/16
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: ashwinraghav
+    repo: firebase/firebase-android-sdk
+  - title: ashwinraghav commented on an issue for firebase/firebase-android-sdk
+    url: https://api.github.com/repos/firebase/firebase-android-sdk/issues/comments/421499395
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: ashwinraghav
+    repo: firebase/firebase-android-sdk
+  - title: firebase/togetherjs was forked by togetherjs
+    url: ""
+    time_stamp: "2018-09-14"
+    type: ForkEvent
+    user_name: togetherjs
+    repo: firebase/togetherjs
+  - title: firebase/firebase-admin-dotnet was forked by firebase-admin-dotnet
+    url: ""
+    time_stamp: "2018-09-14"
+    type: ForkEvent
+    user_name: firebase-admin-dotnet
+    repo: firebase/firebase-admin-dotnet
+  - title: firebase/angularfire was forked by angularfire
+    url: ""
+    time_stamp: "2018-09-14"
+    type: ForkEvent
+    user_name: angularfire
+    repo: firebase/angularfire
   latest_reddit_searches:
   - reddit_id: "9"
     title: unable to access google firebase from angular?
