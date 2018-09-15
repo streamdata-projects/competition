@@ -5659,121 +5659,145 @@ competition:
     url: https://twitter.com/pusher/status/1011632512433557505
     time_stamp: "2018-06-26 08:29:20"
   latest_github_activity:
+  - title: mdpye commented on an issue for pusher/chatkit-android
+    url: https://api.github.com/repos/pusher/chatkit-android/issues/comments/421391730
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: mdpye
+    repo: pusher/chatkit-android
+  - title: mdpye made a pull request on pusher/chatkit-android
+    url: https://github.com/pusher/chatkit-android/pull/65
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: mdpye
+    repo: pusher/chatkit-android
+  - title: mdpye pushed to pusher/chatkit-android
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: mdpye
+    repo: pusher/chatkit-android
+  - title: mdpye made a pull request on pusher/chatkit-android
+    url: https://github.com/pusher/chatkit-android/pull/71
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: mdpye
+    repo: pusher/chatkit-android
+  - title: mdpye pushed to pusher/chatkit-android
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: mdpye
+    repo: pusher/chatkit-android
+  - title: pusher/pusher-websocket-swift being watched by cruinh
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: cruinh
+    repo: pusher/pusher-websocket-swift
+  - title: hamchapman commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/421382559
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: hamchapman
+    repo: pusher/chatkit-client-js
+  - title: mdpye pushed to pusher/chatkit-android
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: mdpye
+    repo: pusher/chatkit-android
+  - title: mdpye pushed to pusher/chatkit-android
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: mdpye
+    repo: pusher/chatkit-android
+  - title: mdpye pushed to pusher/pusher-platform-android
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: mdpye
+    repo: pusher/pusher-platform-android
+  - title: provstevi made a pull request on pusher/pusher-http-node
+    url: https://github.com/pusher/pusher-http-node/pull/85
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: provstevi
+    repo: pusher/pusher-http-node
+  - title: provstevi submitted an issue on pusher/pusher-http-node
+    url: https://api.github.com/repos/pusher/pusher-http-node/issues/84
+    time_stamp: "2018-09-14"
+    type: IssuesEvent
+    user_name: provstevi
+    repo: pusher/pusher-http-node
+  - title: pusher/pusher-http-node was forked by pusher-http-node
+    url: ""
+    time_stamp: "2018-09-14"
+    type: ForkEvent
+    user_name: pusher-http-node
+    repo: pusher/pusher-http-node
+  - title: pusher/react-slack-clone was forked by react-slack-clone
+    url: ""
+    time_stamp: "2018-09-14"
+    type: ForkEvent
+    user_name: react-slack-clone
+    repo: pusher/react-slack-clone
   - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit being watched
-      by felilama
+      by codyfet
     url: ""
-    time_stamp: "2018-09-13"
+    time_stamp: "2018-09-14"
     type: WatchEvent
-    user_name: felilama
+    user_name: codyfet
     repo: pusher/build-a-slack-clone-with-react-and-pusher-c
-  - title: BenPope pushed to pusher/lyft-ratelimit
+  - title: pusher/pusher-js being watched by camilo86
     url: ""
-    time_stamp: "2018-09-13"
-    type: PushEvent
-    user_name: BenPope
-    repo: pusher/lyft-ratelimit
-  - title: BenPope pushed to pusher/lyft-goruntime
-    url: ""
-    time_stamp: "2018-09-13"
-    type: PushEvent
-    user_name: BenPope
-    repo: pusher/lyft-goruntime
-  - title: pusher/pusher-js being watched by mjastrzebowski
-    url: ""
-    time_stamp: "2018-09-13"
+    time_stamp: "2018-09-14"
     type: WatchEvent
-    user_name: mjastrzebowski
+    user_name: camilo86
     repo: pusher/pusher-js
-  - title: BenPope pushed to pusher/lyft-goruntime
-    url: ""
-    time_stamp: "2018-09-13"
-    type: PushEvent
-    user_name: BenPope
-    repo: pusher/lyft-goruntime
-  - title: pusher/pusher-js being watched by borisyordanov
-    url: ""
-    time_stamp: "2018-09-13"
-    type: WatchEvent
-    user_name: borisyordanov
-    repo: pusher/pusher-js
+  - title: michaelperret submitted an issue on pusher/pusher-http-python
+    url: https://api.github.com/repos/pusher/pusher-http-python/issues/118
+    time_stamp: "2018-09-14"
+    type: IssuesEvent
+    user_name: michaelperret
+    repo: pusher/pusher-http-python
+  - title: italoj commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/421418831
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: italoj
+    repo: pusher/chatkit-client-js
+  - title: hamchapman commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/421411798
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: hamchapman
+    repo: pusher/chatkit-client-js
+  - title: italoj commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/421411025
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: italoj
+    repo: pusher/chatkit-client-js
   - title: vivangkumar pushed to pusher/pusher-platform-go
     url: ""
-    time_stamp: "2018-09-13"
+    time_stamp: "2018-09-14"
     type: PushEvent
     user_name: vivangkumar
     repo: pusher/pusher-platform-go
-  - title: mdpye pushed to pusher/chatkit-android
+  - title: vivangkumar pushed to pusher/pusher-platform-go
     url: ""
-    time_stamp: "2018-09-13"
+    time_stamp: "2018-09-14"
     type: PushEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: hamchapman pushed to pusher/pusher-platform-ruby
-    url: ""
-    time_stamp: "2018-09-13"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-ruby
-  - title: hamchapman made a pull request on pusher/pusher-platform-ruby
-    url: https://github.com/pusher/pusher-platform-ruby/pull/22
-    time_stamp: "2018-09-13"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-ruby
-  - title: hamchapman pushed to pusher/pusher-platform-ruby
-    url: ""
-    time_stamp: "2018-09-13"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-ruby
-  - title: mdpye pushed to pusher/chatkit-android
-    url: ""
-    time_stamp: "2018-09-13"
-    type: PushEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: JoelSpeed pushed to pusher/controller-runtime
-    url: ""
-    time_stamp: "2018-09-13"
-    type: PushEvent
-    user_name: JoelSpeed
-    repo: pusher/controller-runtime
-  - title: pusher/k8s-auth-example being watched by franktommasi
-    url: ""
-    time_stamp: "2018-09-13"
-    type: WatchEvent
-    user_name: franktommasi
-    repo: pusher/k8s-auth-example
-  - title: BenPope commented on an issue for pusher/pusher-platform-go
-    url: https://api.github.com/repos/pusher/pusher-platform-go/issues/comments/421007888
-    time_stamp: "2018-09-13"
-    type: IssueCommentEvent
-    user_name: BenPope
+    user_name: vivangkumar
     repo: pusher/pusher-platform-go
-  - title: lukabratos made a pull request on pusher/push-notifications-swift
-    url: https://github.com/pusher/push-notifications-swift/pull/90
-    time_stamp: "2018-09-13"
-    type: PullRequestEvent
-    user_name: lukabratos
-    repo: pusher/push-notifications-swift
-  - title: lukabratos commented on an issue for pusher/push-notifications-swift
-    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/420997940
-    time_stamp: "2018-09-13"
-    type: IssueCommentEvent
-    user_name: lukabratos
-    repo: pusher/push-notifications-swift
-  - title: JoelSpeed pushed to pusher/controller-runtime
+  - title: vivangkumar pushed to pusher/pusher-platform-go
     url: ""
-    time_stamp: "2018-09-13"
+    time_stamp: "2018-09-14"
     type: PushEvent
-    user_name: JoelSpeed
-    repo: pusher/controller-runtime
-  - title: mayuroks submitted an issue on pusher/chatkit-android
-    url: https://api.github.com/repos/pusher/chatkit-android/issues/70
-    time_stamp: "2018-09-13"
-    type: IssuesEvent
-    user_name: mayuroks
-    repo: pusher/chatkit-android
+    user_name: vivangkumar
+    repo: pusher/pusher-platform-go
   latest_reddit_searches:
   - reddit_id: "9"
     title: If your team is full of split pushers on a 3 lane map against a team fight
