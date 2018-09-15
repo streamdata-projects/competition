@@ -2228,6 +2228,18 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Tech advocate @liza_p_semenova is excited to learn more about Firebase
+      from the experts at this year's... https://t.co/t2Dov8uIFN"
+    url: https://twitter.com/Firebase/status/1040708562048016384
+    time_stamp: "2018-09-14 14:07:11"
+  - title: 'RT @gregsramblings: The Google Cloud Developer Cheat Sheet - by developers
+      for developers https://t.co/mGqnJQdJna https://t.co/GhBOZ0caKs'
+    url: https://twitter.com/Firebase/status/1040675878273875968
+    time_stamp: "2018-09-14 11:57:18"
+  - title: "We are super-charging Cloud Firestore offline support for the Web! Today,
+      we are excited to announce an experimenta... https://t.co/3thJHFKF8r"
+    url: https://twitter.com/Firebase/status/1040649742563323910
+    time_stamp: "2018-09-14 10:13:27"
   - title: "The schedule for the Firebase Summit has been published!\n\n\U0001F525
       Go to \u2192 https://t.co/BSaJpnFb8l\n\U0001F4DC Scroll down to the ph...
       https://t.co/lmutX5ofdJ"
@@ -2317,18 +2329,6 @@ competition:
       to build great apps. @codingdoug and... https://t.co/6ZYHwX7FSW"
     url: https://twitter.com/Firebase/status/1035206266967261184
     time_stamp: "2018-08-30 09:43:01"
-  - title: "Best practices, exciting announcements &amp; direct feedback from the
-      community. Firebaser @MKrilanovich can't wait to... https://t.co/BQSsjZhgdr"
-    url: https://twitter.com/Firebase/status/1034918729048444928
-    time_stamp: "2018-08-29 14:40:27"
-  - title: "Make sure to stick around for @_davideast's talk at @360iDev. He'll
-      be talking about ML in human terms, less \u201Clogis... https://t.co/bEyGAvZ4p8"
-    url: https://twitter.com/Firebase/status/1034881225603698688
-    time_stamp: "2018-08-29 12:11:26"
-  - title: "The @googlephotos team uses Firebase to power key features &amp; gain
-      insight into their app's performance. Firebase Dy... https://t.co/IgCjXxO5hN"
-    url: https://twitter.com/Firebase/status/1034572325902069760
-    time_stamp: "2018-08-28 15:43:58"
   latest_github_activity:
   - title: mikehaney24 commented on an issue for firebase/firebase-ios-sdk
     url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/421497858
@@ -5556,6 +5556,10 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "This tutorial by @SamuelOgundipe teaches how to create and publish a @laravelphp
+      Package on Packagist.  \n\nhttps://t.co/mCVXm0sHqn"
+    url: https://twitter.com/pusher/status/1040704157382930432
+    time_stamp: "2018-09-14 13:49:41"
   - title: "Our #Engineering team is growing. We have a number of open roles in our
       Platform, Channels &amp; Chatkit teams. Help us... https://t.co/0WrG5AdMEy"
     url: https://twitter.com/pusher/status/1040555761900945408
@@ -5654,10 +5658,6 @@ competition:
   - title: 'RT @Real_CSS_Tricks: Add realtime comments to a Gatsby blog @pusher https://t.co/U7Uidt8OTG'
     url: https://twitter.com/pusher/status/1011645737380339712
     time_stamp: "2018-06-26 09:21:53"
-  - title: "RT @perborgen: I just launched a free course which teaches you React.js
-      through building a chat app! \U0001F680\n\nIt contains 19 interactive screenca..."
-    url: https://twitter.com/pusher/status/1011632512433557505
-    time_stamp: "2018-06-26 08:29:20"
   latest_github_activity:
   - title: mdpye commented on an issue for pusher/chatkit-android
     url: https://api.github.com/repos/pusher/chatkit-android/issues/comments/421391730
