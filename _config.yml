@@ -721,7 +721,7 @@ competition:
     Amazon S3, Amazon Redshift, and Amazon Elasticsearch Service, enabling near real-time
     analytics with existing business intelligence tools and dashboards you are already
     using today.
-  url: https://stackoverflow.com/questions/39939225/call-rest-api-for-amazon-kinesis-with-setting-up-api-gateway
+  url: https://stackoverflow.com/questions/41604334/amazon-kinesis-firehose-as-a-cloudwatch-logs-consumer
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -1024,6 +1024,14 @@ competition:
     owner_link: https://stackoverflow.com/users/1147577/martin-andersen
     creation_date: "2018-09-14"
     view_count: "8"
+  - question_id: "52338791"
+    title: Getting Session ID in Streaming SQL for Amazon Kinesis
+    url: https://stackoverflow.com/questions/52338791/getting-session-id-in-streaming-sql-for-amazon-kinesis
+    owner_display_name: RWHertenstein2
+    owner_reputation: "21"
+    owner_link: https://stackoverflow.com/users/4765363/rwhertenstein2
+    creation_date: "2018-09-14"
+    view_count: "5"
   - question_id: "52033203"
     title: Amazon Kinesis Video PutMedia Using Python
     url: https://stackoverflow.com/questions/52033203/amazon-kinesis-video-putmedia-using-python
@@ -1211,14 +1219,6 @@ competition:
     owner_link: https://stackoverflow.com/users/3990749/raju
     creation_date: "2017-01-11"
     view_count: "1073"
-  - question_id: "39939225"
-    title: Call REST API for Amazon Kinesis with Setting up API Gateway
-    url: https://stackoverflow.com/questions/39939225/call-rest-api-for-amazon-kinesis-with-setting-up-api-gateway
-    owner_display_name: needhelp
-    owner_reputation: "40"
-    owner_link: https://stackoverflow.com/users/3435519/needhelp
-    creation_date: "2016-10-08"
-    view_count: "1092"
   tags:
   - Streaming
   - Stack Network
