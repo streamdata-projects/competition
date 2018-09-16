@@ -6958,7 +6958,7 @@ competition:
   name: StreamSets
   description: The industrys first data operations platform for full life-cycle management
     of data in motion.
-  url: https://streamsets.com
+  url: ""
   email: ""
   blog_url: https://streamsets.com/blog/
   blog_rss_url: https://streamsets.com/feed/
@@ -6972,7 +6972,109 @@ competition:
   image_width: "150"
   latest_blog: []
   latest_tweets: []
-  latest_github_activity: []
+  latest_github_activity:
+  - title: streamsets-ci pushed to streamsets/datacollector
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector
+  - title: streamsets-ci pushed to streamsets/datacollector
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector
+  - title: streamsets-ci pushed to streamsets/datacollector
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector
+  - title: streamsets-ci pushed to streamsets/datacollector-edge
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector-edge
+  - title: streamsets-ci pushed to streamsets/datacollector-edge
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector-edge
+  - title: streamsets-ci pushed to streamsets/datacollector-edge
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector-edge
+  - title: streamsets-ci pushed to streamsets/datacollector-edge
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector-edge
+  - title: streamsets-ci pushed to streamsets/datacollector-edge
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector-edge
+  - title: streamsets-ci pushed to streamsets/datacollector-edge
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector-edge
+  - title: streamsets-ci pushed to streamsets/datacollector
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector
+  - title: streamsets-ci pushed to streamsets/datacollector
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector
+  - title: streamsets-ci pushed to streamsets/datacollector
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector
+  - title: streamsets-ci pushed to streamsets/datacollector
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector
+  - title: streamsets-ci pushed to streamsets/datacollector
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector
+  - title: streamsets-ci pushed to streamsets/datacollector
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector
+  - title: streamsets-ci pushed to streamsets/datacollector-edge
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector-edge
+  - title: streamsets-ci pushed to streamsets/datacollector-plugin-api
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: streamsets-ci
+    repo: streamsets/datacollector-plugin-api
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
