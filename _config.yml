@@ -2136,7 +2136,7 @@ competition:
   name: Firebase
   description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
-  url: https://stackoverflow.com/questions/51336198/no-virtual-method-zzbqoz-in-class-lcom-google-firebase-firebaseapp-or-its-sup
+  url: https://stackoverflow.com/questions/51371252/esp8266-no-longer-communicates-with-google-firebase-database-after-reconnecting
   email: info@firebase.com
   blog_url: https://firebase.googleblog.com/
   blog_rss_url: http://firebase.googleblog.com/feeds/posts/default?alt=rss
@@ -2626,6 +2626,14 @@ competition:
     score: "7"
   latest_hacker_news_searches: []
   latest_stack_exchange_searches:
+  - question_id: "52340212"
+    title: Which SSR technology to use with Google Firebase?
+    url: https://stackoverflow.com/questions/52340212/which-ssr-technology-to-use-with-google-firebase
+    owner_display_name: Jay6742319
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10366006/jay6742319
+    creation_date: "2018-09-14"
+    view_count: "22"
   - question_id: "52262199"
     title: Can Google Firebase be considered a middleware?
     url: https://stackoverflow.com/questions/52262199/can-google-firebase-be-considered-a-middleware
@@ -2825,15 +2833,6 @@ competition:
     owner_link: https://stackoverflow.com/users/9053817/louie-kotler
     creation_date: "2018-07-16"
     view_count: "65"
-  - question_id: "51336198"
-    title: No virtual method zzbqo()Z in class Lcom/google/firebase/FirebaseApp; or
-      its super classes (declaration of &#39;com.google.firebase.FirebaseApp&#39;
-    url: https://stackoverflow.com/questions/51336198/no-virtual-method-zzbqoz-in-class-lcom-google-firebase-firebaseapp-or-its-sup
-    owner_display_name: Sunil Meena
-    owner_reputation: "54"
-    owner_link: https://stackoverflow.com/users/8149269/sunil-meena
-    creation_date: "2018-07-14"
-    view_count: "198"
   tags:
   - Service API
   - SDIO Competition
@@ -4299,6 +4298,13 @@ competition:
     repo: Lightstreamer/Docker
   latest_reddit_searches:
   - reddit_id: "9"
+    title: Hey, Bungie, next raid release can you make sure the raid is actually playable
+      when you promise players they will be raid ready?
+    url: https://www.reddit.com/r/DestinyTheGame/comments/9g2evg/hey_bungie_next_raid_release_can_you_make_sure/
+    author: Soulwindow
+    created_date: "2018-09-15"
+    score: "0"
+  - reddit_id: "9"
     title: How are big youtubers/streamers getting their light SO high already?
     url: https://www.reddit.com/r/DestinyTheGame/comments/9dxq2q/how_are_big_youtubersstreamers_getting_their/
     author: wuttholol
@@ -4455,23 +4461,17 @@ competition:
     author: Kmill92
     created_date: "2017-01-22"
     score: "1"
-  - reddit_id: "506"
-    title: Trouble starting casts with new heavier line
-    url: https://www.reddit.com/r/flyfishing/comments/506byk/trouble_starting_casts_with_new_heavier_line/
-    author: Jmcceney
-    created_date: "2016-08-29"
-    score: "5"
   latest_hacker_news_searches:
   - hacker_news_id: "2744690"
     title: 10 Years of Push Technology, Comet, and WebSockets
     url: http://cometdaily.com/2011/07/06/push-technology-comet-and-websockets-10-years-of-history-from-lightstreamers-perspective/
-    author: Jmcceney
+    author: Kmill92
     created_at: "2011-07-08"
     points: "2"
   - hacker_news_id: "114854"
     title: Hello World with Lightstreamer
     url: http://cometdaily.com/2008/02/12/%e2%80%9chello-world%e2%80%9d-with-lightstreamer/
-    author: Jmcceney
+    author: Kmill92
     created_at: "2008-02-13"
     points: "2"
   latest_stack_exchange_searches:
