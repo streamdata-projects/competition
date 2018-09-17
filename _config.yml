@@ -2136,7 +2136,7 @@ competition:
   name: Firebase
   description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
-  url: https://stackoverflow.com/questions/51371252/esp8266-no-longer-communicates-with-google-firebase-database-after-reconnecting
+  url: https://stackoverflow.com/questions/51493154/cannot-deploy-nest-js-project-to-google-firebase-functions
   email: info@firebase.com
   blog_url: https://firebase.googleblog.com/
   blog_rss_url: http://firebase.googleblog.com/feeds/posts/default?alt=rss
@@ -2650,6 +2650,14 @@ competition:
     score: "7"
   latest_hacker_news_searches: []
   latest_stack_exchange_searches:
+  - question_id: "52361894"
+    title: Google Firebase MLKit Vision API tweaking block bounds
+    url: https://stackoverflow.com/questions/52361894/google-firebase-mlkit-vision-api-tweaking-block-bounds
+    owner_display_name: SirPattalot
+    owner_reputation: "8"
+    owner_link: https://stackoverflow.com/users/4539264/sirpattalot
+    creation_date: "2018-09-16"
+    view_count: "8"
   - question_id: "52340212"
     title: Which SSR technology to use with Google Firebase?
     url: https://stackoverflow.com/questions/52340212/which-ssr-technology-to-use-with-google-firebase
@@ -2848,15 +2856,6 @@ competition:
     owner_link: https://stackoverflow.com/users/396642/antonio
     creation_date: "2018-07-24"
     view_count: "87"
-  - question_id: "51371252"
-    title: ESP8266 no longer communicates with Google Firebase Database after reconnecting
-      to WiFi
-    url: https://stackoverflow.com/questions/51371252/esp8266-no-longer-communicates-with-google-firebase-database-after-reconnecting
-    owner_display_name: Louie Kotler
-    owner_reputation: "8"
-    owner_link: https://stackoverflow.com/users/9053817/louie-kotler
-    creation_date: "2018-07-16"
-    view_count: "65"
   tags:
   - Service API
   - SDIO Competition
