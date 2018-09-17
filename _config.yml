@@ -4631,7 +4631,7 @@ competition:
   name: PubNub
   description: Focus on innovation and launch fast with our realtime APIs and global
     messaging infrastructure for web, mobile, and Internet of Things.
-  url: https://stackoverflow.com/questions/43458657/amazon-sns-vs-pubnub-vs-parse-for-a-webrtc
+  url: https://stackoverflow.com/questions/50222497/pubnub-sending-messages-multiple-times
   email: stephen@pubnub.com
   blog_url: http://blog.pubnub.com
   blog_rss_url: https://www.pubnub.com/blog/feed/
@@ -5167,6 +5167,14 @@ competition:
     created_at: "2012-02-01"
     points: "33"
   latest_stack_exchange_searches:
+  - question_id: "52367124"
+    title: PubNub grant auth key using REST API
+    url: https://stackoverflow.com/questions/52367124/pubnub-grant-auth-key-using-rest-api
+    owner_display_name: Ash0ur
+    owner_reputation: "359"
+    owner_link: https://stackoverflow.com/users/7819587/ash0ur
+    creation_date: "2018-09-17"
+    view_count: "4"
   - question_id: "52276332"
     title: PubNub Tornado object initialisation raise exception
     url: https://stackoverflow.com/questions/52276332/pubnub-tornado-object-initialisation-raise-exception
@@ -5360,14 +5368,6 @@ competition:
     owner_link: https://stackoverflow.com/users/2429377/irfananwar
     creation_date: "2018-05-07"
     view_count: "43"
-  - question_id: "43458657"
-    title: Amazon SNS vs PubNub vs Parse for a webrtc
-    url: https://stackoverflow.com/questions/43458657/amazon-sns-vs-pubnub-vs-parse-for-a-webrtc
-    owner_display_name: user2867237
-    owner_reputation: "56"
-    owner_link: https://stackoverflow.com/users/2867237/user2867237
-    creation_date: "2017-04-17"
-    view_count: "277"
   tags:
   - Webhook Implementations
   - Technology
