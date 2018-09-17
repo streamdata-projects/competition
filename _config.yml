@@ -4775,6 +4775,48 @@ competition:
     url: https://twitter.com/PubNub/status/1030209061130711041
     time_stamp: "2018-08-16 14:45:55"
   latest_github_activity:
+  - title: pubnub/python was forked by python
+    url: ""
+    time_stamp: "2018-09-16"
+    type: ForkEvent
+    user_name: python
+    repo: pubnub/python
+  - title: samiahmedsiddiqui commented on an issue for pubnub/php
+    url: https://api.github.com/repos/pubnub/php/issues/comments/421741650
+    time_stamp: "2018-09-16"
+    type: IssueCommentEvent
+    user_name: samiahmedsiddiqui
+    repo: pubnub/php
+  - title: qsoftdevelopment made a pull request on pubnub/php
+    url: https://github.com/pubnub/php/pull/19
+    time_stamp: "2018-09-16"
+    type: PullRequestEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/php
+  - title: qsoftdevelopment commented on an issue for pubnub/php
+    url: https://api.github.com/repos/pubnub/php/issues/comments/421733577
+    time_stamp: "2018-09-16"
+    type: IssueCommentEvent
+    user_name: qsoftdevelopment
+    repo: pubnub/php
+  - title: parfeon commented on an issue for pubnub/chat-engine-apple
+    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/421703233
+    time_stamp: "2018-09-15"
+    type: IssueCommentEvent
+    user_name: parfeon
+    repo: pubnub/chat-engine-apple
+  - title: pubnub/webrtc-chat being watched by chanified
+    url: ""
+    time_stamp: "2018-09-15"
+    type: WatchEvent
+    user_name: chanified
+    repo: pubnub/webrtc-chat
+  - title: WrightsCS submitted an issue on pubnub/chat-engine-apple
+    url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/22
+    time_stamp: "2018-09-15"
+    type: IssuesEvent
+    user_name: WrightsCS
+    repo: pubnub/chat-engine-apple
   - title: parfeon commented on an issue for pubnub/chat-engine-apple
     url: https://api.github.com/repos/pubnub/chat-engine-apple/issues/comments/421703233
     time_stamp: "2018-09-15"
@@ -4835,48 +4877,6 @@ competition:
     type: PushEvent
     user_name: ianjennings
     repo: pubnub/chat-engine
-  - title: nxsyed made a pull request on pubnub/chat-engine-open-graph
-    url: https://github.com/pubnub/chat-engine-open-graph/pull/2
-    time_stamp: "2018-09-14"
-    type: PullRequestEvent
-    user_name: nxsyed
-    repo: pubnub/chat-engine-open-graph
-  - title: ianjennings pushed to pubnub/chat-engine
-    url: ""
-    time_stamp: "2018-09-14"
-    type: PushEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: pubnub/chat-engine-open-graph was forked by chat-engine-open-graph
-    url: ""
-    time_stamp: "2018-09-14"
-    type: ForkEvent
-    user_name: chat-engine-open-graph
-    repo: pubnub/chat-engine-open-graph
-  - title: ianjennings pushed to pubnub/chat-engine
-    url: ""
-    time_stamp: "2018-09-14"
-    type: PushEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: ianjennings pushed to pubnub/chat-engine
-    url: ""
-    time_stamp: "2018-09-14"
-    type: PushEvent
-    user_name: ianjennings
-    repo: pubnub/chat-engine
-  - title: crimsonred pushed to pubnub/go
-    url: ""
-    time_stamp: "2018-09-14"
-    type: PushEvent
-    user_name: crimsonred
-    repo: pubnub/go
-  - title: pubnub/eon being watched by seanpowell
-    url: ""
-    time_stamp: "2018-09-14"
-    type: WatchEvent
-    user_name: seanpowell
-    repo: pubnub/eon
   latest_reddit_searches:
   - reddit_id: "9"
     title: Streaming data into Excel from Raspberry Pi devices via realtime backends
