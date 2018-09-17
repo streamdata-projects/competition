@@ -2149,6 +2149,12 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
   image_width: "150"
   latest_blog:
+  - title: Multi-Tab Offline Support in Cloud Firestore!
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/tzSL1lzQ4yg/multi-tab-offline-support-in-cloud.html
+    time_stamp: "2018-09-17 03:52:02"
+  - title: How to set up a campaign with Firebase In-App Messaging
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/oBPkBoIuXi8/how-to-set-up-campaign-with-firebase-in.html
+    time_stamp: "2018-09-17 03:52:02"
   - title: 'Introducing RxFire: Easy async Firebase for all frameworks'
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/jwdSz535Dzs/introducing-rxfire-easy-async-firebase.html
     time_stamp: "2018-09-10 17:52:04"
@@ -2220,12 +2226,6 @@ competition:
     time_stamp: "1969-12-31 16:00:00"
   - title: Announcing Better A/B Testing with Firebase
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/U0p17Rf2cZg/announcing-better-ab-testing-with.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: Announcing Firebase Predictions Beta
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/H4WE1Zg-7y4/announcing-firebase-predictions-beta.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: "What's new at Firebase Dev Summit 2017"
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/k1C8LXnw2Zc/whats-new-at-firebase-dev-summit-2017.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
   - title: "Tech advocate @liza_p_semenova is excited to learn more about Firebase
