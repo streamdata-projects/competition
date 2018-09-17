@@ -2023,6 +2023,14 @@ competition:
     owner_link: https://stackoverflow.com/users/8144263/usman-javed
     creation_date: "2018-09-14"
     view_count: "10"
+  - question_id: "52315091"
+    title: Azure SignalR AccessToken is very large
+    url: https://stackoverflow.com/questions/52315091/azure-signalr-accesstoken-is-very-large
+    owner_display_name: Amrutha
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/7709150/amrutha
+    creation_date: "2018-09-13"
+    view_count: "30"
   - question_id: "51513180"
     title: Azure SignalR Service Error - Message rate reaches limit
     url: https://stackoverflow.com/questions/51513180/azure-signalr-service-error-message-rate-reaches-limit
