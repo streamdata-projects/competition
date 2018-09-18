@@ -6237,6 +6237,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg
   image_width: ""
   latest_blog:
+  - title: Sell personal fitness data on the Streamr Marketplace
+    url: https://medium.com/streamrblog/sell-personal-google-fitness-data-on-the-streamr-marketplace-9302ec1f6d0d?source=rss----40973205350c---4
+    time_stamp: "2018-09-08 20:25:27"
   - title: "Streamr's online community: what's best for you?"
     url: https://medium.com/streamrblog/streamrs-online-community-what-s-best-for-you-c751a6b088db?source=rss----40973205350c---4
     time_stamp: "2018-08-30 03:33:12"
