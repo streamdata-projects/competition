@@ -2236,6 +2236,10 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/U0p17Rf2cZg/announcing-better-ab-testing-with.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "RT @ThatJenPerson: Hey @Firebase developers! Do you have a cool blog or
+      tutorial you've written recently? Have you read a tutorial that was..."
+    url: https://twitter.com/Firebase/status/1041799690147192832
+    time_stamp: "2018-09-17 14:22:56"
   - title: "Tech advocate @liza_p_semenova is excited to learn more about Firebase
       from the experts at this year's... https://t.co/t2Dov8uIFN"
     url: https://twitter.com/Firebase/status/1040708562048016384
@@ -2333,10 +2337,6 @@ competition:
       you! Sign up for user research sessions \u2013 for nex... https://t.co/uxVNuCNKlP"
     url: https://twitter.com/Firebase/status/1035632031160516609
     time_stamp: "2018-08-31 13:54:51"
-  - title: "Firebase and @fabric joined forces to give developers the tools they need
-      to build great apps. @codingdoug and... https://t.co/6ZYHwX7FSW"
-    url: https://twitter.com/Firebase/status/1035206266967261184
-    time_stamp: "2018-08-30 09:43:01"
   latest_github_activity:
   - title: gsoltis pushed to firebase/firebase-js-sdk
     url: ""
