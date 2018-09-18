@@ -3604,6 +3604,18 @@ competition:
     created_date: "2008-04-29"
     score: "4"
   latest_hacker_news_searches:
+  - hacker_news_id: "18014537"
+    title: '''For me, this is paradise'' life in the Spanish city that banned cars'
+    url: https://www.theguardian.com/cities/2018/sep/18/paradise-life-spanish-city-banned-cars-pontevedra
+    author: weblaunches
+    created_at: "2018-09-18"
+    points: "0"
+  - hacker_news_id: "18018100"
+    title: What I've learned about writing viral blog posts for the tech community
+    url: https://www.kapwing.com/blog/what-ive-learned-about-writing-viral-blog-posts-for-the-tech-community/
+    author: weblaunches
+    created_at: "2018-09-18"
+    points: "2"
   - hacker_news_id: "17988475"
     title: "What Most Remote Companies Don't Tell You About Remote Work"
     url: https://blog.doist.com/mental-health-and-remote-work-1b77616f6945
@@ -3744,18 +3756,6 @@ competition:
     url: https://drive.google.com/file/d/1I1fs4sczbCaACzA9XwxR3DiuXVtqmejL/view
     author: weblaunches
     created_at: "2018-08-27"
-    points: "0"
-  - hacker_news_id: "17845337"
-    title: Paradise Lost How Tourists Are Destroying the Places They Love
-    url: http://www.spiegel.de/international/paradise-lost-tourists-are-destroying-the-places-they-love-a-1223502.html
-    author: weblaunches
-    created_at: "2018-08-26"
-    points: "0"
-  - hacker_news_id: "17845312"
-    title: The Bhikkhu Diet (2003)
-    url: https://tricycle.org/magazine/bhikkhu-diet/
-    author: weblaunches
-    created_at: "2018-08-26"
     points: "0"
   latest_stack_exchange_searches:
   - question_id: "47058356"
@@ -4239,6 +4239,12 @@ competition:
     repo: Lightstreamer/Docker
   latest_reddit_searches:
   - reddit_id: "9"
+    title: Gigz just four manned Riven
+    url: https://www.reddit.com/r/DestinyTheGame/comments/9gnxwd/gigz_just_four_manned_riven/
+    author: IrishHokie
+    created_date: "2018-09-17"
+    score: "488"
+  - reddit_id: "9"
     title: Hey, Bungie, next raid release can you make sure the raid is actually playable
       when you promise players they will be raid ready?
     url: https://www.reddit.com/r/DestinyTheGame/comments/9g2evg/hey_bungie_next_raid_release_can_you_make_sure/
@@ -4395,24 +4401,17 @@ competition:
     author: kiwi_klutz
     created_date: "2017-03-18"
     score: "2"
-  - reddit_id: "5"
-    title: Sohlas is playing World of Warcraft From Now Until 9:30 EST- Rum Runners
-      Nighthold Progression
-    url: https://www.reddit.com/r/vgstreams/comments/5pe782/sohlas_is_playing_world_of_warcraft_from_now/
-    author: Kmill92
-    created_date: "2017-01-22"
-    score: "1"
   latest_hacker_news_searches:
   - hacker_news_id: "2744690"
     title: 10 Years of Push Technology, Comet, and WebSockets
     url: http://cometdaily.com/2011/07/06/push-technology-comet-and-websockets-10-years-of-history-from-lightstreamers-perspective/
-    author: Kmill92
+    author: kiwi_klutz
     created_at: "2011-07-08"
     points: "2"
   - hacker_news_id: "114854"
     title: Hello World with Lightstreamer
     url: http://cometdaily.com/2008/02/12/%e2%80%9chello-world%e2%80%9d-with-lightstreamer/
-    author: Kmill92
+    author: kiwi_klutz
     created_at: "2008-02-13"
     points: "2"
   latest_stack_exchange_searches:
