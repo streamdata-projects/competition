@@ -5618,145 +5618,103 @@ competition:
     url: https://twitter.com/pusher/status/1011645737380339712
     time_stamp: "2018-06-26 09:21:53"
   latest_github_activity:
-  - title: pusher/pusher-http-php being watched by lanort
+  - title: pusher/pusher-platform-go being watched by zhenwusw
     url: ""
-    time_stamp: "2018-09-16"
+    time_stamp: "2018-09-17"
     type: WatchEvent
-    user_name: lanort
-    repo: pusher/pusher-http-php
-  - title: AkshatSrivastava2 commented on an issue for pusher/pusher-http-laravel
-    url: https://api.github.com/repos/pusher/pusher-http-laravel/issues/comments/421750438
-    time_stamp: "2018-09-16"
-    type: IssueCommentEvent
-    user_name: AkshatSrivastava2
-    repo: pusher/pusher-http-laravel
-  - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit was forked by
-      build-a-slack-clone-with-react-and-pusher-chatkit
+    user_name: zhenwusw
+    repo: pusher/pusher-platform-go
+  - title: hamchapman pushed to pusher/pusher-platform-ruby
     url: ""
-    time_stamp: "2018-09-16"
-    type: ForkEvent
-    user_name: build-a-slack-clone-with-react-and-pusher-chatkit
-    repo: pusher/build-a-slack-clone-with-react-and-pusher-c
-  - title: pusher/react-slack-clone was forked by react-slack-clone
-    url: ""
-    time_stamp: "2018-09-16"
-    type: ForkEvent
-    user_name: react-slack-clone
-    repo: pusher/react-slack-clone
-  - title: shardul89 submitted an issue on pusher/push-notifications-swift
-    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/93
-    time_stamp: "2018-09-16"
-    type: IssuesEvent
-    user_name: shardul89
-    repo: pusher/push-notifications-swift
-  - title: pusher/react-slack-clone being watched by sahil1
-    url: ""
-    time_stamp: "2018-09-15"
-    type: WatchEvent
-    user_name: sahil1
-    repo: pusher/react-slack-clone
-  - title: pusher/react-slack-clone was forked by react-slack-clone
-    url: ""
-    time_stamp: "2018-09-15"
-    type: ForkEvent
-    user_name: react-slack-clone
-    repo: pusher/react-slack-clone
-  - title: pusher/pusher-websocket-swift was forked by pusher-websocket-swift
-    url: ""
-    time_stamp: "2018-09-15"
-    type: ForkEvent
-    user_name: pusher-websocket-swift
-    repo: pusher/pusher-websocket-swift
-  - title: pusher/pusher-http-php being watched by kurumbus
-    url: ""
-    time_stamp: "2018-09-15"
-    type: WatchEvent
-    user_name: kurumbus
-    repo: pusher/pusher-http-php
-  - title: mdpye commented on an issue for pusher/chatkit-android
-    url: https://api.github.com/repos/pusher/chatkit-android/issues/comments/421391730
-    time_stamp: "2018-09-14"
-    type: IssueCommentEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: mdpye made a pull request on pusher/chatkit-android
-    url: https://github.com/pusher/chatkit-android/pull/65
-    time_stamp: "2018-09-14"
-    type: PullRequestEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: mdpye pushed to pusher/chatkit-android
-    url: ""
-    time_stamp: "2018-09-14"
+    time_stamp: "2018-09-17"
     type: PushEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: mdpye made a pull request on pusher/chatkit-android
-    url: https://github.com/pusher/chatkit-android/pull/71
-    time_stamp: "2018-09-14"
-    type: PullRequestEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: mdpye pushed to pusher/chatkit-android
-    url: ""
-    time_stamp: "2018-09-14"
-    type: PushEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: pusher/pusher-websocket-swift being watched by cruinh
-    url: ""
-    time_stamp: "2018-09-14"
-    type: WatchEvent
-    user_name: cruinh
-    repo: pusher/pusher-websocket-swift
-  - title: hamchapman commented on an issue for pusher/chatkit-client-js
-    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/421382559
-    time_stamp: "2018-09-14"
-    type: IssueCommentEvent
     user_name: hamchapman
-    repo: pusher/chatkit-client-js
-  - title: mdpye pushed to pusher/chatkit-android
+    repo: pusher/pusher-platform-ruby
+  - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit being watched
+      by btcline04
     url: ""
-    time_stamp: "2018-09-14"
-    type: PushEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
-  - title: mdpye pushed to pusher/chatkit-android
+    time_stamp: "2018-09-17"
+    type: WatchEvent
+    user_name: btcline04
+    repo: pusher/build-a-slack-clone-with-react-and-pusher-c
+  - title: jameshfisher pushed to pusher/pusher-http-ruby
     url: ""
-    time_stamp: "2018-09-14"
+    time_stamp: "2018-09-17"
     type: PushEvent
-    user_name: mdpye
-    repo: pusher/chatkit-android
+    user_name: jameshfisher
+    repo: pusher/pusher-http-ruby
+  - title: jameshfisher made a pull request on pusher/pusher-http-ruby
+    url: https://github.com/pusher/pusher-http-ruby/pull/139
+    time_stamp: "2018-09-17"
+    type: PullRequestEvent
+    user_name: jameshfisher
+    repo: pusher/pusher-http-ruby
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: lukabratos made a pull request on pusher/push-notifications-swift
+    url: https://github.com/pusher/push-notifications-swift/pull/94
+    time_stamp: "2018-09-17"
+    type: PullRequestEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: JoelSpeed pushed to pusher/controller-runtime
+    url: ""
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: JoelSpeed
+    repo: pusher/controller-runtime
+  - title: pusher/pusher-http-java being watched by erlangp
+    url: ""
+    time_stamp: "2018-09-17"
+    type: WatchEvent
+    user_name: erlangp
+    repo: pusher/pusher-http-java
+  - title: pusher/pusher-websocket-java being watched by erlangp
+    url: ""
+    time_stamp: "2018-09-17"
+    type: WatchEvent
+    user_name: erlangp
+    repo: pusher/pusher-websocket-java
+  - title: erlangp commented on an issue for pusher/pusher-websocket-java
+    url: https://api.github.com/repos/pusher/pusher-websocket-java/issues/comments/422061677
+    time_stamp: "2018-09-17"
+    type: IssueCommentEvent
+    user_name: erlangp
+    repo: pusher/pusher-websocket-java
+  - title: pusher/react-slack-clone being watched by nOmi7
+    url: ""
+    time_stamp: "2018-09-17"
+    type: WatchEvent
+    user_name: nOmi7
+    repo: pusher/react-slack-clone
+  - title: hamchapman made a pull request on pusher/pusher-platform-ruby
+    url: https://github.com/pusher/pusher-platform-ruby/pull/23
+    time_stamp: "2018-09-17"
+    type: PullRequestEvent
+    user_name: hamchapman
+    repo: pusher/pusher-platform-ruby
   - title: mdpye pushed to pusher/pusher-platform-android
     url: ""
-    time_stamp: "2018-09-14"
+    time_stamp: "2018-09-17"
     type: PushEvent
     user_name: mdpye
     repo: pusher/pusher-platform-android
-  - title: provstevi made a pull request on pusher/pusher-http-node
-    url: https://github.com/pusher/pusher-http-node/pull/85
-    time_stamp: "2018-09-14"
-    type: PullRequestEvent
-    user_name: provstevi
-    repo: pusher/pusher-http-node
-  - title: provstevi submitted an issue on pusher/pusher-http-node
-    url: https://api.github.com/repos/pusher/pusher-http-node/issues/84
-    time_stamp: "2018-09-14"
-    type: IssuesEvent
-    user_name: provstevi
-    repo: pusher/pusher-http-node
-  - title: pusher/pusher-http-node was forked by pusher-http-node
-    url: ""
-    time_stamp: "2018-09-14"
-    type: ForkEvent
-    user_name: pusher-http-node
-    repo: pusher/pusher-http-node
-  - title: pusher/react-slack-clone was forked by react-slack-clone
-    url: ""
-    time_stamp: "2018-09-14"
-    type: ForkEvent
-    user_name: react-slack-clone
-    repo: pusher/react-slack-clone
   latest_reddit_searches:
   - reddit_id: "9"
     title: '11th December, 2010: The Bristol Pusher''s First Victim'
@@ -7066,6 +7024,12 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: Using Streaming Integration to Drive Real-Time Analytics in Apache Kudu
+    url: https://www.striim.com/blog/2018/09/streaming-integration-to-drive-real-time-analytics-in-apache-kudu/
+    time_stamp: "2018-09-13 05:00:08"
+  - title: Why CDC to Azure is Essential for Cloud Adoption
+    url: https://www.striim.com/blog/2018/09/cdc-to-azure-essential-for-cloud-adoption/
+    time_stamp: "2018-09-12 05:00:37"
   - title: Striim Talks Cloud Integration at Strata Data Conference NYC, September
       11-13
     url: https://www.striim.com/blog/2018/09/striim-talks-cloud-integration-strata-data-conference-ny/
