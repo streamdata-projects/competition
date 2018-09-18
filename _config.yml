@@ -2338,156 +2338,66 @@ competition:
     url: https://twitter.com/Firebase/status/1035206266967261184
     time_stamp: "2018-08-30 09:43:01"
   latest_github_activity:
-  - title: firebase/php-jwt being watched by jdarrort
+  - title: gsoltis pushed to firebase/firebase-js-sdk
     url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: jdarrort
-    repo: firebase/php-jwt
-  - title: firebase/firebase-android-sdk being watched by brongko
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: brongko
-    repo: firebase/firebase-android-sdk
-  - title: firebase/firebase-tools being watched by RishabhJain2018
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: RishabhJain2018
-    repo: firebase/firebase-tools
-  - title: firebase/firebase-android-sdk being watched by m-ric
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: m-ric
-    repo: firebase/firebase-android-sdk
-  - title: firebase/firebaseui-web being watched by sunsreng
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: sunsreng
-    repo: firebase/firebaseui-web
-  - title: jimijon commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/421844699
-    time_stamp: "2018-09-16"
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: gsoltis
+    repo: firebase/firebase-js-sdk
+  - title: Feiyang1 made a pull request on firebase/firebase-js-sdk
+    url: https://github.com/firebase/firebase-js-sdk/pull/1231
+    time_stamp: "2018-09-17"
+    type: PullRequestEvent
+    user_name: Feiyang1
+    repo: firebase/firebase-js-sdk
+  - title: firebase-oss-bot commented on an issue for firebase/firebase-android-sdk
+    url: https://api.github.com/repos/firebase/firebase-android-sdk/issues/comments/422205450
+    time_stamp: "2018-09-17"
     type: IssueCommentEvent
-    user_name: jimijon
+    user_name: firebase-oss-bot
+    repo: firebase/firebase-android-sdk
+  - title: firebase/firebase-ios-sdk being watched by BenWard
+    url: ""
+    time_stamp: "2018-09-17"
+    type: WatchEvent
+    user_name: BenWard
     repo: firebase/firebase-ios-sdk
-  - title: firebase/FirebaseUI-Android being watched by arshad115
+  - title: gsoltis pushed to firebase/firebase-js-sdk
     url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: arshad115
-    repo: firebase/FirebaseUI-Android
-  - title: haterecoil commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/421841421
-    time_stamp: "2018-09-16"
-    type: IssueCommentEvent
-    user_name: haterecoil
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: gsoltis
+    repo: firebase/firebase-js-sdk
+  - title: wilhuff pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: wilhuff
     repo: firebase/firebase-ios-sdk
-  - title: taykcrane submitted an issue on firebase/firebaseui-web
-    url: https://api.github.com/repos/firebase/firebaseui-web/issues/504
-    time_stamp: "2018-09-16"
-    type: IssuesEvent
-    user_name: taykcrane
-    repo: firebase/firebaseui-web
-  - title: firebase/FirebaseUI-Android being watched by darasat
+  - title: wilhuff pushed to firebase/firebase-android-sdk
     url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: darasat
-    repo: firebase/FirebaseUI-Android
-  - title: firebase/firebase-admin-java was forked by firebase-admin-java
-    url: ""
-    time_stamp: "2018-09-16"
-    type: ForkEvent
-    user_name: firebase-admin-java
-    repo: firebase/firebase-admin-java
-  - title: firebase/functions-samples being watched by code-vagabond
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: code-vagabond
-    repo: firebase/functions-samples
-  - title: firebase/geofire-js being watched by diegojimenes
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: diegojimenes
-    repo: firebase/geofire-js
-  - title: firebase/quickstart-js being watched by adilfaiz001
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: adilfaiz001
-    repo: firebase/quickstart-js
-  - title: firebase/firebase-android-sdk being watched by thien7
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: thien7
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: wilhuff
     repo: firebase/firebase-android-sdk
-  - title: madlabman commented on an issue for firebase/quickstart-android
-    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/421814158
-    time_stamp: "2018-09-16"
-    type: IssueCommentEvent
-    user_name: madlabman
-    repo: firebase/quickstart-android
-  - title: firebase/quickstart-android was forked by quickstart-android
+  - title: ryanpbrewster pushed to firebase/firebase-js-sdk
     url: ""
-    time_stamp: "2018-09-16"
-    type: ForkEvent
-    user_name: quickstart-android
-    repo: firebase/quickstart-android
-  - title: firebase/quickstart-js being watched by AnaflaviaDiaz
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: ryanpbrewster
+    repo: firebase/firebase-js-sdk
+  - title: ryanpbrewster made a pull request on firebase/firebase-js-sdk
+    url: https://github.com/firebase/firebase-js-sdk/pull/1217
+    time_stamp: "2018-09-17"
+    type: PullRequestEvent
+    user_name: ryanpbrewster
+    repo: firebase/firebase-js-sdk
+  - title: gsoltis pushed to firebase/firebase-android-sdk
     url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: AnaflaviaDiaz
-    repo: firebase/quickstart-js
-  - title: firebase/firebase-tools being watched by i-mw
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: i-mw
-    repo: firebase/firebase-tools
-  - title: firebase/quickstart-android was forked by quickstart-android
-    url: ""
-    time_stamp: "2018-09-16"
-    type: ForkEvent
-    user_name: quickstart-android
-    repo: firebase/quickstart-android
-  - title: naveen-c commented on an issue for firebase/firebase-ios-sdk
-    url: https://api.github.com/repos/firebase/firebase-ios-sdk/issues/comments/421802864
-    time_stamp: "2018-09-16"
-    type: IssueCommentEvent
-    user_name: naveen-c
-    repo: firebase/firebase-ios-sdk
-  - title: firebase/firebase-android-sdk being watched by citra1
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: citra1
+    time_stamp: "2018-09-17"
+    type: PushEvent
+    user_name: gsoltis
     repo: firebase/firebase-android-sdk
-  - title: firebase/functions-samples was forked by functions-samples
-    url: ""
-    time_stamp: "2018-09-16"
-    type: ForkEvent
-    user_name: functions-samples
-    repo: firebase/functions-samples
-  - title: firebase/functions-samples being watched by JonatanSalas
-    url: ""
-    time_stamp: "2018-09-16"
-    type: WatchEvent
-    user_name: JonatanSalas
-    repo: firebase/functions-samples
-  - title: rockwotj commented on an issue for firebase/firebase-admin-python
-    url: https://api.github.com/repos/firebase/firebase-admin-python/issues/comments/421796286
-    time_stamp: "2018-09-16"
-    type: IssueCommentEvent
-    user_name: rockwotj
-    repo: firebase/firebase-admin-python
   latest_reddit_searches:
   - reddit_id: "9"
     title: unable to access google firebase from angular?
