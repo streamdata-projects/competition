@@ -496,6 +496,13 @@ competition:
   latest_github_activity: []
   latest_reddit_searches:
   - reddit_id: "9"
+    title: "We're OverDrive, creators of Libby, the free one-tap reading from
+      your library. Ask us anything!"
+    url: https://www.reddit.com/r/books/comments/9gum7p/were_overdrive_creators_of_libby_the_free_onetap/
+    author: OverDrive_Libs
+    created_date: "2018-09-18"
+    score: "7445"
+  - reddit_id: "9"
     title: Sony XBR 930E got an update yesterday
     url: https://www.reddit.com/r/bravia/comments/9fb9xz/sony_xbr_930e_got_an_update_yesterday/
     author: whatnow275
@@ -649,72 +656,66 @@ competition:
     author: EmpathyHeals
     created_date: "2018-02-16"
     score: "8"
-  - reddit_id: "7"
-    title: New AWS AppSync features and whitelist removal | Amazon Web Services
-    url: https://aws.amazon.com/blogs/mobile/new-aws-appsync-features-and-whitelist-removal/
-    author: VembuTechnologies
-    created_date: "2018-02-14"
-    score: "1"
   latest_hacker_news_searches:
   - hacker_news_id: "18020447"
     title: Evernote just slashed 54 jobs, or 15 percent of its workforce
     url: https://techcrunch.com/2018/09/18/evernote-just-slashed-54-jobs-or-15-percent-of-its-workforce/
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2018-09-18"
     points: "0"
   - hacker_news_id: "17814221"
     title: Building a Unified Back End with AWS AppSync and Amazon Neptune
     url: https://medium.com/@joshua.a.kahn/building-a-unified-backend-with-aws-appsync-part-ii-amazon-neptune-df04e9e015e7
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2018-08-21"
     points: "1"
   - hacker_news_id: "17762046"
     title: GraphQL with Amazon Aurora Sample with AppSync
     url: https://aws.amazon.com/about-aws/whats-new/2018/08/aws-appsync-adds-quick-start-for-amazon-aurora/
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2018-08-14"
     points: "3"
   - hacker_news_id: "17576353"
     title: GraphQL Didn't Kill REST
     url: https://graphqlme.com/2018/04/01/graphql-didnt-kill-rest/
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2018-07-20"
     points: "0"
   - hacker_news_id: "16859597"
     title: Deploy a GraphQL API with Amazon CloudFormation
     url: https://medium.com/@FizzyInTheHall/deploy-an-aws-appsync-graphql-api-with-amazon-cloudformation-9a783fdd8491
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2018-04-17"
     points: "1"
   - hacker_news_id: "16812967"
     title: "AWS AppSync \u2013 Build data-driven apps with real-time and offline capabilities"
     url: https://aws.amazon.com/appsync/
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2018-04-11"
     points: "0"
   - hacker_news_id: "16770498"
     title: Scaphold (GraphQL Backend as a Service) will be shutting down on May First
     url: ""
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2018-04-05"
     points: "2"
   - hacker_news_id: "15804540"
     title: "AWS AppSync \u2013 Build data-driven apps with real-time and off-line
       capabilities"
     url: https://aws.amazon.com/blogs/aws/introducing-amazon-appsync/
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2017-11-28"
     points: "0"
   - hacker_news_id: "5755337"
     title: Steve Jobs emails that show how to win a negotiation
     url: http://qz.com/87184/the-steve-jobs-emails-that-show-how-to-win-a-hard-nosed-negotiation/
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2013-05-22"
     points: "2"
   - hacker_news_id: "2109599"
     title: The Art of Computer Programming, Volume 4A has been published
     url: http://www-cs-staff.stanford.edu/""uno/news.html
-    author: VembuTechnologies
+    author: EmpathyHeals
     created_at: "2011-01-16"
     points: "0"
   latest_stack_exchange_searches: []
@@ -2802,7 +2803,7 @@ competition:
     and executing a wide range of data processing patterns including ETL, batch computation,
     and continuous computation. Cloud Dataflow frees you from operational tasks like
     resource management and performance optimization.
-  url: https://stackoverflow.com/questions/50214763/unable-to-write-to-bigquery-permission-denied-apache-beam-python-google-dat
+  url: https://stackoverflow.com/questions/50334740/apache-beam-google-dataflow-error-handling
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -3106,6 +3107,22 @@ competition:
     created_at: "2014-06-26"
     points: "4"
   latest_stack_exchange_searches:
+  - question_id: "52388627"
+    title: Using PYTHON to run a Google Dataflow Template
+    url: https://stackoverflow.com/questions/52388627/using-python-to-run-a-google-dataflow-template
+    owner_display_name: Viento
+    owner_reputation: "22"
+    owner_link: https://stackoverflow.com/users/5097320/viento
+    creation_date: "2018-09-18"
+    view_count: "23"
+  - question_id: "52392885"
+    title: Apache beam on google dataflow Lost connection to worker, a memory problem?
+    url: https://stackoverflow.com/questions/52392885/apache-beam-on-google-dataflow-lost-connection-to-worker-a-memory-problem
+    owner_display_name: Xitrum
+    owner_reputation: "2753"
+    owner_link: https://stackoverflow.com/users/552279/xitrum
+    creation_date: "2018-09-18"
+    view_count: "12"
   - question_id: "52314236"
     title: Performance Google Dataflow writes avro file to GCS
     url: https://stackoverflow.com/questions/52314236/performance-google-dataflow-writes-avro-file-to-gcs
@@ -3296,23 +3313,6 @@ competition:
     owner_link: https://stackoverflow.com/users/1225463/benjamin-d
     creation_date: "2018-05-14"
     view_count: "130"
-  - question_id: "50278952"
-    title: Dataflow uploading files to /var/opt/google/dataflow/dataflow
-    url: https://stackoverflow.com/questions/50278952/dataflow-uploading-files-to-var-opt-google-dataflow-dataflow
-    owner_display_name: Jun Ying
-    owner_reputation: "11"
-    owner_link: https://stackoverflow.com/users/9340308/jun-ying
-    creation_date: "2018-05-10"
-    view_count: "67"
-  - question_id: "50214763"
-    title: Unable to Write to bigquery - Permission denied Apache Beam Python - Google
-      Dataflow
-    url: https://stackoverflow.com/questions/50214763/unable-to-write-to-bigquery-permission-denied-apache-beam-python-google-dat
-    owner_display_name: Anuj
-    owner_reputation: "732"
-    owner_link: https://stackoverflow.com/users/3442707/anuj
-    creation_date: "2018-05-07"
-    view_count: "146"
   tags:
   - Stack Network
   - Service API
@@ -3628,6 +3628,12 @@ competition:
     author: weblaunches
     created_at: "2018-09-18"
     points: "2"
+  - hacker_news_id: "18018598"
+    title: Native Clojure with GraalVM
+    url: https://janstepien.com/native-clojure-with-graalvm/
+    author: weblaunches
+    created_at: "2018-09-18"
+    points: "0"
   - hacker_news_id: "17988475"
     title: "What Most Remote Companies Don't Tell You About Remote Work"
     url: https://blog.doist.com/mental-health-and-remote-work-1b77616f6945
@@ -3761,13 +3767,6 @@ competition:
     url: https://www.vox.com/science-and-health/2018/8/28/17789510/bike-cycling-netherlands-dutch-infrastructure
     author: weblaunches
     created_at: "2018-08-28"
-    points: "0"
-  - hacker_news_id: "17852187"
-    title: "Google's Jeff Dean's undergrad senior thesis on neural networks
-      (1990) [pdf]"
-    url: https://drive.google.com/file/d/1I1fs4sczbCaACzA9XwxR3DiuXVtqmejL/view
-    author: weblaunches
-    created_at: "2018-08-27"
     points: "0"
   latest_stack_exchange_searches:
   - question_id: "47058356"
