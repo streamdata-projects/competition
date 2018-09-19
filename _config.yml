@@ -2243,6 +2243,10 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/U0p17Rf2cZg/announcing-better-ab-testing-with.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Check out this deep dive into common workflows for Firebase Cloud Messaging.
+      \n\nRead more on the blog  https://t.co/z8TPNNvfSy"
+    url: https://twitter.com/Firebase/status/1042127580277760000
+    time_stamp: "2018-09-18 12:05:51"
   - title: "RT @ThatJenPerson: Hey @Firebase developers! Do you have a cool blog or
       tutorial you've written recently? Have you read a tutorial that was..."
     url: https://twitter.com/Firebase/status/1041799690147192832
@@ -2340,10 +2344,6 @@ competition:
       we can make it even better. She'll be at the... https://t.co/6wjDha3a9R"
     url: https://twitter.com/Firebase/status/1037012042929004544
     time_stamp: "2018-09-04 09:18:32"
-  - title: "We're in Toronto and Waterloo next week and would love to talk to
-      you! Sign up for user research sessions \u2013 for nex... https://t.co/uxVNuCNKlP"
-    url: https://twitter.com/Firebase/status/1035632031160516609
-    time_stamp: "2018-08-31 13:54:51"
   latest_github_activity:
   - title: firebase/functions-samples being watched by Valac-1
     url: ""
@@ -5555,6 +5555,10 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "RT @LondonGophers: Massive thanks to our sponsors @monzo @imaginecurve
+      @pusher and @stickermule for making sure tonight's event possible!!..."
+    url: https://twitter.com/pusher/status/1042354747095830529
+    time_stamp: "2018-09-19 03:08:32"
   - title: "This tutorial by @SamuelOgundipe teaches how to create and publish a @laravelphp
       Package on Packagist.  \n\nhttps://t.co/mCVXm0sHqn"
     url: https://twitter.com/pusher/status/1040704157382930432
@@ -5654,9 +5658,6 @@ competition:
       and \"Presentations\" to be used in the same sent... https://t.co/lLFwKT9TDD"
     url: https://twitter.com/pusher/status/1012370983431307264
     time_stamp: "2018-06-28 09:23:46"
-  - title: 'RT @Real_CSS_Tricks: Add realtime comments to a Gatsby blog @pusher https://t.co/U7Uidt8OTG'
-    url: https://twitter.com/pusher/status/1011645737380339712
-    time_stamp: "2018-06-26 09:21:53"
   latest_github_activity:
   - title: hamchapman pushed to pusher/chatkit-server-ruby
     url: ""
