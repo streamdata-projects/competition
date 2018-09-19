@@ -4599,6 +4599,10 @@ competition:
     url: https://www.pubnub.com/blog/every-millisecond-counts-why-time-is-everything-for-businesses/
     time_stamp: "2018-07-31 09:43:23"
   latest_tweets:
+  - title: "RT @IngaWSF: Join Cloud Mafia for Meetup @pubnub Sept 20th in SF Best
+      Practices on Creating Cloud Infrastructure with Oracle Cloud  https:/..."
+    url: https://twitter.com/PubNub/status/1042116585085853696
+    time_stamp: "2018-09-18 11:22:10"
   - title: "Build chat apps that work for everyone! This tutorial shows you how to
       build a realtime chat app with text-to-speec... https://t.co/HJg6zLodWU"
     url: https://twitter.com/PubNub/status/1040341728870334464
@@ -4692,10 +4696,6 @@ competition:
       built for our client leveraging @PubNub and @awscloud @AmazonPolly @a..."
     url: https://twitter.com/PubNub/status/1030553571555594240
     time_stamp: "2018-08-17 13:34:52"
-  - title: "What can you build on PubNub? @MSNamratha created a VR game! #webVR #aframe
-      #realtime #pubnub #VR #virtualreality... https://t.co/eyrkFRxhHi"
-    url: https://twitter.com/PubNub/status/1030209061130711041
-    time_stamp: "2018-08-16 14:45:55"
   latest_github_activity:
   - title: pubnub/SimpleRTC being watched by stupidArnob
     url: ""
