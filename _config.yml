@@ -656,6 +656,12 @@ competition:
     created_date: "2018-02-14"
     score: "1"
   latest_hacker_news_searches:
+  - hacker_news_id: "18020447"
+    title: Evernote just slashed 54 jobs, or 15 percent of its workforce
+    url: https://techcrunch.com/2018/09/18/evernote-just-slashed-54-jobs-or-15-percent-of-its-workforce/
+    author: VembuTechnologies
+    created_at: "2018-09-18"
+    points: "0"
   - hacker_news_id: "17814221"
     title: Building a Unified Back End with AWS AppSync and Amazon Neptune
     url: https://medium.com/@joshua.a.kahn/building-a-unified-backend-with-aws-appsync-part-ii-amazon-neptune-df04e9e015e7
@@ -7230,6 +7236,12 @@ competition:
     user_name: deepakstriim
     repo: striim/azure-solution-template
   latest_reddit_searches:
+  - reddit_id: "9"
+    title: "striim: hubii is scaling the Ethereum network \u2013 hubii \u2013 Medium"
+    url: https://medium.com/hubii/striim-hubii-is-scaling-the-ethereum-network-95f555d80fdc
+    author: sarahjiffy
+    created_date: "2018-09-18"
+    score: "1"
   - reddit_id: "9"
     title: Petition for Artour to striim
     url: https://www.reddit.com/r/DotA2/comments/9aez2u/petition_for_artour_to_striim/
