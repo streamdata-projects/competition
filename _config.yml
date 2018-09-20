@@ -2833,7 +2833,7 @@ competition:
     and executing a wide range of data processing patterns including ETL, batch computation,
     and continuous computation. Cloud Dataflow frees you from operational tasks like
     resource management and performance optimization.
-  url: https://stackoverflow.com/questions/50334740/apache-beam-google-dataflow-error-handling
+  url: https://stackoverflow.com/questions/50714815/how-to-authenticate-with-oauth-2-0-to-google-dataflow-pipeline
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -3137,6 +3137,15 @@ competition:
     created_at: "2014-06-26"
     points: "4"
   latest_stack_exchange_searches:
+  - question_id: "52409740"
+    title: Does the current GoLang SDK for Google Dataflow support Autoscaling and
+      Parallel Processing?
+    url: https://stackoverflow.com/questions/52409740/does-the-current-golang-sdk-for-google-dataflow-support-autoscaling-and-parallel
+    owner_display_name: daidokoro
+    owner_reputation: "26"
+    owner_link: https://stackoverflow.com/users/9764465/daidokoro
+    creation_date: "2018-09-19"
+    view_count: "16"
   - question_id: "52388627"
     title: Using PYTHON to run a Google Dataflow Template
     url: https://stackoverflow.com/questions/52388627/using-python-to-run-a-google-dataflow-template
@@ -3335,14 +3344,6 @@ competition:
     owner_link: https://stackoverflow.com/users/8488131/bar-malka
     creation_date: "2018-06-06"
     view_count: "28"
-  - question_id: "50334740"
-    title: Apache Beam / Google dataflow - Error handling
-    url: https://stackoverflow.com/questions/50334740/apache-beam-google-dataflow-error-handling
-    owner_display_name: benjamin.d
-    owner_reputation: "2014"
-    owner_link: https://stackoverflow.com/users/1225463/benjamin-d
-    creation_date: "2018-05-14"
-    view_count: "130"
   tags:
   - Stack Network
   - Service API
@@ -4634,6 +4635,25 @@ competition:
     url: https://www.pubnub.com/blog/every-millisecond-counts-why-time-is-everything-for-businesses/
     time_stamp: "2018-07-31 09:43:23"
   latest_tweets:
+  - title: "Come join us on Tuesday, Sept 25th to try out the Magic Leap yourself
+      and learn how to develop your first applicati... https://t.co/Ye0PvybLbo"
+    url: https://twitter.com/PubNub/status/1042481502276055040
+    time_stamp: "2018-09-19 11:32:13"
+  - title: 'RT @brettbell: @PubNub we use your stuff and you use ours. Loving it.  https://t.co/OeQRlCzMeX'
+    url: https://twitter.com/PubNub/status/1042472839037640704
+    time_stamp: "2018-09-19 10:57:47"
+  - title: "RT @lachendeKatze: Hey @PubNub we #IoT 'ed the crap out of this with
+      you at the center, berate us, scoff at is, celebrate the grand pirx w/..."
+    url: https://twitter.com/PubNub/status/1042443596610265088
+    time_stamp: "2018-09-19 09:01:35"
+  - title: "RT @maximintegrated: Congratulations to the GammaCanary project on winning
+      the grand prize @Hacksterio #DesignContest https://t.co/u5AFZk2G..."
+    url: https://twitter.com/PubNub/status/1042443583607848960
+    time_stamp: "2018-09-19 09:01:32"
+  - title: Are you coming to the upcoming meet-up with Sentry Scout? Don't miss it!
+      https://t.co/nWFR4dqVvZ
+    url: https://twitter.com/PubNub/status/1042435196220366849
+    time_stamp: "2018-09-19 08:28:12"
   - title: "RT @IngaWSF: Join Cloud Mafia for Meetup @pubnub Sept 20th in SF Best
       Practices on Creating Cloud Infrastructure with Oracle Cloud  https:/..."
     url: https://twitter.com/PubNub/status/1042116585085853696
@@ -4712,25 +4732,6 @@ competition:
       Now is the time to join our team!... https://t.co/g0QOjMMB7g"
     url: https://twitter.com/PubNub/status/1032689717995663360
     time_stamp: "2018-08-23 11:03:09"
-  - title: 'How to create #microservices and go #serverless with PubNub Functions:
-      https://t.co/FaNolLwq6x'
-    url: https://twitter.com/PubNub/status/1032302447924891648
-    time_stamp: "2018-08-22 09:24:17"
-  - title: "RT @stephenlb: We've made one of our API's this much faster.  More to
-      come.  #EdgeComputing PubNub engineering ideas \u2B50\uFE0F https://t.co/tu96og..."
-    url: https://twitter.com/PubNub/status/1031654977616240640
-    time_stamp: "2018-08-20 14:31:28"
-  - title: 'RT @MayoChandler: Build a multiplayer game with @PubNub https://t.co/zrvKeBGqOi'
-    url: https://twitter.com/PubNub/status/1031632288155496448
-    time_stamp: "2018-08-20 13:01:18"
-  - title: 'Learn how to build your own multiplayer racing game with PubNub and #Golang!
-      https://t.co/Z8oEzhflsg'
-    url: https://twitter.com/PubNub/status/1031615605516824579
-    time_stamp: "2018-08-20 11:55:01"
-  - title: "RT @SourceFuseLLC: A featured case study on Relay Ride - a product we
-      built for our client leveraging @PubNub and @awscloud @AmazonPolly @a..."
-    url: https://twitter.com/PubNub/status/1030553571555594240
-    time_stamp: "2018-08-17 13:34:52"
   latest_github_activity:
   - title: pubnub/react being watched by Petr-tsvetkov31
     url: ""
