@@ -5689,6 +5689,97 @@ competition:
     url: https://twitter.com/pusher/status/1012370983431307264
     time_stamp: "2018-06-28 09:23:46"
   latest_github_activity:
+  - title: guillaume-miara submitted an issue on pusher/pusher-js
+    url: https://api.github.com/repos/pusher/pusher-js/issues/304
+    time_stamp: "2018-09-19"
+    type: IssuesEvent
+    user_name: guillaume-miara
+    repo: pusher/pusher-js
+  - title: richardpeng submitted an issue on pusher/pusher-js
+    url: https://api.github.com/repos/pusher/pusher-js/issues/303
+    time_stamp: "2018-09-19"
+    type: IssuesEvent
+    user_name: richardpeng
+    repo: pusher/pusher-js
+  - title: italoj commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/422901321
+    time_stamp: "2018-09-19"
+    type: IssueCommentEvent
+    user_name: italoj
+    repo: pusher/chatkit-client-js
+  - title: hamchapman pushed to pusher/chatkit-server-ruby
+    url: ""
+    time_stamp: "2018-09-19"
+    type: PushEvent
+    user_name: hamchapman
+    repo: pusher/chatkit-server-ruby
+  - title: callum-oakley pushed to pusher/chatkit-server-node
+    url: ""
+    time_stamp: "2018-09-19"
+    type: PushEvent
+    user_name: callum-oakley
+    repo: pusher/chatkit-server-node
+  - title: pusher/build-a-slack-clone-with-react-and-pusher-chatkit being watched
+      by chenjie3323
+    url: ""
+    time_stamp: "2018-09-19"
+    type: WatchEvent
+    user_name: chenjie3323
+    repo: pusher/build-a-slack-clone-with-react-and-pusher-c
+  - title: hamchapman commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/422834126
+    time_stamp: "2018-09-19"
+    type: IssueCommentEvent
+    user_name: hamchapman
+    repo: pusher/chatkit-client-js
+  - title: italoj commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/422825264
+    time_stamp: "2018-09-19"
+    type: IssueCommentEvent
+    user_name: italoj
+    repo: pusher/chatkit-client-js
+  - title: hamchapman pushed to pusher/pusher-platform-ruby
+    url: ""
+    time_stamp: "2018-09-19"
+    type: PushEvent
+    user_name: hamchapman
+    repo: pusher/pusher-platform-ruby
+  - title: pusher/react-slack-clone was forked by react-slack-clone
+    url: ""
+    time_stamp: "2018-09-19"
+    type: ForkEvent
+    user_name: react-slack-clone
+    repo: pusher/react-slack-clone
+  - title: leesio submitted an issue on pusher/pusher-http-node
+    url: https://api.github.com/repos/pusher/pusher-http-node/issues/83
+    time_stamp: "2018-09-19"
+    type: IssuesEvent
+    user_name: leesio
+    repo: pusher/pusher-http-node
+  - title: leesio commented on an issue for pusher/pusher-http-node
+    url: https://api.github.com/repos/pusher/pusher-http-node/issues/comments/422759224
+    time_stamp: "2018-09-19"
+    type: IssueCommentEvent
+    user_name: leesio
+    repo: pusher/pusher-http-node
+  - title: leesio commented on an issue for pusher/pusher-http-node
+    url: https://api.github.com/repos/pusher/pusher-http-node/issues/comments/422758602
+    time_stamp: "2018-09-19"
+    type: IssueCommentEvent
+    user_name: leesio
+    repo: pusher/pusher-http-node
+  - title: pusher/quack being watched by tobbbles
+    url: ""
+    time_stamp: "2018-09-19"
+    type: WatchEvent
+    user_name: tobbbles
+    repo: pusher/quack
+  - title: deanlateral commented on an issue for pusher/pusher-http-ruby
+    url: https://api.github.com/repos/pusher/pusher-http-ruby/issues/comments/422682578
+    time_stamp: "2018-09-19"
+    type: IssueCommentEvent
+    user_name: deanlateral
+    repo: pusher/pusher-http-ruby
   - title: hamchapman pushed to pusher/chatkit-server-ruby
     url: ""
     time_stamp: "2018-09-18"
@@ -5707,66 +5798,6 @@ competition:
     type: PushEvent
     user_name: hamchapman
     repo: pusher/pusher-platform-node
-  - title: hamchapman pushed to pusher/pusher-platform-node
-    url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-node
-  - title: hamchapman made a pull request on pusher/pusher-platform-node
-    url: https://github.com/pusher/pusher-platform-node/pull/54
-    time_stamp: "2018-09-18"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-node
-  - title: hamchapman made a pull request on pusher/pusher-platform-node
-    url: https://github.com/pusher/pusher-platform-node/pull/54
-    time_stamp: "2018-09-18"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-node
-  - title: hamchapman pushed to pusher/pusher-platform-node
-    url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-node
-  - title: hamchapman made a pull request on pusher/pusher-platform-node
-    url: https://github.com/pusher/pusher-platform-node/pull/53
-    time_stamp: "2018-09-18"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-node
-  - title: hamchapman pushed to pusher/pusher-platform-node
-    url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-node
-  - title: hamchapman pushed to pusher/chatkit-server-ruby
-    url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-server-ruby
-  - title: hamchapman pushed to pusher/pusher-platform-ruby
-    url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-ruby
-  - title: hamchapman pushed to pusher/pusher-platform-ruby
-    url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-ruby
-  - title: hamchapman made a pull request on pusher/pusher-platform-ruby
-    url: https://github.com/pusher/pusher-platform-ruby/pull/23
-    time_stamp: "2018-09-18"
-    type: PullRequestEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-ruby
   latest_reddit_searches:
   - reddit_id: "9"
     title: '11th December, 2010: The Bristol Pusher''s First Victim'
