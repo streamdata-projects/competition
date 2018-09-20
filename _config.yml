@@ -5708,6 +5708,30 @@ competition:
     url: https://twitter.com/pusher/status/1012370983431307264
     time_stamp: "2018-06-28 09:23:46"
   latest_github_activity:
+  - title: codecov-io commented on an issue for pusher/push-notifications-swift
+    url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/423118135
+    time_stamp: "2018-09-20"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: pusher/push-notifications-swift
+  - title: callum-oakley pushed to pusher/chatkit-server-node
+    url: ""
+    time_stamp: "2018-09-20"
+    type: PushEvent
+    user_name: callum-oakley
+    repo: pusher/chatkit-server-node
+  - title: lukabratos pushed to pusher/push-notifications-swift
+    url: ""
+    time_stamp: "2018-09-20"
+    type: PushEvent
+    user_name: lukabratos
+    repo: pusher/push-notifications-swift
+  - title: hbole commented on an issue for pusher/chatkit-client-js
+    url: https://api.github.com/repos/pusher/chatkit-client-js/issues/comments/423063983
+    time_stamp: "2018-09-20"
+    type: IssueCommentEvent
+    user_name: hbole
+    repo: pusher/chatkit-client-js
   - title: guillaume-miara submitted an issue on pusher/pusher-js
     url: https://api.github.com/repos/pusher/pusher-js/issues/304
     time_stamp: "2018-09-19"
@@ -5793,30 +5817,6 @@ competition:
     type: WatchEvent
     user_name: tobbbles
     repo: pusher/quack
-  - title: deanlateral commented on an issue for pusher/pusher-http-ruby
-    url: https://api.github.com/repos/pusher/pusher-http-ruby/issues/comments/422682578
-    time_stamp: "2018-09-19"
-    type: IssueCommentEvent
-    user_name: deanlateral
-    repo: pusher/pusher-http-ruby
-  - title: hamchapman pushed to pusher/chatkit-server-ruby
-    url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/chatkit-server-ruby
-  - title: hamchapman pushed to pusher/pusher-platform-node
-    url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-node
-  - title: hamchapman pushed to pusher/pusher-platform-node
-    url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: hamchapman
-    repo: pusher/pusher-platform-node
   latest_reddit_searches:
   - reddit_id: "9"
     title: '11th December, 2010: The Bristol Pusher''s First Victim'
