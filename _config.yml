@@ -2345,72 +2345,102 @@ competition:
     url: https://twitter.com/Firebase/status/1037012042929004544
     time_stamp: "2018-09-04 09:18:32"
   latest_github_activity:
-  - title: firebase/functions-samples being watched by Valac-1
+  - title: firebase/quickstart-js being watched by leonafricain
     url: ""
-    time_stamp: "2018-09-18"
+    time_stamp: "2018-09-19"
     type: WatchEvent
-    user_name: Valac-1
-    repo: firebase/functions-samples
-  - title: dpebot pushed to firebase/quickstart-android
+    user_name: leonafricain
+    repo: firebase/quickstart-js
+  - title: firebase/quickstart-cpp being watched by alanmpitts
     url: ""
-    time_stamp: "2018-09-18"
-    type: PushEvent
-    user_name: dpebot
-    repo: firebase/quickstart-android
-  - title: dpebot made a pull request on firebase/quickstart-android
-    url: https://github.com/firebase/quickstart-android/pull/674
-    time_stamp: "2018-09-18"
+    time_stamp: "2018-09-19"
+    type: WatchEvent
+    user_name: alanmpitts
+    repo: firebase/quickstart-cpp
+  - title: tinaliang made a pull request on firebase/firebase-tools
+    url: https://github.com/firebase/firebase-tools/pull/916
+    time_stamp: "2018-09-19"
     type: PullRequestEvent
-    user_name: dpebot
-    repo: firebase/quickstart-android
-  - title: Yue-Wang-Google made a pull request on firebase/firebase-ios-sdk
-    url: https://github.com/firebase/firebase-ios-sdk/pull/1836
-    time_stamp: "2018-09-18"
-    type: PullRequestEvent
-    user_name: Yue-Wang-Google
-    repo: firebase/firebase-ios-sdk
-  - title: stewartmiles commented on an issue for firebase/quickstart-unity
-    url: https://api.github.com/repos/firebase/quickstart-unity/issues/comments/422581676
-    time_stamp: "2018-09-18"
-    type: IssueCommentEvent
-    user_name: stewartmiles
-    repo: firebase/quickstart-unity
-  - title: IchordeDionysos commented on an issue for firebase/firebase-tools
-    url: https://api.github.com/repos/firebase/firebase-tools/issues/comments/422578667
-    time_stamp: "2018-09-18"
-    type: IssueCommentEvent
-    user_name: IchordeDionysos
+    user_name: tinaliang
     repo: firebase/firebase-tools
-  - title: samtstern submitted an issue on firebase/FirebaseUI-Android
-    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/1406
-    time_stamp: "2018-09-18"
+  - title: var-const pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-09-19"
+    type: PushEvent
+    user_name: var-const
+    repo: firebase/firebase-ios-sdk
+  - title: paulb777 pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-09-19"
+    type: PushEvent
+    user_name: paulb777
+    repo: firebase/firebase-ios-sdk
+  - title: paulb777 pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-09-19"
+    type: PushEvent
+    user_name: paulb777
+    repo: firebase/firebase-ios-sdk
+  - title: samtstern submitted an issue on firebase/quickstart-android
+    url: https://api.github.com/repos/firebase/quickstart-android/issues/675
+    time_stamp: "2018-09-19"
     type: IssuesEvent
     user_name: samtstern
-    repo: firebase/FirebaseUI-Android
-  - title: samtstern commented on an issue for firebase/FirebaseUI-Android
-    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/422576680
-    time_stamp: "2018-09-18"
+    repo: firebase/quickstart-android
+  - title: samtstern commented on an issue for firebase/quickstart-android
+    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/422980587
+    time_stamp: "2018-09-19"
     type: IssueCommentEvent
     user_name: samtstern
-    repo: firebase/FirebaseUI-Android
-  - title: schmidt-sebastian commented on an issue for firebase/firebase-android-sdk
-    url: https://api.github.com/repos/firebase/firebase-android-sdk/issues/comments/422574123
-    time_stamp: "2018-09-18"
-    type: IssueCommentEvent
-    user_name: schmidt-sebastian
-    repo: firebase/firebase-android-sdk
-  - title: nelsonlarocca commented on an issue for firebase/quickstart-unity
-    url: https://api.github.com/repos/firebase/quickstart-unity/issues/comments/422573245
-    time_stamp: "2018-09-18"
-    type: IssueCommentEvent
-    user_name: nelsonlarocca
-    repo: firebase/quickstart-unity
-  - title: samtstern commented on an issue for firebase/FirebaseUI-Android
-    url: https://api.github.com/repos/firebase/FirebaseUI-Android/issues/comments/422571902
-    time_stamp: "2018-09-18"
+    repo: firebase/quickstart-android
+  - title: samtstern submitted an issue on firebase/quickstart-android
+    url: https://api.github.com/repos/firebase/quickstart-android/issues/488
+    time_stamp: "2018-09-19"
+    type: IssuesEvent
+    user_name: samtstern
+    repo: firebase/quickstart-android
+  - title: samtstern commented on an issue for firebase/quickstart-android
+    url: https://api.github.com/repos/firebase/quickstart-android/issues/comments/422980372
+    time_stamp: "2018-09-19"
     type: IssueCommentEvent
     user_name: samtstern
-    repo: firebase/FirebaseUI-Android
+    repo: firebase/quickstart-android
+  - title: samtstern pushed to firebase/quickstart-android
+    url: ""
+    time_stamp: "2018-09-19"
+    type: PushEvent
+    user_name: samtstern
+    repo: firebase/quickstart-android
+  - title: samtstern made a pull request on firebase/quickstart-android
+    url: https://github.com/firebase/quickstart-android/pull/674
+    time_stamp: "2018-09-19"
+    type: PullRequestEvent
+    user_name: samtstern
+    repo: firebase/quickstart-android
+  - title: samtstern pushed to firebase/quickstart-android
+    url: ""
+    time_stamp: "2018-09-19"
+    type: PushEvent
+    user_name: samtstern
+    repo: firebase/quickstart-android
+  - title: samtstern made a pull request on firebase/quickstart-android
+    url: https://github.com/firebase/quickstart-android/pull/676
+    time_stamp: "2018-09-19"
+    type: PullRequestEvent
+    user_name: samtstern
+    repo: firebase/quickstart-android
+  - title: paulb777 pushed to firebase/firebase-ios-sdk
+    url: ""
+    time_stamp: "2018-09-19"
+    type: PushEvent
+    user_name: paulb777
+    repo: firebase/firebase-ios-sdk
+  - title: paulb777 made a pull request on firebase/firebase-ios-sdk
+    url: https://github.com/firebase/firebase-ios-sdk/pull/1849
+    time_stamp: "2018-09-19"
+    type: PullRequestEvent
+    user_name: paulb777
+    repo: firebase/firebase-ios-sdk
   latest_reddit_searches:
   - reddit_id: "9"
     title: unable to access google firebase from angular?
