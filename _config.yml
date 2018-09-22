@@ -4653,6 +4653,14 @@ competition:
     url: https://www.pubnub.com/blog/every-millisecond-counts-why-time-is-everything-for-businesses/
     time_stamp: "2018-07-31 09:43:23"
   latest_tweets:
+  - title: "It may be Friday but did you know that PubNub's #ChatEngine now features
+      Open Graph Rich Objects, making your chat... https://t.co/QVaL0nusK8"
+    url: https://twitter.com/PubNub/status/1043169776049119232
+    time_stamp: "2018-09-21 09:07:10"
+  - title: "Our technology doesn't just help businesses it helps people! We are so
+      proud to have people like @jeremypollock tha... https://t.co/uvvapYOkRg"
+    url: https://twitter.com/PubNub/status/1043159211184508928
+    time_stamp: "2018-09-21 08:25:11"
   - title: "Come join us on Tuesday, Sept 25th to try out the Magic Leap yourself
       and learn how to develop your first applicati... https://t.co/Ye0PvybLbo"
     url: https://twitter.com/PubNub/status/1042481502276055040
@@ -4742,14 +4750,6 @@ competition:
   - title: '@roschler or the keg on tap! :) We do like to have fun here!'
     url: https://twitter.com/PubNub/status/1034095921586307073
     time_stamp: "2018-08-27 08:10:54"
-  - title: "Have you questioned the difference between PubNub ChatEngine vs. Layer?
-      Well we have done the work for you! Take a... https://t.co/3O2IshvOc4"
-    url: https://twitter.com/PubNub/status/1032691901495881728
-    time_stamp: "2018-08-23 11:11:50"
-  - title: "Do you want to join one of the fastest growing startups in San Francisco?
-      Now is the time to join our team!... https://t.co/g0QOjMMB7g"
-    url: https://twitter.com/PubNub/status/1032689717995663360
-    time_stamp: "2018-08-23 11:03:09"
   latest_github_activity:
   - title: pubnub/react being watched by Petr-tsvetkov31
     url: ""
