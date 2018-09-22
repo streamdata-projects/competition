@@ -2243,6 +2243,10 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/U0p17Rf2cZg/announcing-better-ab-testing-with.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Diverse teams make great products that work better for everyone. @puf
+      knows this first hand &amp; can't wait to show yo... https://t.co/QjuRbg4dYa"
+    url: https://twitter.com/Firebase/status/1043280754350776322
+    time_stamp: "2018-09-21 16:28:09"
   - title: "Check out this deep dive into common workflows for Firebase Cloud Messaging.
       \n\nRead more on the blog  https://t.co/z8TPNNvfSy"
     url: https://twitter.com/Firebase/status/1042127580277760000
@@ -2340,10 +2344,6 @@ competition:
       multiple projects. @thatjenperson and PM May... https://t.co/uXqRQwR4AR"
     url: https://twitter.com/Firebase/status/1037021703040319488
     time_stamp: "2018-09-04 09:56:55"
-  - title: "Firebaser @megha loves hearing what devs like about Firebase &amp; how
-      we can make it even better. She'll be at the... https://t.co/6wjDha3a9R"
-    url: https://twitter.com/Firebase/status/1037012042929004544
-    time_stamp: "2018-09-04 09:18:32"
   latest_github_activity:
   - title: firebase/quickstart-android was forked by quickstart-android
     url: ""
@@ -5605,6 +5605,16 @@ competition:
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
   - title: |-
+      Create a stocks application for Android with push notifications. #Tutorial
+
+      https://t.co/MnLpDHLenC
+    url: https://twitter.com/pusher/status/1043220135492825088
+    time_stamp: "2018-09-21 12:27:17"
+  - title: "RT @AppDeveloperMag: iOS 12 notifications are here, and Jordan Harp talks
+      more about how developers can embrace the new notification landsc..."
+    url: https://twitter.com/pusher/status/1043216428797763591
+    time_stamp: "2018-09-21 12:12:33"
+  - title: |-
       In this tutorial by @eh3rrera, you will learn how to build a Chatbot for @Android with @kotlin and @Dialogflow.
 
       https://t.co/iUHlWPg4mb
@@ -5701,14 +5711,6 @@ competition:
       \U0001F603! https://t.co/wlPO024Xee"
     url: https://twitter.com/pusher/status/1019506533036589057
     time_stamp: "2018-07-18 01:57:53"
-  - title: "We surveyed a lot of developers this year to find out how they feel about
-      #Kotlin @zmarkan shares what he found out... https://t.co/3Qe2DDMs22"
-    url: https://twitter.com/pusher/status/1019138164001329152
-    time_stamp: "2018-07-17 01:34:07"
-  - title: "Today is the day! We are releasing the first ever State of #Kotlin report!\nRead
-      what 2,744 fellow Kotliners think a... https://t.co/wNf7yjzjYN"
-    url: https://twitter.com/pusher/status/1014856249228308480
-    time_stamp: "2018-07-05 05:59:19"
   latest_github_activity:
   - title: codecov-io commented on an issue for pusher/push-notifications-swift
     url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/423118135
