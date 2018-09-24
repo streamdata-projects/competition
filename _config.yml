@@ -7133,6 +7133,12 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: Key Takeaways from Strata NY 2018
+    url: https://www.striim.com/blog/2018/09/key-takeaways-strata-ny-2018/
+    time_stamp: "2018-09-20 08:00:09"
+  - title: 'Striim TQL vs. KSQL: An Analysis of Streaming SQL Engines'
+    url: https://www.striim.com/blog/2018/09/analysis-streaming-sql-engines/
+    time_stamp: "2018-09-19 10:00:42"
   - title: Using Streaming Integration to Drive Real-Time Analytics in Apache Kudu
     url: https://www.striim.com/blog/2018/09/streaming-integration-to-drive-real-time-analytics-in-apache-kudu/
     time_stamp: "2018-09-13 05:00:08"
