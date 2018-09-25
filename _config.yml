@@ -2243,6 +2243,14 @@ competition:
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/yj2Xrl7lRiI/announcing-firebase-crashlytics-beta.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
+  - title: "Conference junkie and @WomenTechmakers lead @EliDaProud will be on hand
+      at the #FirebaseSummit in Prague to welcome... https://t.co/6eBN3BbmZf"
+    url: https://twitter.com/Firebase/status/1044333272761696256
+    time_stamp: "2018-09-24 14:10:29"
+  - title: "RT @ThatJenPerson: I just published \u201CAuthenticating Firebase Cloud
+      Messaging HTTP v1 API Requests\u201D https://t.co/bPsVwq1zcP"
+    url: https://twitter.com/Firebase/status/1044332352267157504
+    time_stamp: "2018-09-24 14:06:50"
   - title: "Diverse teams make great products that work better for everyone. @puf
       knows this first hand &amp; can't wait to show yo... https://t.co/QjuRbg4dYa"
     url: https://twitter.com/Firebase/status/1043280754350776322
@@ -2336,14 +2344,6 @@ competition:
       within #Firebase. To celebrate the integ... https://t.co/63jzJCkC1i"
     url: https://twitter.com/Firebase/status/1037090450241409025
     time_stamp: "2018-09-04 14:30:06"
-  - title: "Inspired by a cat photo binge on Instagram, @ThatJenPerson built a social
-      media app with similar features. Catch he... https://t.co/5FEmeKsJAd"
-    url: https://twitter.com/Firebase/status/1037076923619233792
-    time_stamp: "2018-09-04 13:36:21"
-  - title: "The new Rest API for Remote Config makes life easier for devs juggling
-      multiple projects. @thatjenperson and PM May... https://t.co/uXqRQwR4AR"
-    url: https://twitter.com/Firebase/status/1037021703040319488
-    time_stamp: "2018-09-04 09:56:55"
   latest_github_activity:
   - title: firebase/quickstart-android was forked by quickstart-android
     url: ""
@@ -5607,6 +5607,10 @@ competition:
     url: http://feedproxy.google.com/""r/pusherb/""3/J22ZjcpaPK4/
     time_stamp: "2018-06-04 02:00:44"
   latest_tweets:
+  - title: "How to build a @facebook @messenger chatbot with @nodejs and @Dialogflow!
+      \n\nhttps://t.co/7CkPOoTfW1"
+    url: https://twitter.com/pusher/status/1044331515570642944
+    time_stamp: "2018-09-24 14:03:30"
   - title: |-
       Create a stocks application for Android with push notifications. #Tutorial
 
@@ -5710,10 +5714,6 @@ competition:
       not! @pusher http..."
     url: https://twitter.com/pusher/status/1022533776650461185
     time_stamp: "2018-07-26 10:27:04"
-  - title: "Every year we get better and better for the #CityRace! Our team was ace
-      \U0001F603! https://t.co/wlPO024Xee"
-    url: https://twitter.com/pusher/status/1019506533036589057
-    time_stamp: "2018-07-18 01:57:53"
   latest_github_activity:
   - title: codecov-io commented on an issue for pusher/push-notifications-swift
     url: https://api.github.com/repos/pusher/push-notifications-swift/issues/comments/423118135
