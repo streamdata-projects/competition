@@ -2164,6 +2164,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
   image_width: "150"
   latest_blog:
+  - title: Handle FCM messages on Android
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/sfGur8Vy45c/handle-fcm-messages-on-android.html
+    time_stamp: "2018-09-24 17:37:03"
   - title: Multi-Tab Offline Support in Cloud Firestore!
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/tzSL1lzQ4yg/multi-tab-offline-support-in-cloud.html
     time_stamp: "2018-09-17 03:52:02"
@@ -2238,9 +2241,6 @@ competition:
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Announcing Firebase Crashlytics Beta'
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/yj2Xrl7lRiI/announcing-firebase-crashlytics-beta.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: Announcing Better A/B Testing with Firebase
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/U0p17Rf2cZg/announcing-better-ab-testing-with.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
   - title: "Diverse teams make great products that work better for everyone. @puf
