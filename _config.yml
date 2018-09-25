@@ -3393,6 +3393,9 @@ competition:
   image: ""
   image_width: ""
   latest_blog:
+  - title: Hello world!
+    url: https://kaazing.com/hello-world/
+    time_stamp: "2018-08-15 17:44:33"
   - title: "Kaazing prepares and protects worldwide assets and employees of major
       cloud company with DisasterAWARE Enterprise\u2122"
     url: https://kaazing.com/kaazing-prepares-protects-business-property-employees-major-cloud-company-worldwide-disasteraware-enterprise/
