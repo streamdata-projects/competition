@@ -7150,6 +7150,16 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: IoT Pattern Detection & Activation
+    url: https://www.striim.com/blog/2018/09/iot-pattern-detection-activation/
+    time_stamp: "2018-09-27 12:40:42"
+  - title: "Oracle to Google BigQuery \u2013 Continuous Movement of On-Premises Data
+      via CDC"
+    url: https://www.striim.com/blog/2018/09/oracle-to-google-bigquery/
+    time_stamp: "2018-09-26 09:07:32"
+  - title: CDC to Google Cloud SQL Using Striim
+    url: https://www.striim.com/blog/2018/09/cdc-to-google-cloud-sql-using-striim/
+    time_stamp: "2018-09-25 08:00:17"
   - title: Key Takeaways from Strata NY 2018
     url: https://www.striim.com/blog/2018/09/key-takeaways-strata-ny-2018/
     time_stamp: "2018-09-20 08:00:09"
@@ -7223,9 +7233,6 @@ competition:
   - title: Using Streaming Analytics to Solve Security Mysteries
     url: https://www.striim.com/blog/2018/05/using-streaming-analytics-to-solve-security-mysteries/
     time_stamp: "2018-05-17 12:29:33"
-  - title: How to Utilize Multiple DNS Services to Increase Security
-    url: https://www.striim.com/blog/2018/05/how-to-utilize-multiple-dns-services-to-increase-security/
-    time_stamp: "2018-05-02 08:00:30"
   latest_tweets: []
   latest_github_activity:
   - title: deepakstriim pushed to striim/azure-solution-template
