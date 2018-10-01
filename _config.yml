@@ -2164,6 +2164,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
   image_width: "150"
   latest_blog:
+  - title: The Latest Firebase Tutorials - Fall 2018
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/ahxMMPRcFRw/the-latest-firebase-tutorials-fall-2018.html
+    time_stamp: "2018-10-01 05:12:08"
   - title: Handle FCM messages on Android
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/sfGur8Vy45c/handle-fcm-messages-on-android.html
     time_stamp: "2018-09-24 17:37:03"
@@ -2238,9 +2241,6 @@ competition:
     time_stamp: "1969-12-31 16:00:00"
   - title: ' Updates to the Firebase console'
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/05NveQ-DVnc/updates-to-firebase-console.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: ' Announcing Firebase Crashlytics Beta'
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/yj2Xrl7lRiI/announcing-firebase-crashlytics-beta.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
   - title: "Conference junkie and @WomenTechmakers lead @EliDaProud will be on hand
