@@ -7159,6 +7159,12 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: What Is Streaming Data Integration?
+    url: https://www.striim.com/blog/2018/10/what-is-streaming-data-integration/
+    time_stamp: "2018-10-04 10:34:54"
+  - title: Real-Time Data Warehousing with Azure SQL Data Warehouse and Striim
+    url: https://www.striim.com/blog/2018/10/real-time-data-warehousing-with-azure-sql-data-warehouse-striim/
+    time_stamp: "2018-10-02 11:14:01"
   - title: IoT Pattern Detection & Activation
     url: https://www.striim.com/blog/2018/09/iot-pattern-detection-activation/
     time_stamp: "2018-09-27 12:40:42"
@@ -7235,13 +7241,6 @@ competition:
       a Row
     url: https://www.striim.com/blog/2018/06/striim-recognized-top-workplace-bay-area-news-group/
     time_stamp: "2018-06-25 07:00:55"
-  - title: 'DBTA 100: Striim Recognized as a Top 100 Company in Data Management and
-      Analysis'
-    url: https://www.striim.com/blog/2018/06/dbta-striim-recognizes-top-100-company-data-management-analysis/
-    time_stamp: "2018-06-15 07:00:10"
-  - title: Using Streaming Analytics to Solve Security Mysteries
-    url: https://www.striim.com/blog/2018/05/using-streaming-analytics-to-solve-security-mysteries/
-    time_stamp: "2018-05-17 12:29:33"
   latest_tweets: []
   latest_github_activity:
   - title: deepakstriim pushed to striim/azure-solution-template
