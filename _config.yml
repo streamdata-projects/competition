@@ -7165,6 +7165,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: Google Cloud Data Centers on Real-Time Movement
+    url: https://www.striim.com/blog/2018/10/google-cloud-data-centers-on-real-time-movement/
+    time_stamp: "2018-10-10 00:00:47"
   - title: What Is Streaming Data Integration?
     url: https://www.striim.com/blog/2018/10/what-is-streaming-data-integration/
     time_stamp: "2018-10-04 10:34:54"
@@ -7243,10 +7246,6 @@ competition:
   - title: Dataversity Highlights Striim as a Key Solution for Real-time Data
     url: https://www.striim.com/blog/2018/07/dataversity-highlights-striim-key-solution-real-time-data/
     time_stamp: "2018-07-05 07:00:18"
-  - title: Striim Selected as a Top 5 Workplace in the Bay Area for Second Year in
-      a Row
-    url: https://www.striim.com/blog/2018/06/striim-recognized-top-workplace-bay-area-news-group/
-    time_stamp: "2018-06-25 07:00:55"
   latest_tweets: []
   latest_github_activity:
   - title: deepakstriim pushed to striim/azure-solution-template
