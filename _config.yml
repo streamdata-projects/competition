@@ -6355,6 +6355,12 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26717-streamr.jpg
   image_width: ""
   latest_blog:
+  - title: 'News: Streamr Partners With Daisy AI to Enhance Artificial Intelligence'
+    url: https://medium.com/streamrblog/news-streamr-partners-with-daisy-ai-to-enhance-artificial-intelligence-14bb5d0ccd37?source=rss----40973205350c---4
+    time_stamp: "2018-10-10 04:04:36"
+  - title: "Market Makers: A retrospective on Streamr's realtime data Marketplace"
+    url: https://medium.com/streamrblog/market-makers-a-retrospective-on-streamrs-realtime-data-marketplace-e1519d23e293?source=rss----40973205350c---4
+    time_stamp: "2018-10-04 04:43:56"
   - title: Dev Update August + September
     url: https://medium.com/streamrblog/dev-update-august-september-e90531a3f461?source=rss----40973205350c---4
     time_stamp: "2018-09-26 03:51:02"
