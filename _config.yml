@@ -3406,6 +3406,9 @@ competition:
   image: ""
   image_width: ""
   latest_blog:
+  - title: Kafka Web Streaming With The Google Cloud Platform and kaazing.io
+    url: https://kaazing.com/kafka-web-streaming-with-the-google-cloud-platform-and-kaazing-io/
+    time_stamp: "2018-10-15 14:37:54"
   - title: Hello world!
     url: https://kaazing.com/hello-world/
     time_stamp: "2018-08-15 17:44:33"
@@ -3421,6 +3424,25 @@ competition:
       PLATFORM  FOR BUSINESSES WORLDWIDE"
     url: https://kaazing.com/kaazing-unveils-disasteraware-enterprise-real-time-risk-management-platform-businesses-worldwide/
     time_stamp: "2018-03-21 15:40:44"
+  - title: "Kaazing and Pacific Disaster Center partner to make leading DisasterAWARE\u2122
+      technology available to businesses worldwide"
+    url: https://kaazing.com/kaazing-pacific-disaster-center-partner-make-leading-disasteraware-technology-available-businesses-worldwide/
+    time_stamp: "2018-03-08 06:24:48"
+  - title: Disaster tech being developed, advanced to improve destruction prevention
+    url: https://kaazing.com/disaster-tech-developed-advanced-improve-destruction-prevention/
+    time_stamp: "2017-12-05 11:08:28"
+  - title: Kaazing technology helps protect Indonesia
+    url: https://kaazing.com/kaazing-technology-helps-protect-indonesia/
+    time_stamp: "2017-11-09 14:09:40"
+  - title: 'Video: Kaazing Product Suite'
+    url: https://kaazing.com/video-kaazing-product-suite/
+    time_stamp: "2017-08-01 15:32:39"
+  - title: Helping Organizations Transform for a Real Time World
+    url: https://kaazing.com/helping-organizations-transform-real-time-world/
+    time_stamp: "2017-07-20 11:32:47"
+  - title: Kaazing Appoints Richard M Marshall As Chief Marketing Officer
+    url: https://kaazing.com/kaazing-appoints-richard-m-marshall-chief-marketing-officer/
+    time_stamp: "2017-07-18 11:48:37"
   latest_tweets:
   - title: "Citrix chooses Kaazing's DisasterAWARE Enterprise to prepare and protect
       business &amp; people assets from natural disa... https://t.co/dLHiQ7gBjI"
