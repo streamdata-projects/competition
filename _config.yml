@@ -25,6 +25,10 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28199-ably-realtime.jpg
   image_width: "150"
   latest_blog:
+  - title: "Programming For Non-Programmers\u200A\u200AHow To Thrive In A Tech
+      Startup"
+    url: https://blog.ably.io/programming-for-non-programmers-how-to-thrive-in-a-tech-startup-9644c0be6573?source=rss----63d285882655---4
+    time_stamp: "2018-10-18 07:22:02"
   - title: Boosting Developer Experience on our website with a major facelift
     url: https://blog.ably.io/boosting-developer-experience-on-our-website-with-a-major-facelift-a122e7bb4ce7?source=rss----63d285882655---4
     time_stamp: "2018-09-25 04:58:49"
