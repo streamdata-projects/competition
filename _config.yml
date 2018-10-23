@@ -7191,6 +7191,12 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: "FORTUNE \u2013 Striim is a 2018 Best Small Workplace in US"
+    url: https://www.striim.com/blog/2018/10/fortune-striim-2018-best-small-workplace/
+    time_stamp: "2018-10-18 09:50:56"
+  - title: New Striim Features for Apache Kafka Integration and Processing
+    url: https://www.striim.com/blog/2018/10/new-striim-features-for-apache-kafka-integration-and-processing/
+    time_stamp: "2018-10-16 09:00:07"
   - title: Google Cloud Data Centers on Real-Time Movement
     url: https://www.striim.com/blog/2018/10/google-cloud-data-centers-on-real-time-movement/
     time_stamp: "2018-10-10 00:00:47"
@@ -7265,13 +7271,6 @@ competition:
   - title: 'Continuous Data Movement to Azure: Getting Started with Striim'
     url: https://www.striim.com/blog/2018/07/continuous-data-movement-to-azure/
     time_stamp: "2018-07-13 15:31:34"
-  - title: "Logical Replication vs. Streaming Data Integration \u2013  Which is Better
-      for Building a Streaming Architecture?"
-    url: https://www.striim.com/blog/2018/07/streaming_architecture_logical-replication-vs-streaming-data-integration/
-    time_stamp: "2018-07-11 09:56:02"
-  - title: Dataversity Highlights Striim as a Key Solution for Real-time Data
-    url: https://www.striim.com/blog/2018/07/dataversity-highlights-striim-key-solution-real-time-data/
-    time_stamp: "2018-07-05 07:00:18"
   latest_tweets: []
   latest_github_activity:
   - title: deepakstriim pushed to striim/azure-solution-template
