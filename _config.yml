@@ -7191,6 +7191,15 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28377-striim.jpg
   image_width: "150"
   latest_blog:
+  - title: Streaming Data Integration for Hadoop
+    url: https://www.striim.com/blog/2018/10/streaming-data-integration-for-hadoop/
+    time_stamp: "2018-10-25 08:00:40"
+  - title: "What's New in Striim v. 3.8.6"
+    url: https://www.striim.com/blog/2018/10/whats-new-striim-3-8-6/
+    time_stamp: "2018-10-24 08:00:35"
+  - title: Move Real-Time Data to Cloudera Using the Striim Platform
+    url: https://www.striim.com/blog/2018/10/move-real-time-data-to-cloudera/
+    time_stamp: "2018-10-23 07:00:15"
   - title: "FORTUNE \u2013 Striim is a 2018 Best Small Workplace in US"
     url: https://www.striim.com/blog/2018/10/fortune-striim-2018-best-small-workplace/
     time_stamp: "2018-10-18 09:50:56"
@@ -7261,16 +7270,6 @@ competition:
       of Use, and Extensibility \u2013 Part 2"
     url: https://www.striim.com/blog/2018/08/striims-latest-releases-boost-ease-of-use-extensibility-part-2/
     time_stamp: "2018-08-14 23:32:35"
-  - title: "Striim's Latest Releases Boost Cloud Integration Capabilities, Ease
-      of Use, and Extensibility \u2013 Part 1"
-    url: https://www.striim.com/blog/2018/08/striims-latest-releases-boost-cloud-integration-capabilities-part-1/
-    time_stamp: "2018-08-14 10:57:51"
-  - title: Striim Attending Google Next in San Francisco, July 24-26, 2018
-    url: https://www.striim.com/blog/2018/07/striim-attending-google-next-in-san-francisco-july-24-26-2018/
-    time_stamp: "2018-07-23 15:47:15"
-  - title: 'Continuous Data Movement to Azure: Getting Started with Striim'
-    url: https://www.striim.com/blog/2018/07/continuous-data-movement-to-azure/
-    time_stamp: "2018-07-13 15:31:34"
   latest_tweets: []
   latest_github_activity:
   - title: deepakstriim pushed to striim/azure-solution-template
