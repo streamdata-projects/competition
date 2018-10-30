@@ -2177,6 +2177,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
   image_width: "150"
   latest_blog:
+  - title: "What's new at Firebase Summit 2018"
+    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/qummr-FOvyA/whats-new-at-firebase-summit-2018.html
+    time_stamp: "2018-10-29 23:37:08"
   - title: The Latest Firebase Tutorials - Fall 2018
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/ahxMMPRcFRw/the-latest-firebase-tutorials-fall-2018.html
     time_stamp: "2018-10-01 05:12:08"
@@ -2251,9 +2254,6 @@ competition:
     time_stamp: "1969-12-31 16:00:00"
   - title: What's new with FCM? Customizing messages across platforms!
     url: http://feedproxy.google.com/""r/FirebaseBlog/""3/M-w4Bg0JUTQ/whats-new-with-fcm-customizing-messages.html
-    time_stamp: "1969-12-31 16:00:00"
-  - title: ' Updates to the Firebase console'
-    url: http://feedproxy.google.com/""r/FirebaseBlog/""3/05NveQ-DVnc/updates-to-firebase-console.html
     time_stamp: "1969-12-31 16:00:00"
   latest_tweets:
   - title: "Conference junkie and @WomenTechmakers lead @EliDaProud will be on hand
